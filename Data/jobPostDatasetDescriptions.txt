@@ -1,0 +1,434 @@
+You could be the one who changes everything for our 26 million members by using technology to improve health outcomes around the world. As a diversified, national organization, Centene's technology professionals have access to competitive benefits including a fresh perspective on workplace flexibility.
+
+Position Purpose: Design, build, test and maintain scalable and stable off the shelf... application or custom built technology solutions to meet business needs. Act as a subject matter expert for Application Software developers and Engineers.
+
+• Contribute to the entire implementation process including driving the definition of improvements based on business need and architectural improvements
+• Meet with business partners to understand business needs
+• Responsible for overall design of the solution
+• Design, build and test applications
+• Conduct root cause analysis and advanced performance tuning for complex business processes and functionality
+
+Education/Experience: Bachelor's degree in Computer Science, MIS, related field or equivalent experience. 3+ years of related experience. Healthcare experience strongly preferred, requires demonstrated understanding of business process as it relates to experience in the field. (a) Strong working knowledge of COBOL, JAVA, JSP, Supertool, PL/SQL, UNIX shell scripting, etc. Amisys, Facets or other claims management system experience a plus. (b) Strong working knowledge of Java Script, OOP/OOAD, XML, HTML, ASP.Net, C#. Experience with Oracle or SQL Server. Experience with web services, messaging, and stored procedures.
+
+Our Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and development.
+
+Centene is an equal opportunity employer that is committed to diversity, and values the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristic protected by applicable law
+Education/Experience: Bachelor's degree in Computer Science, MIS, related field or equivalent experience
+3+ years of related experience
+(a) Strong working knowledge of COBOL, JAVA, JSP, Supertool, PL/SQL, UNIX shell scripting, etc
+(b) Strong working knowledge of Java Script, OOP/OOAD, XML, HTML, ASP.Net, C#
+Experience with Oracle or SQL Server
+Experience with web services, messaging, and stored proceduresPosition Purpose: Design, build, test and maintain scalable and stable off the shelf application or custom built technology solutions to meet business needs
+Act as a subject matter expert for Application Software developers and Engineers
+Contribute to the entire implementation process including driving the definition of improvements based on business need and architectural improvements
+Meet with business partners to understand business needs
+Responsible for overall design of the solution
+Conduct root cause analysis and advanced performance tuning for complex business processes and functionalityOur Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and developmentLike Google's own ambitions, the work of a Software Engineer (SWE) goes way beyond just Search. SWE Managers have not only the technical expertise to take on and provide technical leadership to major projects, but also manage a team of engineers. You not only optimize your own code but make sure engineers are able to optimize theirs. As a SWE Manager you manage your project goals, contribute to... product strategy and help develop your team. SWE teams work all across the company, in areas such as information retrieval, artificial intelligence, natural language processing, distributed computing, large-scale system design, networking, security, data compression, user interface design; the list goes on and is growing every day. Operating with scale and speed, our exceptional software engineers are just getting started -- and as a manager, you guide the way.
+
+Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+The US base salary range for this full-time position is $174,000-$276,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google
+You not only optimize your own code but make sure engineers are able to optimize theirs
+As a SWE Manager you manage your project goals, contribute to product strategy and help develop your teamThe US base salary range for this full-time position is $174,000-$276,000 + bonus + equity + benefits
+Our salary ranges are determined by role, level, and locationAt Citadel, Software Engineers are responsible for building the systems that power every aspect of our investment process, from research and analysis to trading, risk management, funding and settlement. Working side by side with investors and quantitative researchers, we use our technical skills to drive critical commercial outcomes. If you’re interested in financial markets and excited by the... prospect of having real impact in a fast-paced environment where everyone is inspired to be their best, we’re excited to meet you.
+
+Our most successful engineers are critical thinkers who know how to dissect the problem as proficiently as they know how to build the solution. While we look for technical acumen, commercial acumen is just as important. That includes the ability to flex, change course, and iterate without always having pre-defined specs.
+
+YOUR OPPORTUNITY:
+From system engineers who create next-gen platforms to desk-aligned developers who partner with investment teams to increase efficiency and maximize returns, our engineering opportunities are as varied as they are challenging. If you are selected for an interview, one of our recruiters will be in touch to review the specific roles, teams and regions that best align with your skills, seniority, and experience.
+
+YOUR SKILLS & TALENTS:
+• 6+ years of professional software engineering experience
+• Solid computer science fundamentals
+• Expert level programing skills in at least one of the following: Java, C++, Python
+• Proven track record in software design and development
+• Excellent analysis / problem solving skills
+• Strong communication and teamwork skills
+• Ability to manage multiple tasks in a demanding and dynamic environment
+• Minimum of a Bachelor’s degree in Computer Science or a related STEM discipline
+
+In accordance with New York City’s Pay Transparency Law, the base salary range for this role is $150,000 to $300,000. Base salary does not include other forms of compensation or benefits
+6+ years of professional software engineering experience
+Solid computer science fundamentals
+Expert level programing skills in at least one of the following: Java, C++, Python
+Proven track record in software design and development
+Excellent analysis / problem solving skills
+Strong communication and teamwork skills
+Ability to manage multiple tasks in a demanding and dynamic environment
+Minimum of a Bachelor’s degree in Computer Science or a related STEM disciplineBase salary does not include other forms of compensation or benefitsLocation: Remote within the US
+
+About our organization...
+
+At Democracy Works, we help Americans vote, no matter what! Our vision is to make voting a simple, seamless experience for all Americans so that no one misses an election, and our team works to help make this happen. Democracy Works is committed to diversity and inclusion in everything we do and aspires to have a team that's representative of the voters we serve.
+• Level: Senior
+• Supervisory role: N
+
+Salary Range:
+• Most regions in the United States: $118,800 - $125,400
+• California-specific: $118,800 - $136,000
+• NYC-specific: $132,000 - $136,000
+
+Offers will vary based on experience and location-based cost-of-living calculations.
+
+The impact you’ll make:
+
+Our teams work closely together to build the next generation of tools for both voters and election administrators. Our suite of tools include TurboVote, the Voting Information Project (VIP), and How To Vote. To power these tools we use a variety of languages such as: JavaScript, TypeScript, Python, Ruby, Clojure. We employ a microservices architecture and run our applications in AWS. We are evolving our program offerings to deliver new experiences that increase our organization’s impact on voters and election administrators.
+
+As a Senior Software Engineer - Data on the team, you will:
+• Build data pipelines to ingest data from across the organization to enable data analysis
+• Enrich data sets with internal and external data sources to drive decision making and demonstrating our organization’s impact
+• Implement large-scale technical decisions that have multi-year impact such as choices of new framework, language, or vendors
+• Serve as a subject-matter expert in the data and software engineering space and act as a go-to resource for thought partnership
+• Provide technical mentorship to members of your team
+• Execute other tasks as may be assigned
+
+You are someone with:
+• 5+ years of hands-on experience delivering technical projects using a functional, object-oriented or scripting programming language
+• An understanding of structured and unstructured data and data modeling techniques
+• Knowledge of SQL including schema design, query optimization, and migration of data to new schemas over time.
+• A strong background in at least one programming language such as Python, R, Java, JavaScript, etc.
+• Experience working with data warehouse/lake technologies like Amazon Redshift or Snowflake
+• Experience analyzing raw data, developing and maintaining datasets, and improving data quality and efficiency
+
+It’s a plus if:
+• You have experience with or an understanding of geospatial databases or spatial relational database extensions
+• You have experience with or an understanding of geospatial software such as ArcGIS or QGIS
+• You have a knowledge of machine learning techniques for data analysis
+
+How we work
+
+Because elections take place everywhere, our employees work from practically every state in the union. We embrace working remotely as the default. Our positions require regular, daily use of a computer (including the use of G-Suite and Slack) to conduct work and communicate with colleagues. We also have regular operating hours (10 am to 6 pm Eastern, Monday to Friday).
+
+For those who prefer to work from an office, we are headquartered in Brooklyn, NY, and we provide support for co-working spaces around the country. We are happy to share more details about the office, including accessibility information, as on-site visits are planned.
+
+Benefits
+
+As a member of the team, some of the benefits you’ll enjoy include:
+• 100% employer-paid medical, dental, and vision option for you and your dependents
+• 12 floating holidays and 25 days of Paid Time Off (PTO) per year
+• 12 weeks of paid parental leave
+• $1000 towards professional development activities
+
+We also offer a 403(b) retirement plan, stipends for equipment and internet reimbursement, and annual Calm or Headspace subscription reimbursements.
+
+To Apply
+
+Please attach your resume and answers to the following questions:
+• How did you find this job listing?
+• Why are you interested in this role and working at Democracy Works?
+• Describe a data quality issue that you had a primary role in fixing. How did you resolve the issue and prevent it from happening again?
+• Are you authorized to work lawfully in the United States for Democracy Works?
+
+Our Commitment to Diversity, Equity & Inclusion (DEI) in Hiring
+
+Democracy Works is an Equal Opportunity Employer and does not discriminate against applicants based on race, religion, color, disability, medical condition, legally protected genetic information, national origin, gender, sexual orientation, marital status, gender identity or expression, sex (including pregnancy, childbirth or related medical conditions), age, veteran status or other legally protected characteristics.
+
+As part of our application, you’ll see an optional form used to collect U.S. Equal Employment Opportunity Commission (EEOC) demographic information. Please note the categories used in this survey are set by the EEOC and may not reflect all existing categories.The data collected in this form is anonymized and is used in our EEOC reporting and in ongoing assessment of our recruitment practices.
+
+Democracy Works follows the I-9 requirements of the Immigration Reform and Control Act of 1986. Immigration sponsorship is not available for this position, and you must possess your own work authorization in the U.S. now and in the future to continue working in this position.
+
+Please reach out to hr@democracy.works if you have any questions about our process or if you need an accommodation for a medical condition during the hiring process
+5+ years of hands-on experience delivering technical projects using a functional, object-oriented or scripting programming language
+An understanding of structured and unstructured data and data modeling techniques
+Knowledge of SQL including schema design, query optimization, and migration of data to new schemas over time
+A strong background in at least one programming language such as Python, R, Java, JavaScript, etc
+Experience working with data warehouse/lake technologies like Amazon Redshift or Snowflake
+Experience analyzing raw data, developing and maintaining datasets, and improving data quality and efficiency
+You have experience with or an understanding of geospatial databases or spatial relational database extensions
+You have experience with or an understanding of geospatial software such as ArcGIS or QGIS
+You have a knowledge of machine learning techniques for data analysisBuild data pipelines to ingest data from across the organization to enable data analysis
+Enrich data sets with internal and external data sources to drive decision making and demonstrating our organization’s impact
+Implement large-scale technical decisions that have multi-year impact such as choices of new framework, language, or vendors
+Serve as a subject-matter expert in the data and software engineering space and act as a go-to resource for thought partnership
+Provide technical mentorship to members of your team
+Execute other tasks as may be assignedMost regions in the United States: $118,800 - $125,400
+NYC-specific: $132,000 - $136,000
+100% employer-paid medical, dental, and vision option for you and your dependents
+12 floating holidays and 25 days of Paid Time Off (PTO) per year
+12 weeks of paid parental leave
+$1000 towards professional development activities
+We also offer a 403(b) retirement plan, stipends for equipment and internet reimbursement, and annual Calm or Headspace subscription reimbursementsAt Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so... many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+Staff Software Engineer
+
+Your Tasks And Responsibilities
+
+The primary responsibilities of this role, Staff Software Engineer, are to:
+• Work as part of an agile development team to build and support applications;
+• Work with team and product manager to manage project priorities, deadlines, and deliverables; Interact directly with business customers to gather and understand requirements and how they translate in application features;
+• Develop applications and services using the right tool for the job.
+• Consistently contribute to solving organization wide problems including shared platforms, libraries, and frameworks;
+• Conduct functional and non-functional testing, troubleshoot and debug applications and deploy applications across all environments in collaboration with development team, product management, and delivery;
+• Champion code quality including unit and integration testing;
+• Evaluate existing applications to refactor, update and add new features. Develop any technical documentation needed to accurately represent application design and code;
+• Identify and pursue opportunities to improve own knowledge and skills and those of more junior engineers;
+• Identify opportunities to develop new and better solutions;
+• Anticipate and address technical and organizational obstacles affecting own team and teams within the domain platform;
+• Provide guidance for technical design and architecture decisions within and across teams;
+• Participate in the evaluation and selection of new technologies;
+• Mentor other people and teams on technologies, techniques or standards across the organization;
+• Build relationships with key members of partner teams.
+
+Who You Are
+
+Your success will be driven by your demonstration of our LIFE values. More specifically related to this
+
+position, Bayer seeks an incumbent who possesses the following:
+
+Required Qualifications:
+• Bachelors degree;
+• Experience in solving challenging technical problems in two or more of the following areas:
+• Single page web application development, unix/linux environment management, cloud based continuous delivery and environment management, mobile application development, micro service design and development, large distributed system development, software security processing and analyzing large data sets;
+• Experience designing cloud based software solutions;
+• Practical experience and understanding of industry practices, engineering principles, concepts, and standards;
+• Expertise in at least one technology or facet of product development (research, design, programming, testing);
+• Demonstrates capable business insight, strategic mindset, cultivates innovation, drives vision & purpose, and attracts & develops talent leadership competencies and decision making skills;
+• Demonstrates strong manages ambiguity leadership competency and written and verbal communication skills.
+
+Preferred Qualifications:
+• Bachelors degree in Computer Science, Computer Engineering, or equivalent experience. Minimum 8 years (Masters 6 or Doctorate 4) experience in solving challenging technical problems in two or more of the following areas: Single page web application development Unix/Linux environment management Cloud based continuous delivery and environment management Mobile application development Micro service design and development Large, distributed system development Software security Processing and analyzing large data sets;
+• Minimum 3 years designing cloud based software solutions.
+
+Employees can expect to be paid a salary between $130,900 to $196,300 . Additional compensation may include a bonus or commission (if relevant). Additional benefits include health care, vision, dental, retirement, PTO, sick leave, etc.. This salary range is merely an estimate and may vary based on an applicant’s location, market data/ranges, an applicant’s skills and prior relevant experience, certain degrees and certifications, and other relevant factors.
+
+YOUR APPLICATION
+
+Bayer offers a wide variety of competitive compensation and benefits programs. If you meet the requirements of this unique opportunity, and want to impact our mission Science for a better life, we encourage you to apply now. Be part of something bigger. Be you. Be Bayer.
+
+To all recruitment agencies: Bayer does not accept unsolicited third party resumes.
+
+Bayer is an Equal Opportunity Employer/Disabled/Veterans
+
+Bayer is committed to providing access and reasonable accommodations in its application process for individuals with disabilities and encourages applicants with disabilities to request any needed accommodation(s) using the contact information below.
+
+IMPORTANT NOTE for POTENTIAL US CANDIDATES: Bayer expects its colleagues to be fully vaccinated against COVID-19. Bayer defines fully vaccinated in alignment with CDC which is two weeks after completing the two-dose vaccine regimen or two weeks after completing the one-dose regimen. Additionally, Bayer colleagues are also required to comply with state, local and customer requirements.
+
+Location: United States : Residence Based : Residence Based
+
+Division: Enabling Functions
+
+Reference Code: 788401
+
+Contact Us
+
+Email: hrop_usa@bayer.com
+Bachelors degree;
+Practical experience and understanding of industry practices, engineering principles, concepts, and standards;
+Expertise in at least one technology or facet of product development (research, design, programming, testing);
+Demonstrates capable business insight, strategic mindset, cultivates innovation, drives vision & purpose, and attracts & develops talent leadership competencies and decision making skills;
+Demonstrates strong manages ambiguity leadership competency and written and verbal communication skills
+Minimum 8 years (Masters 6 or Doctorate 4) experience in solving challenging technical problems in two or more of the following areas: Single page web application development Unix/Linux environment management Cloud based continuous delivery and environment management Mobile application development Micro service design and development Large, distributed system development Software security Processing and analyzing large data sets;
+Minimum 3 years designing cloud based software solutionsWork as part of an agile development team to build and support applications;
+Work with team and product manager to manage project priorities, deadlines, and deliverables; Interact directly with business customers to gather and understand requirements and how they translate in application features;
+Develop applications and services using the right tool for the job
+Consistently contribute to solving organization wide problems including shared platforms, libraries, and frameworks;
+Conduct functional and non-functional testing, troubleshoot and debug applications and deploy applications across all environments in collaboration with development team, product management, and delivery;
+Champion code quality including unit and integration testing;
+Evaluate existing applications to refactor, update and add new features
+Develop any technical documentation needed to accurately represent application design and code;
+Identify and pursue opportunities to improve own knowledge and skills and those of more junior engineers;
+Identify opportunities to develop new and better solutions;
+Anticipate and address technical and organizational obstacles affecting own team and teams within the domain platform;
+Provide guidance for technical design and architecture decisions within and across teams;
+Participate in the evaluation and selection of new technologies;
+Mentor other people and teams on technologies, techniques or standards across the organization;
+Build relationships with key members of partner teamsEmployees can expect to be paid a salary between $130,900 to $196,300
+Additional compensation may include a bonus or commission (if relevant)
+Additional benefits include health care, vision, dental, retirement, PTO, sick leave, etc.
+Bayer offers a wide variety of competitive compensation and benefits programsJob Description
+
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your... future with us.
+
+Boeing Global Service Training Systems team is seeking Associate and Experienced Software Engineers to focus on operating system configuration/customization, visualization and software integration. Training Systems is responsible for the design, manufacture, development, and maintenance of a wide variety of commercial and military training devices. Primary location for these positions will be located in Oklahoma City, OK supporting the ASC2 AWACS Training System platform.
+
+At Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the sea bed to outer space, you'll learn and grow, contributing to work that shapes the world.
+
+Position Responsibilities:
+• Participate as a member of an impactful, collaborative team and be self-motivated with a strong work ethic, excellent time-management, and interpersonal skills
+• Integrate commercial and Boeing developed software into Windows and RedHat Enterprise Linux operating systems
+• Use Agile methodologies to support all aspects of product development and project management
+• Scripting to support application of security settings on Windows and RedHat Enterprise Linux platforms
+• Designing systems to meet current and future software and application requirements
+• Have the ability to work with multiple support teams to identify and resolve issues
+• Implement and test software/systems using a variety of technologies to include scripting to support automated testing
+• Networking and support of Ethernet and Fiber Channel networks
+• Support VMWare and Linux virtualization applications
+• Attend design and review board meetings to help facilitate system maturity and lifecycle support
+• Storage Area Network and Network Attached Storage administration
+• Occasional domestic or international travel may be required.
+
+This position is hybrid. This means that the selected candidate will be required to perform some work onsite at one of the listed location options. This is at the hiring team’s discretion and could potentially change in the future.
+
+This position requires an active U.S. Secret Security Clearance (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active)
+
+Basic Qualifications (Required Skills and Experience):
+• Experience having System Administration experience of Linux/Unix or Windows platforms
+• 2+ years of experience in software systems integration
+• 2+ years of experience in scripting activities in a Linux or Windows environment
+
+Desired Experience, Skills and Qualifications:
+• 2 or more years' related work experience or an equivalent combination of education and experience
+• 3 or more years' related work experience or an equivalent combination of education and experience
+
+Typical Education and Experience:
+
+Associate Level:
+
+Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Masters degree plus experience). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+Experienced Level: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD, Master+3 years' related work experience). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+Relocation:
+
+This position offers relocation based on candidate eligibility.
+
+Drug Free Workplace
+
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+
+General
+
+Shift (US Specific):
+
+This position is for 1st shift
+
+Pay Transparency:
+
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+
+Please note that the salary information shown below is a general guideline only. Salaries are based upon candidate experience and qualifications, as well as market and business considerations.
+
+Summary pay range:
+
+Associate Level: $79,050 - $106,950
+
+Experienced Level: $96,900 - $131,100
+
+Eligible for 3ERP
+
+Export Control Requirements: U.S. Government Export Control Status: This position must meet export control compliance requirements. To meet export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.15 is required. “U.S. Person” includes U.S. Citizen, lawful permanent resident, refugee, or asylee.
+
+Export Control Details: US based job, US Person required
+
+Equal Opportunity Employer:
+
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law
+This position requires an active U.S. Secret Security Clearance (U.S. Citizenship Required)
+(A U.S. Security Clearance that has been active in the past 24 months is considered active)
+Experience having System Administration experience of Linux/Unix or Windows platforms
+2+ years of experience in software systems integration
+2+ years of experience in scripting activities in a Linux or Windows environment
+Experienced Level: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD, Master+3 years' related work experience)
+Eligible for 3ERP
+Export Control Requirements: U.S. Government Export Control Status: This position must meet export control compliance requirements
+To meet export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.15 is required
+“U.S. Person” includes U.S. Citizen, lawful permanent resident, refugee, or asyleeTraining Systems is responsible for the design, manufacture, development, and maintenance of a wide variety of commercial and military training devices
+Participate as a member of an impactful, collaborative team and be self-motivated with a strong work ethic, excellent time-management, and interpersonal skills
+Integrate commercial and Boeing developed software into Windows and RedHat Enterprise Linux operating systems
+Use Agile methodologies to support all aspects of product development and project management
+Scripting to support application of security settings on Windows and RedHat Enterprise Linux platforms
+Designing systems to meet current and future software and application requirements
+Have the ability to work with multiple support teams to identify and resolve issues
+Implement and test software/systems using a variety of technologies to include scripting to support automated testing
+Networking and support of Ethernet and Fiber Channel networks
+Support VMWare and Linux virtualization applications
+Attend design and review board meetings to help facilitate system maturity and lifecycle support
+Storage Area Network and Network Attached Storage administration
+Occasional domestic or international travel may be requiredDrug Free Workplace
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent
+Elements of the Total Rewards package include competitive base pay and variable compensation opportunities
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements
+Associate Level: $79,050 - $106,950
+Experienced Level: $96,900 - $131,100Software Engineer - Platform Engineering Intern
+Location: Remote
+...
+We are a fully remote software engineering team working on the company's next generation security platform. Our goal is to increase the security posture of all of our customers while building a collaborative and innovative engineering culture. We are a proud member of the Dell Technologies family and offer competitive benefit and compensation packages and reward and recognize our employees for exceptional results.
+
+The platform team focuses on backend service and tooling development for other teams and customers to use. We build performant GraphQL APIs using Golang and Kubernetes for different features of our product, creating and reviewing designs for new projects, building robust software that other teams and customers can use, and collaborating with other internal and external engineering teams to solve problems, as well as building our internal authorization systems. If there is backend work we are involved in one way or another - and our goal as a team is to raise the bar of engineering practices across the larger organization.
+
+Our primary tech stack consists of Golang, Kubernetes, Postgres, and Elasticsearch, but we also use tools like ScyllaDB, Redis, Kafka, SQS, and various other AWS services as well.
+
+Skills and Requirements
+
+We expect to see:
+• 1 Year of college education/STEM/bootcamp experience
+• A desire to learn and dive into new programming languages and technologies
+• Self motivating and self directed, great at communicating ideas with remote teams
+
+What we like to see (but not required):
+• Experience working with docker or kubernetes
+• Remote work experience with a geographically distributed team (currently we have teammates in PST to GMT time zones)
+• Software development experience in Go
+
+Work Environment
+
+We are a remote first team and are geographically distributed across the US, Canada, and UK - we utilize tools like Mattermost, Google Meet and Zoom to facilitate communication and tools like Miro and Lucid Charts for diagramming and communicating ideas. We also believe in a strong work-life balance and providing support for team members to accomplish that. We are a family first company that values our team members and has benefits and a culture that will help them through important life events - such as taking care of family, parental leave, etc. We also value continuing education and skills development and have Tech Tuesdays where team members can present to the engineering organization, 3rd parties coming in and giving presentations, as well as training for services like AWS and Kubernetes.
+
+#LIREMOTE
+
+Secureworks (A Dell Technologies Company) is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Secureworks are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Secureworks will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Secureworks here
+1 Year of college education/STEM/bootcamp experience
+A desire to learn and dive into new programming languages and technologies
+Self motivating and self directed, great at communicating ideas with remote teams
+Experience working with docker or kubernetes
+Remote work experience with a geographically distributed team (currently we have teammates in PST to GMT time zones)
+Software development experience in Go•
+•Description
+
+Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Have you ever found a new favorite series on Netflix, picked up groceries curbside at Walmart, or paid for something using Square? That’s the power of data in motion in action—giving organizations instant access to the massive amounts of data that is constantly flowing throughout... their business. At Confluent, we’re building the foundational platform for this new paradigm of data infrastructure. Our cloud-native offering is designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can create a central nervous system to innovate and win in a digital-first world.
+
+We’re looking for self-motivated team members who crave a challenge and feel energized to roll up their sleeves and help realize Confluent’s enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you’re just starting out in your career or managing a large team, you’ll be amazed at the magnitude of your impact.
+
+About the Role:
+
+To realize Confluent’s enormous potential, we are looking for software engineers, at various levels, to grow our Traffic & Networking team. This team focuses on building and managing the networking fabric of Confluent Cloud. The network fabric for Confluent Cloud is responsible for all traffic that ingresses and egresses a customer's Kafka cluster on Confluent Cloud. The networking fabric also provides features that allow Confluent customers to securely connect their Confluent Cloud clusters to their existing virtual networks in the cloud. This gives customers access to enterprise-grade security features in the cloud allowing them to build secure network boundaries around their clusters.
+
+To join the team, we are looking for engineers with an interest in building large-scale distributed systems, with a focus on building and managing network data planes for containerized workloads in the cloud.
+
+Who you are:
+• Smart, humble, and empathetic
+• Have a strong sense of teamwork and put team’s and company’s interests first
+• Driven and excited about the challenges of a fast-paced, innovative software startup environment
+
+What Gives You an Edge:
+• BS, MS, or PhD in computer science or a related field, or equivalent work experience
+• 1-4 years of relevant cloud infrastructure/cloud networking experience
+• Strong fundamentals in distributed systems design and development
+• Experience building and operating large-scale systems
+• Solid understanding of basic systems operations (disk, network, operating systems, etc)
+• A self-starter with the ability to work effectively in teams
+• Proficiency in Go, Python, C++, or other statically typed languages
+• Experience/knowledge with public clouds (AWS, Azure or GCP)
+
+Come As You Are
+
+At Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by applicable law.
+
+At Confluent, we are committed to providing competitive pay and benefits that are in line with industry standards. We analyze and carefully consider several factors when determining compensation, including work history, education, professional experience, and location. This position has an annual estimated salary of 131,700 - 151,400 USD, an annual bonus, and a competitive equity package. The actual pay may vary depending on your skills, qualifications, experience, and work location. In addition, Confluent offers a wide range of employee benefits. To learn more about our benefits click HERE.
+
+Confluent requires all employees (in office and remote) in the U.S. to be vaccinated for COVID-19. Consistent with federal, state, and local requirements, Confluent will consider requests for reasonable accommodation based on medical conditions/contraindications or sincerely-held religious beliefs where it is able to do so without undue hardship to the company.
+
+Click HERE to review our Candidate Privacy Notice which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.
+
+#LI-Remote
+Smart, humble, and empathetic
+Have a strong sense of teamwork and put team’s and company’s interests first
+Driven and excited about the challenges of a fast-paced, innovative software startup environment
+BS, MS, or PhD in computer science or a related field, or equivalent work experience
+1-4 years of relevant cloud infrastructure/cloud networking experience
+Strong fundamentals in distributed systems design and development
+Experience building and operating large-scale systems
+Solid understanding of basic systems operations (disk, network, operating systems, etc)
+A self-starter with the ability to work effectively in teams
+Proficiency in Go, Python, C++, or other statically typed languages
+Experience/knowledge with public clouds (AWS, Azure or GCP)The network fabric for Confluent Cloud is responsible for all traffic that ingresses and egresses a customer's Kafka cluster on Confluent Cloud
+This gives customers access to enterprise-grade security features in the cloud allowing them to build secure network boundaries around their clustersThis position has an annual estimated salary of 131,700 - 151,400 USD, an annual bonus, and a competitive equity package
+The actual pay may vary depending on your skills, qualifications, experience, and work location
+In addition, Confluent offers a wide range of employee benefits
