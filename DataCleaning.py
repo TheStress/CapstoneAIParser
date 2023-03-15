@@ -2,12 +2,13 @@ import csv
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 import json
+
 #nltk.download('punkt')
 def CreateSkillListKaggle():
     allSkills = set()
     print("skill list")
     #Skill List from kaggle
-    with open('RawKaggleData\Job Skill List\Jobs_skills_data_set_edited.csv', newline='') as csvfile:
+    with open('RawData\Kaggle\Job Skill List\Jobs_skills_data_set_edited.csv', newline='') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         count = 10
         for row in spamreader:
@@ -17,7 +18,7 @@ def CreateSkillListKaggle():
                     skill1 = skill1.strip()
                     allSkills.add(skill1)
     #Skill List linkedin
-    with open('RawKaggleData\LinkedInList\linkedin_skill.csv', newline='', errors='ignore') as csvfile:
+    with open('RawData\Kaggle\LinkedInList\linkedin_skill.csv', newline='', errors='ignore') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for row in spamreader:
             # print(row)
@@ -26,7 +27,20 @@ def CreateSkillListKaggle():
     return allSkills
 
 def CreateSkillListOStar():
-    return
+    allSkills = set()
+    print("O Star List")
+    validJobList = ['Computer Programmers', 'Software Developers', 'Software Quality Assurance Analysts and Testers', 'Web Developers', 'Web and Digital Interface Designers']
+    #Skill List from kaggle
+    with open('RawData\OStar\Skills.csv', 'r') as csvFile:
+        reader = csv.reader(csvFile, delimiter=',', quotechar='"')
+        for row in reader:
+            allSkills.add(row[3])
+    with open("RawData\OStar\Technology Skills.csv", 'r') as csvFile:
+        reader = csv.reader(csvFile, delimiter=',', quotechar='"')
+        for row in reader:
+            if(row[0][0:2] == '15'):
+                allSkills.add(row[2])
+    return allSkills
 
 def Format(allSkills, type = ""):
     # adding all versions UPPER -> lower -> First
@@ -51,10 +65,10 @@ def Format(allSkills, type = ""):
             newSkillList.add(newSkill)
     return newSkillList
 
-def WriteList(skillList):
+def WriteList(skillList, location):
     #Writing List
     print("writing")
-    with open('Data\skillsDataNew.csv', 'w', newline='', errors='ignore') as csvfile:
+    with open(location, 'w', newline='', errors='ignore') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for i in skillList:
             spamwriter.writerow([i])
@@ -83,6 +97,7 @@ def ParseJSONForDescriptions():
 
 if __name__ == "__main__":
     # ParseJSONForDescriptions()
-    # WriteList(CreateSkillList()) # data cleaning
-    WriteSearchListInception()
+    # WriteList(CreateSkillListOStar()) # data cleaning
+    # WriteSearchListInception()
+    WriteSearchListInception(CreateSkillListOStar())
     print("test")
