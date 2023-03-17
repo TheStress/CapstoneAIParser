@@ -17,30 +17,36 @@
     "mode":"default"
   },
   "labels":{
-    "transformer":[
+    "tok2vec":[
 
     ],
     "ner":[
-
+      "SKILL"
     ]
   },
   "pipeline":[
-    "transformer",
+    "tok2vec",
     "ner"
   ],
   "components":[
-    "transformer",
+    "tok2vec",
     "ner"
   ],
   "disabled":[
 
   ],
   "performance":{
-    "ents_f":0.0,
-    "ents_p":0.0,
-    "ents_r":0.0,
-    "ents_per_type":0.0,
-    "transformer_loss":0.0,
-    "ner_loss":0.0
+    "ents_f":0.9776119403,
+    "ents_p":0.9776119403,
+    "ents_r":0.9776119403,
+    "ents_per_type":{
+      "SKILL":{
+        "p":0.9776119403,
+        "r":0.9776119403,
+        "f":0.9776119403
+      }
+    },
+    "tok2vec_loss":81.735104868,
+    "ner_loss":66.9032008606
   }
 }

@@ -1,5 +1,5 @@
 '''
-Credits: https://github.com/neuged/webanno_tsv (TSV Parser)
+Credits: https://github.com/neuged/webanno_tsv (TSV Parser) jk didnt use it
 '''
 
 import csv
@@ -9,9 +9,6 @@ import json
 import conllu
 import pandas as pd
 import os
-from webanno_tsv import Document, Annotation
-from dataclasses import replace
-from webanno_tsv import webanno_tsv_read_file, Document
 #nltk.download('punkt')
 def CreateSkillListKaggle():
     allSkills = set()
@@ -100,12 +97,11 @@ def ParseJSONForDescriptions():
         print(path)
         with open(path, 'w', errors='ignore') as output:
             fullDescription = ""
-            fullDescription += job["description"].replace('\n', '') + " "
+            fullDescription += job["description"] + " "
             for item in job["job_highlights"]:
                 for itemText in item["items"]:
                     fullDescription += itemText + " "
-            # print(fullDescription)
-            output.write(fullDescription)
+            # output.write(fullDescription)
         currentDoc += 1
 
 def ConllUScanner(dataPath):
@@ -135,7 +131,7 @@ def TSVParser():
             with open(path, 'r') as sourceInput:
                 text = sourceInput.read()
 
-        doc = {"annotations": annotations, "text": text}
+        doc = {"id": i, "annotations": annotations, "text": text}
         trainingData.append(doc)
 
     return trainingData
@@ -145,9 +141,9 @@ if __name__ == "__main__":
     # WriteList(CreateSkillListOStar(), "Data\skillsDataNew.csv") # data cleaning
     # WriteSearchListInception()
     # WriteSearchListInception(CreateSkillListOStar())
-
-    for item in TSVParser():
-        for annotation in item["annotations"]:
-            print(annotation)
-            print(item["text"][annotation[0]:annotation[1]], annotation[2])
-        print(item["text"])
+    # for item in TSVParser():
+    #     for annotation in item["annotations"]:
+    #         print(annotation)
+    #         print(item["text"][annotation[0]:annotation[1]], annotation[2])
+    #     print(item["text"])
+    print("hi")
