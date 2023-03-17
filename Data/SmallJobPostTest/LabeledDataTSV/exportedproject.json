@@ -9,322 +9,322 @@
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996708275,
-    "updated" : 1678997181482
+    "created" : 1679019474880,
+    "updated" : 1679019481465
   }, {
     "name" : "jobPost1.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996708796,
-    "updated" : 1678997241623
+    "created" : 1679019474899,
+    "updated" : 1679019514647
   }, {
     "name" : "jobPost10.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709245,
-    "updated" : 1678997207272
+    "created" : 1679019475098,
+    "updated" : 1679019507250
   }, {
     "name" : "jobPost11.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709269,
-    "updated" : 1678997207272
+    "created" : 1679019475111,
+    "updated" : 1679019507251
   }, {
     "name" : "jobPost12.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709305,
-    "updated" : 1678997207273
+    "created" : 1679019475136,
+    "updated" : 1679019507251
   }, {
     "name" : "jobPost13.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709334,
-    "updated" : 1678997207274
+    "created" : 1679019475156,
+    "updated" : 1679019507252
   }, {
     "name" : "jobPost14.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709360,
-    "updated" : 1678997207275
+    "created" : 1679019475173,
+    "updated" : 1679019507252
   }, {
     "name" : "jobPost15.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709383,
-    "updated" : 1678997207276
+    "created" : 1679019475188,
+    "updated" : 1679019507241
   }, {
     "name" : "jobPost16.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709441,
-    "updated" : 1678997207277
+    "created" : 1679019475237,
+    "updated" : 1679019507241
   }, {
     "name" : "jobPost17.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709482,
-    "updated" : 1678997207278
+    "created" : 1679019475265,
+    "updated" : 1679019507243
   }, {
     "name" : "jobPost18.txt",
     "format" : "text",
     "state" : "NEW",
     "timestamp" : null,
-    "created" : 1678996709511,
-    "updated" : 1678996709511
+    "created" : 1679019475284,
+    "updated" : 1679019475284
   }, {
     "name" : "jobPost19.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709537,
-    "updated" : 1678997207278
+    "created" : 1679019475301,
+    "updated" : 1679019507243
   }, {
     "name" : "jobPost2.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996708849,
-    "updated" : 1678997207267
+    "created" : 1679019474914,
+    "updated" : 1679019507243
   }, {
     "name" : "jobPost3.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996708905,
-    "updated" : 1678997207266
+    "created" : 1679019474928,
+    "updated" : 1679019507243
   }, {
     "name" : "jobPost4.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996708986,
-    "updated" : 1678997207268
+    "created" : 1679019474953,
+    "updated" : 1679019507247
   }, {
     "name" : "jobPost5.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709042,
-    "updated" : 1678997207268
+    "created" : 1679019474988,
+    "updated" : 1679019507247
   }, {
     "name" : "jobPost6.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709099,
-    "updated" : 1678997207269
+    "created" : 1679019475017,
+    "updated" : 1679019507248
   }, {
     "name" : "jobPost7.txt",
     "format" : "text",
     "state" : "NEW",
     "timestamp" : null,
-    "created" : 1678996709130,
-    "updated" : 1678996709130
+    "created" : 1679019475034,
+    "updated" : 1679019475034
   }, {
     "name" : "jobPost8.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709155,
-    "updated" : 1678997207269
+    "created" : 1679019475045,
+    "updated" : 1679019507249
   }, {
     "name" : "jobPost9.txt",
     "format" : "text",
     "state" : "ANNOTATION_IN_PROGRESS",
     "timestamp" : null,
-    "created" : 1678996709194,
-    "updated" : 1678997207271
+    "created" : 1679019475068,
+    "updated" : 1679019507250
   } ],
   "annotation_documents" : [ {
     "name" : "jobPost2.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997203833,
+    "timestamp" : 1679019502089,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997203819,
-    "updated" : 1678997203833
-  }, {
-    "name" : "jobPost3.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997203853,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203835,
-    "updated" : 1678997203854
-  }, {
-    "name" : "jobPost8.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997203933,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203918,
-    "updated" : 1678997203934
-  }, {
-    "name" : "jobPost9.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997203955,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203935,
-    "updated" : 1678997203955
-  }, {
-    "name" : "jobPost10.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997203970,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203957,
-    "updated" : 1678997203971
-  }, {
-    "name" : "jobPost11.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997203998,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203972,
-    "updated" : 1678997203998
-  }, {
-    "name" : "jobPost13.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997204036,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997204018,
-    "updated" : 1678997204036
-  }, {
-    "name" : "jobPost14.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997204051,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997204038,
-    "updated" : 1678997204051
+    "created" : 1679019502077,
+    "updated" : 1679019502090
   }, {
     "name" : "jobPost15.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997204071,
+    "timestamp" : 1679019502017,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997204053,
-    "updated" : 1678997204071
+    "created" : 1679019502001,
+    "updated" : 1679019502017
   }, {
     "name" : "jobPost16.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997204092,
+    "timestamp" : 1679019502034,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997204072,
-    "updated" : 1678997204093
+    "created" : 1679019502019,
+    "updated" : 1679019502034
   }, {
     "name" : "jobPost17.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997204108,
+    "timestamp" : 1679019502047,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997204094,
-    "updated" : 1678997204109
+    "created" : 1679019502035,
+    "updated" : 1679019502047
   }, {
     "name" : "jobPost19.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997204128,
+    "timestamp" : 1679019502066,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997204110,
-    "updated" : 1678997204128
+    "created" : 1679019502048,
+    "updated" : 1679019502067
   }, {
     "name" : "jobPost0.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997233456,
+    "timestamp" : 1679019502075,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997181428,
-    "updated" : 1678997233456
+    "created" : 1679019481441,
+    "updated" : 1679019502076
   }, {
-    "name" : "jobPost1.txt",
+    "name" : "jobPost3.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997241618,
+    "timestamp" : 1679019502106,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997241592,
-    "updated" : 1678997241619
-  }, {
-    "name" : "jobPost5.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997288075,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203875,
-    "updated" : 1678997288075
-  }, {
-    "name" : "jobPost12.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997297767,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203999,
-    "updated" : 1678997297767
-  }, {
-    "name" : "jobPost6.txt",
-    "user" : "admin",
-    "state" : "IN_PROGRESS",
-    "timestamp" : 1678997497033,
-    "annotatorState" : "IN_PROGRESS",
-    "annotatorComment" : null,
-    "sentence_accessed" : 0,
-    "created" : 1678997203897,
-    "updated" : 1678997497034
+    "created" : 1679019502091,
+    "updated" : 1679019502107
   }, {
     "name" : "jobPost4.txt",
     "user" : "admin",
     "state" : "IN_PROGRESS",
-    "timestamp" : 1678997506839,
+    "timestamp" : 1679019502121,
     "annotatorState" : "IN_PROGRESS",
     "annotatorComment" : null,
     "sentence_accessed" : 0,
-    "created" : 1678997203855,
-    "updated" : 1678997506839
+    "created" : 1679019502108,
+    "updated" : 1679019502121
+  }, {
+    "name" : "jobPost5.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502137,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502122,
+    "updated" : 1679019502137
+  }, {
+    "name" : "jobPost6.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502151,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502138,
+    "updated" : 1679019502152
+  }, {
+    "name" : "jobPost8.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502167,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502153,
+    "updated" : 1679019502167
+  }, {
+    "name" : "jobPost9.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502183,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502168,
+    "updated" : 1679019502183
+  }, {
+    "name" : "jobPost10.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502196,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502184,
+    "updated" : 1679019502196
+  }, {
+    "name" : "jobPost11.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502212,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502197,
+    "updated" : 1679019502212
+  }, {
+    "name" : "jobPost12.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502227,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502213,
+    "updated" : 1679019502227
+  }, {
+    "name" : "jobPost13.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502244,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502228,
+    "updated" : 1679019502244
+  }, {
+    "name" : "jobPost14.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019502255,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019502245,
+    "updated" : 1679019502256
+  }, {
+    "name" : "jobPost1.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1679019514643,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1679019514622,
+    "updated" : 1679019514643
   } ],
   "project_permissions" : [ {
     "level" : "ADMIN",
@@ -479,7 +479,7 @@
   "disableExport" : false,
   "script_direction" : "LTR",
   "created" : 1678996644423,
-  "updated" : 1678997187251,
+  "updated" : 1679019487248,
   "anonymous_curation" : false,
   "default-preferences" : [ ],
   "knowledge_bases" : [ ],
@@ -496,7 +496,7 @@
       "disableExport" : false,
       "scriptDirection" : "LTR",
       "created" : 1678996644423,
-      "updated" : 1678997187251,
+      "updated" : 1679019487248,
       "state" : "ANNOTATION_IN_PROGRESS",
       "anonymousCuration" : false
     },
@@ -536,7 +536,7 @@
   },
   "user-preferences" : [ {
     "name" : "annotation/left-sidebar",
-    "traits" : "{\"selectedTab\":\"activeLearningSidebarFactory\",\"expanded\":true}",
+    "traits" : "{\"selectedTab\":\"searchAnnotationSidebarFactory\",\"expanded\":true}",
     "user" : "admin"
   } ]
 }

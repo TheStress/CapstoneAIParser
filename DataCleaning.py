@@ -92,7 +92,7 @@ def WriteSearchListInception(skillList):
 
 def ParseJSONForDescriptions():
     print("parsing")
-    with open("Data\SmallJobPostTest\jobPostDataset.json", 'r') as input:
+    with open("Data\SmallJobPostTest\jobPostDataset.json", 'r', errors='ignore') as input:
         jobsDataset = json.load(input)
     currentDoc = 0
     for job in jobsDataset:
@@ -100,9 +100,10 @@ def ParseJSONForDescriptions():
         print(path)
         with open(path, 'w', errors='ignore') as output:
             fullDescription = ""
-            fullDescription += job["description"] + '\n'
+            fullDescription += job["description"].replace('\n', '') + " "
             for item in job["job_highlights"]:
-                fullDescription += '\n'.join(item["items"])
+                for itemText in item["items"]:
+                    fullDescription += itemText + " "
             # print(fullDescription)
             output.write(fullDescription)
         currentDoc += 1
@@ -112,29 +113,30 @@ def ConllUScanner(dataPath):
     return
 def TSVParser():
     trainingData = []
-    for i in range(1):
-        path = "Data/SmallJobPostTest/LabeledDataTSV/annotation/jobPost" + str(0) + ".txt" + "/admin.tsv"
-        # print(path)
+    for i in range(20):
+        path = "Data/SmallJobPostTest/LabeledDataTSV/annotation/jobPost" + str(i) + ".txt" + "/admin.tsv"
+        text = ""
+        annotations = []
+
+        #Parsing data for annotations
         if(os.path.exists(path)):
             with open(path, 'r') as csvInput:
                 data = csv.reader(csvInput, delimiter='\t', quotechar="~")
-                text = ""
-                annotations = []
-
-                #Parsing data
                 for row in data:
                     if(len(row) > 1):
-                        # if(row[3] == "SKILL"):
+                        if(row[3] == "SKILL"):
                             holder = row[1].split("-")
                             oneAnnotation = [int(holder[0]), int(holder[1]), row[2], row[3]]
                             annotations.append(oneAnnotation)
-                    elif(len(row) == 1):
-                        if(row[0][:6] == "#Text="):
-                            text += row[0][6:]
-                # print(annotations)
-                # print(text)
-                doc = {"annotations": annotations, "text": text}
-                trainingData.append(doc)
+
+        # Reading text from source
+        path = "Data\SmallJobPostTest\LabeledDataTSV\source\jobPost" + str(i) + ".txt"
+        if(os.path.exists(path)):
+            with open(path, 'r') as sourceInput:
+                text = sourceInput.read()
+
+        doc = {"annotations": annotations, "text": text}
+        trainingData.append(doc)
 
     return trainingData
 
@@ -144,41 +146,8 @@ if __name__ == "__main__":
     # WriteSearchListInception()
     # WriteSearchListInception(CreateSkillListOStar())
 
-    # ConllUScanner()
-    with open("Data\SmallJobPostTest\IndividualDocs\jobPost0.txt", 'r') as file:
-        data = csv.reader(file)
-        for item in TSVParser():
-            for annotation in item["annotations"]:
-                print(annotation)
-                print(test[annotation[0]:annotation[1]], annotation[2])
-            print(item["text"])
-
-    doc = webanno_tsv_read_file('Data/SmallJobPostTest/LabeledDataTSV/annotation/jobPost0.txt/admin.tsv')
-    for annotations in doc.annotations:
-        print(annotations)
-    for token in doc.tokens:
-        print(token.sentence_idx, token.idx, token.start, token.end, token.text.encode("utf-8"))
-    # for token in doc.tokens:
-    #     print(token)
-
-    # Prints:
-    # 1 2
-    # 2 2
-
-    # for annotation in doc.match_annotations(layer='Layer2'):
-    #     print(annotation.layer, annotation.field, annotation.label)
-
-    # # Prints:
-    # # Layer2 Field3 XYZ
-
-    # for annotation in doc.match_annotations(sentence=doc.sentences[0]):
-    #     print(annotation.layer, annotation.field, annotation.label)
-
-    # # Prints:
-    # # Layer1 Field1 ABC
-    # # Layer2 Field3 XYZ
-
-    # # Some lookup functions for convenience are on the Document instance
-    # doc.token_sentence(token[0])
-    # doc.sentence_tokens(doc.sentence[0])
-    # doc.annotation_sentences(doc.annotations[0])
+    for item in TSVParser():
+        for annotation in item["annotations"]:
+            print(annotation)
+            print(item["text"][annotation[0]:annotation[1]], annotation[2])
+        print(item["text"])
