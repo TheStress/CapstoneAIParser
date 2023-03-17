@@ -1,0 +1,40 @@
+Aura is on a mission to create a safer internet. In a world where our lives are increasingly online, Aura's category-defining suite of intelligent digital safety products help millions of customers protect themselves against digital threats, and that number is growing rapidly. This is an exciting phase at Aura, and our team of over 600 people worldwide is guided by a leadership slate that's... successfully grown startups into multi-billion dollar organizations.
+
+Come join us for the ride!
+
+Day to Day:
+• Design and develop cloud and backend services for IoT devices for the purpose of providing parental controls and other digital security features.
+• Design and develop firmware/embedded software of IoT devices and network packet flow management.
+• Adapt to different teams and technologies including cloud, firmware and app development to assist time-sensitive objectives.
+• Propose and implement new development processes and process improvements. Participate in on-call rotation for production issues, along with other members of the engineering team.
+• Complete development assignments on time with high quality.
+• Job location is 250 Northern Avenue, 3rd Fl, Boston, MA 02210 (Full-time telecommuting permitted)
+What you bring to the table:
+• Job requires a Bachelors degree in Computer Science, Network Systems or a closely related field, and 2 years of software development experience.
+• Must have 2 years of experience in each of the following:
+• Cloud service development, written in Go
+• Cloud computing platforms (AWS or GCP) and Kubernetes
+• C and C++ to develop Embedded Linux applications
+• Cloud-based APIs on Embedded Linux
+• GNU cross compiling toolchain and firmware builds
+• Objective-C, Swift, Kotlin, Java, and React Native
+
+Aura is proud to be an equal employment workplace. All qualified applicants will be considered for employment without regard to, and will not be discriminated against based on race, color, ancestry, national origin, religion, age, sex, gender, marital status, sexual orientation, gender identity, disability status, veteran status, or any protected category. Beyond equal employment opportunity, Aura is committed to being an inclusive community where all feel welcome.
+
+Aura is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please let your Talent Acquisition Partner know.
+
+Important privacy information for California job applicants can be found here
+Job requires a Bachelors degree in Computer Science, Network Systems or a closely related field, and 2 years of software development experience
+Must have 2 years of experience in each of the following:
+Cloud service development, written in Go
+Cloud computing platforms (AWS or GCP) and Kubernetes
+C and C++ to develop Embedded Linux applications
+Cloud-based APIs on Embedded Linux
+GNU cross compiling toolchain and firmware builds
+Objective-C, Swift, Kotlin, Java, and React NativeDesign and develop cloud and backend services for IoT devices for the purpose of providing parental controls and other digital security features
+Design and develop firmware/embedded software of IoT devices and network packet flow management
+Adapt to different teams and technologies including cloud, firmware and app development to assist time-sensitive objectives
+Propose and implement new development processes and process improvements
+Participate in on-call rotation for production issues, along with other members of the engineering team
+Complete development assignments on time with high quality
+Job location is 250 Northern Avenue, 3rd Fl, Boston, MA 02210 (Full-time telecommuting permitted)

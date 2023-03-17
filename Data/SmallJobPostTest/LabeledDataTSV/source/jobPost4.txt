@@ -1,0 +1,89 @@
+At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so... many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+Staff Software Engineer
+
+Your Tasks And Responsibilities
+
+The primary responsibilities of this role, Staff Software Engineer, are to:
+• Work as part of an agile development team to build and support applications;
+• Work with team and product manager to manage project priorities, deadlines, and deliverables; Interact directly with business customers to gather and understand requirements and how they translate in application features;
+• Develop applications and services using the right tool for the job.
+• Consistently contribute to solving organization wide problems including shared platforms, libraries, and frameworks;
+• Conduct functional and non-functional testing, troubleshoot and debug applications and deploy applications across all environments in collaboration with development team, product management, and delivery;
+• Champion code quality including unit and integration testing;
+• Evaluate existing applications to refactor, update and add new features. Develop any technical documentation needed to accurately represent application design and code;
+• Identify and pursue opportunities to improve own knowledge and skills and those of more junior engineers;
+• Identify opportunities to develop new and better solutions;
+• Anticipate and address technical and organizational obstacles affecting own team and teams within the domain platform;
+• Provide guidance for technical design and architecture decisions within and across teams;
+• Participate in the evaluation and selection of new technologies;
+• Mentor other people and teams on technologies, techniques or standards across the organization;
+• Build relationships with key members of partner teams.
+
+Who You Are
+
+Your success will be driven by your demonstration of our LIFE values. More specifically related to this
+
+position, Bayer seeks an incumbent who possesses the following:
+
+Required Qualifications:
+• Bachelors degree;
+• Experience in solving challenging technical problems in two or more of the following areas:
+• Single page web application development, unix/linux environment management, cloud based continuous delivery and environment management, mobile application development, micro service design and development, large distributed system development, software security processing and analyzing large data sets;
+• Experience designing cloud based software solutions;
+• Practical experience and understanding of industry practices, engineering principles, concepts, and standards;
+• Expertise in at least one technology or facet of product development (research, design, programming, testing);
+• Demonstrates capable business insight, strategic mindset, cultivates innovation, drives vision & purpose, and attracts & develops talent leadership competencies and decision making skills;
+• Demonstrates strong manages ambiguity leadership competency and written and verbal communication skills.
+
+Preferred Qualifications:
+• Bachelors degree in Computer Science, Computer Engineering, or equivalent experience. Minimum 8 years (Masters 6 or Doctorate 4) experience in solving challenging technical problems in two or more of the following areas: Single page web application development Unix/Linux environment management Cloud based continuous delivery and environment management Mobile application development Micro service design and development Large, distributed system development Software security Processing and analyzing large data sets;
+• Minimum 3 years designing cloud based software solutions.
+
+Employees can expect to be paid a salary between $130,900 to $196,300 . Additional compensation may include a bonus or commission (if relevant). Additional benefits include health care, vision, dental, retirement, PTO, sick leave, etc.. This salary range is merely an estimate and may vary based on an applicant’s location, market data/ranges, an applicant’s skills and prior relevant experience, certain degrees and certifications, and other relevant factors.
+
+YOUR APPLICATION
+
+Bayer offers a wide variety of competitive compensation and benefits programs. If you meet the requirements of this unique opportunity, and want to impact our mission Science for a better life, we encourage you to apply now. Be part of something bigger. Be you. Be Bayer.
+
+To all recruitment agencies: Bayer does not accept unsolicited third party resumes.
+
+Bayer is an Equal Opportunity Employer/Disabled/Veterans
+
+Bayer is committed to providing access and reasonable accommodations in its application process for individuals with disabilities and encourages applicants with disabilities to request any needed accommodation(s) using the contact information below.
+
+IMPORTANT NOTE for POTENTIAL US CANDIDATES: Bayer expects its colleagues to be fully vaccinated against COVID-19. Bayer defines fully vaccinated in alignment with CDC which is two weeks after completing the two-dose vaccine regimen or two weeks after completing the one-dose regimen. Additionally, Bayer colleagues are also required to comply with state, local and customer requirements.
+
+Location: United States : Residence Based : Residence Based
+
+Division: Enabling Functions
+
+Reference Code: 788401
+
+Contact Us
+
+Email: hrop_usa@bayer.com
+Bachelors degree;
+Practical experience and understanding of industry practices, engineering principles, concepts, and standards;
+Expertise in at least one technology or facet of product development (research, design, programming, testing);
+Demonstrates capable business insight, strategic mindset, cultivates innovation, drives vision & purpose, and attracts & develops talent leadership competencies and decision making skills;
+Demonstrates strong manages ambiguity leadership competency and written and verbal communication skills
+Minimum 8 years (Masters 6 or Doctorate 4) experience in solving challenging technical problems in two or more of the following areas: Single page web application development Unix/Linux environment management Cloud based continuous delivery and environment management Mobile application development Micro service design and development Large, distributed system development Software security Processing and analyzing large data sets;
+Minimum 3 years designing cloud based software solutionsWork as part of an agile development team to build and support applications;
+Work with team and product manager to manage project priorities, deadlines, and deliverables; Interact directly with business customers to gather and understand requirements and how they translate in application features;
+Develop applications and services using the right tool for the job
+Consistently contribute to solving organization wide problems including shared platforms, libraries, and frameworks;
+Conduct functional and non-functional testing, troubleshoot and debug applications and deploy applications across all environments in collaboration with development team, product management, and delivery;
+Champion code quality including unit and integration testing;
+Evaluate existing applications to refactor, update and add new features
+Develop any technical documentation needed to accurately represent application design and code;
+Identify and pursue opportunities to improve own knowledge and skills and those of more junior engineers;
+Identify opportunities to develop new and better solutions;
+Anticipate and address technical and organizational obstacles affecting own team and teams within the domain platform;
+Provide guidance for technical design and architecture decisions within and across teams;
+Participate in the evaluation and selection of new technologies;
+Mentor other people and teams on technologies, techniques or standards across the organization;
+Build relationships with key members of partner teamsEmployees can expect to be paid a salary between $130,900 to $196,300
+Additional compensation may include a bonus or commission (if relevant)
+Additional benefits include health care, vision, dental, retirement, PTO, sick leave, etc.
+Bayer offers a wide variety of competitive compensation and benefits programs

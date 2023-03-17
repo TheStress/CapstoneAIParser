@@ -1,0 +1,1779 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job Description\r
+#Text=\r
+#Text=At Boeing, we innovate and collaborate to make the world a better place.
+1-1	0-3	Job	_	
+1-2	4-15	Description	_	
+1-3	19-21	At	_	
+1-4	22-28	Boeing	_	
+1-5	28-29	,	_	
+1-6	30-32	we	_	
+1-7	33-41	innovate	_	
+1-8	42-45	and	_	
+1-9	46-57	collaborate	_	
+1-10	58-60	to	_	
+1-11	61-65	make	_	
+1-12	66-69	the	_	
+1-13	70-75	world	_	
+1-14	76-77	a	_	
+1-15	78-84	better	_	
+1-16	85-90	place	_	
+1-17	90-91	.	_	
+
+#Text=From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values.
+2-1	92-96	From	_	
+2-2	97-100	the	_	
+2-3	101-107	seabed	_	
+2-4	108-110	to	_	
+2-5	111-116	outer	_	
+2-6	117-122	space	_	
+2-7	122-123	,	_	
+2-8	124-127	you	_	
+2-9	128-131	can	_	
+2-10	132-142	contribute	_	
+2-11	143-145	to	_	
+2-12	146-150	work	_	
+2-13	151-155	that	_	
+2-14	156-163	matters	_	
+2-15	164-168	with	_	
+2-16	169-170	a	_	
+2-17	171-178	company	_	
+2-18	179-184	where	_	
+2-19	185-194	diversity	_	
+2-20	194-195	,	_	
+2-21	196-202	equity	_	
+2-22	203-206	and	_	
+2-23	207-216	inclusion	_	
+2-24	217-220	are	_	
+2-25	221-227	shared	_	
+2-26	228-234	values	_	
+2-27	234-235	.	_	
+
+#Text=We�re committed to fostering an environment for every teammate that�s welcoming, respectful and inclusive, with great opportunity for professional growth.
+3-1	236-238	We	_	
+3-2	238-239	�	_	
+3-3	239-241	re	_	
+3-4	242-251	committed	_	
+3-5	252-254	to	_	
+3-6	255-264	fostering	_	
+3-7	265-267	an	_	
+3-8	268-279	environment	_	
+3-9	280-283	for	_	
+3-10	284-289	every	_	
+3-11	290-298	teammate	_	
+3-12	299-303	that	_	
+3-13	303-304	�	_	
+3-14	304-305	s	_	
+3-15	306-315	welcoming	_	
+3-16	315-316	,	_	
+3-17	317-327	respectful	_	
+3-18	328-331	and	_	
+3-19	332-341	inclusive	_	
+3-20	341-342	,	_	
+3-21	343-347	with	_	
+3-22	348-353	great	_	
+3-23	354-365	opportunity	_	
+3-24	366-369	for	_	
+3-25	370-382	professional	_	
+3-26	383-389	growth	_	
+3-27	389-390	.	_	
+
+#Text=Find your... future with us.
+4-1	391-395	Find	_	
+4-2	396-400	your	_	
+4-3	400-401	.	_	
+4-4	401-402	.	_	
+4-5	402-403	.	_	
+4-6	404-410	future	_	
+4-7	411-415	with	_	
+4-8	416-418	us	_	
+4-9	418-419	.	_	
+
+#Text=Boeing Global Service Training Systems team is seeking Associate and Experienced Software Engineers to focus on operating system configuration/customization, visualization and software integration.
+5-1	423-429	Boeing	_	
+5-2	430-436	Global	_	
+5-3	437-444	Service	_	
+5-4	445-453	Training	_	
+5-5	454-461	Systems	_	
+5-6	462-466	team	_	
+5-7	467-469	is	_	
+5-8	470-477	seeking	_	
+5-9	478-487	Associate	_	
+5-10	488-491	and	_	
+5-11	492-503	Experienced	_	
+5-12	504-512	Software	_	
+5-13	513-522	Engineers	_	
+5-14	523-525	to	_	
+5-15	526-531	focus	_	
+5-16	532-534	on	_	
+5-17	535-544	operating	_	
+5-18	545-551	system	_	
+5-19	552-565	configuration	_	
+5-20	565-566	/	_	
+5-21	566-579	customization	_	
+5-22	579-580	,	_	
+5-23	581-594	visualization	_	
+5-24	595-598	and	_	
+5-25	599-607	software	_	
+5-26	608-619	integration	_	
+5-27	619-620	.	_	
+
+#Text=Training Systems is responsible for the design, manufacture, development, and maintenance of a wide variety of commercial and military training devices.
+6-1	621-629	Training	_	
+6-2	630-637	Systems	_	
+6-3	638-640	is	_	
+6-4	641-652	responsible	_	
+6-5	653-656	for	_	
+6-6	657-660	the	_	
+6-7	661-667	design	_	
+6-8	667-668	,	_	
+6-9	669-680	manufacture	_	
+6-10	680-681	,	_	
+6-11	682-693	development	_	
+6-12	693-694	,	_	
+6-13	695-698	and	_	
+6-14	699-710	maintenance	_	
+6-15	711-713	of	_	
+6-16	714-715	a	_	
+6-17	716-720	wide	_	
+6-18	721-728	variety	_	
+6-19	729-731	of	_	
+6-20	732-742	commercial	_	
+6-21	743-746	and	_	
+6-22	747-755	military	_	
+6-23	756-764	training	_	
+6-24	765-772	devices	_	
+6-25	772-773	.	_	
+
+#Text=Primary location for these positions will be located in Oklahoma City, OK supporting the ASC2 AWACS Training System platform.
+7-1	774-781	Primary	_	
+7-2	782-790	location	_	
+7-3	791-794	for	_	
+7-4	795-800	these	_	
+7-5	801-810	positions	_	
+7-6	811-815	will	_	
+7-7	816-818	be	_	
+7-8	819-826	located	_	
+7-9	827-829	in	_	
+7-10	830-838	Oklahoma	_	
+7-11	839-843	City	_	
+7-12	843-844	,	_	
+7-13	845-847	OK	_	
+7-14	848-858	supporting	_	
+7-15	859-862	the	_	
+7-16	863-867	ASC2	_	
+7-17	868-873	AWACS	_	
+7-18	874-882	Training	_	
+7-19	883-889	System	_	
+7-20	890-898	platform	_	
+7-21	898-899	.	_	
+
+#Text=At Boeing, we are all innovators on a mission to connect, protect, explore and inspire.
+8-1	903-905	At	_	
+8-2	906-912	Boeing	_	
+8-3	912-913	,	_	
+8-4	914-916	we	_	
+8-5	917-920	are	_	
+8-6	921-924	all	_	
+8-7	925-935	innovators	_	
+8-8	936-938	on	_	
+8-9	939-940	a	_	
+8-10	941-948	mission	_	
+8-11	949-951	to	_	
+8-12	952-959	connect	_	
+8-13	959-960	,	_	
+8-14	961-968	protect	_	
+8-15	968-969	,	_	
+8-16	970-977	explore	_	
+8-17	978-981	and	_	
+8-18	982-989	inspire	_	
+8-19	989-990	.	_	
+
+#Text=From the sea bed to outer space, you'll learn and grow, contributing to work that shapes the world.
+9-1	991-995	From	_	
+9-2	996-999	the	_	
+9-3	1000-1003	sea	_	
+9-4	1004-1007	bed	_	
+9-5	1008-1010	to	_	
+9-6	1011-1016	outer	_	
+9-7	1017-1022	space	_	
+9-8	1022-1023	,	_	
+9-9	1024-1030	you'll	_	
+9-10	1031-1036	learn	_	
+9-11	1037-1040	and	_	
+9-12	1041-1045	grow	_	
+9-13	1045-1046	,	_	
+9-14	1047-1059	contributing	_	
+9-15	1060-1062	to	_	
+9-16	1063-1067	work	_	
+9-17	1068-1072	that	_	
+9-18	1073-1079	shapes	_	
+9-19	1080-1083	the	_	
+9-20	1084-1089	world	_	
+9-21	1089-1090	.	_	
+
+#Text=Position Responsibilities:\r
+#Text=� Participate as a member of an impactful, collaborative team and be self-motivated with a strong work ethic, excellent time-management, and interpersonal skills\r
+#Text=� Integrate commercial and Boeing developed software into Windows and RedHat Enterprise Linux operating systems\r
+#Text=� Use Agile methodologies to support all aspects of product development and project management\r
+#Text=� Scripting to support application of security settings on Windows and RedHat Enterprise Linux platforms\r
+#Text=� Designing systems to meet current and future software and application requirements\r
+#Text=� Have the ability to work with multiple support teams to identify and resolve issues\r
+#Text=� Implement and test software/systems using a variety of technologies to include scripting to support automated testing\r
+#Text=� Networking and support of Ethernet and Fiber Channel networks\r
+#Text=� Support VMWare and Linux virtualization applications\r
+#Text=� Attend design and review board meetings to help facilitate system maturity and lifecycle support\r
+#Text=� Storage Area Network and Network Attached Storage administration\r
+#Text=� Occasional domestic or international travel may be required.
+10-1	1094-1102	Position	_	
+10-2	1103-1119	Responsibilities	_	
+10-3	1119-1120	:	_	
+10-4	1122-1123	�	_	
+10-5	1124-1135	Participate	_	
+10-6	1136-1138	as	_	
+10-7	1139-1140	a	_	
+10-8	1141-1147	member	_	
+10-9	1148-1150	of	_	
+10-10	1151-1153	an	_	
+10-11	1154-1163	impactful	_	
+10-12	1163-1164	,	_	
+10-13	1165-1178	collaborative	_	
+10-14	1179-1183	team	_	
+10-15	1184-1187	and	_	
+10-16	1188-1190	be	_	
+10-17	1191-1205	self-motivated	_	
+10-18	1206-1210	with	_	
+10-19	1211-1212	a	_	
+10-20	1213-1219	strong	_	
+10-21	1220-1224	work	_	
+10-22	1225-1230	ethic	_	
+10-23	1230-1231	,	_	
+10-24	1232-1241	excellent	_	
+10-25	1242-1257	time-management	_	
+10-26	1257-1258	,	_	
+10-27	1259-1262	and	_	
+10-28	1263-1276	interpersonal	_	
+10-29	1277-1283	skills	_	
+10-30	1285-1286	�	_	
+10-31	1287-1296	Integrate	_	
+10-32	1297-1307	commercial	_	
+10-33	1308-1311	and	_	
+10-34	1312-1318	Boeing	_	
+10-35	1319-1328	developed	_	
+10-36	1329-1337	software	_	
+10-37	1338-1342	into	_	
+10-38	1343-1350	Windows	_	
+10-39	1351-1354	and	_	
+10-40	1355-1361	RedHat	_	
+10-41	1362-1372	Enterprise	_	
+10-42	1373-1378	Linux	SKILL	
+10-43	1379-1388	operating	_	
+10-44	1389-1396	systems	_	
+10-45	1398-1399	�	_	
+10-46	1400-1403	Use	_	
+10-47	1404-1409	Agile	_	
+10-48	1410-1423	methodologies	_	
+10-49	1424-1426	to	_	
+10-50	1427-1434	support	_	
+10-51	1435-1438	all	_	
+10-52	1439-1446	aspects	_	
+10-53	1447-1449	of	_	
+10-54	1450-1457	product	_	
+10-55	1458-1469	development	_	
+10-56	1470-1473	and	_	
+10-57	1474-1481	project	_	
+10-58	1482-1492	management	_	
+10-59	1494-1495	�	_	
+10-60	1496-1505	Scripting	_	
+10-61	1506-1508	to	_	
+10-62	1509-1516	support	_	
+10-63	1517-1528	application	_	
+10-64	1529-1531	of	_	
+10-65	1532-1540	security	_	
+10-66	1541-1549	settings	_	
+10-67	1550-1552	on	_	
+10-68	1553-1560	Windows	_	
+10-69	1561-1564	and	_	
+10-70	1565-1571	RedHat	_	
+10-71	1572-1582	Enterprise	_	
+10-72	1583-1588	Linux	SKILL	
+10-73	1589-1598	platforms	_	
+10-74	1600-1601	�	_	
+10-75	1602-1611	Designing	_	
+10-76	1612-1619	systems	_	
+10-77	1620-1622	to	_	
+10-78	1623-1627	meet	_	
+10-79	1628-1635	current	_	
+10-80	1636-1639	and	_	
+10-81	1640-1646	future	_	
+10-82	1647-1655	software	_	
+10-83	1656-1659	and	_	
+10-84	1660-1671	application	_	
+10-85	1672-1684	requirements	_	
+10-86	1686-1687	�	_	
+10-87	1688-1692	Have	_	
+10-88	1693-1696	the	_	
+10-89	1697-1704	ability	_	
+10-90	1705-1707	to	_	
+10-91	1708-1712	work	_	
+10-92	1713-1717	with	_	
+10-93	1718-1726	multiple	_	
+10-94	1727-1734	support	_	
+10-95	1735-1740	teams	_	
+10-96	1741-1743	to	_	
+10-97	1744-1752	identify	_	
+10-98	1753-1756	and	_	
+10-99	1757-1764	resolve	_	
+10-100	1765-1771	issues	_	
+10-101	1773-1774	�	_	
+10-102	1775-1784	Implement	_	
+10-103	1785-1788	and	_	
+10-104	1789-1793	test	_	
+10-105	1794-1802	software	_	
+10-106	1802-1803	/	_	
+10-107	1803-1810	systems	_	
+10-108	1811-1816	using	_	
+10-109	1817-1818	a	_	
+10-110	1819-1826	variety	_	
+10-111	1827-1829	of	_	
+10-112	1830-1842	technologies	_	
+10-113	1843-1845	to	_	
+10-114	1846-1853	include	_	
+10-115	1854-1863	scripting	_	
+10-116	1864-1866	to	_	
+10-117	1867-1874	support	_	
+10-118	1875-1884	automated	_	
+10-119	1885-1892	testing	_	
+10-120	1894-1895	�	_	
+10-121	1896-1906	Networking	_	
+10-122	1907-1910	and	_	
+10-123	1911-1918	support	_	
+10-124	1919-1921	of	_	
+10-125	1922-1930	Ethernet	_	
+10-126	1931-1934	and	_	
+10-127	1935-1940	Fiber	_	
+10-128	1941-1948	Channel	_	
+10-129	1949-1957	networks	_	
+10-130	1959-1960	�	_	
+10-131	1961-1968	Support	_	
+10-132	1969-1975	VMWare	_	
+10-133	1976-1979	and	_	
+10-134	1980-1985	Linux	SKILL	
+10-135	1986-2000	virtualization	_	
+10-136	2001-2013	applications	_	
+10-137	2015-2016	�	_	
+10-138	2017-2023	Attend	_	
+10-139	2024-2030	design	_	
+10-140	2031-2034	and	_	
+10-141	2035-2041	review	_	
+10-142	2042-2047	board	_	
+10-143	2048-2056	meetings	_	
+10-144	2057-2059	to	_	
+10-145	2060-2064	help	_	
+10-146	2065-2075	facilitate	_	
+10-147	2076-2082	system	_	
+10-148	2083-2091	maturity	_	
+10-149	2092-2095	and	_	
+10-150	2096-2105	lifecycle	_	
+10-151	2106-2113	support	_	
+10-152	2115-2116	�	_	
+10-153	2117-2124	Storage	_	
+10-154	2125-2129	Area	_	
+10-155	2130-2137	Network	_	
+10-156	2138-2141	and	_	
+10-157	2142-2149	Network	_	
+10-158	2150-2158	Attached	_	
+10-159	2159-2166	Storage	_	
+10-160	2167-2181	administration	_	
+10-161	2183-2184	�	_	
+10-162	2185-2195	Occasional	_	
+10-163	2196-2204	domestic	_	
+10-164	2205-2207	or	_	
+10-165	2208-2221	international	_	
+10-166	2222-2228	travel	_	
+10-167	2229-2232	may	_	
+10-168	2233-2235	be	_	
+10-169	2236-2244	required	_	
+10-170	2244-2245	.	_	
+
+#Text=This position is hybrid.
+11-1	2249-2253	This	_	
+11-2	2254-2262	position	_	
+11-3	2263-2265	is	_	
+11-4	2266-2272	hybrid	_	
+11-5	2272-2273	.	_	
+
+#Text=This means that the selected candidate will be required to perform some work onsite at one of the listed location options.
+12-1	2274-2278	This	_	
+12-2	2279-2284	means	_	
+12-3	2285-2289	that	_	
+12-4	2290-2293	the	_	
+12-5	2294-2302	selected	_	
+12-6	2303-2312	candidate	_	
+12-7	2313-2317	will	_	
+12-8	2318-2320	be	_	
+12-9	2321-2329	required	_	
+12-10	2330-2332	to	_	
+12-11	2333-2340	perform	_	
+12-12	2341-2345	some	_	
+12-13	2346-2350	work	_	
+12-14	2351-2357	onsite	_	
+12-15	2358-2360	at	_	
+12-16	2361-2364	one	_	
+12-17	2365-2367	of	_	
+12-18	2368-2371	the	_	
+12-19	2372-2378	listed	_	
+12-20	2379-2387	location	_	
+12-21	2388-2395	options	_	
+12-22	2395-2396	.	_	
+
+#Text=This is at the hiring team�s discretion and could potentially change in the future.
+13-1	2397-2401	This	_	
+13-2	2402-2404	is	_	
+13-3	2405-2407	at	_	
+13-4	2408-2411	the	_	
+13-5	2412-2418	hiring	_	
+13-6	2419-2423	team	_	
+13-7	2423-2424	�	_	
+13-8	2424-2425	s	_	
+13-9	2426-2436	discretion	_	
+13-10	2437-2440	and	_	
+13-11	2441-2446	could	_	
+13-12	2447-2458	potentially	_	
+13-13	2459-2465	change	_	
+13-14	2466-2468	in	_	
+13-15	2469-2472	the	_	
+13-16	2473-2479	future	_	
+13-17	2479-2480	.	_	
+
+#Text=This position requires an active U.S.
+14-1	2484-2488	This	_	
+14-2	2489-2497	position	_	
+14-3	2498-2506	requires	_	
+14-4	2507-2509	an	_	
+14-5	2510-2516	active	_	
+14-6	2517-2520	U.S	_	
+14-7	2520-2521	.	_	
+
+#Text=Secret Security Clearance (U.S.
+15-1	2522-2528	Secret	_	
+15-2	2529-2537	Security	_	
+15-3	2538-2547	Clearance	_	
+15-4	2548-2549	(	_	
+15-5	2549-2552	U.S	_	
+15-6	2552-2553	.	_	
+
+#Text=Citizenship Required).
+16-1	2554-2565	Citizenship	_	
+16-2	2566-2574	Required	_	
+16-3	2574-2575	)	_	
+16-4	2575-2576	.	_	
+
+#Text=(A U.S.
+17-1	2577-2578	(	_	
+17-2	2578-2579	A	_	
+17-3	2580-2583	U.S	_	
+17-4	2583-2584	.	_	
+
+#Text=Security Clearance that has been active in the past 24 months is considered active)\r
+#Text=\r
+#Text=Basic Qualifications (Required Skills and Experience):\r
+#Text=� Experience having System Administration experience of Linux/Unix or Windows platforms\r
+#Text=� 2+ years of experience in software systems integration\r
+#Text=� 2+ years of experience in scripting activities in a Linux or Windows environment\r
+#Text=\r
+#Text=Desired Experience, Skills and Qualifications:\r
+#Text=� 2 or more years' related work experience or an equivalent combination of education and experience\r
+#Text=� 3 or more years' related work experience or an equivalent combination of education and experience\r
+#Text=\r
+#Text=Typical Education and Experience:\r
+#Text=\r
+#Text=Associate Level:\r
+#Text=\r
+#Text=Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g.
+18-1	2585-2593	Security	_	
+18-2	2594-2603	Clearance	_	
+18-3	2604-2608	that	_	
+18-4	2609-2612	has	_	
+18-5	2613-2617	been	_	
+18-6	2618-2624	active	_	
+18-7	2625-2627	in	_	
+18-8	2628-2631	the	_	
+18-9	2632-2636	past	_	
+18-10	2637-2639	24	_	
+18-11	2640-2646	months	_	
+18-12	2647-2649	is	_	
+18-13	2650-2660	considered	_	
+18-14	2661-2667	active	_	
+18-15	2667-2668	)	_	
+18-16	2672-2677	Basic	_	
+18-17	2678-2692	Qualifications	_	
+18-18	2693-2694	(	_	
+18-19	2694-2702	Required	_	
+18-20	2703-2709	Skills	_	
+18-21	2710-2713	and	_	
+18-22	2714-2724	Experience	_	
+18-23	2724-2725	)	_	
+18-24	2725-2726	:	_	
+18-25	2728-2729	�	_	
+18-26	2730-2740	Experience	_	
+18-27	2741-2747	having	_	
+18-28	2748-2754	System	_	
+18-29	2755-2769	Administration	_	
+18-30	2770-2780	experience	_	
+18-31	2781-2783	of	_	
+18-32	2784-2789	Linux	SKILL	
+18-33	2789-2790	/	_	
+18-34	2790-2794	Unix	SKILL	
+18-35	2795-2797	or	_	
+18-36	2798-2805	Windows	_	
+18-37	2806-2815	platforms	_	
+18-38	2817-2818	�	_	
+18-39	2819-2820	2	_	
+18-40	2820-2821	+	_	
+18-41	2822-2827	years	_	
+18-42	2828-2830	of	_	
+18-43	2831-2841	experience	_	
+18-44	2842-2844	in	_	
+18-45	2845-2853	software	_	
+18-46	2854-2861	systems	_	
+18-47	2862-2873	integration	_	
+18-48	2875-2876	�	_	
+18-49	2877-2878	2	_	
+18-50	2878-2879	+	_	
+18-51	2880-2885	years	_	
+18-52	2886-2888	of	_	
+18-53	2889-2899	experience	_	
+18-54	2900-2902	in	_	
+18-55	2903-2912	scripting	_	
+18-56	2913-2923	activities	_	
+18-57	2924-2926	in	_	
+18-58	2927-2928	a	_	
+18-59	2929-2934	Linux	SKILL	
+18-60	2935-2937	or	_	
+18-61	2938-2945	Windows	_	
+18-62	2946-2957	environment	_	
+18-63	2961-2968	Desired	_	
+18-64	2969-2979	Experience	_	
+18-65	2979-2980	,	_	
+18-66	2981-2987	Skills	_	
+18-67	2988-2991	and	_	
+18-68	2992-3006	Qualifications	_	
+18-69	3006-3007	:	_	
+18-70	3009-3010	�	_	
+18-71	3011-3012	2	_	
+18-72	3013-3015	or	_	
+18-73	3016-3020	more	_	
+18-74	3021-3026	years	_	
+18-75	3026-3027	'	_	
+18-76	3028-3035	related	_	
+18-77	3036-3040	work	_	
+18-78	3041-3051	experience	_	
+18-79	3052-3054	or	_	
+18-80	3055-3057	an	_	
+18-81	3058-3068	equivalent	_	
+18-82	3069-3080	combination	_	
+18-83	3081-3083	of	_	
+18-84	3084-3093	education	_	
+18-85	3094-3097	and	_	
+18-86	3098-3108	experience	_	
+18-87	3110-3111	�	_	
+18-88	3112-3113	3	_	
+18-89	3114-3116	or	_	
+18-90	3117-3121	more	_	
+18-91	3122-3127	years	_	
+18-92	3127-3128	'	_	
+18-93	3129-3136	related	_	
+18-94	3137-3141	work	_	
+18-95	3142-3152	experience	_	
+18-96	3153-3155	or	_	
+18-97	3156-3158	an	_	
+18-98	3159-3169	equivalent	_	
+18-99	3170-3181	combination	_	
+18-100	3182-3184	of	_	
+18-101	3185-3194	education	_	
+18-102	3195-3198	and	_	
+18-103	3199-3209	experience	_	
+18-104	3213-3220	Typical	_	
+18-105	3221-3230	Education	_	
+18-106	3231-3234	and	_	
+18-107	3235-3245	Experience	_	
+18-108	3245-3246	:	_	
+18-109	3250-3259	Associate	_	
+18-110	3260-3265	Level	_	
+18-111	3265-3266	:	_	
+18-112	3270-3279	Education	_	
+18-113	3279-3280	/	_	
+18-114	3280-3290	experience	_	
+18-115	3291-3300	typically	_	
+18-116	3301-3309	acquired	_	
+18-117	3310-3317	through	_	
+18-118	3318-3326	advanced	_	
+18-119	3327-3336	technical	_	
+18-120	3337-3346	education	_	
+18-121	3347-3351	from	_	
+18-122	3352-3354	an	_	
+18-123	3355-3365	accredited	_	
+18-124	3366-3372	course	_	
+18-125	3373-3375	of	_	
+18-126	3376-3381	study	_	
+18-127	3382-3384	in	_	
+18-128	3385-3396	engineering	_	
+18-129	3396-3397	,	_	
+18-130	3398-3406	computer	_	
+18-131	3407-3414	science	_	
+18-132	3414-3415	,	_	
+18-133	3416-3427	mathematics	_	
+18-134	3427-3428	,	_	
+18-135	3429-3436	physics	_	
+18-136	3437-3439	or	_	
+18-137	3440-3449	chemistry	_	
+18-138	3450-3451	(	_	
+18-139	3451-3454	e.g	_	
+18-140	3454-3455	.	_	
+
+#Text=Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g.
+19-1	3456-3464	Bachelor	_	
+19-2	3464-3465	)	_	
+19-3	3466-3469	and	_	
+19-4	3470-3479	typically	_	
+19-5	3480-3481	2	_	
+19-6	3482-3484	or	_	
+19-7	3485-3489	more	_	
+19-8	3490-3495	years	_	
+19-9	3495-3496	'	_	
+19-10	3497-3504	related	_	
+19-11	3505-3509	work	_	
+19-12	3510-3520	experience	_	
+19-13	3521-3523	or	_	
+19-14	3524-3526	an	_	
+19-15	3527-3537	equivalent	_	
+19-16	3538-3549	combination	_	
+19-17	3550-3552	of	_	
+19-18	3553-3562	technical	_	
+19-19	3563-3572	education	_	
+19-20	3573-3576	and	_	
+19-21	3577-3587	experience	_	
+19-22	3588-3589	(	_	
+19-23	3589-3592	e.g	_	
+19-24	3592-3593	.	_	
+
+#Text=Masters degree plus experience).
+20-1	3594-3601	Masters	_	
+20-2	3602-3608	degree	_	
+20-3	3609-3613	plus	_	
+20-4	3614-3624	experience	_	
+20-5	3624-3625	)	_	
+20-6	3625-3626	.	_	
+
+#Text=In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+21-1	3627-3629	In	_	
+21-2	3630-3633	the	_	
+21-3	3634-3637	USA	_	
+21-4	3637-3638	,	_	
+21-5	3639-3643	ABET	_	
+21-6	3644-3657	accreditation	_	
+21-7	3658-3660	is	_	
+21-8	3661-3664	the	_	
+21-9	3665-3674	preferred	_	
+21-10	3674-3675	,	_	
+21-11	3676-3684	although	_	
+21-12	3685-3688	not	_	
+21-13	3689-3697	required	_	
+21-14	3697-3698	,	_	
+21-15	3699-3712	accreditation	_	
+21-16	3713-3721	standard	_	
+21-17	3721-3722	.	_	
+
+#Text=Experienced Level: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g.
+22-1	3726-3737	Experienced	_	
+22-2	3738-3743	Level	_	
+22-3	3743-3744	:	_	
+22-4	3745-3754	Education	_	
+22-5	3754-3755	/	_	
+22-6	3755-3765	experience	_	
+22-7	3766-3775	typically	_	
+22-8	3776-3784	acquired	_	
+22-9	3785-3792	through	_	
+22-10	3793-3801	advanced	_	
+22-11	3802-3811	technical	_	
+22-12	3812-3821	education	_	
+22-13	3822-3826	from	_	
+22-14	3827-3829	an	_	
+22-15	3830-3840	accredited	_	
+22-16	3841-3847	course	_	
+22-17	3848-3850	of	_	
+22-18	3851-3856	study	_	
+22-19	3857-3859	in	_	
+22-20	3860-3871	engineering	_	
+22-21	3871-3872	,	_	
+22-22	3873-3881	computer	_	
+22-23	3882-3889	science	_	
+22-24	3889-3890	,	_	
+22-25	3891-3902	mathematics	_	
+22-26	3902-3903	,	_	
+22-27	3904-3911	physics	_	
+22-28	3912-3914	or	_	
+22-29	3915-3924	chemistry	_	
+22-30	3925-3926	(	_	
+22-31	3926-3929	e.g	_	
+22-32	3929-3930	.	_	
+
+#Text=Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g.
+23-1	3931-3939	Bachelor	_	
+23-2	3939-3940	)	_	
+23-3	3941-3944	and	_	
+23-4	3945-3954	typically	_	
+23-5	3955-3956	5	_	
+23-6	3957-3959	or	_	
+23-7	3960-3964	more	_	
+23-8	3965-3970	years	_	
+23-9	3970-3971	'	_	
+23-10	3972-3979	related	_	
+23-11	3980-3984	work	_	
+23-12	3985-3995	experience	_	
+23-13	3996-3998	or	_	
+23-14	3999-4001	an	_	
+23-15	4002-4012	equivalent	_	
+23-16	4013-4024	combination	_	
+23-17	4025-4027	of	_	
+23-18	4028-4037	technical	_	
+23-19	4038-4047	education	_	
+23-20	4048-4051	and	_	
+23-21	4052-4062	experience	_	
+23-22	4063-4064	(	_	
+23-23	4064-4067	e.g	_	
+23-24	4067-4068	.	_	
+
+#Text=PhD, Master+3 years' related work experience).
+24-1	4069-4072	PhD	_	
+24-2	4072-4073	,	_	
+24-3	4074-4080	Master	_	
+24-4	4080-4081	+	_	
+24-5	4081-4082	3	_	
+24-6	4083-4088	years	_	
+24-7	4088-4089	'	_	
+24-8	4090-4097	related	_	
+24-9	4098-4102	work	_	
+24-10	4103-4113	experience	_	
+24-11	4113-4114	)	_	
+24-12	4114-4115	.	_	
+
+#Text=In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+25-1	4116-4118	In	_	
+25-2	4119-4122	the	_	
+25-3	4123-4126	USA	_	
+25-4	4126-4127	,	_	
+25-5	4128-4132	ABET	_	
+25-6	4133-4146	accreditation	_	
+25-7	4147-4149	is	_	
+25-8	4150-4153	the	_	
+25-9	4154-4163	preferred	_	
+25-10	4163-4164	,	_	
+25-11	4165-4173	although	_	
+25-12	4174-4177	not	_	
+25-13	4178-4186	required	_	
+25-14	4186-4187	,	_	
+25-15	4188-4201	accreditation	_	
+25-16	4202-4210	standard	_	
+25-17	4210-4211	.	_	
+
+#Text=Relocation:\r
+#Text=\r
+#Text=This position offers relocation based on candidate eligibility.
+26-1	4215-4225	Relocation	_	
+26-2	4225-4226	:	_	
+26-3	4230-4234	This	_	
+26-4	4235-4243	position	_	
+26-5	4244-4250	offers	_	
+26-6	4251-4261	relocation	_	
+26-7	4262-4267	based	_	
+26-8	4268-4270	on	_	
+26-9	4271-4280	candidate	_	
+26-10	4281-4292	eligibility	_	
+26-11	4292-4293	.	_	
+
+#Text=Drug Free Workplace\r
+#Text=\r
+#Text=Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+27-1	4297-4301	Drug	_	
+27-2	4302-4306	Free	_	
+27-3	4307-4316	Workplace	_	
+27-4	4320-4326	Boeing	_	
+27-5	4327-4329	is	_	
+27-6	4330-4331	a	_	
+27-7	4332-4336	Drug	_	
+27-8	4337-4341	Free	_	
+27-9	4342-4351	Workplace	_	
+27-10	4352-4357	where	_	
+27-11	4358-4362	post	_	
+27-12	4363-4368	offer	_	
+27-13	4369-4379	applicants	_	
+27-14	4380-4383	and	_	
+27-15	4384-4393	employees	_	
+27-16	4394-4397	are	_	
+27-17	4398-4405	subject	_	
+27-18	4406-4408	to	_	
+27-19	4409-4416	testing	_	
+27-20	4417-4420	for	_	
+27-21	4421-4430	marijuana	_	
+27-22	4430-4431	,	_	
+27-23	4432-4439	cocaine	_	
+27-24	4439-4440	,	_	
+27-25	4441-4448	opioids	_	
+27-26	4448-4449	,	_	
+27-27	4450-4462	amphetamines	_	
+27-28	4462-4463	,	_	
+27-29	4464-4467	PCP	_	
+27-30	4467-4468	,	_	
+27-31	4469-4472	and	_	
+27-32	4473-4480	alcohol	_	
+27-33	4481-4485	when	_	
+27-34	4486-4494	criteria	_	
+27-35	4495-4497	is	_	
+27-36	4498-4501	met	_	
+27-37	4502-4504	as	_	
+27-38	4505-4513	outlined	_	
+27-39	4514-4516	in	_	
+27-40	4517-4520	our	_	
+27-41	4521-4529	policies	_	
+27-42	4529-4530	.	_	
+
+#Text=General\r
+#Text=\r
+#Text=Shift (US Specific):\r
+#Text=\r
+#Text=This position is for 1st shift\r
+#Text=\r
+#Text=Pay Transparency:\r
+#Text=\r
+#Text=At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent.
+28-1	4534-4541	General	_	
+28-2	4545-4550	Shift	_	
+28-3	4551-4552	(	_	
+28-4	4552-4554	US	_	
+28-5	4555-4563	Specific	_	
+28-6	4563-4564	)	_	
+28-7	4564-4565	:	_	
+28-8	4569-4573	This	_	
+28-9	4574-4582	position	_	
+28-10	4583-4585	is	_	
+28-11	4586-4589	for	_	
+28-12	4590-4593	1st	_	
+28-13	4594-4599	shift	_	
+28-14	4603-4606	Pay	_	
+28-15	4607-4619	Transparency	_	
+28-16	4619-4620	:	_	
+28-17	4624-4626	At	_	
+28-18	4627-4633	Boeing	_	
+28-19	4633-4634	,	_	
+28-20	4635-4637	we	_	
+28-21	4638-4644	strive	_	
+28-22	4645-4647	to	_	
+28-23	4648-4655	deliver	_	
+28-24	4656-4657	a	_	
+28-25	4658-4663	Total	_	
+28-26	4664-4671	Rewards	_	
+28-27	4672-4679	package	_	
+28-28	4680-4684	that	_	
+28-29	4685-4689	will	_	
+28-30	4690-4697	attract	_	
+28-31	4697-4698	,	_	
+28-32	4699-4705	engage	_	
+28-33	4706-4709	and	_	
+28-34	4710-4716	retain	_	
+28-35	4717-4720	the	_	
+28-36	4721-4724	top	_	
+28-37	4725-4731	talent	_	
+28-38	4731-4732	.	_	
+
+#Text=Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+29-1	4733-4741	Elements	_	
+29-2	4742-4744	of	_	
+29-3	4745-4748	the	_	
+29-4	4749-4754	Total	_	
+29-5	4755-4762	Rewards	_	
+29-6	4763-4770	package	_	
+29-7	4771-4778	include	_	
+29-8	4779-4790	competitive	_	
+29-9	4791-4795	base	_	
+29-10	4796-4799	pay	_	
+29-11	4800-4803	and	_	
+29-12	4804-4812	variable	_	
+29-13	4813-4825	compensation	_	
+29-14	4826-4839	opportunities	_	
+29-15	4839-4840	.	_	
+
+#Text=The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+30-1	4844-4847	The	_	
+30-2	4848-4854	Boeing	_	
+30-3	4855-4862	Company	_	
+30-4	4863-4867	also	_	
+30-5	4868-4876	provides	_	
+30-6	4877-4885	eligible	_	
+30-7	4886-4895	employees	_	
+30-8	4896-4900	with	_	
+30-9	4901-4903	an	_	
+30-10	4904-4915	opportunity	_	
+30-11	4916-4918	to	_	
+30-12	4919-4925	enroll	_	
+30-13	4926-4928	in	_	
+30-14	4929-4930	a	_	
+30-15	4931-4938	variety	_	
+30-16	4939-4941	of	_	
+30-17	4942-4949	benefit	_	
+30-18	4950-4958	programs	_	
+30-19	4958-4959	,	_	
+30-20	4960-4969	generally	_	
+30-21	4970-4979	including	_	
+30-22	4980-4986	health	_	
+30-23	4987-4996	insurance	_	
+30-24	4996-4997	,	_	
+30-25	4998-5006	flexible	_	
+30-26	5007-5015	spending	_	
+30-27	5016-5024	accounts	_	
+30-28	5024-5025	,	_	
+30-29	5026-5032	health	_	
+30-30	5033-5040	savings	_	
+30-31	5041-5049	accounts	_	
+30-32	5049-5050	,	_	
+30-33	5051-5061	retirement	_	
+30-34	5062-5069	savings	_	
+30-35	5070-5075	plans	_	
+30-36	5075-5076	,	_	
+30-37	5077-5081	life	_	
+30-38	5082-5085	and	_	
+30-39	5086-5096	disability	_	
+30-40	5097-5106	insurance	_	
+30-41	5107-5115	programs	_	
+30-42	5115-5116	,	_	
+30-43	5117-5120	and	_	
+30-44	5121-5122	a	_	
+30-45	5123-5129	number	_	
+30-46	5130-5132	of	_	
+30-47	5133-5141	programs	_	
+30-48	5142-5146	that	_	
+30-49	5147-5154	provide	_	
+30-50	5155-5158	for	_	
+30-51	5159-5163	both	_	
+30-52	5164-5168	paid	_	
+30-53	5169-5172	and	_	
+30-54	5173-5179	unpaid	_	
+30-55	5180-5184	time	_	
+30-56	5185-5189	away	_	
+30-57	5190-5194	from	_	
+30-58	5195-5199	work	_	
+30-59	5199-5200	.	_	
+
+#Text=The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+31-1	5204-5207	The	_	
+31-2	5208-5216	specific	_	
+31-3	5217-5225	programs	_	
+31-4	5226-5229	and	_	
+31-5	5230-5237	options	_	
+31-6	5238-5247	available	_	
+31-7	5248-5250	to	_	
+31-8	5251-5254	any	_	
+31-9	5255-5260	given	_	
+31-10	5261-5269	employee	_	
+31-11	5270-5273	may	_	
+31-12	5274-5278	vary	_	
+31-13	5279-5288	depending	_	
+31-14	5289-5291	on	_	
+31-15	5292-5303	eligibility	_	
+31-16	5304-5311	factors	_	
+31-17	5312-5316	such	_	
+31-18	5317-5319	as	_	
+31-19	5320-5330	geographic	_	
+31-20	5331-5339	location	_	
+31-21	5339-5340	,	_	
+31-22	5341-5345	date	_	
+31-23	5346-5348	of	_	
+31-24	5349-5353	hire	_	
+31-25	5353-5354	,	_	
+31-26	5355-5358	and	_	
+31-27	5359-5362	the	_	
+31-28	5363-5376	applicability	_	
+31-29	5377-5379	of	_	
+31-30	5380-5390	collective	_	
+31-31	5391-5401	bargaining	_	
+31-32	5402-5412	agreements	_	
+31-33	5412-5413	.	_	
+
+#Text=Please note that the salary information shown below is a general guideline only.
+32-1	5417-5423	Please	_	
+32-2	5424-5428	note	_	
+32-3	5429-5433	that	_	
+32-4	5434-5437	the	_	
+32-5	5438-5444	salary	_	
+32-6	5445-5456	information	_	
+32-7	5457-5462	shown	_	
+32-8	5463-5468	below	_	
+32-9	5469-5471	is	_	
+32-10	5472-5473	a	_	
+32-11	5474-5481	general	_	
+32-12	5482-5491	guideline	_	
+32-13	5492-5496	only	_	
+32-14	5496-5497	.	_	
+
+#Text=Salaries are based upon candidate experience and qualifications, as well as market and business considerations.
+33-1	5498-5506	Salaries	_	
+33-2	5507-5510	are	_	
+33-3	5511-5516	based	_	
+33-4	5517-5521	upon	_	
+33-5	5522-5531	candidate	_	
+33-6	5532-5542	experience	_	
+33-7	5543-5546	and	_	
+33-8	5547-5561	qualifications	_	
+33-9	5561-5562	,	_	
+33-10	5563-5565	as	_	
+33-11	5566-5570	well	_	
+33-12	5571-5573	as	_	
+33-13	5574-5580	market	_	
+33-14	5581-5584	and	_	
+33-15	5585-5593	business	_	
+33-16	5594-5608	considerations	_	
+33-17	5608-5609	.	_	
+
+#Text=Summary pay range:\r
+#Text=\r
+#Text=Associate Level: $79,050 - $106,950\r
+#Text=\r
+#Text=Experienced Level: $96,900 - $131,100\r
+#Text=\r
+#Text=Eligible for 3ERP\r
+#Text=\r
+#Text=Export Control Requirements: U.S.
+34-1	5613-5620	Summary	_	
+34-2	5621-5624	pay	_	
+34-3	5625-5630	range	_	
+34-4	5630-5631	:	_	
+34-5	5635-5644	Associate	_	
+34-6	5645-5650	Level	_	
+34-7	5650-5651	:	_	
+34-8	5652-5659	$79,050	_	
+34-9	5660-5661	-	_	
+34-10	5662-5670	$106,950	_	
+34-11	5674-5685	Experienced	_	
+34-12	5686-5691	Level	_	
+34-13	5691-5692	:	_	
+34-14	5693-5700	$96,900	_	
+34-15	5701-5702	-	_	
+34-16	5703-5711	$131,100	_	
+34-17	5715-5723	Eligible	_	
+34-18	5724-5727	for	_	
+34-19	5728-5732	3ERP	_	
+34-20	5736-5742	Export	_	
+34-21	5743-5750	Control	_	
+34-22	5751-5763	Requirements	_	
+34-23	5763-5764	:	_	
+34-24	5765-5768	U.S	_	
+34-25	5768-5769	.	_	
+
+#Text=Government Export Control Status: This position must meet export control compliance requirements.
+35-1	5770-5780	Government	_	
+35-2	5781-5787	Export	_	
+35-3	5788-5795	Control	_	
+35-4	5796-5802	Status	_	
+35-5	5802-5803	:	_	
+35-6	5804-5808	This	_	
+35-7	5809-5817	position	_	
+35-8	5818-5822	must	_	
+35-9	5823-5827	meet	_	
+35-10	5828-5834	export	_	
+35-11	5835-5842	control	_	
+35-12	5843-5853	compliance	_	
+35-13	5854-5866	requirements	_	
+35-14	5866-5867	.	_	
+
+#Text=To meet export control compliance requirements, a �U.S.
+36-1	5868-5870	To	_	
+36-2	5871-5875	meet	_	
+36-3	5876-5882	export	_	
+36-4	5883-5890	control	_	
+36-5	5891-5901	compliance	_	
+36-6	5902-5914	requirements	_	
+36-7	5914-5915	,	_	
+36-8	5916-5917	a	_	
+36-9	5918-5919	�	_	
+36-10	5919-5922	U.S	_	
+36-11	5922-5923	.	_	
+
+#Text=Person� as defined by 22 C.F.R. �120.15 is required.
+37-1	5924-5930	Person	_	
+37-2	5930-5931	�	_	
+37-3	5932-5934	as	_	
+37-4	5935-5942	defined	_	
+37-5	5943-5945	by	_	
+37-6	5946-5948	22	_	
+37-7	5949-5954	C.F.R	_	
+37-8	5954-5955	.	_	
+37-9	5956-5957	�	_	
+37-10	5957-5963	120.15	_	
+37-11	5964-5966	is	_	
+37-12	5967-5975	required	_	
+37-13	5975-5976	.	_	
+
+#Text=�U.S.
+38-1	5977-5978	�	_	
+38-2	5978-5981	U.S	_	
+38-3	5981-5982	.	_	
+
+#Text=Person� includes U.S.
+39-1	5983-5989	Person	_	
+39-2	5989-5990	�	_	
+39-3	5991-5999	includes	_	
+39-4	6000-6003	U.S	_	
+39-5	6003-6004	.	_	
+
+#Text=Citizen, lawful permanent resident, refugee, or asylee.
+40-1	6005-6012	Citizen	_	
+40-2	6012-6013	,	_	
+40-3	6014-6020	lawful	_	
+40-4	6021-6030	permanent	_	
+40-5	6031-6039	resident	_	
+40-6	6039-6040	,	_	
+40-7	6041-6048	refugee	_	
+40-8	6048-6049	,	_	
+40-9	6050-6052	or	_	
+40-10	6053-6059	asylee	_	
+40-11	6059-6060	.	_	
+
+#Text=Export Control Details: US based job, US Person required\r
+#Text=\r
+#Text=Equal Opportunity Employer:\r
+#Text=\r
+#Text=Boeing is an Equal Opportunity Employer.
+41-1	6064-6070	Export	_	
+41-2	6071-6078	Control	_	
+41-3	6079-6086	Details	_	
+41-4	6086-6087	:	_	
+41-5	6088-6090	US	_	
+41-6	6091-6096	based	_	
+41-7	6097-6100	job	_	
+41-8	6100-6101	,	_	
+41-9	6102-6104	US	_	
+41-10	6105-6111	Person	_	
+41-11	6112-6120	required	_	
+41-12	6124-6129	Equal	_	
+41-13	6130-6141	Opportunity	_	
+41-14	6142-6150	Employer	_	
+41-15	6150-6151	:	_	
+41-16	6155-6161	Boeing	_	
+41-17	6162-6164	is	_	
+41-18	6165-6167	an	_	
+41-19	6168-6173	Equal	_	
+41-20	6174-6185	Opportunity	_	
+41-21	6186-6194	Employer	_	
+41-22	6194-6195	.	_	
+
+#Text=Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law\r
+#Text=This position requires an active U.S.
+42-1	6196-6206	Employment	_	
+42-2	6207-6216	decisions	_	
+42-3	6217-6220	are	_	
+42-4	6221-6225	made	_	
+42-5	6226-6233	without	_	
+42-6	6234-6240	regard	_	
+42-7	6241-6243	to	_	
+42-8	6244-6248	race	_	
+42-9	6248-6249	,	_	
+42-10	6250-6255	color	_	
+42-11	6255-6256	,	_	
+42-12	6257-6265	religion	_	
+42-13	6265-6266	,	_	
+42-14	6267-6275	national	_	
+42-15	6276-6282	origin	_	
+42-16	6282-6283	,	_	
+42-17	6284-6290	gender	_	
+42-18	6290-6291	,	_	
+42-19	6292-6298	sexual	_	
+42-20	6299-6310	orientation	_	
+42-21	6310-6311	,	_	
+42-22	6312-6318	gender	_	
+42-23	6319-6327	identity	_	
+42-24	6327-6328	,	_	
+42-25	6329-6332	age	_	
+42-26	6332-6333	,	_	
+42-27	6334-6342	physical	_	
+42-28	6343-6345	or	_	
+42-29	6346-6352	mental	_	
+42-30	6353-6363	disability	_	
+42-31	6363-6364	,	_	
+42-32	6365-6372	genetic	_	
+42-33	6373-6380	factors	_	
+42-34	6380-6381	,	_	
+42-35	6382-6390	military	_	
+42-36	6390-6391	/	_	
+42-37	6391-6398	veteran	_	
+42-38	6399-6405	status	_	
+42-39	6406-6408	or	_	
+42-40	6409-6414	other	_	
+42-41	6415-6430	characteristics	_	
+42-42	6431-6440	protected	_	
+42-43	6441-6443	by	_	
+42-44	6444-6447	law	_	
+42-45	6449-6453	This	_	
+42-46	6454-6462	position	_	
+42-47	6463-6471	requires	_	
+42-48	6472-6474	an	_	
+42-49	6475-6481	active	_	
+42-50	6482-6485	U.S	_	
+42-51	6485-6486	.	_	
+
+#Text=Secret Security Clearance (U.S.
+43-1	6487-6493	Secret	_	
+43-2	6494-6502	Security	_	
+43-3	6503-6512	Clearance	_	
+43-4	6513-6514	(	_	
+43-5	6514-6517	U.S	_	
+43-6	6517-6518	.	_	
+
+#Text=Citizenship Required)\r
+#Text=(A U.S.
+44-1	6519-6530	Citizenship	_	
+44-2	6531-6539	Required	_	
+44-3	6539-6540	)	_	
+44-4	6542-6543	(	_	
+44-5	6543-6544	A	_	
+44-6	6545-6548	U.S	_	
+44-7	6548-6549	.	_	
+
+#Text=Security Clearance that has been active in the past 24 months is considered active)\r
+#Text=Experience having System Administration experience of Linux/Unix or Windows platforms\r
+#Text=2+ years of experience in software systems integration\r
+#Text=2+ years of experience in scripting activities in a Linux or Windows environment\r
+#Text=Experienced Level: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g.
+45-1	6550-6558	Security	_	
+45-2	6559-6568	Clearance	_	
+45-3	6569-6573	that	_	
+45-4	6574-6577	has	_	
+45-5	6578-6582	been	_	
+45-6	6583-6589	active	_	
+45-7	6590-6592	in	_	
+45-8	6593-6596	the	_	
+45-9	6597-6601	past	_	
+45-10	6602-6604	24	_	
+45-11	6605-6611	months	_	
+45-12	6612-6614	is	_	
+45-13	6615-6625	considered	_	
+45-14	6626-6632	active	_	
+45-15	6632-6633	)	_	
+45-16	6635-6645	Experience	_	
+45-17	6646-6652	having	_	
+45-18	6653-6659	System	_	
+45-19	6660-6674	Administration	_	
+45-20	6675-6685	experience	_	
+45-21	6686-6688	of	_	
+45-22	6689-6694	Linux	SKILL	
+45-23	6694-6695	/	_	
+45-24	6695-6699	Unix	SKILL	
+45-25	6700-6702	or	_	
+45-26	6703-6710	Windows	_	
+45-27	6711-6720	platforms	_	
+45-28	6722-6723	2	_	
+45-29	6723-6724	+	_	
+45-30	6725-6730	years	_	
+45-31	6731-6733	of	_	
+45-32	6734-6744	experience	_	
+45-33	6745-6747	in	_	
+45-34	6748-6756	software	_	
+45-35	6757-6764	systems	_	
+45-36	6765-6776	integration	_	
+45-37	6778-6779	2	_	
+45-38	6779-6780	+	_	
+45-39	6781-6786	years	_	
+45-40	6787-6789	of	_	
+45-41	6790-6800	experience	_	
+45-42	6801-6803	in	_	
+45-43	6804-6813	scripting	_	
+45-44	6814-6824	activities	_	
+45-45	6825-6827	in	_	
+45-46	6828-6829	a	_	
+45-47	6830-6835	Linux	SKILL	
+45-48	6836-6838	or	_	
+45-49	6839-6846	Windows	_	
+45-50	6847-6858	environment	_	
+45-51	6860-6871	Experienced	_	
+45-52	6872-6877	Level	_	
+45-53	6877-6878	:	_	
+45-54	6879-6888	Education	_	
+45-55	6888-6889	/	_	
+45-56	6889-6899	experience	_	
+45-57	6900-6909	typically	_	
+45-58	6910-6918	acquired	_	
+45-59	6919-6926	through	_	
+45-60	6927-6935	advanced	_	
+45-61	6936-6945	technical	_	
+45-62	6946-6955	education	_	
+45-63	6956-6960	from	_	
+45-64	6961-6963	an	_	
+45-65	6964-6974	accredited	_	
+45-66	6975-6981	course	_	
+45-67	6982-6984	of	_	
+45-68	6985-6990	study	_	
+45-69	6991-6993	in	_	
+45-70	6994-7005	engineering	_	
+45-71	7005-7006	,	_	
+45-72	7007-7015	computer	_	
+45-73	7016-7023	science	_	
+45-74	7023-7024	,	_	
+45-75	7025-7036	mathematics	_	
+45-76	7036-7037	,	_	
+45-77	7038-7045	physics	_	
+45-78	7046-7048	or	_	
+45-79	7049-7058	chemistry	_	
+45-80	7059-7060	(	_	
+45-81	7060-7063	e.g	_	
+45-82	7063-7064	.	_	
+
+#Text=Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g.
+46-1	7065-7073	Bachelor	_	
+46-2	7073-7074	)	_	
+46-3	7075-7078	and	_	
+46-4	7079-7088	typically	_	
+46-5	7089-7090	5	_	
+46-6	7091-7093	or	_	
+46-7	7094-7098	more	_	
+46-8	7099-7104	years	_	
+46-9	7104-7105	'	_	
+46-10	7106-7113	related	_	
+46-11	7114-7118	work	_	
+46-12	7119-7129	experience	_	
+46-13	7130-7132	or	_	
+46-14	7133-7135	an	_	
+46-15	7136-7146	equivalent	_	
+46-16	7147-7158	combination	_	
+46-17	7159-7161	of	_	
+46-18	7162-7171	technical	_	
+46-19	7172-7181	education	_	
+46-20	7182-7185	and	_	
+46-21	7186-7196	experience	_	
+46-22	7197-7198	(	_	
+46-23	7198-7201	e.g	_	
+46-24	7201-7202	.	_	
+
+#Text=PhD, Master+3 years' related work experience)\r
+#Text=Eligible for 3ERP\r
+#Text=Export Control Requirements: U.S.
+47-1	7203-7206	PhD	_	
+47-2	7206-7207	,	_	
+47-3	7208-7214	Master	_	
+47-4	7214-7215	+	_	
+47-5	7215-7216	3	_	
+47-6	7217-7222	years	_	
+47-7	7222-7223	'	_	
+47-8	7224-7231	related	_	
+47-9	7232-7236	work	_	
+47-10	7237-7247	experience	_	
+47-11	7247-7248	)	_	
+47-12	7250-7258	Eligible	_	
+47-13	7259-7262	for	_	
+47-14	7263-7267	3ERP	_	
+47-15	7269-7275	Export	_	
+47-16	7276-7283	Control	_	
+47-17	7284-7296	Requirements	_	
+47-18	7296-7297	:	_	
+47-19	7298-7301	U.S	_	
+47-20	7301-7302	.	_	
+
+#Text=Government Export Control Status: This position must meet export control compliance requirements\r
+#Text=To meet export control compliance requirements, a �U.S.
+48-1	7303-7313	Government	_	
+48-2	7314-7320	Export	_	
+48-3	7321-7328	Control	_	
+48-4	7329-7335	Status	_	
+48-5	7335-7336	:	_	
+48-6	7337-7341	This	_	
+48-7	7342-7350	position	_	
+48-8	7351-7355	must	_	
+48-9	7356-7360	meet	_	
+48-10	7361-7367	export	_	
+48-11	7368-7375	control	_	
+48-12	7376-7386	compliance	_	
+48-13	7387-7399	requirements	_	
+48-14	7401-7403	To	_	
+48-15	7404-7408	meet	_	
+48-16	7409-7415	export	_	
+48-17	7416-7423	control	_	
+48-18	7424-7434	compliance	_	
+48-19	7435-7447	requirements	_	
+48-20	7447-7448	,	_	
+48-21	7449-7450	a	_	
+48-22	7451-7452	�	_	
+48-23	7452-7455	U.S	_	
+48-24	7455-7456	.	_	
+
+#Text=Person� as defined by 22 C.F.R. �120.15 is required\r
+#Text=�U.S.
+49-1	7457-7463	Person	_	
+49-2	7463-7464	�	_	
+49-3	7465-7467	as	_	
+49-4	7468-7475	defined	_	
+49-5	7476-7478	by	_	
+49-6	7479-7481	22	_	
+49-7	7482-7487	C.F.R	_	
+49-8	7487-7488	.	_	
+49-9	7489-7490	�	_	
+49-10	7490-7496	120.15	_	
+49-11	7497-7499	is	_	
+49-12	7500-7508	required	_	
+49-13	7510-7511	�	_	
+49-14	7511-7514	U.S	_	
+49-15	7514-7515	.	_	
+
+#Text=Person� includes U.S.
+50-1	7516-7522	Person	_	
+50-2	7522-7523	�	_	
+50-3	7524-7532	includes	_	
+50-4	7533-7536	U.S	_	
+50-5	7536-7537	.	_	
+
+#Text=Citizen, lawful permanent resident, refugee, or asyleeTraining Systems is responsible for the design, manufacture, development, and maintenance of a wide variety of commercial and military training devices\r
+#Text=Participate as a member of an impactful, collaborative team and be self-motivated with a strong work ethic, excellent time-management, and interpersonal skills\r
+#Text=Integrate commercial and Boeing developed software into Windows and RedHat Enterprise Linux operating systems\r
+#Text=Use Agile methodologies to support all aspects of product development and project management\r
+#Text=Scripting to support application of security settings on Windows and RedHat Enterprise Linux platforms\r
+#Text=Designing systems to meet current and future software and application requirements\r
+#Text=Have the ability to work with multiple support teams to identify and resolve issues\r
+#Text=Implement and test software/systems using a variety of technologies to include scripting to support automated testing\r
+#Text=Networking and support of Ethernet and Fiber Channel networks\r
+#Text=Support VMWare and Linux virtualization applications\r
+#Text=Attend design and review board meetings to help facilitate system maturity and lifecycle support\r
+#Text=Storage Area Network and Network Attached Storage administration\r
+#Text=Occasional domestic or international travel may be requiredDrug Free Workplace\r
+#Text=At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent\r
+#Text=Elements of the Total Rewards package include competitive base pay and variable compensation opportunities\r
+#Text=The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work\r
+#Text=The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements\r
+#Text=Associate Level: $79,050 - $106,950\r
+#Text=Experienced Level: $96,900 - $131,100
+51-1	7538-7545	Citizen	_	
+51-2	7545-7546	,	_	
+51-3	7547-7553	lawful	_	
+51-4	7554-7563	permanent	_	
+51-5	7564-7572	resident	_	
+51-6	7572-7573	,	_	
+51-7	7574-7581	refugee	_	
+51-8	7581-7582	,	_	
+51-9	7583-7585	or	_	
+51-10	7586-7600	asyleeTraining	_	
+51-11	7601-7608	Systems	_	
+51-12	7609-7611	is	_	
+51-13	7612-7623	responsible	_	
+51-14	7624-7627	for	_	
+51-15	7628-7631	the	_	
+51-16	7632-7638	design	_	
+51-17	7638-7639	,	_	
+51-18	7640-7651	manufacture	_	
+51-19	7651-7652	,	_	
+51-20	7653-7664	development	_	
+51-21	7664-7665	,	_	
+51-22	7666-7669	and	_	
+51-23	7670-7681	maintenance	_	
+51-24	7682-7684	of	_	
+51-25	7685-7686	a	_	
+51-26	7687-7691	wide	_	
+51-27	7692-7699	variety	_	
+51-28	7700-7702	of	_	
+51-29	7703-7713	commercial	_	
+51-30	7714-7717	and	_	
+51-31	7718-7726	military	_	
+51-32	7727-7735	training	_	
+51-33	7736-7743	devices	_	
+51-34	7745-7756	Participate	_	
+51-35	7757-7759	as	_	
+51-36	7760-7761	a	_	
+51-37	7762-7768	member	_	
+51-38	7769-7771	of	_	
+51-39	7772-7774	an	_	
+51-40	7775-7784	impactful	_	
+51-41	7784-7785	,	_	
+51-42	7786-7799	collaborative	_	
+51-43	7800-7804	team	_	
+51-44	7805-7808	and	_	
+51-45	7809-7811	be	_	
+51-46	7812-7826	self-motivated	_	
+51-47	7827-7831	with	_	
+51-48	7832-7833	a	_	
+51-49	7834-7840	strong	_	
+51-50	7841-7845	work	_	
+51-51	7846-7851	ethic	_	
+51-52	7851-7852	,	_	
+51-53	7853-7862	excellent	_	
+51-54	7863-7878	time-management	_	
+51-55	7878-7879	,	_	
+51-56	7880-7883	and	_	
+51-57	7884-7897	interpersonal	_	
+51-58	7898-7904	skills	_	
+51-59	7906-7915	Integrate	_	
+51-60	7916-7926	commercial	_	
+51-61	7927-7930	and	_	
+51-62	7931-7937	Boeing	_	
+51-63	7938-7947	developed	_	
+51-64	7948-7956	software	_	
+51-65	7957-7961	into	_	
+51-66	7962-7969	Windows	_	
+51-67	7970-7973	and	_	
+51-68	7974-7980	RedHat	_	
+51-69	7981-7991	Enterprise	_	
+51-70	7992-7997	Linux	SKILL	
+51-71	7998-8007	operating	_	
+51-72	8008-8015	systems	_	
+51-73	8017-8020	Use	_	
+51-74	8021-8026	Agile	_	
+51-75	8027-8040	methodologies	_	
+51-76	8041-8043	to	_	
+51-77	8044-8051	support	_	
+51-78	8052-8055	all	_	
+51-79	8056-8063	aspects	_	
+51-80	8064-8066	of	_	
+51-81	8067-8074	product	_	
+51-82	8075-8086	development	_	
+51-83	8087-8090	and	_	
+51-84	8091-8098	project	_	
+51-85	8099-8109	management	_	
+51-86	8111-8120	Scripting	_	
+51-87	8121-8123	to	_	
+51-88	8124-8131	support	_	
+51-89	8132-8143	application	_	
+51-90	8144-8146	of	_	
+51-91	8147-8155	security	_	
+51-92	8156-8164	settings	_	
+51-93	8165-8167	on	_	
+51-94	8168-8175	Windows	_	
+51-95	8176-8179	and	_	
+51-96	8180-8186	RedHat	_	
+51-97	8187-8197	Enterprise	_	
+51-98	8198-8203	Linux	SKILL	
+51-99	8204-8213	platforms	_	
+51-100	8215-8224	Designing	_	
+51-101	8225-8232	systems	_	
+51-102	8233-8235	to	_	
+51-103	8236-8240	meet	_	
+51-104	8241-8248	current	_	
+51-105	8249-8252	and	_	
+51-106	8253-8259	future	_	
+51-107	8260-8268	software	_	
+51-108	8269-8272	and	_	
+51-109	8273-8284	application	_	
+51-110	8285-8297	requirements	_	
+51-111	8299-8303	Have	_	
+51-112	8304-8307	the	_	
+51-113	8308-8315	ability	_	
+51-114	8316-8318	to	_	
+51-115	8319-8323	work	_	
+51-116	8324-8328	with	_	
+51-117	8329-8337	multiple	_	
+51-118	8338-8345	support	_	
+51-119	8346-8351	teams	_	
+51-120	8352-8354	to	_	
+51-121	8355-8363	identify	_	
+51-122	8364-8367	and	_	
+51-123	8368-8375	resolve	_	
+51-124	8376-8382	issues	_	
+51-125	8384-8393	Implement	_	
+51-126	8394-8397	and	_	
+51-127	8398-8402	test	_	
+51-128	8403-8411	software	_	
+51-129	8411-8412	/	_	
+51-130	8412-8419	systems	_	
+51-131	8420-8425	using	_	
+51-132	8426-8427	a	_	
+51-133	8428-8435	variety	_	
+51-134	8436-8438	of	_	
+51-135	8439-8451	technologies	_	
+51-136	8452-8454	to	_	
+51-137	8455-8462	include	_	
+51-138	8463-8472	scripting	_	
+51-139	8473-8475	to	_	
+51-140	8476-8483	support	_	
+51-141	8484-8493	automated	_	
+51-142	8494-8501	testing	_	
+51-143	8503-8513	Networking	_	
+51-144	8514-8517	and	_	
+51-145	8518-8525	support	_	
+51-146	8526-8528	of	_	
+51-147	8529-8537	Ethernet	_	
+51-148	8538-8541	and	_	
+51-149	8542-8547	Fiber	_	
+51-150	8548-8555	Channel	_	
+51-151	8556-8564	networks	_	
+51-152	8566-8573	Support	_	
+51-153	8574-8580	VMWare	_	
+51-154	8581-8584	and	_	
+51-155	8585-8590	Linux	SKILL	
+51-156	8591-8605	virtualization	_	
+51-157	8606-8618	applications	_	
+51-158	8620-8626	Attend	_	
+51-159	8627-8633	design	_	
+51-160	8634-8637	and	_	
+51-161	8638-8644	review	_	
+51-162	8645-8650	board	_	
+51-163	8651-8659	meetings	_	
+51-164	8660-8662	to	_	
+51-165	8663-8667	help	_	
+51-166	8668-8678	facilitate	_	
+51-167	8679-8685	system	_	
+51-168	8686-8694	maturity	_	
+51-169	8695-8698	and	_	
+51-170	8699-8708	lifecycle	_	
+51-171	8709-8716	support	_	
+51-172	8718-8725	Storage	_	
+51-173	8726-8730	Area	_	
+51-174	8731-8738	Network	_	
+51-175	8739-8742	and	_	
+51-176	8743-8750	Network	_	
+51-177	8751-8759	Attached	_	
+51-178	8760-8767	Storage	_	
+51-179	8768-8782	administration	_	
+51-180	8784-8794	Occasional	_	
+51-181	8795-8803	domestic	_	
+51-182	8804-8806	or	_	
+51-183	8807-8820	international	_	
+51-184	8821-8827	travel	_	
+51-185	8828-8831	may	_	
+51-186	8832-8834	be	_	
+51-187	8835-8847	requiredDrug	_	
+51-188	8848-8852	Free	_	
+51-189	8853-8862	Workplace	_	
+51-190	8864-8866	At	_	
+51-191	8867-8873	Boeing	_	
+51-192	8873-8874	,	_	
+51-193	8875-8877	we	_	
+51-194	8878-8884	strive	_	
+51-195	8885-8887	to	_	
+51-196	8888-8895	deliver	_	
+51-197	8896-8897	a	_	
+51-198	8898-8903	Total	_	
+51-199	8904-8911	Rewards	_	
+51-200	8912-8919	package	_	
+51-201	8920-8924	that	_	
+51-202	8925-8929	will	_	
+51-203	8930-8937	attract	_	
+51-204	8937-8938	,	_	
+51-205	8939-8945	engage	_	
+51-206	8946-8949	and	_	
+51-207	8950-8956	retain	_	
+51-208	8957-8960	the	_	
+51-209	8961-8964	top	_	
+51-210	8965-8971	talent	_	
+51-211	8973-8981	Elements	_	
+51-212	8982-8984	of	_	
+51-213	8985-8988	the	_	
+51-214	8989-8994	Total	_	
+51-215	8995-9002	Rewards	_	
+51-216	9003-9010	package	_	
+51-217	9011-9018	include	_	
+51-218	9019-9030	competitive	_	
+51-219	9031-9035	base	_	
+51-220	9036-9039	pay	_	
+51-221	9040-9043	and	_	
+51-222	9044-9052	variable	_	
+51-223	9053-9065	compensation	_	
+51-224	9066-9079	opportunities	_	
+51-225	9081-9084	The	_	
+51-226	9085-9091	Boeing	_	
+51-227	9092-9099	Company	_	
+51-228	9100-9104	also	_	
+51-229	9105-9113	provides	_	
+51-230	9114-9122	eligible	_	
+51-231	9123-9132	employees	_	
+51-232	9133-9137	with	_	
+51-233	9138-9140	an	_	
+51-234	9141-9152	opportunity	_	
+51-235	9153-9155	to	_	
+51-236	9156-9162	enroll	_	
+51-237	9163-9165	in	_	
+51-238	9166-9167	a	_	
+51-239	9168-9175	variety	_	
+51-240	9176-9178	of	_	
+51-241	9179-9186	benefit	_	
+51-242	9187-9195	programs	_	
+51-243	9195-9196	,	_	
+51-244	9197-9206	generally	_	
+51-245	9207-9216	including	_	
+51-246	9217-9223	health	_	
+51-247	9224-9233	insurance	_	
+51-248	9233-9234	,	_	
+51-249	9235-9243	flexible	_	
+51-250	9244-9252	spending	_	
+51-251	9253-9261	accounts	_	
+51-252	9261-9262	,	_	
+51-253	9263-9269	health	_	
+51-254	9270-9277	savings	_	
+51-255	9278-9286	accounts	_	
+51-256	9286-9287	,	_	
+51-257	9288-9298	retirement	_	
+51-258	9299-9306	savings	_	
+51-259	9307-9312	plans	_	
+51-260	9312-9313	,	_	
+51-261	9314-9318	life	_	
+51-262	9319-9322	and	_	
+51-263	9323-9333	disability	_	
+51-264	9334-9343	insurance	_	
+51-265	9344-9352	programs	_	
+51-266	9352-9353	,	_	
+51-267	9354-9357	and	_	
+51-268	9358-9359	a	_	
+51-269	9360-9366	number	_	
+51-270	9367-9369	of	_	
+51-271	9370-9378	programs	_	
+51-272	9379-9383	that	_	
+51-273	9384-9391	provide	_	
+51-274	9392-9395	for	_	
+51-275	9396-9400	both	_	
+51-276	9401-9405	paid	_	
+51-277	9406-9409	and	_	
+51-278	9410-9416	unpaid	_	
+51-279	9417-9421	time	_	
+51-280	9422-9426	away	_	
+51-281	9427-9431	from	_	
+51-282	9432-9436	work	_	
+51-283	9438-9441	The	_	
+51-284	9442-9450	specific	_	
+51-285	9451-9459	programs	_	
+51-286	9460-9463	and	_	
+51-287	9464-9471	options	_	
+51-288	9472-9481	available	_	
+51-289	9482-9484	to	_	
+51-290	9485-9488	any	_	
+51-291	9489-9494	given	_	
+51-292	9495-9503	employee	_	
+51-293	9504-9507	may	_	
+51-294	9508-9512	vary	_	
+51-295	9513-9522	depending	_	
+51-296	9523-9525	on	_	
+51-297	9526-9537	eligibility	_	
+51-298	9538-9545	factors	_	
+51-299	9546-9550	such	_	
+51-300	9551-9553	as	_	
+51-301	9554-9564	geographic	_	
+51-302	9565-9573	location	_	
+51-303	9573-9574	,	_	
+51-304	9575-9579	date	_	
+51-305	9580-9582	of	_	
+51-306	9583-9587	hire	_	
+51-307	9587-9588	,	_	
+51-308	9589-9592	and	_	
+51-309	9593-9596	the	_	
+51-310	9597-9610	applicability	_	
+51-311	9611-9613	of	_	
+51-312	9614-9624	collective	_	
+51-313	9625-9635	bargaining	_	
+51-314	9636-9646	agreements	_	
+51-315	9648-9657	Associate	_	
+51-316	9658-9663	Level	_	
+51-317	9663-9664	:	_	
+51-318	9665-9672	$79,050	_	
+51-319	9673-9674	-	_	
+51-320	9675-9683	$106,950	_	
+51-321	9685-9696	Experienced	_	
+51-322	9697-9702	Level	_	
+51-323	9702-9703	:	_	
+51-324	9704-9711	$96,900	_	
+51-325	9712-9713	-	_	
+51-326	9714-9722	$131,100	_	

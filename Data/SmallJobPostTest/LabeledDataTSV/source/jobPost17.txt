@@ -1,0 +1,44 @@
+Our mission is to unlock the collaborative power of communities by making Web3 universally easy to use, access, and build on
+
+Working with ConsenSys puts you at the forefront of an evolving paradigm, transforming our society for the better. We fundamentally believe blockchain is the next generation of technology that can lay the foundation for a more just and equitable society...
+
+Blockchain tech is just over 10 years old. Ethereum itself is still a toddler and we’re far from reaching our full potential. You’ll get to work on the tools, infrastructure, and apps that scale these platforms to billions of users.
+
+You’ll be constantly exposed to new concepts, ideas, and frameworks from your peers, and as you work on different projects — challenging you to stay at the top of your game. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem. ConsenSys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies.
+
+Key Responsibilities:We are seeking a highly experienced Lead Golang Software Engineer to join our team. The ideal candidate will have expertise in Golang and experience building scalable systems as affinity for cryptography and mathematics.
+
+• Design, develop and maintain scalable systems using Golang
+• Work on zkEVM Prover implementation and integration
+• Lead a team of software engineers and take ownership of the technical direction of the project
+• Participate in all aspects of the software development process, including requirements gathering, analysis, design, implementation, and testing
+• Troubleshoot and resolve issues that arise during development
+• Stay current with new technologies and industry trends related to zkEVM Prover
+
+Qualifications:• Strong experience with Golang and building scalable systems
+• Experience with zkEVM Prover, including implementation and integration
+• Strong experience leading a team of software engineers
+• Experience with agile development methodologies
+• Strong problem-solving and analytical skills
+• Excellent communication and teamwork abilities
+• Bachelor's degree in Computer Science or a related field
+• Experience with other languages and technologies such as Solidity, Rust or Java is a plus
+
+Don't meet all the requirements? Don't sweat it. We’re passionate about building a diverse team of humans and as such, if you think you've got what it takes for our chaotic-but-fun, remote-friendly, start-up environment—apply anyway, detailing your relevant transferable skills in your cover letter. While we have a pretty good idea of what we need, we're ready for you to challenge our thinking on who needs to be in this role.
+
+The salary range for US-based candidates only will be determined throughout the interview process depending on experience and skills. Candidates should anticipate a base salary (not including bonus, equity or other benefits) of $USD[$176,000 - $366,000]
+
+ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found (https://consensys.net/careers/best-practices-to-avoid-recruitment-fraud
+The ideal candidate will have expertise in Golang and experience building scalable systems as affinity for cryptography and mathematics
+Design, develop and maintain scalable systems using Golang
+Stay current with new technologies and industry trends related to zkEVM Prover
+Qualifications:• Strong experience with Golang and building scalable systems
+Experience with zkEVM Prover, including implementation and integration
+Strong experience leading a team of software engineers
+Experience with agile development methodologies
+Strong problem-solving and analytical skills
+Excellent communication and teamwork abilities
+Bachelor's degree in Computer Science or a related fieldYou’ll be constantly exposed to new concepts, ideas, and frameworks from your peers, and as you work on different projects — challenging you to stay at the top of your game
+Lead a team of software engineers and take ownership of the technical direction of the project
+Participate in all aspects of the software development process, including requirements gathering, analysis, design, implementation, and testing
+Troubleshoot and resolve issues that arise during developmentCandidates should anticipate a base salary (not including bonus, equity or other benefits) of $USD[$176,000 - $366,000]

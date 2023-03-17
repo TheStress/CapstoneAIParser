@@ -1,0 +1,349 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Goliath Partners is working with a new leading exchange backed by Jump Capital & Sequoia that is looking for a Core Software Engineer.
+1-1	0-7	Goliath	_	
+1-2	8-16	Partners	_	
+1-3	17-19	is	_	
+1-4	20-27	working	_	
+1-5	28-32	with	_	
+1-6	33-34	a	_	
+1-7	35-38	new	_	
+1-8	39-46	leading	_	
+1-9	47-55	exchange	_	
+1-10	56-62	backed	_	
+1-11	63-65	by	_	
+1-12	66-70	Jump	_	
+1-13	71-78	Capital	_	
+1-14	79-80	&	_	
+1-15	81-88	Sequoia	_	
+1-16	89-93	that	_	
+1-17	94-96	is	_	
+1-18	97-104	looking	_	
+1-19	105-108	for	_	
+1-20	109-110	a	_	
+1-21	111-115	Core	_	
+1-22	116-124	Software	_	
+1-23	125-133	Engineer	_	
+1-24	133-134	.	_	
+
+#Text=The role is 100% remote and they have offices in New York, Sydney and England.
+2-1	138-141	The	_	
+2-2	142-146	role	_	
+2-3	147-149	is	_	
+2-4	150-154	100%	_	
+2-5	155-161	remote	_	
+2-6	162-165	and	_	
+2-7	166-170	they	_	
+2-8	171-175	have	_	
+2-9	176-183	offices	_	
+2-10	184-186	in	_	
+2-11	187-190	New	_	
+2-12	191-195	York	_	
+2-13	195-196	,	_	
+2-14	197-203	Sydney	_	
+2-15	204-207	and	_	
+2-16	208-215	England	_	
+2-17	215-216	.	_	
+
+#Text=The firm has already reached $15B in accumulated trades on it's platform...
+3-1	217-220	The	_	
+3-2	221-225	firm	_	
+3-3	226-229	has	_	
+3-4	230-237	already	_	
+3-5	238-245	reached	_	
+3-6	246-250	$15B	_	
+3-7	251-253	in	_	
+3-8	254-265	accumulated	_	
+3-9	266-272	trades	_	
+3-10	273-275	on	_	
+3-11	276-280	it's	_	
+3-12	281-289	platform	_	
+3-13	289-290	.	_	
+3-14	290-291	.	_	
+3-15	291-292	.	_	
+
+#Text=Role:\r
+#Text=\r
+#Text=Developing trading infrastructure.
+4-1	296-300	Role	_	
+4-2	300-301	:	_	
+4-3	305-315	Developing	_	
+4-4	316-323	trading	_	
+4-5	324-338	infrastructure	_	
+4-6	338-339	.	_	
+
+#Text=Data structures, algorithm development & work on distributed systems.
+5-1	343-347	Data	_	
+5-2	348-358	structures	_	
+5-3	358-359	,	_	
+5-4	360-369	algorithm	_	
+5-5	370-381	development	_	
+5-6	382-383	&	_	
+5-7	384-388	work	_	
+5-8	389-391	on	_	
+5-9	392-403	distributed	_	
+5-10	404-411	systems	_	
+5-11	411-412	.	_	
+
+#Text=Exchange gateway connectivity.
+6-1	416-424	Exchange	_	
+6-2	425-432	gateway	_	
+6-3	433-445	connectivity	_	
+6-4	445-446	.	_	
+
+#Text=Essential skills:\r
+#Text=\r
+#Text=Looking for a Junior to Mid level professional that has graduated in recent years, ideally with a BS in CompSci or similarly related field.
+7-1	450-459	Essential	_	
+7-2	460-466	skills	_	
+7-3	466-467	:	_	
+7-4	471-478	Looking	_	
+7-5	479-482	for	_	
+7-6	483-484	a	_	
+7-7	485-491	Junior	_	
+7-8	492-494	to	_	
+7-9	495-498	Mid	_	
+7-10	499-504	level	_	
+7-11	505-517	professional	_	
+7-12	518-522	that	_	
+7-13	523-526	has	_	
+7-14	527-536	graduated	_	
+7-15	537-539	in	_	
+7-16	540-546	recent	_	
+7-17	547-552	years	_	
+7-18	552-553	,	_	
+7-19	554-561	ideally	_	
+7-20	562-566	with	_	
+7-21	567-568	a	_	
+7-22	569-571	BS	_	
+7-23	572-574	in	_	
+7-24	575-582	CompSci	_	
+7-25	583-585	or	_	
+7-26	586-595	similarly	_	
+7-27	596-603	related	_	
+7-28	604-609	field	_	
+7-29	609-610	.	_	
+
+#Text=C, C++ experience.
+8-1	614-615	C	SKILL	
+8-2	615-616	,	_	
+8-3	617-618	C	SKILL	
+8-4	618-619	+	_	
+8-5	619-620	+	_	
+8-6	621-631	experience	_	
+8-7	631-632	.	_	
+
+#Text=Prior/ current experience working at a trading shop (ideally with HFT).
+9-1	636-641	Prior	_	
+9-2	641-642	/	_	
+9-3	643-650	current	_	
+9-4	651-661	experience	_	
+9-5	662-669	working	_	
+9-6	670-672	at	_	
+9-7	673-674	a	_	
+9-8	675-682	trading	_	
+9-9	683-687	shop	_	
+9-10	688-689	(	_	
+9-11	689-696	ideally	_	
+9-12	697-701	with	_	
+9-13	702-705	HFT	_	
+9-14	705-706	)	_	
+9-15	706-707	.	_	
+
+#Text=Interest in Crypto/ De-Fi is a must.
+10-1	711-719	Interest	_	
+10-2	720-722	in	_	
+10-3	723-729	Crypto	_	
+10-4	729-730	/	_	
+10-5	731-736	De-Fi	_	
+10-6	737-739	is	_	
+10-7	740-741	a	_	
+10-8	742-746	must	_	
+10-9	746-747	.	_	
+
+#Text=Comp:\r
+#Text=\r
+#Text=Our client is looking at paying $140,000-180,000 on the base with equity that brings this up to $220,000-300,000 DOE.
+11-1	751-755	Comp	_	
+11-2	755-756	:	_	
+11-3	760-763	Our	_	
+11-4	764-770	client	_	
+11-5	771-773	is	_	
+11-6	774-781	looking	_	
+11-7	782-784	at	_	
+11-8	785-791	paying	_	
+11-9	792-800	$140,000	_	
+11-10	800-801	-	_	
+11-11	801-808	180,000	_	
+11-12	809-811	on	_	
+11-13	812-815	the	_	
+11-14	816-820	base	_	
+11-15	821-825	with	_	
+11-16	826-832	equity	_	
+11-17	833-837	that	_	
+11-18	838-844	brings	_	
+11-19	845-849	this	_	
+11-20	850-852	up	_	
+11-21	853-855	to	_	
+11-22	856-864	$220,000	_	
+11-23	864-865	-	_	
+11-24	865-872	300,000	_	
+11-25	873-876	DOE	_	
+11-26	876-877	.	_	
+
+#Text=The equity portion can be monetized after a 1 year cliff unlike other ventures where you don't have it vested for four years (and even then you are waiting for an event/ IPO to make money on it).
+12-1	878-881	The	_	
+12-2	882-888	equity	_	
+12-3	889-896	portion	_	
+12-4	897-900	can	_	
+12-5	901-903	be	_	
+12-6	904-913	monetized	_	
+12-7	914-919	after	_	
+12-8	920-921	a	_	
+12-9	922-923	1	_	
+12-10	924-928	year	_	
+12-11	929-934	cliff	_	
+12-12	935-941	unlike	_	
+12-13	942-947	other	_	
+12-14	948-956	ventures	_	
+12-15	957-962	where	_	
+12-16	963-966	you	_	
+12-17	967-972	don't	_	
+12-18	973-977	have	_	
+12-19	978-980	it	_	
+12-20	981-987	vested	_	
+12-21	988-991	for	_	
+12-22	992-996	four	_	
+12-23	997-1002	years	_	
+12-24	1003-1004	(	_	
+12-25	1004-1007	and	_	
+12-26	1008-1012	even	_	
+12-27	1013-1017	then	_	
+12-28	1018-1021	you	_	
+12-29	1022-1025	are	_	
+12-30	1026-1033	waiting	_	
+12-31	1034-1037	for	_	
+12-32	1038-1040	an	_	
+12-33	1041-1046	event	_	
+12-34	1046-1047	/	_	
+12-35	1048-1051	IPO	_	
+12-36	1052-1054	to	_	
+12-37	1055-1059	make	_	
+12-38	1060-1065	money	_	
+12-39	1066-1068	on	_	
+12-40	1069-1071	it	_	
+12-41	1071-1072	)	_	
+12-42	1072-1073	.	_	
+
+#Text=If interested please apply with your most up to date resume and we will be in touch\r
+#Text=Looking for a Junior to Mid level professional that has graduated in recent years, ideally with a BS in CompSci or similarly related field\r
+#Text=C, C++ experience\r
+#Text=Prior/ current experience working at a trading shop (ideally with HFT)\r
+#Text=Interest in Crypto/ De-Fi is a mustDeveloping trading infrastructure\r
+#Text=Data structures, algorithm development & work on distributed systemsOur client is looking at paying $140,000-180,000 on the base with equity that brings this up to $220,000-300,000 DOE
+13-1	1077-1079	If	_	
+13-2	1080-1090	interested	_	
+13-3	1091-1097	please	_	
+13-4	1098-1103	apply	_	
+13-5	1104-1108	with	_	
+13-6	1109-1113	your	_	
+13-7	1114-1118	most	_	
+13-8	1119-1121	up	_	
+13-9	1122-1124	to	_	
+13-10	1125-1129	date	_	
+13-11	1130-1136	resume	_	
+13-12	1137-1140	and	_	
+13-13	1141-1143	we	_	
+13-14	1144-1148	will	_	
+13-15	1149-1151	be	_	
+13-16	1152-1154	in	_	
+13-17	1155-1160	touch	_	
+13-18	1162-1169	Looking	_	
+13-19	1170-1173	for	_	
+13-20	1174-1175	a	_	
+13-21	1176-1182	Junior	_	
+13-22	1183-1185	to	_	
+13-23	1186-1189	Mid	_	
+13-24	1190-1195	level	_	
+13-25	1196-1208	professional	_	
+13-26	1209-1213	that	_	
+13-27	1214-1217	has	_	
+13-28	1218-1227	graduated	_	
+13-29	1228-1230	in	_	
+13-30	1231-1237	recent	_	
+13-31	1238-1243	years	_	
+13-32	1243-1244	,	_	
+13-33	1245-1252	ideally	_	
+13-34	1253-1257	with	_	
+13-35	1258-1259	a	_	
+13-36	1260-1262	BS	_	
+13-37	1263-1265	in	_	
+13-38	1266-1273	CompSci	_	
+13-39	1274-1276	or	_	
+13-40	1277-1286	similarly	_	
+13-41	1287-1294	related	_	
+13-42	1295-1300	field	_	
+13-43	1302-1303	C	SKILL	
+13-44	1303-1304	,	_	
+13-45	1305-1306	C	SKILL	
+13-46	1306-1307	+	_	
+13-47	1307-1308	+	_	
+13-48	1309-1319	experience	_	
+13-49	1321-1326	Prior	_	
+13-50	1326-1327	/	_	
+13-51	1328-1335	current	_	
+13-52	1336-1346	experience	_	
+13-53	1347-1354	working	_	
+13-54	1355-1357	at	_	
+13-55	1358-1359	a	_	
+13-56	1360-1367	trading	_	
+13-57	1368-1372	shop	_	
+13-58	1373-1374	(	_	
+13-59	1374-1381	ideally	_	
+13-60	1382-1386	with	_	
+13-61	1387-1390	HFT	_	
+13-62	1390-1391	)	_	
+13-63	1393-1401	Interest	_	
+13-64	1402-1404	in	_	
+13-65	1405-1411	Crypto	_	
+13-66	1411-1412	/	_	
+13-67	1413-1418	De-Fi	_	
+13-68	1419-1421	is	_	
+13-69	1422-1423	a	_	
+13-70	1424-1438	mustDeveloping	_	
+13-71	1439-1446	trading	_	
+13-72	1447-1461	infrastructure	_	
+13-73	1463-1467	Data	_	
+13-74	1468-1478	structures	_	
+13-75	1478-1479	,	_	
+13-76	1480-1489	algorithm	_	
+13-77	1490-1501	development	_	
+13-78	1502-1503	&	_	
+13-79	1504-1508	work	_	
+13-80	1509-1511	on	_	
+13-81	1512-1523	distributed	_	
+13-82	1524-1534	systemsOur	_	
+13-83	1535-1541	client	_	
+13-84	1542-1544	is	_	
+13-85	1545-1552	looking	_	
+13-86	1553-1555	at	_	
+13-87	1556-1562	paying	_	
+13-88	1563-1571	$140,000	_	
+13-89	1571-1572	-	_	
+13-90	1572-1579	180,000	_	
+13-91	1580-1582	on	_	
+13-92	1583-1586	the	_	
+13-93	1587-1591	base	_	
+13-94	1592-1596	with	_	
+13-95	1597-1603	equity	_	
+13-96	1604-1608	that	_	
+13-97	1609-1615	brings	_	
+13-98	1616-1620	this	_	
+13-99	1621-1623	up	_	
+13-100	1624-1626	to	_	
+13-101	1627-1635	$220,000	_	
+13-102	1635-1636	-	_	
+13-103	1636-1643	300,000	_	
+13-104	1644-1647	DOE	_	

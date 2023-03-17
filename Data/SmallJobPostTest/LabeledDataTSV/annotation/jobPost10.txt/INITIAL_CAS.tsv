@@ -1,0 +1,348 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Goliath Partners is working with a new leading exchange backed by Jump Capital & Sequoia that is looking for a Core Software Engineer.
+1-1	0-7	Goliath	
+1-2	8-16	Partners	
+1-3	17-19	is	
+1-4	20-27	working	
+1-5	28-32	with	
+1-6	33-34	a	
+1-7	35-38	new	
+1-8	39-46	leading	
+1-9	47-55	exchange	
+1-10	56-62	backed	
+1-11	63-65	by	
+1-12	66-70	Jump	
+1-13	71-78	Capital	
+1-14	79-80	&	
+1-15	81-88	Sequoia	
+1-16	89-93	that	
+1-17	94-96	is	
+1-18	97-104	looking	
+1-19	105-108	for	
+1-20	109-110	a	
+1-21	111-115	Core	
+1-22	116-124	Software	
+1-23	125-133	Engineer	
+1-24	133-134	.	
+
+#Text=The role is 100% remote and they have offices in New York, Sydney and England.
+2-1	138-141	The	
+2-2	142-146	role	
+2-3	147-149	is	
+2-4	150-154	100%	
+2-5	155-161	remote	
+2-6	162-165	and	
+2-7	166-170	they	
+2-8	171-175	have	
+2-9	176-183	offices	
+2-10	184-186	in	
+2-11	187-190	New	
+2-12	191-195	York	
+2-13	195-196	,	
+2-14	197-203	Sydney	
+2-15	204-207	and	
+2-16	208-215	England	
+2-17	215-216	.	
+
+#Text=The firm has already reached $15B in accumulated trades on it's platform...
+3-1	217-220	The	
+3-2	221-225	firm	
+3-3	226-229	has	
+3-4	230-237	already	
+3-5	238-245	reached	
+3-6	246-250	$15B	
+3-7	251-253	in	
+3-8	254-265	accumulated	
+3-9	266-272	trades	
+3-10	273-275	on	
+3-11	276-280	it's	
+3-12	281-289	platform	
+3-13	289-290	.	
+3-14	290-291	.	
+3-15	291-292	.	
+
+#Text=Role:\r
+#Text=\r
+#Text=Developing trading infrastructure.
+4-1	296-300	Role	
+4-2	300-301	:	
+4-3	305-315	Developing	
+4-4	316-323	trading	
+4-5	324-338	infrastructure	
+4-6	338-339	.	
+
+#Text=Data structures, algorithm development & work on distributed systems.
+5-1	343-347	Data	
+5-2	348-358	structures	
+5-3	358-359	,	
+5-4	360-369	algorithm	
+5-5	370-381	development	
+5-6	382-383	&	
+5-7	384-388	work	
+5-8	389-391	on	
+5-9	392-403	distributed	
+5-10	404-411	systems	
+5-11	411-412	.	
+
+#Text=Exchange gateway connectivity.
+6-1	416-424	Exchange	
+6-2	425-432	gateway	
+6-3	433-445	connectivity	
+6-4	445-446	.	
+
+#Text=Essential skills:\r
+#Text=\r
+#Text=Looking for a Junior to Mid level professional that has graduated in recent years, ideally with a BS in CompSci or similarly related field.
+7-1	450-459	Essential	
+7-2	460-466	skills	
+7-3	466-467	:	
+7-4	471-478	Looking	
+7-5	479-482	for	
+7-6	483-484	a	
+7-7	485-491	Junior	
+7-8	492-494	to	
+7-9	495-498	Mid	
+7-10	499-504	level	
+7-11	505-517	professional	
+7-12	518-522	that	
+7-13	523-526	has	
+7-14	527-536	graduated	
+7-15	537-539	in	
+7-16	540-546	recent	
+7-17	547-552	years	
+7-18	552-553	,	
+7-19	554-561	ideally	
+7-20	562-566	with	
+7-21	567-568	a	
+7-22	569-571	BS	
+7-23	572-574	in	
+7-24	575-582	CompSci	
+7-25	583-585	or	
+7-26	586-595	similarly	
+7-27	596-603	related	
+7-28	604-609	field	
+7-29	609-610	.	
+
+#Text=C, C++ experience.
+8-1	614-615	C	
+8-2	615-616	,	
+8-3	617-618	C	
+8-4	618-619	+	
+8-5	619-620	+	
+8-6	621-631	experience	
+8-7	631-632	.	
+
+#Text=Prior/ current experience working at a trading shop (ideally with HFT).
+9-1	636-641	Prior	
+9-2	641-642	/	
+9-3	643-650	current	
+9-4	651-661	experience	
+9-5	662-669	working	
+9-6	670-672	at	
+9-7	673-674	a	
+9-8	675-682	trading	
+9-9	683-687	shop	
+9-10	688-689	(	
+9-11	689-696	ideally	
+9-12	697-701	with	
+9-13	702-705	HFT	
+9-14	705-706	)	
+9-15	706-707	.	
+
+#Text=Interest in Crypto/ De-Fi is a must.
+10-1	711-719	Interest	
+10-2	720-722	in	
+10-3	723-729	Crypto	
+10-4	729-730	/	
+10-5	731-736	De-Fi	
+10-6	737-739	is	
+10-7	740-741	a	
+10-8	742-746	must	
+10-9	746-747	.	
+
+#Text=Comp:\r
+#Text=\r
+#Text=Our client is looking at paying $140,000-180,000 on the base with equity that brings this up to $220,000-300,000 DOE.
+11-1	751-755	Comp	
+11-2	755-756	:	
+11-3	760-763	Our	
+11-4	764-770	client	
+11-5	771-773	is	
+11-6	774-781	looking	
+11-7	782-784	at	
+11-8	785-791	paying	
+11-9	792-800	$140,000	
+11-10	800-801	-	
+11-11	801-808	180,000	
+11-12	809-811	on	
+11-13	812-815	the	
+11-14	816-820	base	
+11-15	821-825	with	
+11-16	826-832	equity	
+11-17	833-837	that	
+11-18	838-844	brings	
+11-19	845-849	this	
+11-20	850-852	up	
+11-21	853-855	to	
+11-22	856-864	$220,000	
+11-23	864-865	-	
+11-24	865-872	300,000	
+11-25	873-876	DOE	
+11-26	876-877	.	
+
+#Text=The equity portion can be monetized after a 1 year cliff unlike other ventures where you don't have it vested for four years (and even then you are waiting for an event/ IPO to make money on it).
+12-1	878-881	The	
+12-2	882-888	equity	
+12-3	889-896	portion	
+12-4	897-900	can	
+12-5	901-903	be	
+12-6	904-913	monetized	
+12-7	914-919	after	
+12-8	920-921	a	
+12-9	922-923	1	
+12-10	924-928	year	
+12-11	929-934	cliff	
+12-12	935-941	unlike	
+12-13	942-947	other	
+12-14	948-956	ventures	
+12-15	957-962	where	
+12-16	963-966	you	
+12-17	967-972	don't	
+12-18	973-977	have	
+12-19	978-980	it	
+12-20	981-987	vested	
+12-21	988-991	for	
+12-22	992-996	four	
+12-23	997-1002	years	
+12-24	1003-1004	(	
+12-25	1004-1007	and	
+12-26	1008-1012	even	
+12-27	1013-1017	then	
+12-28	1018-1021	you	
+12-29	1022-1025	are	
+12-30	1026-1033	waiting	
+12-31	1034-1037	for	
+12-32	1038-1040	an	
+12-33	1041-1046	event	
+12-34	1046-1047	/	
+12-35	1048-1051	IPO	
+12-36	1052-1054	to	
+12-37	1055-1059	make	
+12-38	1060-1065	money	
+12-39	1066-1068	on	
+12-40	1069-1071	it	
+12-41	1071-1072	)	
+12-42	1072-1073	.	
+
+#Text=If interested please apply with your most up to date resume and we will be in touch\r
+#Text=Looking for a Junior to Mid level professional that has graduated in recent years, ideally with a BS in CompSci or similarly related field\r
+#Text=C, C++ experience\r
+#Text=Prior/ current experience working at a trading shop (ideally with HFT)\r
+#Text=Interest in Crypto/ De-Fi is a mustDeveloping trading infrastructure\r
+#Text=Data structures, algorithm development & work on distributed systemsOur client is looking at paying $140,000-180,000 on the base with equity that brings this up to $220,000-300,000 DOE
+13-1	1077-1079	If	
+13-2	1080-1090	interested	
+13-3	1091-1097	please	
+13-4	1098-1103	apply	
+13-5	1104-1108	with	
+13-6	1109-1113	your	
+13-7	1114-1118	most	
+13-8	1119-1121	up	
+13-9	1122-1124	to	
+13-10	1125-1129	date	
+13-11	1130-1136	resume	
+13-12	1137-1140	and	
+13-13	1141-1143	we	
+13-14	1144-1148	will	
+13-15	1149-1151	be	
+13-16	1152-1154	in	
+13-17	1155-1160	touch	
+13-18	1162-1169	Looking	
+13-19	1170-1173	for	
+13-20	1174-1175	a	
+13-21	1176-1182	Junior	
+13-22	1183-1185	to	
+13-23	1186-1189	Mid	
+13-24	1190-1195	level	
+13-25	1196-1208	professional	
+13-26	1209-1213	that	
+13-27	1214-1217	has	
+13-28	1218-1227	graduated	
+13-29	1228-1230	in	
+13-30	1231-1237	recent	
+13-31	1238-1243	years	
+13-32	1243-1244	,	
+13-33	1245-1252	ideally	
+13-34	1253-1257	with	
+13-35	1258-1259	a	
+13-36	1260-1262	BS	
+13-37	1263-1265	in	
+13-38	1266-1273	CompSci	
+13-39	1274-1276	or	
+13-40	1277-1286	similarly	
+13-41	1287-1294	related	
+13-42	1295-1300	field	
+13-43	1302-1303	C	
+13-44	1303-1304	,	
+13-45	1305-1306	C	
+13-46	1306-1307	+	
+13-47	1307-1308	+	
+13-48	1309-1319	experience	
+13-49	1321-1326	Prior	
+13-50	1326-1327	/	
+13-51	1328-1335	current	
+13-52	1336-1346	experience	
+13-53	1347-1354	working	
+13-54	1355-1357	at	
+13-55	1358-1359	a	
+13-56	1360-1367	trading	
+13-57	1368-1372	shop	
+13-58	1373-1374	(	
+13-59	1374-1381	ideally	
+13-60	1382-1386	with	
+13-61	1387-1390	HFT	
+13-62	1390-1391	)	
+13-63	1393-1401	Interest	
+13-64	1402-1404	in	
+13-65	1405-1411	Crypto	
+13-66	1411-1412	/	
+13-67	1413-1418	De-Fi	
+13-68	1419-1421	is	
+13-69	1422-1423	a	
+13-70	1424-1438	mustDeveloping	
+13-71	1439-1446	trading	
+13-72	1447-1461	infrastructure	
+13-73	1463-1467	Data	
+13-74	1468-1478	structures	
+13-75	1478-1479	,	
+13-76	1480-1489	algorithm	
+13-77	1490-1501	development	
+13-78	1502-1503	&	
+13-79	1504-1508	work	
+13-80	1509-1511	on	
+13-81	1512-1523	distributed	
+13-82	1524-1534	systemsOur	
+13-83	1535-1541	client	
+13-84	1542-1544	is	
+13-85	1545-1552	looking	
+13-86	1553-1555	at	
+13-87	1556-1562	paying	
+13-88	1563-1571	$140,000	
+13-89	1571-1572	-	
+13-90	1572-1579	180,000	
+13-91	1580-1582	on	
+13-92	1583-1586	the	
+13-93	1587-1591	base	
+13-94	1592-1596	with	
+13-95	1597-1603	equity	
+13-96	1604-1608	that	
+13-97	1609-1615	brings	
+13-98	1616-1620	this	
+13-99	1621-1623	up	
+13-100	1624-1626	to	
+13-101	1627-1635	$220,000	
+13-102	1635-1636	-	
+13-103	1636-1643	300,000	
+13-104	1644-1647	DOE	

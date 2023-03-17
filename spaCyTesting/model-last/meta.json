@@ -17,67 +17,30 @@
     "mode":"default"
   },
   "labels":{
-    "tok2vec":[
+    "transformer":[
 
-    ],
-    "tagger":[
-      "_"
-    ],
-    "parser":[
-      "ROOT",
-      "_",
-      "dep"
     ],
     "ner":[
 
     ]
   },
   "pipeline":[
-    "tok2vec",
-    "tagger",
-    "parser",
+    "transformer",
     "ner"
   ],
   "components":[
-    "tok2vec",
-    "tagger",
-    "parser",
+    "transformer",
     "ner"
   ],
   "disabled":[
 
   ],
   "performance":{
-    "tag_acc":0.9903717572,
-    "dep_uas":0.9863488047,
-    "dep_las":0.0,
-    "dep_las_per_type":{
-      "_":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
-      },
-      "root":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
-      },
-      "dep":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
-      }
-    },
-    "sents_p":0.9921184944,
-    "sents_r":0.9670198675,
-    "sents_f":0.979408411,
     "ents_f":0.0,
     "ents_p":0.0,
     "ents_r":0.0,
     "ents_per_type":0.0,
-    "tok2vec_loss":607.5783807225,
-    "tagger_loss":0.0,
-    "parser_loss":19876.3138817165,
+    "transformer_loss":0.0,
     "ner_loss":0.0
   }
 }

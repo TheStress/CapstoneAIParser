@@ -1,0 +1,110 @@
+Job Description
+
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your... future with us.
+
+Boeing Global Service Training Systems team is seeking Associate and Experienced Software Engineers to focus on operating system configuration/customization, visualization and software integration. Training Systems is responsible for the design, manufacture, development, and maintenance of a wide variety of commercial and military training devices. Primary location for these positions will be located in Oklahoma City, OK supporting the ASC2 AWACS Training System platform.
+
+At Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the sea bed to outer space, you'll learn and grow, contributing to work that shapes the world.
+
+Position Responsibilities:
+• Participate as a member of an impactful, collaborative team and be self-motivated with a strong work ethic, excellent time-management, and interpersonal skills
+• Integrate commercial and Boeing developed software into Windows and RedHat Enterprise Linux operating systems
+• Use Agile methodologies to support all aspects of product development and project management
+• Scripting to support application of security settings on Windows and RedHat Enterprise Linux platforms
+• Designing systems to meet current and future software and application requirements
+• Have the ability to work with multiple support teams to identify and resolve issues
+• Implement and test software/systems using a variety of technologies to include scripting to support automated testing
+• Networking and support of Ethernet and Fiber Channel networks
+• Support VMWare and Linux virtualization applications
+• Attend design and review board meetings to help facilitate system maturity and lifecycle support
+• Storage Area Network and Network Attached Storage administration
+• Occasional domestic or international travel may be required.
+
+This position is hybrid. This means that the selected candidate will be required to perform some work onsite at one of the listed location options. This is at the hiring team’s discretion and could potentially change in the future.
+
+This position requires an active U.S. Secret Security Clearance (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active)
+
+Basic Qualifications (Required Skills and Experience):
+• Experience having System Administration experience of Linux/Unix or Windows platforms
+• 2+ years of experience in software systems integration
+• 2+ years of experience in scripting activities in a Linux or Windows environment
+
+Desired Experience, Skills and Qualifications:
+• 2 or more years' related work experience or an equivalent combination of education and experience
+• 3 or more years' related work experience or an equivalent combination of education and experience
+
+Typical Education and Experience:
+
+Associate Level:
+
+Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Masters degree plus experience). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+Experienced Level: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD, Master+3 years' related work experience). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+Relocation:
+
+This position offers relocation based on candidate eligibility.
+
+Drug Free Workplace
+
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+
+General
+
+Shift (US Specific):
+
+This position is for 1st shift
+
+Pay Transparency:
+
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+
+Please note that the salary information shown below is a general guideline only. Salaries are based upon candidate experience and qualifications, as well as market and business considerations.
+
+Summary pay range:
+
+Associate Level: $79,050 - $106,950
+
+Experienced Level: $96,900 - $131,100
+
+Eligible for 3ERP
+
+Export Control Requirements: U.S. Government Export Control Status: This position must meet export control compliance requirements. To meet export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.15 is required. “U.S. Person” includes U.S. Citizen, lawful permanent resident, refugee, or asylee.
+
+Export Control Details: US based job, US Person required
+
+Equal Opportunity Employer:
+
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law
+This position requires an active U.S. Secret Security Clearance (U.S. Citizenship Required)
+(A U.S. Security Clearance that has been active in the past 24 months is considered active)
+Experience having System Administration experience of Linux/Unix or Windows platforms
+2+ years of experience in software systems integration
+2+ years of experience in scripting activities in a Linux or Windows environment
+Experienced Level: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD, Master+3 years' related work experience)
+Eligible for 3ERP
+Export Control Requirements: U.S. Government Export Control Status: This position must meet export control compliance requirements
+To meet export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.15 is required
+“U.S. Person” includes U.S. Citizen, lawful permanent resident, refugee, or asyleeTraining Systems is responsible for the design, manufacture, development, and maintenance of a wide variety of commercial and military training devices
+Participate as a member of an impactful, collaborative team and be self-motivated with a strong work ethic, excellent time-management, and interpersonal skills
+Integrate commercial and Boeing developed software into Windows and RedHat Enterprise Linux operating systems
+Use Agile methodologies to support all aspects of product development and project management
+Scripting to support application of security settings on Windows and RedHat Enterprise Linux platforms
+Designing systems to meet current and future software and application requirements
+Have the ability to work with multiple support teams to identify and resolve issues
+Implement and test software/systems using a variety of technologies to include scripting to support automated testing
+Networking and support of Ethernet and Fiber Channel networks
+Support VMWare and Linux virtualization applications
+Attend design and review board meetings to help facilitate system maturity and lifecycle support
+Storage Area Network and Network Attached Storage administration
+Occasional domestic or international travel may be requiredDrug Free Workplace
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent
+Elements of the Total Rewards package include competitive base pay and variable compensation opportunities
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements
+Associate Level: $79,050 - $106,950
+Experienced Level: $96,900 - $131,100

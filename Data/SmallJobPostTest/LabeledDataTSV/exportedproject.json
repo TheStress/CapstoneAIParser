@@ -1,0 +1,542 @@
+{
+  "name" : "Small Set Labeling",
+  "slug" : null,
+  "description" : null,
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "jobPost0.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996708275,
+    "updated" : 1678997181482
+  }, {
+    "name" : "jobPost1.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996708796,
+    "updated" : 1678997241623
+  }, {
+    "name" : "jobPost10.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709245,
+    "updated" : 1678997207272
+  }, {
+    "name" : "jobPost11.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709269,
+    "updated" : 1678997207272
+  }, {
+    "name" : "jobPost12.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709305,
+    "updated" : 1678997207273
+  }, {
+    "name" : "jobPost13.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709334,
+    "updated" : 1678997207274
+  }, {
+    "name" : "jobPost14.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709360,
+    "updated" : 1678997207275
+  }, {
+    "name" : "jobPost15.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709383,
+    "updated" : 1678997207276
+  }, {
+    "name" : "jobPost16.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709441,
+    "updated" : 1678997207277
+  }, {
+    "name" : "jobPost17.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709482,
+    "updated" : 1678997207278
+  }, {
+    "name" : "jobPost18.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1678996709511,
+    "updated" : 1678996709511
+  }, {
+    "name" : "jobPost19.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709537,
+    "updated" : 1678997207278
+  }, {
+    "name" : "jobPost2.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996708849,
+    "updated" : 1678997207267
+  }, {
+    "name" : "jobPost3.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996708905,
+    "updated" : 1678997207266
+  }, {
+    "name" : "jobPost4.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996708986,
+    "updated" : 1678997207268
+  }, {
+    "name" : "jobPost5.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709042,
+    "updated" : 1678997207268
+  }, {
+    "name" : "jobPost6.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709099,
+    "updated" : 1678997207269
+  }, {
+    "name" : "jobPost7.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1678996709130,
+    "updated" : 1678996709130
+  }, {
+    "name" : "jobPost8.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709155,
+    "updated" : 1678997207269
+  }, {
+    "name" : "jobPost9.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1678996709194,
+    "updated" : 1678997207271
+  } ],
+  "annotation_documents" : [ {
+    "name" : "jobPost2.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997203833,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203819,
+    "updated" : 1678997203833
+  }, {
+    "name" : "jobPost3.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997203853,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203835,
+    "updated" : 1678997203854
+  }, {
+    "name" : "jobPost8.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997203933,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203918,
+    "updated" : 1678997203934
+  }, {
+    "name" : "jobPost9.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997203955,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203935,
+    "updated" : 1678997203955
+  }, {
+    "name" : "jobPost10.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997203970,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203957,
+    "updated" : 1678997203971
+  }, {
+    "name" : "jobPost11.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997203998,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203972,
+    "updated" : 1678997203998
+  }, {
+    "name" : "jobPost13.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997204036,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997204018,
+    "updated" : 1678997204036
+  }, {
+    "name" : "jobPost14.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997204051,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997204038,
+    "updated" : 1678997204051
+  }, {
+    "name" : "jobPost15.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997204071,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997204053,
+    "updated" : 1678997204071
+  }, {
+    "name" : "jobPost16.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997204092,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997204072,
+    "updated" : 1678997204093
+  }, {
+    "name" : "jobPost17.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997204108,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997204094,
+    "updated" : 1678997204109
+  }, {
+    "name" : "jobPost19.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997204128,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997204110,
+    "updated" : 1678997204128
+  }, {
+    "name" : "jobPost0.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997233456,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997181428,
+    "updated" : 1678997233456
+  }, {
+    "name" : "jobPost1.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997241618,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997241592,
+    "updated" : 1678997241619
+  }, {
+    "name" : "jobPost5.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997288075,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203875,
+    "updated" : 1678997288075
+  }, {
+    "name" : "jobPost12.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997297767,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203999,
+    "updated" : 1678997297767
+  }, {
+    "name" : "jobPost6.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997497033,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203897,
+    "updated" : 1678997497034
+  }, {
+    "name" : "jobPost4.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1678997506839,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1678997203855,
+    "updated" : 1678997506839
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "admin"
+  }, {
+    "level" : "CURATOR",
+    "user" : "admin"
+  }, {
+    "level" : "USER",
+    "user" : "admin"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Relation labels",
+    "description" : "Relation labels",
+    "language" : "en",
+    "tags" : [ ],
+    "create_tag" : true
+  }, {
+    "name" : "Span labels",
+    "description" : "Span labels",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "SKILL",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  } ],
+  "layers" : [ {
+    "name" : "custom.Relation",
+    "features" : [ {
+      "name" : "label",
+      "tag_set" : {
+        "name" : "Relation labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Label",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Relation label",
+      "project_name" : "Small Set Labeling",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Relation",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "custom.Span"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "Small Set Labeling",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "custom.Span",
+    "features" : [ {
+      "name" : "label",
+      "tag_set" : {
+        "name" : "Span labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Keywords",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Span label",
+      "project_name" : "Small Set Labeling",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "Span",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "Small Set Labeling",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "Small Set Labeling",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  } ],
+  "disableExport" : false,
+  "script_direction" : "LTR",
+  "created" : 1678996644423,
+  "updated" : 1678997187251,
+  "anonymous_curation" : false,
+  "default-preferences" : [ ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "id" : 0,
+    "project" : {
+      "id" : 2,
+      "name" : "Small Set Labeling",
+      "slug" : "admin-2",
+      "description" : null,
+      "mode" : "annotation",
+      "version" : 1,
+      "disableExport" : false,
+      "scriptDirection" : "LTR",
+      "created" : 1678996644423,
+      "updated" : 1678997187251,
+      "state" : "ANNOTATION_IN_PROGRESS",
+      "anonymousCuration" : false
+    },
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ {
+    "alwaysSelected" : false,
+    "enabled" : true,
+    "feature" : "label",
+    "layerName" : "custom.Span",
+    "maxRecommendations" : 3,
+    "name" : "[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.1,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.ner.OpenNlpNerClassificationTool",
+    "traits" : null
+  }, {
+    "alwaysSelected" : false,
+    "enabled" : true,
+    "feature" : "label",
+    "layerName" : "custom.Span",
+    "maxRecommendations" : 3,
+    "name" : "[Span@Keywords] String Matcher",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.0,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.stringmatch.StringMatchingRecommender",
+    "traits" : "{\"ignoreCase\":true}"
+  } ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  },
+  "user-preferences" : [ {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"activeLearningSidebarFactory\",\"expanded\":true}",
+    "user" : "admin"
+  } ]
+}
