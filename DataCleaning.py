@@ -4,12 +4,11 @@ Credits: https://github.com/neuged/webanno_tsv (TSV Parser) jk didnt use it
 
 import csv
 import nltk
-from nltk.tokenize import sent_tokenize, word_tokenize
 import json
 import conllu
 import pandas as pd
 import os
-#nltk.download('punkt')
+import spacy
 def CreateSkillListKaggle():
     allSkills = set()
     print("skill list")
@@ -35,12 +34,11 @@ def CreateSkillListKaggle():
 def CreateSkillListOStar():
     allSkills = set()
     print("O Star List")
-    validJobList = ['Computer Programmers', 'Software Developers', 'Software Quality Assurance Analysts and Testers', 'Web Developers', 'Web and Digital Interface Designers']
     #Skill List from kaggle
-    with open('RawData\OStar\Skills.csv', 'r') as csvFile:
-        reader = csv.reader(csvFile, delimiter=',', quotechar='"')
-        for row in reader:
-            allSkills.add(row[3])
+    # with open('RawData\OStar\Skills.csv', 'r') as csvFile:
+    #     reader = csv.reader(csvFile, delimiter=',', quotechar='"')
+    #     for row in reader:
+    #         allSkills.add(row[3])
     with open("RawData\OStar\Technology Skills.csv", 'r') as csvFile:
         reader = csv.reader(csvFile, delimiter=',', quotechar='"')
         for row in reader:
@@ -88,25 +86,40 @@ def WriteSearchListInception(skillList):
         output.write(pasteString)
 
 def ParseJSONForDescriptions():
+    # MAYBE LATER
+    # escapeStrings = ["\n", "\u2022", "\u2019", "\u2013"]import spacy
+    # nlp = spacy.load("en_core_web_sm")
+
+
     print("parsing")
+    # Reading raw data
     with open("Data\SmallJobPostTest\jobPostDataset.json", 'r', errors='ignore') as input:
         jobsDataset = json.load(input)
+
+    # Parsing each job
     currentDoc = 0
     for job in jobsDataset:
         path = "Data\SmallJobPostTest\IndividualDocs\jobPost"+str(currentDoc)+".txt"
         print(path)
+
+        # writing each job
         with open(path, 'w', errors='ignore') as output:
             fullDescription = ""
             fullDescription += job["description"] + " "
             for item in job["job_highlights"]:
                 for itemText in item["items"]:
                     fullDescription += itemText + " "
-            # output.write(fullDescription)
+
+                # Processing escape characters out of data
+                fullDescription = fullDescription.replace("\n", "")
+            
+            output.write(fullDescription)
         currentDoc += 1
 
 def ConllUScanner(dataPath):
 
     return
+
 def TSVParser():
     trainingData = []
     for i in range(20):
@@ -139,7 +152,6 @@ def TSVParser():
 if __name__ == "__main__":
     # ParseJSONForDescriptions()
     # WriteList(CreateSkillListOStar(), "Data\skillsDataNew.csv") # data cleaning
-    # WriteSearchListInception()
     # WriteSearchListInception(CreateSkillListOStar())
     # for item in TSVParser():
     #     for annotation in item["annotations"]:

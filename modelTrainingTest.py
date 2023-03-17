@@ -5,6 +5,42 @@ from spacy.tokens import DocBin
 import DataCleaning
 import json
 
+def CreateDocs(trainingData):
+    nlp = spacy.blank("en")
+    docs = []
+    for data in trainingData:
+        doc = nlp.make_doc(data["text"])
+        entities = []
+        hasAnnotations = False
+        for start, end, word, label in data["annotations"]:
+            span = doc.char_span(start, end, label=label, alignment_mode="expand")
+            if span is None:
+                print(data["id"], start, end, word,label)
+                print("Skipping entity")
+            else:
+                hasAnnotations = True
+                entities.append(span)
+        if(hasAnnotations):
+            filtered_ents = filter_spans(entities)
+            doc.ents = filtered_ents 
+            docs.append(doc)
+    return docs
+
+def CreateTrainingData(outputPath):
+    trainingData = DataCleaning.TSVParser()
+
+    for item in trainingData:
+        for annotation in item["annotations"]:
+            if(item["text"][annotation[0]:annotation[1]] != annotation[2]):
+                print(annotation, item["id"])
+                print(item["text"][annotation[0]:annotation[1]], annotation[2])
+        # print(item["text"])
+    docBin = DocBin() # create a DocBin object
+    docs = CreateDocs(trainingData)
+    for doc in docs:
+        docBin.add(doc)
+    docBin.to_disk(outputPath) # save the docbin object
+
 def GetDoc():
     return"""
     Qualifications
@@ -48,6 +84,8 @@ def GetDoc():
 
 if __name__ == "__main__":
     
+    # CreateTrainingData("spaCyTesting\smallTraining.spacy")
+
     nlp_ner = spacy.load("spacyTesting/model-best")
 
     doc = nlp_ner(GetDoc())
@@ -61,34 +99,3 @@ if __name__ == "__main__":
         htmlOutput.write(html)
         htmlOutput.close()
     print("hi")
-
-
-
-def CreateDocs(trainingData):
-    nlp = spacy.blank("en")
-    docs = []
-    for data in trainingData:
-        doc = nlp.make_doc(data["text"])
-        entities = []
-        hasAnnotations = False
-        for start, end, word, label in data["annotations"]:
-            span = doc.char_span(start, end, label=label, alignment_mode="expand")
-            if span is None:
-                print(data["id"], start, end, word,label)
-                print("Skipping entity")
-            else:
-                hasAnnotations = True
-                entities.append(span)
-        if(hasAnnotations):
-            filtered_ents = filter_spans(entities)
-            doc.ents = filtered_ents 
-            docs.append(doc)
-    return docs
-
-def CreateTrainingData():
-    trainingData = DataCleaning.TSVParser()
-    docBin = DocBin() # create a DocBin object
-    docs = CreateDocs(trainingData)
-    for doc in docs:
-        docBin.add(doc)
-    docBin.to_disk("spaCyTesting/smallTraining.spacy") # save the docbin object
