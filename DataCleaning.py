@@ -9,6 +9,15 @@ import conllu
 import pandas as pd
 import os
 import spacy
+from spacy import displacy
+import string
+
+def RemoveEscapeStrings(inputString):
+    output = inputString
+    output = output.replace("\n", "")
+    output = output.encode("ascii", "ignore")
+    return output.decode()
+
 def CreateSkillListKaggle():
     allSkills = set()
     print("skill list")
@@ -88,12 +97,12 @@ def WriteSearchListInception(skillList):
 def ParseJSONForDescriptions():
     # MAYBE LATER
     # escapeStrings = ["\n", "\u2022", "\u2019", "\u2013"]import spacy
-    # nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
 
     print("parsing")
     # Reading raw data
-    with open("Data\SmallJobPostTest\jobPostDataset.json", 'r', errors='ignore') as input:
+    with open("Data\SmallJobPostTest\jobPostDataset.json", 'r', errors='ignore', encoding="utf-8") as input:
         jobsDataset = json.load(input)
 
     # Parsing each job
@@ -110,15 +119,11 @@ def ParseJSONForDescriptions():
                 for itemText in item["items"]:
                     fullDescription += itemText + " "
 
-                # Processing escape characters out of data
-                fullDescription = fullDescription.replace("\n", "")
-            
+            # Processing escape characters out of data
+            fullDescription = RemoveEscapeStrings(fullDescription)
+
             output.write(fullDescription)
         currentDoc += 1
-
-def ConllUScanner(dataPath):
-
-    return
 
 def TSVParser():
     trainingData = []
@@ -137,25 +142,84 @@ def TSVParser():
                             holder = row[1].split("-")
                             oneAnnotation = [int(holder[0]), int(holder[1]), row[2], row[3]]
                             annotations.append(oneAnnotation)
+        else:
+            print(path + "(Does not exist)")
 
         # Reading text from source
         path = "Data\SmallJobPostTest\LabeledDataTSV\source\jobPost" + str(i) + ".txt"
         if(os.path.exists(path)):
             with open(path, 'r') as sourceInput:
                 text = sourceInput.read()
+        else:
+            print(path + "(Does not exist)")
 
         doc = {"id": i, "annotations": annotations, "text": text}
         trainingData.append(doc)
 
     return trainingData
 
+def OutputDoc(inputDoc):
+    colors = {"SKILL": "#F67DE3"}
+    options = {"colors": colors} 
+            
+    html = displacy.render(inputDoc, style="ent", options= options, page=True)
+    with open('visualizer.html', 'w') as htmlOutput:
+        htmlOutput.write(html)
+        htmlOutput.close()
+
 if __name__ == "__main__":
-    # ParseJSONForDescriptions()
+    # test = "\u0394"
+    # testing = test.encode("utf-8")
+    # print(test)
+    ParseJSONForDescriptions()
     # WriteList(CreateSkillListOStar(), "Data\skillsDataNew.csv") # data cleaning
     # WriteSearchListInception(CreateSkillListOStar())
+    # nlp = spacy.blank("en")
+    # escapeChars = set()
     # for item in TSVParser():
-    #     for annotation in item["annotations"]:
-    #         print(annotation)
-    #         print(item["text"][annotation[0]:annotation[1]], annotation[2])
-    #     print(item["text"])
-    print("hi")
+    #     found = False
+    #     index = 0
+    #     print(repr(item["text"]))
+        # for character in item["text"]:
+        #     if(found == True):
+        #         if(character == 'u'):
+        #             escapeChars.add(item["text"][index-1:index+4])
+        #         found = False
+        #     if(character == "\\"):
+        #        found = True
+        #     index += 1
+        # for annotation in item["annotations"]:
+        #     doc = nlp.make_doc(item["text"])
+        #     entities = []
+            
+            # for start, end, word, label in item["annotations"]:
+                
+            #     span = doc.char_span(start, end, label=label, alignment_mode="strict")
+            #     if span is None:
+            #         # print(data["id"], start, end, word, label)
+            #         print("Skipping entity")
+            #     else:
+            #         hasAnnotations = True
+            #         entities.append(span)
+
+            # break
+
+            # holder = item["text"]
+            # if item["text"] == holder:
+            #     print("good")
+            # else:
+            #     print("bad")
+            # if item["text"][annotation[0]:annotation[1]] == annotation[2] :
+            #     print(annotation)
+            #     print(item["text"][annotation[0]:annotation[1]], annotation[2])
+
+    # for escape in escapeChars:
+    #     print(escape)
+    
+    # doc = nlp("I like New York")
+    # ents = []
+    # span = doc.char_span(7, 15, label="GPE")
+    # assert span.text == "New York"
+    # ents.append(span)
+    # doc.ents = ents
+    # OutputDoc(doc)

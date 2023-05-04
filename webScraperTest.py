@@ -34,6 +34,8 @@ jobPostDatasetSWE_3_15_23.json (20 searches x 10 results = 200 postings -> start
 
 https://newscatcherapi.com/blog/train-custom-named-entity-recognition-ner-model-with-spacy-v3
 https://itnext.io/nlp-named-entity-recognition-ner-with-spacy-and-python-dabaf843cab2
+
+https://www.grammarly.com/blog/engineering/category/nlp-ml/ (for possible grammar suggester)
 '''
 from serpapi import GoogleSearch
 import os, json

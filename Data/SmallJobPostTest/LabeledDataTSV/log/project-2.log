@@ -786,3 +786,239 @@
 2023-03-17 00:52:38 INFO [admin] SourceDocumentExporter - Exported content for source document [108] in project [Small Set Labeling] with id [2]
 2023-03-17 00:52:38 INFO [admin] SourceDocumentExporter - Exported content for source document [109] in project [Small Set Labeling] with id [2]
 2023-03-17 00:52:38 INFO [admin] SourceDocumentExporter - Exported content for source document [110] in project [Small Set Labeling] with id [2]
+2023-03-17 00:52:38 INFO [admin] LoggedEventExporter - Exported [139] logged events for project [Small Set Labeling]
+2023-03-17 00:52:38 INFO [admin] LoggedEventExporter - Skipped [370] logged events for [80] documents no longer existing
+2023-03-17 00:52:38 INFO [admin] DefaultProjectPreferencesExporter - Exported [0] default preferences for project [Small Set Labeling]
+2023-03-17 00:52:38 INFO [admin] UserProjectPreferencesExporter - Exported [1] user preferences for project [Small Set Labeling]
+2023-03-17 00:52:38 INFO [admin] GazeteerExporter - Exported [0] gazeteers for project [Small Set Labeling]
+2023-03-17 00:52:38 INFO [admin] WorkloadManagerExporter - Exported workload manager for project [Small Set Labeling]
+2023-03-17 00:52:38 INFO [admin] RecommenderExporter - Exported [2] recommenders for project [Small Set Labeling]
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost0.txt](101) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost0.txt](101) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost0.txt](101) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost0.txt](101) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost1.txt](102) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost1.txt](102) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost10.txt](111) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost10.txt](111) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost10.txt](111) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost10.txt](111) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost11.txt](112) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost11.txt](112) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost11.txt](112) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost11.txt](112) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost12.txt](113) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost12.txt](113) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost12.txt](113) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost12.txt](113) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost13.txt](114) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost13.txt](114) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost13.txt](114) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost13.txt](114) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost14.txt](115) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost14.txt](115) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost15.txt](116) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost15.txt](116) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost15.txt](116) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost15.txt](116) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost16.txt](117) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost16.txt](117) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost16.txt](117) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost16.txt](117) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost17.txt](118) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost17.txt](118) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost17.txt](118) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost17.txt](118) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost18.txt](119) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost18.txt](119) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost19.txt](120) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost19.txt](120) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost2.txt](103) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost2.txt](103) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost2.txt](103) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost2.txt](103) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost3.txt](104) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost3.txt](104) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost3.txt](104) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost3.txt](104) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost4.txt](105) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost4.txt](105) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost4.txt](105) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost4.txt](105) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost5.txt](106) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost5.txt](106) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost5.txt](106) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost5.txt](106) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost6.txt](107) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost6.txt](107) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost6.txt](107) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost6.txt](107) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost7.txt](108) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost7.txt](108) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost8.txt](109) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost8.txt](109) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost8.txt](109) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost8.txt](109) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost9.txt](110) for user [INITIAL_CAS] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [jobPost9.txt](110) in project [Small Set Labeling](2)
+2023-03-17 00:52:38 INFO [admin] DocumentImportExportServiceImpl - Exported annotations [jobPost9.txt](110) for user [admin] from project [Small Set Labeling](2) using format [ctsv3]
+2023-03-17 00:52:38 INFO [admin] AnnotationDocumentExporter - Exported annotation document content for user [admin] for source document [jobPost9.txt](110) in project [Small Set Labeling](2)
+2023-03-17 19:04:00 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost0.txt](101) in project [Small Set Labeling](2)
+2023-03-17 19:04:02 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Evaluating...
+2023-03-17 19:04:07 INFO [admin] OpenNlpNerRecommender - Training on [29] sentences, predicting on [9] of total [38]
+2023-03-17 19:04:10 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Activated (0.6666666666666666 >= threshold 0.1)
+2023-03-17 19:04:10 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Evaluating...
+2023-03-17 19:04:10 INFO [admin] StringMatchingRecommender - Training on [29] items, predicting on [9] of total [38].
+2023-03-17 19:04:10 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Activated (0.0 >= threshold 0.0)
+2023-05-03 20:24:41 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost0.txt](101) in project [Small Set Labeling](2)
+2023-05-03 20:24:42 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Evaluating...
+2023-05-03 20:24:44 INFO [admin] OpenNlpNerRecommender - Training on [29] sentences, predicting on [9] of total [38]
+2023-05-03 20:24:46 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Activated (0.6666666666666666 >= threshold 0.1)
+2023-05-03 20:24:46 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Evaluating...
+2023-05-03 20:24:46 INFO [admin] StringMatchingRecommender - Training on [29] items, predicting on [9] of total [38].
+2023-05-03 20:24:46 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Activated (0.0 >= threshold 0.0)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost0.txt](101) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost1.txt](102) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost10.txt](111) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost11.txt](112) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost12.txt](113) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost13.txt](114) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost14.txt](115) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost15.txt](116) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost16.txt](117) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost17.txt](118) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost18.txt](119) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost19.txt](120) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost2.txt](103) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost3.txt](104) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost4.txt](105) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost5.txt](106) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost6.txt](107) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost7.txt](108) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost8.txt](109) from project [Small Set Labeling](2)
+2023-05-03 20:54:55 INFO [admin] DocumentServiceImpl - Removed source document [jobPost9.txt](110) from project [Small Set Labeling](2)
+2023-05-03 20:55:12 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [600] tokens and [11] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\121\source\jobPost0.txt] (size: 3615 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost0.txt](121) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [428] tokens and [13] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\122\source\jobPost1.txt] (size: 2449 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost1.txt](122) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [412] tokens and [7] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\123\source\jobPost2.txt] (size: 2490 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost2.txt](123) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1267] tokens and [22] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\124\source\jobPost3.txt] (size: 7509 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost3.txt](124) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1322] tokens and [18] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\125\source\jobPost4.txt] (size: 8508 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost4.txt](125) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1524] tokens and [37] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\126\source\jobPost5.txt] (size: 9505 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost5.txt](126) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [671] tokens and [12] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\127\source\jobPost6.txt] (size: 3985 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost6.txt](127) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Removed source document [jobPost7.txt](128) from project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1015] tokens and [22] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\129\source\jobPost8.txt] (size: 5991 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost8.txt](129) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1586] tokens and [37] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\130\source\jobPost9.txt] (size: 9652 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost9.txt](130) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [297] tokens and [3] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\131\source\jobPost10.txt] (size: 1593 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost10.txt](131) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1086] tokens and [25] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\132\source\jobPost11.txt] (size: 6480 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost11.txt](132) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [795] tokens and [16] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\133\source\jobPost12.txt] (size: 4549 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost12.txt](133) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [624] tokens and [14] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\134\source\jobPost13.txt] (size: 3736 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost13.txt](134) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [350] tokens and [5] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\135\source\jobPost14.txt] (size: 2286 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost14.txt](135) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1797] tokens and [55] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\136\source\jobPost15.txt] (size: 11667 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost15.txt](136) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1343] tokens and [30] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\137\source\jobPost16.txt] (size: 8460 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost16.txt](137) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [796] tokens and [16] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\138\source\jobPost17.txt] (size: 4887 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost17.txt](138) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [717] tokens and [22] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\139\source\jobPost18.txt] (size: 4161 bytes)
+2023-05-03 20:55:13 INFO [admin] DocumentServiceImpl - Imported source document [jobPost18.txt](139) to project [Small Set Labeling](2)
+2023-05-03 20:55:13 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [1234] tokens and [13] sentences from file [C:\Users\lieun\.inception\repository\project\2\document\140\source\jobPost19.txt] (size: 8086 bytes)
+2023-05-03 20:55:14 INFO [admin] DocumentServiceImpl - Imported source document [jobPost19.txt](140) to project [Small Set Labeling](2)
+2023-05-03 20:56:17 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost0.txt](70) in project [Small Set Labeling](2)
+2023-05-03 20:56:17 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost0.txt](121) in project [Small Set Labeling](2)
+2023-05-03 20:56:17 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Evaluating...
+2023-05-03 20:56:18 INFO [admin] OpenNlpNerRecommender - Not enough evaluation data: training set [0] sentences, test set [0] of total [0]
+2023-05-03 20:56:18 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Evaluation of recommender [[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)] could not be performed: Not enough evaluation data: training set [0] sentences, test set [0] of total [0]
+2023-05-03 20:56:18 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Evaluating...
+2023-05-03 20:56:18 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Activated (0.0 >= threshold 0.0)
+2023-05-03 20:56:29 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost1.txt](71) in project [Small Set Labeling](2)
+2023-05-03 20:56:29 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost1.txt](122) in project [Small Set Labeling](2)
+2023-05-03 20:56:30 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost0.txt](121) in project [Small Set Labeling](2)
+2023-05-03 20:57:15 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost0.txt](121) in project [Small Set Labeling](2)
+2023-05-03 20:57:50 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost1.txt](122) in project [Small Set Labeling](2)
+2023-05-03 20:57:56 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost0.txt](121) in project [Small Set Labeling](2)
+2023-05-03 20:58:15 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost9.txt](72) in project [Small Set Labeling](2)
+2023-05-03 20:58:15 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost16.txt](73) in project [Small Set Labeling](2)
+2023-05-03 20:58:34 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost1.txt](122) in project [Small Set Labeling](2)
+2023-05-03 20:58:35 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost10.txt](74) in project [Small Set Labeling](2)
+2023-05-03 20:58:35 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost10.txt](131) in project [Small Set Labeling](2)
+2023-05-03 20:58:49 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Evaluating...
+2023-05-03 20:58:50 INFO [admin] OpenNlpNerRecommender - Training on [5] sentences, predicting on [4] of total [9]
+2023-05-03 20:58:50 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Activated (0.8571428571428571 >= threshold 0.1)
+2023-05-03 20:58:50 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Evaluating...
+2023-05-03 20:58:50 INFO [admin] StringMatchingRecommender - Training on [5] items, predicting on [4] of total [9].
+2023-05-03 20:58:50 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Activated (0.0 >= threshold 0.0)
+2023-05-03 21:00:34 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost8.txt](75) in project [Small Set Labeling](2)
+2023-05-03 21:00:34 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost11.txt](76) in project [Small Set Labeling](2)
+2023-05-03 21:00:34 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost12.txt](77) in project [Small Set Labeling](2)
+2023-05-03 21:00:34 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost13.txt](78) in project [Small Set Labeling](2)
+2023-05-03 21:00:35 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost17.txt](79) in project [Small Set Labeling](2)
+2023-05-03 21:00:35 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost2.txt](80) in project [Small Set Labeling](2)
+2023-05-03 21:00:35 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost3.txt](81) in project [Small Set Labeling](2)
+2023-05-03 21:00:35 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost4.txt](82) in project [Small Set Labeling](2)
+2023-05-03 21:00:35 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost5.txt](83) in project [Small Set Labeling](2)
+2023-05-03 21:00:35 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost6.txt](84) in project [Small Set Labeling](2)
+2023-05-03 21:00:57 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost9.txt](130) in project [Small Set Labeling](2)
+2023-05-03 21:01:08 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Evaluating...
+2023-05-03 21:01:08 INFO [admin] OpenNlpNerRecommender - Training on [29] sentences, predicting on [10] of total [39]
+2023-05-03 21:01:09 INFO [admin] SelectionTask - [admin][[Span@Keywords] Multi-Token Sequence Classifier (OpenNLP NER)]: Activated (0.7317073170731707 >= threshold 0.1)
+2023-05-03 21:01:09 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Evaluating...
+2023-05-03 21:01:09 INFO [admin] StringMatchingRecommender - Training on [29] items, predicting on [10] of total [39].
+2023-05-03 21:01:09 INFO [admin] SelectionTask - [admin][[Span@Keywords] String Matcher]: Activated (0.0 >= threshold 0.0)
+2023-05-03 21:01:30 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost8.txt](129) in project [Small Set Labeling](2)
+2023-05-03 21:01:31 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost6.txt](127) in project [Small Set Labeling](2)
+2023-05-03 21:01:31 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost5.txt](126) in project [Small Set Labeling](2)
+2023-05-03 21:01:32 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost4.txt](125) in project [Small Set Labeling](2)
+2023-05-03 21:01:32 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost3.txt](124) in project [Small Set Labeling](2)
+2023-05-03 21:01:33 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost2.txt](123) in project [Small Set Labeling](2)
+2023-05-03 21:01:34 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost19.txt](85) in project [Small Set Labeling](2)
+2023-05-03 21:01:34 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost19.txt](140) in project [Small Set Labeling](2)
+2023-05-03 21:01:34 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost18.txt](86) in project [Small Set Labeling](2)
+2023-05-03 21:01:34 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost18.txt](139) in project [Small Set Labeling](2)
+2023-05-03 21:01:35 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost17.txt](138) in project [Small Set Labeling](2)
+2023-05-03 21:01:35 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost16.txt](137) in project [Small Set Labeling](2)
+2023-05-03 21:01:36 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost15.txt](87) in project [Small Set Labeling](2)
+2023-05-03 21:01:36 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost15.txt](136) in project [Small Set Labeling](2)
+2023-05-03 21:01:36 INFO [admin] DocumentServiceImpl - Created annotation document [admin@jobPost14.txt](88) in project [Small Set Labeling](2)
+2023-05-03 21:01:36 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost14.txt](135) in project [Small Set Labeling](2)
+2023-05-03 21:01:37 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost13.txt](134) in project [Small Set Labeling](2)
+2023-05-03 21:01:37 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost12.txt](133) in project [Small Set Labeling](2)
+2023-05-03 21:01:38 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost11.txt](132) in project [Small Set Labeling](2)
+2023-05-03 21:01:38 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [jobPost10.txt](131) in project [Small Set Labeling](2)
+2023-05-03 21:02:26 INFO [admin] ProjectPermissionsExporter - Exported [3] permissions for project [Small Set Labeling]
+2023-05-03 21:02:26 INFO [admin] DocumentRepositoryExporter - Exported [0] document repositories for project [Small Set Labeling]
+2023-05-03 21:02:26 INFO [admin] KnowledgeBaseExporter - Exported [0] knowledge bases for project [Small Set Labeling]
+2023-05-03 21:02:26 INFO [admin] LayerExporter - Exported [3] layers for project [Small Set Labeling]
+2023-05-03 21:02:26 INFO [admin] TagSetExporter - Exported [2] tagsets for project [Small Set Labeling]
+2023-05-03 21:02:26 INFO [admin] CurationWorkflowExporter - Exported curation workflow settings for project [Small Set Labeling](2)
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [121] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [122] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [131] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [132] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [133] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [134] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [135] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [136] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [137] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [138] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [139] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [140] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [123] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [124] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [125] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [126] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [127] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [129] in project [Small Set Labeling] with id [2]
+2023-05-03 21:02:26 INFO [admin] SourceDocumentExporter - Exported content for source document [130] in project [Small Set Labeling] with id [2]
