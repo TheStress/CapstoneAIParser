@@ -41,10 +41,10 @@ from serpapi import GoogleSearch
 import os, json
 
 params = {
-	'api_key': '0c7714dec6a0749f6f81c7032cd15c0f7de73c0fc753de6f8c2ec85191b10253',                           # https://serpapi.com/manage-api-key
+	'api_key': '0c7714dec6a0749f6f81c7032cd15c0f7de73c0fc753de6f8c2ec85191b10253', # https://serpapi.com/manage-api-key
 	# https://site-analyzer.pro/services-seo/uule/
 	'uule': 'w+CAIQICINVW5pdGVkIFN0YXRlcw',		# encoded location (USA)
-	'q': 'software engineer',              		# search query
+	'q': 'front end developer',              		# search query
     'hl': 'en',                         		# language of the search
     'gl': 'us',                         		# country of the search
 	'engine': 'google_jobs',					# SerpApi search engine
@@ -66,6 +66,6 @@ while count > 0:
     params['start'] += 10
     count -= 1
 
-with open("Data\jobPostDatasetSWE_3_15_23.json", "w") as outfile:
+with open("Data\FrontEnd\jobPostDatasetFrontEnd_5_5_23.json", "w") as outfile:
     outfile.write(json.dumps(google_jobs_results, indent=4))
 # print(json.dumps(google_jobs_results, indent=2, ensure_ascii=False))

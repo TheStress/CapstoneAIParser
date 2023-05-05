@@ -18,6 +18,16 @@ def RemoveEscapeStrings(inputString):
     output = output.encode("ascii", "ignore")
     return output.decode()
 
+def CreateManualList():
+    allSkills = set()
+    with open('Data\skillsManualTech.csv', newline='') as csvfile:
+        spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        count = 10
+        for row in spamreader:
+            allSkills.add(row[0])
+
+    return allSkills
+
 def CreateSkillListKaggle():
     allSkills = set()
     print("skill list")
@@ -44,10 +54,10 @@ def CreateSkillListOStar():
     allSkills = set()
     print("O Star List")
     #Skill List from kaggle
-    # with open('RawData\OStar\Skills.csv', 'r') as csvFile:
-    #     reader = csv.reader(csvFile, delimiter=',', quotechar='"')
-    #     for row in reader:
-    #         allSkills.add(row[3])
+    with open('RawData\OStar\Skills.csv', 'r') as csvFile:
+        reader = csv.reader(csvFile, delimiter=',', quotechar='"')
+        for row in reader:
+            allSkills.add(row[3])
     with open("RawData\OStar\Technology Skills.csv", 'r') as csvFile:
         reader = csv.reader(csvFile, delimiter=',', quotechar='"')
         for row in reader:
@@ -86,29 +96,23 @@ def WriteList(skillList, location):
         for i in skillList:
             spamwriter.writerow([i])
 
-def WriteSearchListInception(skillList):
-    pasteString = "("
+def WriteSearchListInception(skillList, outputPath):
+    pasteString = "(\""
     currentString = "\" | \"".join(skillList)
     pasteString += currentString
     pasteString += "\")"
-    with open("testingPasteUpper.txt", 'w', errors='ignore') as output:
+    with open(outputPath, 'w', errors='ignore') as output:
         output.write(pasteString)
 
-def ParseJSONForDescriptions():
-    # MAYBE LATER
-    # escapeStrings = ["\n", "\u2022", "\u2019", "\u2013"]import spacy
-    nlp = spacy.load("en_core_web_sm")
-
-
-    print("parsing")
+def ParseJSONForDescriptions(sourcePathJSON, outputPath, outFileName="jobPost"):
     # Reading raw data
-    with open("Data\SmallJobPostTest\jobPostDataset.json", 'r', errors='ignore', encoding="utf-8") as input:
+    with open(sourcePathJSON, 'r', errors='ignore', encoding="utf-8") as input:
         jobsDataset = json.load(input)
 
     # Parsing each job
     currentDoc = 0
     for job in jobsDataset:
-        path = "Data\SmallJobPostTest\IndividualDocs\jobPost"+str(currentDoc)+".txt"
+        path = outputPath+"/"+outFileName+str(currentDoc)+".txt"
         print(path)
 
         # writing each job
@@ -168,58 +172,36 @@ def OutputDoc(inputDoc):
         htmlOutput.close()
 
 if __name__ == "__main__":
-    # test = "\u0394"
-    # testing = test.encode("utf-8")
-    # print(test)
-    ParseJSONForDescriptions()
-    # WriteList(CreateSkillListOStar(), "Data\skillsDataNew.csv") # data cleaning
-    # WriteSearchListInception(CreateSkillListOStar())
-    # nlp = spacy.blank("en")
-    # escapeChars = set()
-    # for item in TSVParser():
-    #     found = False
-    #     index = 0
-    #     print(repr(item["text"]))
-        # for character in item["text"]:
-        #     if(found == True):
-        #         if(character == 'u'):
-        #             escapeChars.add(item["text"][index-1:index+4])
-        #         found = False
-        #     if(character == "\\"):
-        #        found = True
-        #     index += 1
-        # for annotation in item["annotations"]:
-        #     doc = nlp.make_doc(item["text"])
-        #     entities = []
-            
-            # for start, end, word, label in item["annotations"]:
-                
-            #     span = doc.char_span(start, end, label=label, alignment_mode="strict")
-            #     if span is None:
-            #         # print(data["id"], start, end, word, label)
-            #         print("Skipping entity")
-            #     else:
-            #         hasAnnotations = True
-            #         entities.append(span)
-
-            # break
-
-            # holder = item["text"]
-            # if item["text"] == holder:
-            #     print("good")
-            # else:
-            #     print("bad")
-            # if item["text"][annotation[0]:annotation[1]] == annotation[2] :
-            #     print(annotation)
-            #     print(item["text"][annotation[0]:annotation[1]], annotation[2])
-
-    # for escape in escapeChars:
-    #     print(escape)
+    # ParseJSONForDescriptions("Data/SWE/jobPostDatasetSWE_3_15_23.json", "Data/SWE/IndividualDocs", "SWEPost")
+    allSkills = CreateManualList()
+    upperSkills = Format(allSkills, "upper")
+    lowerSkills = Format(allSkills, "lower")
     
-    # doc = nlp("I like New York")
-    # ents = []
-    # span = doc.char_span(7, 15, label="GPE")
-    # assert span.text == "New York"
-    # ents.append(span)
-    # doc.ents = ents
-    # OutputDoc(doc)
+    for skill in upperSkills:
+        allSkills.add(skill)
+    for skill in lowerSkills:
+        allSkills.add(skill)
+
+    WriteSearchListInception(allSkills, "InceptionPasteList/PasteList.txt")
+    
+
+    # WriteList(allSkills, "Data\skillsDataNew.csv") # data cleaning
+    
+    # counter = 0
+    # currentDoc = 0
+    # countLimit = 5000
+    # skillList = set()
+    # for skill in allSkills:
+    #     skillList.add(skill)
+    #     if counter > countLimit:
+    #         outputPath = "InceptionPasteList/PasteList"+str(currentDoc)+".txt"
+    #         WriteSearchListInception(skillList, outputPath)
+    #         skillList.clear()
+    #         counter = 0
+    #         currentDoc += 1
+    #     counter += 1
+
+
+
+
+    print("hi")
