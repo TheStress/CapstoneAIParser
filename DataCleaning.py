@@ -18,13 +18,20 @@ def RemoveEscapeStrings(inputString):
     output = output.encode("ascii", "ignore")
     return output.decode()
 
-def CreateManualList():
+def CreateManualList(inputPath):
     allSkills = set()
-    with open('Data\skillsManualTech.csv', newline='') as csvfile:
+    with open(inputPath, newline='') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
-        count = 10
         for row in spamreader:
             allSkills.add(row[0])
+    
+    upperSkills = Format(allSkills, "upper")
+    lowerSkills = Format(allSkills, "lower")
+    
+    for skill in upperSkills:
+        allSkills.add(skill)
+    for skill in lowerSkills:
+        allSkills.add(skill)
 
     return allSkills
 
@@ -54,10 +61,10 @@ def CreateSkillListOStar():
     allSkills = set()
     print("O Star List")
     #Skill List from kaggle
-    with open('RawData\OStar\Skills.csv', 'r') as csvFile:
-        reader = csv.reader(csvFile, delimiter=',', quotechar='"')
-        for row in reader:
-            allSkills.add(row[3])
+    # with open('RawData\OStar\Skills.csv', 'r') as csvFile:
+    #     reader = csv.reader(csvFile, delimiter=',', quotechar='"')
+    #     for row in reader:
+    #         allSkills.add(row[3])
     with open("RawData\OStar\Technology Skills.csv", 'r') as csvFile:
         reader = csv.reader(csvFile, delimiter=',', quotechar='"')
         for row in reader:
@@ -173,17 +180,26 @@ def OutputDoc(inputDoc):
 
 if __name__ == "__main__":
     # ParseJSONForDescriptions("Data/SWE/jobPostDatasetSWE_3_15_23.json", "Data/SWE/IndividualDocs", "SWEPost")
-    allSkills = CreateManualList()
-    upperSkills = Format(allSkills, "upper")
-    lowerSkills = Format(allSkills, "lower")
+    # ParseJSONForDescriptions("Data/AndroidDeveloper/jobPostDatasetAndroid_5_8_23.json", "Data/AndroidDeveloper/IndividualDocs", "AndroidPost")
+    # ParseJSONForDescriptions("Data/BackEnd/jobPostDatasetBackEnd_5_8_23.json", "Data/BackEnd/IndividualDocs", "BackendPost")
+    # ParseJSONForDescriptions("Data/FrontEnd/jobPostDatasetFrontEnd_5_8_23.json", "Data/FrontEnd/IndividualDocs", "FrontendPost")
+    # ParseJSONForDescriptions("Data/IOSDeveloper/jobPostDatasetIOS_5_8_23.json", "Data/IOSDeveloper/IndividualDocs", "IOSPost")
     
-    for skill in upperSkills:
-        allSkills.add(skill)
-    for skill in lowerSkills:
-        allSkills.add(skill)
+    
+    
+    allSkills = CreateManualList("Data/skillsManualHard.csv")
 
-    WriteSearchListInception(allSkills, "InceptionPasteList/PasteList.txt")
+    WriteSearchListInception(allSkills, "InceptionPasteList/PasteListHard.txt")
     
+    
+    allSkills = CreateManualList("Data\skillsManualSoft.csv")
+
+    WriteSearchListInception(allSkills, "InceptionPasteList/PasteListSoft.txt")
+
+    allSkills = CreateSkillListOStar()
+
+    allSkills.remove("C")
+    WriteSearchListInception(allSkills, "InceptionPasteList/PasteListO.txt")
 
     # WriteList(allSkills, "Data\skillsDataNew.csv") # data cleaning
     

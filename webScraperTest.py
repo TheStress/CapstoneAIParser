@@ -23,14 +23,10 @@ Methods with databases
 
 List of jobs to get
 - software engineer
-- full stack engineer
 - back end engineer
 - front end engineer
-- data analyist
-- data engineer
-- mobile developer
-
-jobPostDatasetSWE_3_15_23.json (20 searches x 10 results = 200 postings -> starting)
+- android developer
+- ios developer
 
 https://newscatcherapi.com/blog/train-custom-named-entity-recognition-ner-model-with-spacy-v3
 https://itnext.io/nlp-named-entity-recognition-ner-with-spacy-and-python-dabaf843cab2
@@ -44,7 +40,7 @@ params = {
 	'api_key': '0c7714dec6a0749f6f81c7032cd15c0f7de73c0fc753de6f8c2ec85191b10253', # https://serpapi.com/manage-api-key
 	# https://site-analyzer.pro/services-seo/uule/
 	'uule': 'w+CAIQICINVW5pdGVkIFN0YXRlcw',		# encoded location (USA)
-	'q': 'front end developer',              		# search query
+	'q': 'ios developer',              		# search query
     'hl': 'en',                         		# language of the search
     'gl': 'us',                         		# country of the search
 	'engine': 'google_jobs',					# SerpApi search engine
@@ -53,7 +49,7 @@ params = {
 
 google_jobs_results = []
 
-count = 20
+count = 10
 while count > 0:
     search = GoogleSearch(params)   			# where data extraction happens on the SerpApi backend
     result_dict = search.get_dict() 			# JSON -> Python dict
@@ -66,6 +62,6 @@ while count > 0:
     params['start'] += 10
     count -= 1
 
-with open("Data\FrontEnd\jobPostDatasetFrontEnd_5_5_23.json", "w") as outfile:
+with open("Data\IOSDeveloper\jobPostDatasetIOS_5_8_23.json", "w") as outfile:
     outfile.write(json.dumps(google_jobs_results, indent=4))
 # print(json.dumps(google_jobs_results, indent=2, ensure_ascii=False))
