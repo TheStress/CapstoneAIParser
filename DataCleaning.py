@@ -12,12 +12,14 @@ import spacy
 from spacy import displacy
 import string
 
+# Remove escape strings from job descriptions
 def RemoveEscapeStrings(inputString):
     output = inputString
     output = output.replace("\n", "")
     output = output.encode("ascii", "ignore")
     return output.decode()
 
+# Reading skill list and formatting 
 def CreateManualList(inputPath):
     allSkills = set()
     with open(inputPath, newline='') as csvfile:
@@ -35,6 +37,7 @@ def CreateManualList(inputPath):
 
     return allSkills
 
+# Parsing skills from Kaggle Dataset
 def CreateSkillListKaggle():
     allSkills = set()
     print("skill list")
@@ -57,6 +60,7 @@ def CreateSkillListKaggle():
     
     return allSkills
 
+# Parsing skills from O*Net Dataset
 def CreateSkillListOStar():
     allSkills = set()
     print("O Star List")
@@ -72,6 +76,7 @@ def CreateSkillListOStar():
                 allSkills.add(row[2])
     return allSkills
 
+# Formats skilll list into upper, lower, and first captial
 def Format(allSkills, type = ""):
     # adding all versions UPPER -> lower -> First
     newSkillList = set()
@@ -111,6 +116,7 @@ def WriteSearchListInception(skillList, outputPath):
     with open(outputPath, 'w', errors='ignore') as output:
         output.write(pasteString)
 
+# Parse raw JSON for relavent information
 def ParseJSONForDescriptions(sourcePathJSON, outputPath, outFileName="jobPost"):
     # Reading raw data
     with open(sourcePathJSON, 'r', errors='ignore', encoding="utf-8") as input:
@@ -136,7 +142,7 @@ def ParseJSONForDescriptions(sourcePathJSON, outputPath, outFileName="jobPost"):
             output.write(fullDescription)
         currentDoc += 1
 
-
+# Parses labeled TSV file structure from INCEPTION
 def TSVParser(TSVFolderPath, docName, numofFiles, trainingSplit, skillList):
     trainingData = []
     for i in range(numofFiles):
@@ -202,6 +208,7 @@ def TSVParser(TSVFolderPath, docName, numofFiles, trainingSplit, skillList):
 
     return trainingData
 
+# Outputs training data for each searched job
 def GetTSVData(trainingSplit):
     trainingData = []
     skillList = ["Hard Skill", "Soft Skill"]
@@ -225,7 +232,7 @@ def GetTSVData(trainingSplit):
 
     return trainingData
 
-
+# outputs spacy doc in HTML
 def OutputDoc(inputDoc):
     colors = {"SKILL": "#F67DE3"}
     options = {"colors": colors} 
