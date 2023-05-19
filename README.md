@@ -6,7 +6,8 @@ This is the work from start to finish involved with training a Named Entity Clas
 1. serpAPI to gather job postings from Google Jobs
 2. Python to clean up the data and prepare it for labeling
 3. INCEPTION to label the hard and soft skills in the job postings
-4. spaCy framework to train NER classifier for the final product
+4. Python again to parse output from INCEPTION (TSV) into usable format for spaCy 
+5. spaCy framework to train NER classifier for the final product
 
 # Installation instructions
 ```
