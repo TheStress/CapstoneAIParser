@@ -1,0 +1,472 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Hybrid onsite 3 days a week from day 1Required:3+yrs of Android Development experience...Preferred:Java and Kotlin experience.
+1-1	0-6	Hybrid	_	
+1-2	7-13	onsite	_	
+1-3	14-15	3	_	
+1-4	16-20	days	_	
+1-5	21-22	a	_	
+1-6	23-27	week	_	
+1-7	28-32	from	_	
+1-8	33-36	day	_	
+1-9	37-46	1Required	_	
+1-10	46-47	:	_	
+1-11	47-48	3	_	
+1-12	48-49	+	_	
+1-13	49-52	yrs	_	
+1-14	53-55	of	_	
+1-15	56-63	Android	Hard Skill	
+1-16	64-75	Development	_	
+1-17	76-86	experience	_	
+1-18	86-87	.	_	
+1-19	87-88	.	_	
+1-20	88-89	.	_	
+1-21	89-98	Preferred	_	
+1-22	98-99	:	_	
+1-23	99-103	Java	Hard Skill	
+1-24	104-107	and	_	
+1-25	108-114	Kotlin	Hard Skill	
+1-26	115-125	experience	_	
+1-27	125-126	.	_	
+
+#Text=Kotlin is new so dont need more than a 1 yearAgile experienceExperience working with Jira, Rest APIsExperience working with CI/CD tools such as JenkinsAndroid UI components and library's experienceKnowledge of Firebase tooWorking with Scrum teamsFinancial services nice to haveExperienced Android developer who will contribute to modernizing the flagship B2C Android app.
+2-1	127-133	Kotlin	Hard Skill	
+2-2	134-136	is	_	
+2-3	137-140	new	_	
+2-4	141-143	so	_	
+2-5	144-148	dont	_	
+2-6	149-153	need	_	
+2-7	154-158	more	_	
+2-8	159-163	than	_	
+2-9	164-165	a	_	
+2-10	166-167	1	_	
+2-11	168-177	yearAgile	_	
+2-12	178-198	experienceExperience	_	
+2-13	199-206	working	_	
+2-14	207-211	with	_	
+2-15	212-216	Jira	Hard Skill	
+2-16	216-217	,	_	
+2-17	218-222	Rest	_	
+2-18	223-237	APIsExperience	_	
+2-19	238-245	working	_	
+2-20	246-250	with	_	
+2-21	251-253	CI	_	
+2-22	253-254	/	_	
+2-23	254-256	CD	_	
+2-24	257-262	tools	_	
+2-25	263-267	such	_	
+2-26	268-270	as	_	
+2-27	271-285	JenkinsAndroid	_	
+2-28	286-288	UI	_	
+2-29	289-299	components	_	
+2-30	300-303	and	_	
+2-31	304-313	library's	_	
+2-32	314-333	experienceKnowledge	_	
+2-33	334-336	of	_	
+2-34	337-345	Firebase	Hard Skill	
+2-35	346-356	tooWorking	_	
+2-36	357-361	with	_	
+2-37	362-367	Scrum	_	
+2-38	368-382	teamsFinancial	_	
+2-39	383-391	services	_	
+2-40	392-396	nice	_	
+2-41	397-399	to	_	
+2-42	400-415	haveExperienced	_	
+2-43	416-423	Android	Hard Skill	
+2-44	424-433	developer	_	
+2-45	434-437	who	_	
+2-46	438-442	will	_	
+2-47	443-453	contribute	_	
+2-48	454-456	to	_	
+2-49	457-468	modernizing	_	
+2-50	469-472	the	_	
+2-51	473-481	flagship	_	
+2-52	482-485	B2C	_	
+2-53	486-493	Android	Hard Skill	
+2-54	494-497	app	_	
+2-55	497-498	.	_	
+
+#Text=You will be utilizing the latest Android patterns to build UI components and implement functional features that deliver business value.
+3-1	499-502	You	_	
+3-2	503-507	will	_	
+3-3	508-510	be	_	
+3-4	511-520	utilizing	_	
+3-5	521-524	the	_	
+3-6	525-531	latest	_	
+3-7	532-539	Android	Hard Skill	
+3-8	540-548	patterns	_	
+3-9	549-551	to	_	
+3-10	552-557	build	_	
+3-11	558-560	UI	_	
+3-12	561-571	components	_	
+3-13	572-575	and	_	
+3-14	576-585	implement	_	
+3-15	586-596	functional	_	
+3-16	597-605	features	_	
+3-17	606-610	that	_	
+3-18	611-618	deliver	_	
+3-19	619-627	business	_	
+3-20	628-633	value	_	
+3-21	633-634	.	_	
+
+#Text=The ideal candidate is excited about staying up to date on the latest SDKs and technologies and is able to develop proof of concepts to test out new technical solutions that meet the business needs.
+4-1	635-638	The	_	
+4-2	639-644	ideal	_	
+4-3	645-654	candidate	_	
+4-4	655-657	is	_	
+4-5	658-665	excited	_	
+4-6	666-671	about	_	
+4-7	672-679	staying	_	
+4-8	680-682	up	_	
+4-9	683-685	to	_	
+4-10	686-690	date	_	
+4-11	691-693	on	_	
+4-12	694-697	the	_	
+4-13	698-704	latest	_	
+4-14	705-709	SDKs	_	
+4-15	710-713	and	_	
+4-16	714-726	technologies	_	
+4-17	727-730	and	_	
+4-18	731-733	is	_	
+4-19	734-738	able	_	
+4-20	739-741	to	_	
+4-21	742-749	develop	_	
+4-22	750-755	proof	_	
+4-23	756-758	of	_	
+4-24	759-767	concepts	_	
+4-25	768-770	to	_	
+4-26	771-775	test	_	
+4-27	776-779	out	_	
+4-28	780-783	new	_	
+4-29	784-793	technical	_	
+4-30	794-803	solutions	_	
+4-31	804-808	that	_	
+4-32	809-813	meet	_	
+4-33	814-817	the	_	
+4-34	818-826	business	_	
+4-35	827-832	needs	_	
+4-36	832-833	.	_	
+
+#Text=The role also provides opportunities to mentor junior developers.Key Responsibilities and Duties Performs architecture requirements analysis to convert end user needs into technical solutions.
+5-1	834-837	The	_	
+5-2	838-842	role	_	
+5-3	843-847	also	_	
+5-4	848-856	provides	_	
+5-5	857-870	opportunities	_	
+5-6	871-873	to	_	
+5-7	874-880	mentor	_	
+5-8	881-887	junior	_	
+5-9	888-902	developers.Key	_	
+5-10	903-919	Responsibilities	_	
+5-11	920-923	and	_	
+5-12	924-930	Duties	_	
+5-13	931-939	Performs	_	
+5-14	940-952	architecture	_	
+5-15	953-965	requirements	_	
+5-16	966-974	analysis	Hard Skill	
+5-17	975-977	to	_	
+5-18	978-985	convert	_	
+5-19	986-989	end	_	
+5-20	990-994	user	_	
+5-21	995-1000	needs	_	
+5-22	1001-1005	into	_	
+5-23	1006-1015	technical	_	
+5-24	1016-1025	solutions	_	
+5-25	1025-1026	.	_	
+
+#Text=Harmonizes systems design and technology constraints in accordance with compliance requirements.
+6-1	1027-1037	Harmonizes	_	
+6-2	1038-1045	systems	_	
+6-3	1046-1052	design	Hard Skill	
+6-4	1053-1056	and	_	
+6-5	1057-1067	technology	_	
+6-6	1068-1079	constraints	_	
+6-7	1080-1082	in	_	
+6-8	1083-1093	accordance	_	
+6-9	1094-1098	with	_	
+6-10	1099-1109	compliance	_	
+6-11	1110-1122	requirements	_	
+6-12	1122-1123	.	_	
+
+#Text=Follows key capabilities and performance requirements when developing system architectures.
+7-1	1124-1131	Follows	_	
+7-2	1132-1135	key	_	
+7-3	1136-1148	capabilities	_	
+7-4	1149-1152	and	_	
+7-5	1153-1164	performance	_	
+7-6	1165-1177	requirements	_	
+7-7	1178-1182	when	_	
+7-8	1183-1193	developing	_	
+7-9	1194-1200	system	_	
+7-10	1201-1214	architectures	_	
+7-11	1214-1215	.	_	
+
+#Text=Creates models and architectural guidelines for current and future system development.
+8-1	1216-1223	Creates	_	
+8-2	1224-1230	models	_	
+8-3	1231-1234	and	_	
+8-4	1235-1248	architectural	_	
+8-5	1249-1259	guidelines	_	
+8-6	1260-1263	for	_	
+8-7	1264-1271	current	_	
+8-8	1272-1275	and	_	
+8-9	1276-1282	future	_	
+8-10	1283-1289	system	_	
+8-11	1290-1301	development	_	
+8-12	1301-1302	.	_	
+
+#Text=Develops definitions for system element architecture, design and interface for lower level professionals to follow.
+9-1	1303-1311	Develops	_	
+9-2	1312-1323	definitions	_	
+9-3	1324-1327	for	_	
+9-4	1328-1334	system	_	
+9-5	1335-1342	element	_	
+9-6	1343-1355	architecture	_	
+9-7	1355-1356	,	_	
+9-8	1357-1363	design	Hard Skill	
+9-9	1364-1367	and	_	
+9-10	1368-1377	interface	_	
+9-11	1378-1381	for	_	
+9-12	1382-1387	lower	_	
+9-13	1388-1393	level	_	
+9-14	1394-1407	professionals	_	
+9-15	1408-1410	to	_	
+9-16	1411-1417	follow	_	
+9-17	1417-1418	.	_	
+
+#Text=Communicates the design of the software architecture to all stakeholders.
+10-1	1419-1431	Communicates	_	
+10-2	1432-1435	the	_	
+10-3	1436-1442	design	Hard Skill	
+10-4	1443-1445	of	_	
+10-5	1446-1449	the	_	
+10-6	1450-1458	software	_	
+10-7	1459-1471	architecture	_	
+10-8	1472-1474	to	_	
+10-9	1475-1478	all	_	
+10-10	1479-1491	stakeholders	_	
+10-11	1491-1492	.	_	
+
+#Text=Assists in complex data modeling and advanced project development.Qualifications 3 Years Required; 5 Years Preferred University (Degree), Preferred 3+yrs of Android Development experience Java and Kotlin experience Kotlin is new so dont need more than a 1 year Agile experience Experience working with Jira, Rest APIs Experience working with CI/CD tools such as Jenkins Android UI components and library's experience Knowledge of Firebase too Working with Scrum teams The ideal candidate is excited about staying up to date on the latest SDKs and technologies and is able to develop proof of concepts to test out new technical solutions that meet the business needs You will be utilizing the latest Android patterns to build UI components and implement functional features that deliver business value The role also provides opportunities to mentor junior developers Performs architecture requirements analysis to convert end user needs into technical solutions Harmonizes systems design and technology constraints in accordance with compliance requirements Follows key capabilities and performance requirements when developing system architectures Creates models and architectural guidelines for current and future system development Develops definitions for system element architecture, design and interface for lower level professionals to follow Communicates the design of the software architecture to all stakeholders Assists in complex data modeling and advanced project development
+11-1	1493-1500	Assists	_	
+11-2	1501-1503	in	_	
+11-3	1504-1511	complex	_	
+11-4	1512-1516	data	_	
+11-5	1517-1525	modeling	_	
+11-6	1526-1529	and	_	
+11-7	1530-1538	advanced	_	
+11-8	1539-1546	project	_	
+11-9	1547-1573	development.Qualifications	_	
+11-10	1574-1575	3	_	
+11-11	1576-1581	Years	_	
+11-12	1582-1590	Required	_	
+11-13	1590-1591	;	_	
+11-14	1592-1593	5	_	
+11-15	1594-1599	Years	_	
+11-16	1600-1609	Preferred	_	
+11-17	1610-1620	University	_	
+11-18	1621-1622	(	_	
+11-19	1622-1628	Degree	_	
+11-20	1628-1629	)	_	
+11-21	1629-1630	,	_	
+11-22	1631-1640	Preferred	_	
+11-23	1641-1642	3	_	
+11-24	1642-1643	+	_	
+11-25	1643-1646	yrs	_	
+11-26	1647-1649	of	_	
+11-27	1650-1657	Android	Hard Skill	
+11-28	1658-1669	Development	_	
+11-29	1670-1680	experience	_	
+11-30	1681-1685	Java	Hard Skill	
+11-31	1686-1689	and	_	
+11-32	1690-1696	Kotlin	Hard Skill	
+11-33	1697-1707	experience	_	
+11-34	1708-1714	Kotlin	Hard Skill	
+11-35	1715-1717	is	_	
+11-36	1718-1721	new	_	
+11-37	1722-1724	so	_	
+11-38	1725-1729	dont	_	
+11-39	1730-1734	need	_	
+11-40	1735-1739	more	_	
+11-41	1740-1744	than	_	
+11-42	1745-1746	a	_	
+11-43	1747-1748	1	_	
+11-44	1749-1753	year	_	
+11-45	1754-1759	Agile	Hard Skill	
+11-46	1760-1770	experience	_	
+11-47	1771-1781	Experience	_	
+11-48	1782-1789	working	_	
+11-49	1790-1794	with	_	
+11-50	1795-1799	Jira	Hard Skill	
+11-51	1799-1800	,	_	
+11-52	1801-1805	Rest	_	
+11-53	1806-1810	APIs	_	
+11-54	1811-1821	Experience	_	
+11-55	1822-1829	working	_	
+11-56	1830-1834	with	_	
+11-57	1835-1837	CI	_	
+11-58	1837-1838	/	_	
+11-59	1838-1840	CD	_	
+11-60	1841-1846	tools	_	
+11-61	1847-1851	such	_	
+11-62	1852-1854	as	_	
+11-63	1855-1862	Jenkins	Hard Skill	
+11-64	1863-1870	Android	Hard Skill	
+11-65	1871-1873	UI	_	
+11-66	1874-1884	components	_	
+11-67	1885-1888	and	_	
+11-68	1889-1898	library's	_	
+11-69	1899-1909	experience	_	
+11-70	1910-1919	Knowledge	_	
+11-71	1920-1922	of	_	
+11-72	1923-1931	Firebase	Hard Skill	
+11-73	1932-1935	too	_	
+11-74	1936-1943	Working	_	
+11-75	1944-1948	with	_	
+11-76	1949-1954	Scrum	_	
+11-77	1955-1960	teams	_	
+11-78	1961-1964	The	_	
+11-79	1965-1970	ideal	_	
+11-80	1971-1980	candidate	_	
+11-81	1981-1983	is	_	
+11-82	1984-1991	excited	_	
+11-83	1992-1997	about	_	
+11-84	1998-2005	staying	_	
+11-85	2006-2008	up	_	
+11-86	2009-2011	to	_	
+11-87	2012-2016	date	_	
+11-88	2017-2019	on	_	
+11-89	2020-2023	the	_	
+11-90	2024-2030	latest	_	
+11-91	2031-2035	SDKs	_	
+11-92	2036-2039	and	_	
+11-93	2040-2052	technologies	_	
+11-94	2053-2056	and	_	
+11-95	2057-2059	is	_	
+11-96	2060-2064	able	_	
+11-97	2065-2067	to	_	
+11-98	2068-2075	develop	_	
+11-99	2076-2081	proof	_	
+11-100	2082-2084	of	_	
+11-101	2085-2093	concepts	_	
+11-102	2094-2096	to	_	
+11-103	2097-2101	test	_	
+11-104	2102-2105	out	_	
+11-105	2106-2109	new	_	
+11-106	2110-2119	technical	_	
+11-107	2120-2129	solutions	_	
+11-108	2130-2134	that	_	
+11-109	2135-2139	meet	_	
+11-110	2140-2143	the	_	
+11-111	2144-2152	business	_	
+11-112	2153-2158	needs	_	
+11-113	2159-2162	You	_	
+11-114	2163-2167	will	_	
+11-115	2168-2170	be	_	
+11-116	2171-2180	utilizing	_	
+11-117	2181-2184	the	_	
+11-118	2185-2191	latest	_	
+11-119	2192-2199	Android	Hard Skill	
+11-120	2200-2208	patterns	_	
+11-121	2209-2211	to	_	
+11-122	2212-2217	build	_	
+11-123	2218-2220	UI	_	
+11-124	2221-2231	components	_	
+11-125	2232-2235	and	_	
+11-126	2236-2245	implement	_	
+11-127	2246-2256	functional	_	
+11-128	2257-2265	features	_	
+11-129	2266-2270	that	_	
+11-130	2271-2278	deliver	_	
+11-131	2279-2287	business	_	
+11-132	2288-2293	value	_	
+11-133	2294-2297	The	_	
+11-134	2298-2302	role	_	
+11-135	2303-2307	also	_	
+11-136	2308-2316	provides	_	
+11-137	2317-2330	opportunities	_	
+11-138	2331-2333	to	_	
+11-139	2334-2340	mentor	_	
+11-140	2341-2347	junior	_	
+11-141	2348-2358	developers	_	
+11-142	2359-2367	Performs	_	
+11-143	2368-2380	architecture	_	
+11-144	2381-2393	requirements	_	
+11-145	2394-2402	analysis	Hard Skill	
+11-146	2403-2405	to	_	
+11-147	2406-2413	convert	_	
+11-148	2414-2417	end	_	
+11-149	2418-2422	user	_	
+11-150	2423-2428	needs	_	
+11-151	2429-2433	into	_	
+11-152	2434-2443	technical	_	
+11-153	2444-2453	solutions	_	
+11-154	2454-2464	Harmonizes	_	
+11-155	2465-2472	systems	_	
+11-156	2473-2479	design	Hard Skill	
+11-157	2480-2483	and	_	
+11-158	2484-2494	technology	_	
+11-159	2495-2506	constraints	_	
+11-160	2507-2509	in	_	
+11-161	2510-2520	accordance	_	
+11-162	2521-2525	with	_	
+11-163	2526-2536	compliance	_	
+11-164	2537-2549	requirements	_	
+11-165	2550-2557	Follows	_	
+11-166	2558-2561	key	_	
+11-167	2562-2574	capabilities	_	
+11-168	2575-2578	and	_	
+11-169	2579-2590	performance	_	
+11-170	2591-2603	requirements	_	
+11-171	2604-2608	when	_	
+11-172	2609-2619	developing	_	
+11-173	2620-2626	system	_	
+11-174	2627-2640	architectures	_	
+11-175	2641-2648	Creates	_	
+11-176	2649-2655	models	_	
+11-177	2656-2659	and	_	
+11-178	2660-2673	architectural	_	
+11-179	2674-2684	guidelines	_	
+11-180	2685-2688	for	_	
+11-181	2689-2696	current	_	
+11-182	2697-2700	and	_	
+11-183	2701-2707	future	_	
+11-184	2708-2714	system	_	
+11-185	2715-2726	development	_	
+11-186	2727-2735	Develops	_	
+11-187	2736-2747	definitions	_	
+11-188	2748-2751	for	_	
+11-189	2752-2758	system	_	
+11-190	2759-2766	element	_	
+11-191	2767-2779	architecture	_	
+11-192	2779-2780	,	_	
+11-193	2781-2787	design	Hard Skill	
+11-194	2788-2791	and	_	
+11-195	2792-2801	interface	_	
+11-196	2802-2805	for	_	
+11-197	2806-2811	lower	_	
+11-198	2812-2817	level	_	
+11-199	2818-2831	professionals	_	
+11-200	2832-2834	to	_	
+11-201	2835-2841	follow	_	
+11-202	2842-2854	Communicates	_	
+11-203	2855-2858	the	_	
+11-204	2859-2865	design	Hard Skill	
+11-205	2866-2868	of	_	
+11-206	2869-2872	the	_	
+11-207	2873-2881	software	_	
+11-208	2882-2894	architecture	_	
+11-209	2895-2897	to	_	
+11-210	2898-2901	all	_	
+11-211	2902-2914	stakeholders	_	
+11-212	2915-2922	Assists	_	
+11-213	2923-2925	in	_	
+11-214	2926-2933	complex	_	
+11-215	2934-2938	data	_	
+11-216	2939-2947	modeling	_	
+11-217	2948-2951	and	_	
+11-218	2952-2960	advanced	_	
+11-219	2961-2968	project	_	
+11-220	2969-2980	development	_	

@@ -1,0 +1,237 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=1.
+1-1	0-1	1	_	
+1-2	1-2	.	_	
+
+#Text=Good working experience in iOS development.2.
+2-1	3-7	Good	_	
+2-2	8-15	working	_	
+2-3	16-26	experience	_	
+2-4	27-29	in	_	
+2-5	30-33	iOS	_	
+2-6	34-45	development	_	
+2-7	45-47	.2	_	
+2-8	47-48	.	_	
+
+#Text=Proven working experience in software development.3.Design and build advanced applications for the iOS platform...4.
+3-1	49-55	Proven	_	
+3-2	56-63	working	_	
+3-3	64-74	experience	_	
+3-4	75-77	in	_	
+3-5	78-86	software	_	
+3-6	87-98	development	_	
+3-7	98-100	.3	_	
+3-8	100-101	.	_	
+3-9	101-107	Design	Hard Skill	
+3-10	108-111	and	_	
+3-11	112-117	build	_	
+3-12	118-126	advanced	_	
+3-13	127-139	applications	_	
+3-14	140-143	for	_	
+3-15	144-147	the	_	
+3-16	148-151	iOS	_	
+3-17	152-160	platform	_	
+3-18	160-161	.	_	
+3-19	161-162	.	_	
+3-20	162-164	.4	_	
+3-21	164-165	.	_	
+
+#Text=Collaborate with cross-functional teams to define, design, and ship new features.5.
+4-1	166-177	Collaborate	_	
+4-2	178-182	with	_	
+4-3	183-199	cross-functional	_	
+4-4	200-205	teams	_	
+4-5	206-208	to	_	
+4-6	209-215	define	_	
+4-7	215-216	,	_	
+4-8	217-223	design	Hard Skill	
+4-9	223-224	,	_	
+4-10	225-228	and	_	
+4-11	229-233	ship	_	
+4-12	234-237	new	_	
+4-13	238-246	features	_	
+4-14	246-248	.5	_	
+4-15	248-249	.	_	
+
+#Text=Working experience in iOS development.6.
+5-1	250-257	Working	_	
+5-2	258-268	experience	_	
+5-3	269-271	in	_	
+5-4	272-275	iOS	_	
+5-5	276-287	development	_	
+5-6	287-289	.6	_	
+5-7	289-290	.	_	
+
+#Text=Have published one or more iOS apps in the app store.7.
+6-1	291-295	Have	_	
+6-2	296-305	published	_	
+6-3	306-309	one	_	
+6-4	310-312	or	_	
+6-5	313-317	more	_	
+6-6	318-321	iOS	_	
+6-7	322-326	apps	_	
+6-8	327-329	in	_	
+6-9	330-333	the	_	
+6-10	334-337	app	_	
+6-11	338-343	store	_	
+6-12	343-345	.7	_	
+6-13	345-346	.	_	
+
+#Text=A deep familiarity with Objective-C, XCode and Cocoa Touch.8.
+7-1	347-348	A	_	
+7-2	349-353	deep	_	
+7-3	354-365	familiarity	_	
+7-4	366-370	with	_	
+7-5	371-382	Objective-C	_	
+7-6	382-383	,	_	
+7-7	384-389	XCode	_	
+7-8	390-393	and	_	
+7-9	394-399	Cocoa	_	
+7-10	400-405	Touch	_	
+7-11	405-407	.8	_	
+7-12	407-408	.	_	
+
+#Text=Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text.9.
+8-1	409-419	Experience	_	
+8-2	420-427	working	_	
+8-3	428-432	with	_	
+8-4	433-436	iOS	_	
+8-5	437-447	frameworks	_	
+8-6	448-452	such	_	
+8-7	453-455	as	_	
+8-8	456-460	Core	_	
+8-9	461-465	Data	_	
+8-10	465-466	,	_	
+8-11	467-471	Core	_	
+8-12	472-481	Animation	_	
+8-13	481-482	,	_	
+8-14	483-487	Core	_	
+8-15	488-496	Graphics	_	
+8-16	497-500	and	_	
+8-17	501-505	Core	_	
+8-18	506-510	Text	_	
+8-19	510-512	.9	_	
+8-20	512-513	.	_	
+
+#Text=Experience with third-party libraries and APIs.10.
+9-1	514-524	Experience	_	
+9-2	525-529	with	_	
+9-3	530-541	third-party	_	
+9-4	542-551	libraries	_	
+9-5	552-555	and	_	
+9-6	556-560	APIs	_	
+9-7	560-563	.10	_	
+9-8	563-564	.	_	
+
+#Text=Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.11.
+10-1	565-572	Working	_	
+10-2	573-582	knowledge	_	
+10-3	583-585	of	_	
+10-4	586-589	the	_	
+10-5	590-597	general	_	
+10-6	598-604	mobile	_	
+10-7	605-614	landscape	_	
+10-8	614-615	,	_	
+10-9	616-629	architectures	_	
+10-10	629-630	,	_	
+10-11	631-637	trends	_	
+10-12	637-638	,	_	
+10-13	639-642	and	_	
+10-14	643-651	emerging	_	
+10-15	652-664	technologies	_	
+10-16	664-667	.11	_	
+10-17	667-668	.	_	
+
+#Text=Solid understanding of the full mobile development life cycle Proven working experience in software development Working experience in iOS development Have published one or more iOS apps in the app store A deep familiarity with Objective-C, XCode and Cocoa Touch Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text Experience with third-party libraries and APIs Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies Solid understanding of the full mobile development life cycle
+11-1	669-674	Solid	_	
+11-2	675-688	understanding	_	
+11-3	689-691	of	_	
+11-4	692-695	the	_	
+11-5	696-700	full	_	
+11-6	701-707	mobile	_	
+11-7	708-719	development	_	
+11-8	720-724	life	_	
+11-9	725-730	cycle	_	
+11-10	731-737	Proven	_	
+11-11	738-745	working	_	
+11-12	746-756	experience	_	
+11-13	757-759	in	_	
+11-14	760-768	software	_	
+11-15	769-780	development	_	
+11-16	781-788	Working	_	
+11-17	789-799	experience	_	
+11-18	800-802	in	_	
+11-19	803-806	iOS	_	
+11-20	807-818	development	_	
+11-21	819-823	Have	_	
+11-22	824-833	published	_	
+11-23	834-837	one	_	
+11-24	838-840	or	_	
+11-25	841-845	more	_	
+11-26	846-849	iOS	_	
+11-27	850-854	apps	_	
+11-28	855-857	in	_	
+11-29	858-861	the	_	
+11-30	862-865	app	_	
+11-31	866-871	store	_	
+11-32	872-873	A	_	
+11-33	874-878	deep	_	
+11-34	879-890	familiarity	_	
+11-35	891-895	with	_	
+11-36	896-907	Objective-C	_	
+11-37	907-908	,	_	
+11-38	909-914	XCode	_	
+11-39	915-918	and	_	
+11-40	919-924	Cocoa	_	
+11-41	925-930	Touch	_	
+11-42	931-941	Experience	_	
+11-43	942-949	working	_	
+11-44	950-954	with	_	
+11-45	955-958	iOS	_	
+11-46	959-969	frameworks	_	
+11-47	970-974	such	_	
+11-48	975-977	as	_	
+11-49	978-982	Core	_	
+11-50	983-987	Data	_	
+11-51	987-988	,	_	
+11-52	989-993	Core	_	
+11-53	994-1003	Animation	_	
+11-54	1003-1004	,	_	
+11-55	1005-1009	Core	_	
+11-56	1010-1018	Graphics	_	
+11-57	1019-1022	and	_	
+11-58	1023-1027	Core	_	
+11-59	1028-1032	Text	_	
+11-60	1033-1043	Experience	_	
+11-61	1044-1048	with	_	
+11-62	1049-1060	third-party	_	
+11-63	1061-1070	libraries	_	
+11-64	1071-1074	and	_	
+11-65	1075-1079	APIs	_	
+11-66	1080-1087	Working	_	
+11-67	1088-1097	knowledge	_	
+11-68	1098-1100	of	_	
+11-69	1101-1104	the	_	
+11-70	1105-1112	general	_	
+11-71	1113-1119	mobile	_	
+11-72	1120-1129	landscape	_	
+11-73	1129-1130	,	_	
+11-74	1131-1144	architectures	_	
+11-75	1144-1145	,	_	
+11-76	1146-1152	trends	_	
+11-77	1152-1153	,	_	
+11-78	1154-1157	and	_	
+11-79	1158-1166	emerging	_	
+11-80	1167-1179	technologies	_	
+11-81	1180-1185	Solid	_	
+11-82	1186-1199	understanding	_	
+11-83	1200-1202	of	_	
+11-84	1203-1206	the	_	
+11-85	1207-1211	full	_	
+11-86	1212-1218	mobile	_	
+11-87	1219-1230	development	_	
+11-88	1231-1235	life	_	
+11-89	1236-1241	cycle	_	

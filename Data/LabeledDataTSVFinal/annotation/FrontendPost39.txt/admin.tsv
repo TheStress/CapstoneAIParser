@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Developing new user-facing features using React JS based on the requirement documents.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-28	Developing	_	
+1-4	29-32	new	_	
+1-5	33-44	user-facing	_	
+1-6	45-53	features	_	
+1-7	54-59	using	_	
+1-8	60-65	React	Hard Skill	
+1-9	66-68	JS	_	
+1-10	69-74	based	_	
+1-11	75-77	on	_	
+1-12	78-81	the	_	
+1-13	82-93	requirement	_	
+1-14	94-103	documents	_	
+1-15	103-104	.	_	
+
+#Text=Building reusable components and front-end libraries.
+2-1	105-113	Building	_	
+2-2	114-122	reusable	_	
+2-3	123-133	components	_	
+2-4	134-137	and	_	
+2-5	138-147	front-end	_	
+2-6	148-157	libraries	_	
+2-7	157-158	.	_	
+
+#Text=Optimizing components for performance across a vast array of web-capable devices and browsers.
+3-1	159-169	Optimizing	_	
+3-2	170-180	components	_	
+3-3	181-184	for	_	
+3-4	185-196	performance	_	
+3-5	197-203	across	_	
+3-6	204-205	a	_	
+3-7	206-210	vast	_	
+3-8	211-216	array	_	
+3-9	217-219	of	_	
+3-10	220-231	web-capable	_	
+3-11	232-239	devices	_	
+3-12	240-243	and	_	
+3-13	244-252	browsers	_	
+3-14	252-253	.	_	
+
+#Text=Fully versed for using functionality Should be a great team member.Key Skills: JavaScript.
+4-1	254-259	Fully	_	
+4-2	260-266	versed	_	
+4-3	267-270	for	_	
+4-4	271-276	using	_	
+4-5	277-290	functionality	_	
+4-6	291-297	Should	_	
+4-7	298-300	be	_	
+4-8	301-302	a	_	
+4-9	303-308	great	_	
+4-10	309-313	team	_	
+4-11	314-324	member.Key	_	
+4-12	325-331	Skills	_	
+4-13	331-332	:	_	
+4-14	333-343	JavaScript	Hard Skill	
+4-15	343-344	.	_	
+
+#Text=Frameworks and Libraries.
+5-1	345-355	Frameworks	_	
+5-2	356-359	and	_	
+5-3	360-369	Libraries	_	
+5-4	369-370	.	_	
+
+#Text=Version control...
+6-1	371-378	Version	_	
+6-2	379-386	control	_	
+6-3	386-387	.	_	
+6-4	387-388	.	_	
+6-5	388-389	.	_	
+
+#Text=Cross-browser and device testing.
+7-1	390-403	Cross-browser	_	
+7-2	404-407	and	_	
+7-3	408-414	device	_	
+7-4	415-422	testing	_	
+7-5	422-423	.	_	
+
+#Text=Web performance optimization.
+8-1	424-427	Web	_	
+8-2	428-439	performance	_	
+8-3	440-452	optimization	_	
+8-4	452-453	.	_	
+
+#Text=Search engine optimization Fully versed for using functionality Should be a great team member Key Skills: JavaScript Cross-browser and device testing Responsibilities: Developing new user-facing features using React JS based on the requirement documents Building reusable components and front-end libraries Optimizing components for performance across a vast array of web-capable devices and browsers
+9-1	454-460	Search	_	
+9-2	461-467	engine	_	
+9-3	468-480	optimization	_	
+9-4	481-486	Fully	_	
+9-5	487-493	versed	_	
+9-6	494-497	for	_	
+9-7	498-503	using	_	
+9-8	504-517	functionality	_	
+9-9	518-524	Should	_	
+9-10	525-527	be	_	
+9-11	528-529	a	_	
+9-12	530-535	great	_	
+9-13	536-540	team	_	
+9-14	541-547	member	_	
+9-15	548-551	Key	_	
+9-16	552-558	Skills	_	
+9-17	558-559	:	_	
+9-18	560-570	JavaScript	Hard Skill	
+9-19	571-584	Cross-browser	_	
+9-20	585-588	and	_	
+9-21	589-595	device	_	
+9-22	596-603	testing	_	
+9-23	604-620	Responsibilities	_	
+9-24	620-621	:	_	
+9-25	622-632	Developing	_	
+9-26	633-636	new	_	
+9-27	637-648	user-facing	_	
+9-28	649-657	features	_	
+9-29	658-663	using	_	
+9-30	664-669	React	Hard Skill	
+9-31	670-672	JS	_	
+9-32	673-678	based	_	
+9-33	679-681	on	_	
+9-34	682-685	the	_	
+9-35	686-697	requirement	_	
+9-36	698-707	documents	_	
+9-37	708-716	Building	_	
+9-38	717-725	reusable	_	
+9-39	726-736	components	_	
+9-40	737-740	and	_	
+9-41	741-750	front-end	_	
+9-42	751-760	libraries	_	
+9-43	761-771	Optimizing	_	
+9-44	772-782	components	_	
+9-45	783-786	for	_	
+9-46	787-798	performance	_	
+9-47	799-805	across	_	
+9-48	806-807	a	_	
+9-49	808-812	vast	_	
+9-50	813-818	array	_	
+9-51	819-821	of	_	
+9-52	822-833	web-capable	_	
+9-53	834-841	devices	_	
+9-54	842-845	and	_	
+9-55	846-854	browsers	_	

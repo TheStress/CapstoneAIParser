@@ -1,0 +1,410 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities Develop high quality, consumer-grade features on iOS and watchOS.
+1-1	0-16	Responsibilities	_	
+1-2	17-24	Develop	_	
+1-3	25-29	high	_	
+1-4	30-37	quality	_	
+1-5	37-38	,	_	
+1-6	39-53	consumer-grade	_	
+1-7	54-62	features	_	
+1-8	63-65	on	_	
+1-9	66-69	iOS	_	
+1-10	70-73	and	_	
+1-11	74-81	watchOS	_	
+1-12	81-82	.	_	
+
+#Text=Ensure the performance, quality, and responsiveness of applications...
+2-1	83-89	Ensure	_	
+2-2	90-93	the	_	
+2-3	94-105	performance	_	
+2-4	105-106	,	_	
+2-5	107-114	quality	_	
+2-6	114-115	,	_	
+2-7	116-119	and	_	
+2-8	120-134	responsiveness	_	
+2-9	135-137	of	_	
+2-10	138-150	applications	_	
+2-11	150-151	.	_	
+2-12	151-152	.	_	
+2-13	152-153	.	_	
+
+#Text=Collaborate with team to define, design, and ship new features.
+3-1	154-165	Collaborate	Soft Skill	
+3-2	166-170	with	_	
+3-3	171-175	team	_	
+3-4	176-178	to	_	
+3-5	179-185	define	_	
+3-6	185-186	,	_	
+3-7	187-193	design	Hard Skill	
+3-8	193-194	,	_	
+3-9	195-198	and	_	
+3-10	199-203	ship	_	
+3-11	204-207	new	_	
+3-12	208-216	features	_	
+3-13	216-217	.	_	
+
+#Text=Continuously seek to improve application performance and code stability.
+4-1	218-230	Continuously	_	
+4-2	231-235	seek	_	
+4-3	236-238	to	_	
+4-4	239-246	improve	_	
+4-5	247-258	application	_	
+4-6	259-270	performance	_	
+4-7	271-274	and	_	
+4-8	275-279	code	_	
+4-9	280-289	stability	_	
+4-10	289-290	.	_	
+
+#Text=Utilize standards and methodologies to maintain code quality and organization.
+5-1	291-298	Utilize	_	
+5-2	299-308	standards	_	
+5-3	309-312	and	_	
+5-4	313-326	methodologies	_	
+5-5	327-329	to	_	
+5-6	330-338	maintain	_	
+5-7	339-343	code	_	
+5-8	344-351	quality	_	
+5-9	352-355	and	_	
+5-10	356-368	organization	_	
+5-11	368-369	.	_	
+
+#Text=Assist with Sprint planning and organization.Qualifications Strong programming experience with Swift and Cocoa.
+6-1	370-376	Assist	_	
+6-2	377-381	with	_	
+6-3	382-388	Sprint	_	
+6-4	389-397	planning	_	
+6-5	398-401	and	_	
+6-6	402-429	organization.Qualifications	_	
+6-7	430-436	Strong	_	
+6-8	437-448	programming	Hard Skill	
+6-9	449-459	experience	_	
+6-10	460-464	with	_	
+6-11	465-470	Swift	Hard Skill	
+6-12	471-474	and	_	
+6-13	475-480	Cocoa	_	
+6-14	480-481	.	_	
+
+#Text=Proficient in Object-oriented programming, along with Objective-C.
+7-1	482-492	Proficient	_	
+7-2	493-495	in	_	
+7-3	496-511	Object-oriented	_	
+7-4	512-523	programming	Hard Skill	
+7-5	523-524	,	_	
+7-6	525-530	along	_	
+7-7	531-535	with	_	
+7-8	536-547	Objective-C	Hard Skill	
+7-9	547-548	.	_	
+
+#Text=Knowledge of iOS runtime, pre- and post-ARC, Xcode and OS X tooling.
+8-1	549-558	Knowledge	_	
+8-2	559-561	of	_	
+8-3	562-565	iOS	_	
+8-4	566-573	runtime	_	
+8-5	573-574	,	_	
+8-6	575-578	pre	_	
+8-7	578-579	-	_	
+8-8	580-583	and	_	
+8-9	584-592	post-ARC	_	
+8-10	592-593	,	_	
+8-11	594-599	Xcode	Hard Skill	
+8-12	600-603	and	_	
+8-13	604-606	OS	_	
+8-14	607-608	X	_	
+8-15	609-616	tooling	_	
+8-16	616-617	.	_	
+
+#Text=Understanding of memory management, multi-threading and concurrency.
+9-1	618-631	Understanding	_	
+9-2	632-634	of	_	
+9-3	635-641	memory	_	
+9-4	642-652	management	_	
+9-5	652-653	,	_	
+9-6	654-669	multi-threading	_	
+9-7	670-673	and	_	
+9-8	674-685	concurrency	_	
+9-9	685-686	.	_	
+
+#Text=Experience working with data exchange and persistence, including Core Data.
+10-1	687-697	Experience	_	
+10-2	698-705	working	_	
+10-3	706-710	with	_	
+10-4	711-715	data	_	
+10-5	716-724	exchange	_	
+10-6	725-728	and	_	
+10-7	729-740	persistence	_	
+10-8	740-741	,	_	
+10-9	742-751	including	_	
+10-10	752-756	Core	_	
+10-11	757-761	Data	_	
+10-12	761-762	.	_	
+
+#Text=Experience integrating with REST APIs and cloud services.
+11-1	763-773	Experience	_	
+11-2	774-785	integrating	_	
+11-3	786-790	with	_	
+11-4	791-795	REST	_	
+11-5	796-800	APIs	_	
+11-6	801-804	and	_	
+11-7	805-810	cloud	_	
+11-8	811-819	services	_	
+11-9	819-820	.	_	
+
+#Text=Experience with automated testing and unit tests.
+12-1	821-831	Experience	_	
+12-2	832-836	with	_	
+12-3	837-846	automated	_	
+12-4	847-854	testing	_	
+12-5	855-858	and	_	
+12-6	859-863	unit	_	
+12-7	864-869	tests	_	
+12-8	869-870	.	_	
+
+#Text=Exposure to or interest with Core ML, HealthKit or related technologies.
+13-1	871-879	Exposure	_	
+13-2	880-882	to	_	
+13-3	883-885	or	_	
+13-4	886-894	interest	_	
+13-5	895-899	with	_	
+13-6	900-904	Core	_	
+13-7	905-907	ML	_	
+13-8	907-908	,	_	
+13-9	909-918	HealthKit	_	
+13-10	919-921	or	_	
+13-11	922-929	related	_	
+13-12	930-942	technologies	_	
+13-13	942-943	.	_	
+
+#Text=Familiarity with Git, CI/CD, versioning and release management.
+14-1	944-955	Familiarity	_	
+14-2	956-960	with	_	
+14-3	961-964	Git	Hard Skill	
+14-4	964-965	,	_	
+14-5	966-968	CI	_	
+14-6	968-969	/	_	
+14-7	969-971	CD	_	
+14-8	971-972	,	_	
+14-9	973-983	versioning	_	
+14-10	984-987	and	_	
+14-11	988-995	release	_	
+14-12	996-1006	management	_	
+14-13	1006-1007	.	_	
+
+#Text=Experience publishing production apps to the Apple App Store.
+15-1	1008-1018	Experience	_	
+15-2	1019-1029	publishing	_	
+15-3	1030-1040	production	_	
+15-4	1041-1045	apps	_	
+15-5	1046-1048	to	_	
+15-6	1049-1052	the	_	
+15-7	1053-1058	Apple	_	
+15-8	1059-1062	App	_	
+15-9	1063-1068	Store	_	
+15-10	1068-1069	.	_	
+
+#Text=Working knowledge of Scrum, KanBan and/or Agile principles and practice.
+16-1	1070-1077	Working	_	
+16-2	1078-1087	knowledge	_	
+16-3	1088-1090	of	_	
+16-4	1091-1096	Scrum	_	
+16-5	1096-1097	,	_	
+16-6	1098-1104	KanBan	_	
+16-7	1105-1108	and	_	
+16-8	1108-1109	/	_	
+16-9	1109-1111	or	_	
+16-10	1112-1117	Agile	Hard Skill	
+16-11	1118-1128	principles	_	
+16-12	1129-1132	and	_	
+16-13	1133-1141	practice	_	
+16-14	1141-1142	.	_	
+
+#Text=Excellent communication skills in working with globally distributed teams.Note: Only Local candidates are preferred.Senior iOS Developer Strong programming experience with Swift and Cocoa Proficient in Object-oriented programming, along with Objective-C Knowledge of iOS runtime, pre- and post-ARC, Xcode and OS X tooling Understanding of memory management, multi-threading and concurrency Experience working with data exchange and persistence, including Core Data Experience integrating with REST APIs and cloud services Experience with automated testing and unit tests Exposure to or interest with Core ML, HealthKit or related technologies Familiarity with Git, CI/CD, versioning and release management Experience publishing production apps to the Apple App Store Working knowledge of Scrum, KanBan and/or Agile principles and practice Senior iOS Developer Develop high quality, consumer-grade features on iOS and watch Ensure the performance, quality, and responsiveness of applications Collaborate with team to define, design, and ship new features Continuously seek to improve application performance and code stability Utilize standards and methodologies to maintain code quality and organization Assist with Sprint planning and organization
+17-1	1143-1152	Excellent	_	
+17-2	1153-1166	communication	Soft Skill	
+17-3	1167-1173	skills	_	
+17-4	1174-1176	in	_	
+17-5	1177-1184	working	_	
+17-6	1185-1189	with	_	
+17-7	1190-1198	globally	_	
+17-8	1199-1210	distributed	_	
+17-9	1211-1221	teams.Note	_	
+17-10	1221-1222	:	_	
+17-11	1223-1227	Only	_	
+17-12	1228-1233	Local	_	
+17-13	1234-1244	candidates	_	
+17-14	1245-1248	are	_	
+17-15	1249-1265	preferred.Senior	_	
+17-16	1266-1269	iOS	_	
+17-17	1270-1279	Developer	_	
+17-18	1280-1286	Strong	_	
+17-19	1287-1298	programming	Hard Skill	
+17-20	1299-1309	experience	_	
+17-21	1310-1314	with	_	
+17-22	1315-1320	Swift	Hard Skill	
+17-23	1321-1324	and	_	
+17-24	1325-1330	Cocoa	_	
+17-25	1331-1341	Proficient	_	
+17-26	1342-1344	in	_	
+17-27	1345-1360	Object-oriented	_	
+17-28	1361-1372	programming	Hard Skill	
+17-29	1372-1373	,	_	
+17-30	1374-1379	along	_	
+17-31	1380-1384	with	_	
+17-32	1385-1396	Objective-C	Hard Skill	
+17-33	1397-1406	Knowledge	_	
+17-34	1407-1409	of	_	
+17-35	1410-1413	iOS	_	
+17-36	1414-1421	runtime	_	
+17-37	1421-1422	,	_	
+17-38	1423-1426	pre	_	
+17-39	1426-1427	-	_	
+17-40	1428-1431	and	_	
+17-41	1432-1440	post-ARC	_	
+17-42	1440-1441	,	_	
+17-43	1442-1447	Xcode	Hard Skill	
+17-44	1448-1451	and	_	
+17-45	1452-1454	OS	_	
+17-46	1455-1456	X	_	
+17-47	1457-1464	tooling	_	
+17-48	1465-1478	Understanding	_	
+17-49	1479-1481	of	_	
+17-50	1482-1488	memory	_	
+17-51	1489-1499	management	_	
+17-52	1499-1500	,	_	
+17-53	1501-1516	multi-threading	_	
+17-54	1517-1520	and	_	
+17-55	1521-1532	concurrency	_	
+17-56	1533-1543	Experience	_	
+17-57	1544-1551	working	_	
+17-58	1552-1556	with	_	
+17-59	1557-1561	data	_	
+17-60	1562-1570	exchange	_	
+17-61	1571-1574	and	_	
+17-62	1575-1586	persistence	_	
+17-63	1586-1587	,	_	
+17-64	1588-1597	including	_	
+17-65	1598-1602	Core	_	
+17-66	1603-1607	Data	_	
+17-67	1608-1618	Experience	_	
+17-68	1619-1630	integrating	_	
+17-69	1631-1635	with	_	
+17-70	1636-1640	REST	_	
+17-71	1641-1645	APIs	_	
+17-72	1646-1649	and	_	
+17-73	1650-1655	cloud	_	
+17-74	1656-1664	services	_	
+17-75	1665-1675	Experience	_	
+17-76	1676-1680	with	_	
+17-77	1681-1690	automated	_	
+17-78	1691-1698	testing	_	
+17-79	1699-1702	and	_	
+17-80	1703-1707	unit	_	
+17-81	1708-1713	tests	_	
+17-82	1714-1722	Exposure	_	
+17-83	1723-1725	to	_	
+17-84	1726-1728	or	_	
+17-85	1729-1737	interest	_	
+17-86	1738-1742	with	_	
+17-87	1743-1747	Core	_	
+17-88	1748-1750	ML	_	
+17-89	1750-1751	,	_	
+17-90	1752-1761	HealthKit	_	
+17-91	1762-1764	or	_	
+17-92	1765-1772	related	_	
+17-93	1773-1785	technologies	_	
+17-94	1786-1797	Familiarity	_	
+17-95	1798-1802	with	_	
+17-96	1803-1806	Git	Hard Skill	
+17-97	1806-1807	,	_	
+17-98	1808-1810	CI	_	
+17-99	1810-1811	/	_	
+17-100	1811-1813	CD	_	
+17-101	1813-1814	,	_	
+17-102	1815-1825	versioning	_	
+17-103	1826-1829	and	_	
+17-104	1830-1837	release	_	
+17-105	1838-1848	management	_	
+17-106	1849-1859	Experience	_	
+17-107	1860-1870	publishing	_	
+17-108	1871-1881	production	_	
+17-109	1882-1886	apps	_	
+17-110	1887-1889	to	_	
+17-111	1890-1893	the	_	
+17-112	1894-1899	Apple	_	
+17-113	1900-1903	App	_	
+17-114	1904-1909	Store	_	
+17-115	1910-1917	Working	_	
+17-116	1918-1927	knowledge	_	
+17-117	1928-1930	of	_	
+17-118	1931-1936	Scrum	_	
+17-119	1936-1937	,	_	
+17-120	1938-1944	KanBan	_	
+17-121	1945-1948	and	_	
+17-122	1948-1949	/	_	
+17-123	1949-1951	or	_	
+17-124	1952-1957	Agile	Hard Skill	
+17-125	1958-1968	principles	_	
+17-126	1969-1972	and	_	
+17-127	1973-1981	practice	_	
+17-128	1982-1988	Senior	_	
+17-129	1989-1992	iOS	_	
+17-130	1993-2002	Developer	_	
+17-131	2003-2010	Develop	_	
+17-132	2011-2015	high	_	
+17-133	2016-2023	quality	_	
+17-134	2023-2024	,	_	
+17-135	2025-2039	consumer-grade	_	
+17-136	2040-2048	features	_	
+17-137	2049-2051	on	_	
+17-138	2052-2055	iOS	_	
+17-139	2056-2059	and	_	
+17-140	2060-2065	watch	_	
+17-141	2066-2072	Ensure	_	
+17-142	2073-2076	the	_	
+17-143	2077-2088	performance	_	
+17-144	2088-2089	,	_	
+17-145	2090-2097	quality	_	
+17-146	2097-2098	,	_	
+17-147	2099-2102	and	_	
+17-148	2103-2117	responsiveness	_	
+17-149	2118-2120	of	_	
+17-150	2121-2133	applications	_	
+17-151	2134-2145	Collaborate	Soft Skill	
+17-152	2146-2150	with	_	
+17-153	2151-2155	team	_	
+17-154	2156-2158	to	_	
+17-155	2159-2165	define	_	
+17-156	2165-2166	,	_	
+17-157	2167-2173	design	Hard Skill	
+17-158	2173-2174	,	_	
+17-159	2175-2178	and	_	
+17-160	2179-2183	ship	_	
+17-161	2184-2187	new	_	
+17-162	2188-2196	features	_	
+17-163	2197-2209	Continuously	_	
+17-164	2210-2214	seek	_	
+17-165	2215-2217	to	_	
+17-166	2218-2225	improve	_	
+17-167	2226-2237	application	_	
+17-168	2238-2249	performance	_	
+17-169	2250-2253	and	_	
+17-170	2254-2258	code	_	
+17-171	2259-2268	stability	_	
+17-172	2269-2276	Utilize	_	
+17-173	2277-2286	standards	_	
+17-174	2287-2290	and	_	
+17-175	2291-2304	methodologies	_	
+17-176	2305-2307	to	_	
+17-177	2308-2316	maintain	_	
+17-178	2317-2321	code	_	
+17-179	2322-2329	quality	_	
+17-180	2330-2333	and	_	
+17-181	2334-2346	organization	_	
+17-182	2347-2353	Assist	_	
+17-183	2354-2358	with	_	
+17-184	2359-2365	Sprint	_	
+17-185	2366-2374	planning	_	
+17-186	2375-2378	and	_	
+17-187	2379-2391	organization	_	

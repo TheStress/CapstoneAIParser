@@ -1,0 +1,494 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=We are a dynamic company that is focused on developing innovative solutions in the tech industry.
+1-1	0-2	We	_	
+1-2	3-6	are	_	
+1-3	7-8	a	_	
+1-4	9-16	dynamic	_	
+1-5	17-24	company	_	
+1-6	25-29	that	_	
+1-7	30-32	is	_	
+1-8	33-40	focused	_	
+1-9	41-43	on	_	
+1-10	44-54	developing	_	
+1-11	55-65	innovative	_	
+1-12	66-75	solutions	_	
+1-13	76-78	in	_	
+1-14	79-82	the	_	
+1-15	83-87	tech	_	
+1-16	88-96	industry	_	
+1-17	96-97	.	_	
+
+#Text=We are seeking an experienced Backend Developer to work on various projects.
+2-1	98-100	We	_	
+2-2	101-104	are	_	
+2-3	105-112	seeking	_	
+2-4	113-115	an	_	
+2-5	116-127	experienced	_	
+2-6	128-135	Backend	_	
+2-7	136-145	Developer	_	
+2-8	146-148	to	_	
+2-9	149-153	work	_	
+2-10	154-156	on	_	
+2-11	157-164	various	_	
+2-12	165-173	projects	_	
+2-13	173-174	.	_	
+
+#Text=As a Backend Developer, you will be responsible for developing and maintaining the backend components of our application.RESPONSIBILITIES...1.
+3-1	175-177	As	_	
+3-2	178-179	a	_	
+3-3	180-187	Backend	_	
+3-4	188-197	Developer	_	
+3-5	197-198	,	_	
+3-6	199-202	you	_	
+3-7	203-207	will	_	
+3-8	208-210	be	_	
+3-9	211-222	responsible	_	
+3-10	223-226	for	_	
+3-11	227-237	developing	_	
+3-12	238-241	and	_	
+3-13	242-253	maintaining	_	
+3-14	254-257	the	_	
+3-15	258-265	backend	_	
+3-16	266-276	components	_	
+3-17	277-279	of	_	
+3-18	280-283	our	_	
+3-19	284-312	application.RESPONSIBILITIES	_	
+3-20	312-313	.	_	
+3-21	313-314	.	_	
+3-22	314-316	.1	_	
+3-23	316-317	.	_	
+
+#Text=Work collaboratively with the development team to design, develop, and maintain the backend components of our application.2.
+4-1	318-322	Work	_	
+4-2	323-338	collaboratively	_	
+4-3	339-343	with	_	
+4-4	344-347	the	_	
+4-5	348-359	development	_	
+4-6	360-364	team	_	
+4-7	365-367	to	_	
+4-8	368-374	design	Hard Skill	
+4-9	374-375	,	_	
+4-10	376-383	develop	_	
+4-11	383-384	,	_	
+4-12	385-388	and	_	
+4-13	389-397	maintain	_	
+4-14	398-401	the	_	
+4-15	402-409	backend	_	
+4-16	410-420	components	_	
+4-17	421-423	of	_	
+4-18	424-427	our	_	
+4-19	428-439	application	_	
+4-20	439-441	.2	_	
+4-21	441-442	.	_	
+
+#Text=Build and maintain efficient, reliable, and scalable backend systems.3.
+5-1	443-448	Build	_	
+5-2	449-452	and	_	
+5-3	453-461	maintain	_	
+5-4	462-471	efficient	_	
+5-5	471-472	,	_	
+5-6	473-481	reliable	_	
+5-7	481-482	,	_	
+5-8	483-486	and	_	
+5-9	487-495	scalable	_	
+5-10	496-503	backend	_	
+5-11	504-511	systems	_	
+5-12	511-513	.3	_	
+5-13	513-514	.	_	
+
+#Text=Write clean, maintainable, and testable code using NodeJS, NextJS, ExpressJS, Typescript, SequelizeJS, SQL, PostgreSQL, and other relevant technologies.4.
+6-1	515-520	Write	_	
+6-2	521-526	clean	_	
+6-3	526-527	,	_	
+6-4	528-540	maintainable	_	
+6-5	540-541	,	_	
+6-6	542-545	and	_	
+6-7	546-554	testable	_	
+6-8	555-559	code	_	
+6-9	560-565	using	_	
+6-10	566-572	NodeJS	_	
+6-11	572-573	,	_	
+6-12	574-580	NextJS	_	
+6-13	580-581	,	_	
+6-14	582-591	ExpressJS	_	
+6-15	591-592	,	_	
+6-16	593-603	Typescript	Hard Skill	
+6-17	603-604	,	_	
+6-18	605-616	SequelizeJS	_	
+6-19	616-617	,	_	
+6-20	618-621	SQL	Hard Skill	
+6-21	621-622	,	_	
+6-22	623-633	PostgreSQL	Hard Skill	
+6-23	633-634	,	_	
+6-24	635-638	and	_	
+6-25	639-644	other	_	
+6-26	645-653	relevant	_	
+6-27	654-666	technologies	_	
+6-28	666-668	.4	_	
+6-29	668-669	.	_	
+
+#Text=Debug, troubleshoot, and resolve issues that arise during development, testing, and production.5.
+7-1	670-675	Debug	Hard Skill	
+7-2	675-676	,	_	
+7-3	677-689	troubleshoot	_	
+7-4	689-690	,	_	
+7-5	691-694	and	_	
+7-6	695-702	resolve	_	
+7-7	703-709	issues	_	
+7-8	710-714	that	_	
+7-9	715-720	arise	_	
+7-10	721-727	during	_	
+7-11	728-739	development	_	
+7-12	739-740	,	_	
+7-13	741-748	testing	_	
+7-14	748-749	,	_	
+7-15	750-753	and	_	
+7-16	754-764	production	_	
+7-17	764-766	.5	_	
+7-18	766-767	.	_	
+
+#Text=Participate in code reviews to ensure the quality and consistency of the codebase.6.
+8-1	768-779	Participate	_	
+8-2	780-782	in	_	
+8-3	783-787	code	_	
+8-4	788-795	reviews	_	
+8-5	796-798	to	_	
+8-6	799-805	ensure	_	
+8-7	806-809	the	_	
+8-8	810-817	quality	_	
+8-9	818-821	and	_	
+8-10	822-833	consistency	_	
+8-11	834-836	of	_	
+8-12	837-840	the	_	
+8-13	841-849	codebase	_	
+8-14	849-851	.6	_	
+8-15	851-852	.	_	
+
+#Text=Continuously identify areas for improvement in the application and implement solutions to enhance performance and functionality.REQUIREMENTS:1. 2 - 3 years of experience working as a Backend Developer.2.
+9-1	853-865	Continuously	_	
+9-2	866-874	identify	_	
+9-3	875-880	areas	_	
+9-4	881-884	for	_	
+9-5	885-896	improvement	_	
+9-6	897-899	in	_	
+9-7	900-903	the	_	
+9-8	904-915	application	_	
+9-9	916-919	and	_	
+9-10	920-929	implement	_	
+9-11	930-939	solutions	_	
+9-12	940-942	to	_	
+9-13	943-950	enhance	_	
+9-14	951-962	performance	_	
+9-15	963-966	and	_	
+9-16	967-993	functionality.REQUIREMENTS	_	
+9-17	993-994	:	_	
+9-18	994-995	1	_	
+9-19	995-996	.	_	
+9-20	997-998	2	_	
+9-21	999-1000	-	_	
+9-22	1001-1002	3	_	
+9-23	1003-1008	years	_	
+9-24	1009-1011	of	_	
+9-25	1012-1022	experience	_	
+9-26	1023-1030	working	_	
+9-27	1031-1033	as	_	
+9-28	1034-1035	a	_	
+9-29	1036-1043	Backend	_	
+9-30	1044-1053	Developer	_	
+9-31	1053-1055	.2	_	
+9-32	1055-1056	.	_	
+
+#Text=Proficient in NodeJS, NextJS, ExpressJS, Typescript, SequelizeJS, SQL, PostgreSQL, and other relevant technologies.3.
+10-1	1057-1067	Proficient	_	
+10-2	1068-1070	in	_	
+10-3	1071-1077	NodeJS	_	
+10-4	1077-1078	,	_	
+10-5	1079-1085	NextJS	_	
+10-6	1085-1086	,	_	
+10-7	1087-1096	ExpressJS	_	
+10-8	1096-1097	,	_	
+10-9	1098-1108	Typescript	Hard Skill	
+10-10	1108-1109	,	_	
+10-11	1110-1121	SequelizeJS	_	
+10-12	1121-1122	,	_	
+10-13	1123-1126	SQL	Hard Skill	
+10-14	1126-1127	,	_	
+10-15	1128-1138	PostgreSQL	Hard Skill	
+10-16	1138-1139	,	_	
+10-17	1140-1143	and	_	
+10-18	1144-1149	other	_	
+10-19	1150-1158	relevant	_	
+10-20	1159-1171	technologies	_	
+10-21	1171-1173	.3	_	
+10-22	1173-1174	.	_	
+
+#Text=Strong understanding of RESTful APIs, data structures, algorithms, and design patterns.4.
+11-1	1175-1181	Strong	_	
+11-2	1182-1195	understanding	_	
+11-3	1196-1198	of	_	
+11-4	1199-1206	RESTful	_	
+11-5	1207-1211	APIs	_	
+11-6	1211-1212	,	_	
+11-7	1213-1217	data	_	
+11-8	1218-1228	structures	_	
+11-9	1228-1229	,	_	
+11-10	1230-1240	algorithms	_	
+11-11	1240-1241	,	_	
+11-12	1242-1245	and	_	
+11-13	1246-1252	design	Hard Skill	
+11-14	1253-1261	patterns	_	
+11-15	1261-1263	.4	_	
+11-16	1263-1264	.	_	
+
+#Text=Experience with version control systems (Git, github) and Agile methodologies (Scrum/Kanban).5.
+12-1	1265-1275	Experience	_	
+12-2	1276-1280	with	_	
+12-3	1281-1288	version	_	
+12-4	1289-1296	control	_	
+12-5	1297-1304	systems	_	
+12-6	1305-1306	(	_	
+12-7	1306-1309	Git	Hard Skill	
+12-8	1309-1310	,	_	
+12-9	1311-1317	github	Hard Skill	
+12-10	1317-1318	)	_	
+12-11	1319-1322	and	_	
+12-12	1323-1328	Agile	Hard Skill	
+12-13	1329-1342	methodologies	_	
+12-14	1343-1344	(	_	
+12-15	1344-1349	Scrum	_	
+12-16	1349-1350	/	_	
+12-17	1350-1356	Kanban	_	
+12-18	1356-1357	)	_	
+12-19	1357-1359	.5	_	
+12-20	1359-1360	.	_	
+
+#Text=Excellent problem-solving skills and the ability to work independently and in a team environment.6.
+13-1	1361-1370	Excellent	_	
+13-2	1371-1386	problem-solving	_	
+13-3	1387-1393	skills	_	
+13-4	1394-1397	and	_	
+13-5	1398-1401	the	_	
+13-6	1402-1409	ability	_	
+13-7	1410-1412	to	_	
+13-8	1413-1417	work	_	
+13-9	1418-1431	independently	_	
+13-10	1432-1435	and	_	
+13-11	1436-1438	in	_	
+13-12	1439-1440	a	_	
+13-13	1441-1445	team	_	
+13-14	1446-1457	environment	_	
+13-15	1457-1459	.6	_	
+13-16	1459-1460	.	_	
+
+#Text=Strong communication and interpersonal skills 2 - 3 years of experience working as a Backend Developer Proficient in NodeJS, NextJS, ExpressJS, Typescript, SequelizeJS, SQL, PostgreSQL, and other relevant technologies Strong understanding of RESTful APIs, data structures, algorithms, and design patterns Experience with version control systems (Git, github) and Agile methodologies (Scrum/Kanban) Excellent problem-solving skills and the ability to work independently and in a team environment Strong communication and interpersonal skills As a Backend Developer, you will be responsible for developing and maintaining the backend components of our application Work collaboratively with the development team to design, develop, and maintain the backend components of our application Build and maintain efficient, reliable, and scalable backend systems Write clean, maintainable, and testable code using NodeJS, NextJS, ExpressJS, Typescript, SequelizeJS, SQL, PostgreSQL, and other relevant technologies Debug, troubleshoot, and resolve issues that arise during development, testing, and production Participate in code reviews to ensure the quality and consistency of the codebase Continuously identify areas for improvement in the application and implement solutions to enhance performance and functionality
+14-1	1461-1467	Strong	_	
+14-2	1468-1481	communication	Soft Skill	
+14-3	1482-1485	and	_	
+14-4	1486-1499	interpersonal	Soft Skill	
+14-5	1500-1506	skills	_	
+14-6	1507-1508	2	_	
+14-7	1509-1510	-	_	
+14-8	1511-1512	3	_	
+14-9	1513-1518	years	_	
+14-10	1519-1521	of	_	
+14-11	1522-1532	experience	_	
+14-12	1533-1540	working	_	
+14-13	1541-1543	as	_	
+14-14	1544-1545	a	_	
+14-15	1546-1553	Backend	_	
+14-16	1554-1563	Developer	_	
+14-17	1564-1574	Proficient	_	
+14-18	1575-1577	in	_	
+14-19	1578-1584	NodeJS	_	
+14-20	1584-1585	,	_	
+14-21	1586-1592	NextJS	_	
+14-22	1592-1593	,	_	
+14-23	1594-1603	ExpressJS	_	
+14-24	1603-1604	,	_	
+14-25	1605-1615	Typescript	Hard Skill	
+14-26	1615-1616	,	_	
+14-27	1617-1628	SequelizeJS	_	
+14-28	1628-1629	,	_	
+14-29	1630-1633	SQL	Hard Skill	
+14-30	1633-1634	,	_	
+14-31	1635-1645	PostgreSQL	Hard Skill	
+14-32	1645-1646	,	_	
+14-33	1647-1650	and	_	
+14-34	1651-1656	other	_	
+14-35	1657-1665	relevant	_	
+14-36	1666-1678	technologies	_	
+14-37	1679-1685	Strong	_	
+14-38	1686-1699	understanding	_	
+14-39	1700-1702	of	_	
+14-40	1703-1710	RESTful	_	
+14-41	1711-1715	APIs	_	
+14-42	1715-1716	,	_	
+14-43	1717-1721	data	_	
+14-44	1722-1732	structures	_	
+14-45	1732-1733	,	_	
+14-46	1734-1744	algorithms	_	
+14-47	1744-1745	,	_	
+14-48	1746-1749	and	_	
+14-49	1750-1756	design	Hard Skill	
+14-50	1757-1765	patterns	_	
+14-51	1766-1776	Experience	_	
+14-52	1777-1781	with	_	
+14-53	1782-1789	version	_	
+14-54	1790-1797	control	_	
+14-55	1798-1805	systems	_	
+14-56	1806-1807	(	_	
+14-57	1807-1810	Git	Hard Skill	
+14-58	1810-1811	,	_	
+14-59	1812-1818	github	Hard Skill	
+14-60	1818-1819	)	_	
+14-61	1820-1823	and	_	
+14-62	1824-1829	Agile	Hard Skill	
+14-63	1830-1843	methodologies	_	
+14-64	1844-1845	(	_	
+14-65	1845-1850	Scrum	_	
+14-66	1850-1851	/	_	
+14-67	1851-1857	Kanban	_	
+14-68	1857-1858	)	_	
+14-69	1859-1868	Excellent	_	
+14-70	1869-1884	problem-solving	_	
+14-71	1885-1891	skills	_	
+14-72	1892-1895	and	_	
+14-73	1896-1899	the	_	
+14-74	1900-1907	ability	_	
+14-75	1908-1910	to	_	
+14-76	1911-1915	work	_	
+14-77	1916-1929	independently	_	
+14-78	1930-1933	and	_	
+14-79	1934-1936	in	_	
+14-80	1937-1938	a	_	
+14-81	1939-1943	team	_	
+14-82	1944-1955	environment	_	
+14-83	1956-1962	Strong	_	
+14-84	1963-1976	communication	Soft Skill	
+14-85	1977-1980	and	_	
+14-86	1981-1994	interpersonal	Soft Skill	
+14-87	1995-2001	skills	_	
+14-88	2002-2004	As	_	
+14-89	2005-2006	a	_	
+14-90	2007-2014	Backend	_	
+14-91	2015-2024	Developer	_	
+14-92	2024-2025	,	_	
+14-93	2026-2029	you	_	
+14-94	2030-2034	will	_	
+14-95	2035-2037	be	_	
+14-96	2038-2049	responsible	_	
+14-97	2050-2053	for	_	
+14-98	2054-2064	developing	_	
+14-99	2065-2068	and	_	
+14-100	2069-2080	maintaining	_	
+14-101	2081-2084	the	_	
+14-102	2085-2092	backend	_	
+14-103	2093-2103	components	_	
+14-104	2104-2106	of	_	
+14-105	2107-2110	our	_	
+14-106	2111-2122	application	_	
+14-107	2123-2127	Work	_	
+14-108	2128-2143	collaboratively	_	
+14-109	2144-2148	with	_	
+14-110	2149-2152	the	_	
+14-111	2153-2164	development	_	
+14-112	2165-2169	team	_	
+14-113	2170-2172	to	_	
+14-114	2173-2179	design	Hard Skill	
+14-115	2179-2180	,	_	
+14-116	2181-2188	develop	_	
+14-117	2188-2189	,	_	
+14-118	2190-2193	and	_	
+14-119	2194-2202	maintain	_	
+14-120	2203-2206	the	_	
+14-121	2207-2214	backend	_	
+14-122	2215-2225	components	_	
+14-123	2226-2228	of	_	
+14-124	2229-2232	our	_	
+14-125	2233-2244	application	_	
+14-126	2245-2250	Build	_	
+14-127	2251-2254	and	_	
+14-128	2255-2263	maintain	_	
+14-129	2264-2273	efficient	_	
+14-130	2273-2274	,	_	
+14-131	2275-2283	reliable	_	
+14-132	2283-2284	,	_	
+14-133	2285-2288	and	_	
+14-134	2289-2297	scalable	_	
+14-135	2298-2305	backend	_	
+14-136	2306-2313	systems	_	
+14-137	2314-2319	Write	_	
+14-138	2320-2325	clean	_	
+14-139	2325-2326	,	_	
+14-140	2327-2339	maintainable	_	
+14-141	2339-2340	,	_	
+14-142	2341-2344	and	_	
+14-143	2345-2353	testable	_	
+14-144	2354-2358	code	_	
+14-145	2359-2364	using	_	
+14-146	2365-2371	NodeJS	_	
+14-147	2371-2372	,	_	
+14-148	2373-2379	NextJS	_	
+14-149	2379-2380	,	_	
+14-150	2381-2390	ExpressJS	_	
+14-151	2390-2391	,	_	
+14-152	2392-2402	Typescript	Hard Skill	
+14-153	2402-2403	,	_	
+14-154	2404-2415	SequelizeJS	_	
+14-155	2415-2416	,	_	
+14-156	2417-2420	SQL	Hard Skill	
+14-157	2420-2421	,	_	
+14-158	2422-2432	PostgreSQL	Hard Skill	
+14-159	2432-2433	,	_	
+14-160	2434-2437	and	_	
+14-161	2438-2443	other	_	
+14-162	2444-2452	relevant	_	
+14-163	2453-2465	technologies	_	
+14-164	2466-2471	Debug	Hard Skill	
+14-165	2471-2472	,	_	
+14-166	2473-2485	troubleshoot	_	
+14-167	2485-2486	,	_	
+14-168	2487-2490	and	_	
+14-169	2491-2498	resolve	_	
+14-170	2499-2505	issues	_	
+14-171	2506-2510	that	_	
+14-172	2511-2516	arise	_	
+14-173	2517-2523	during	_	
+14-174	2524-2535	development	_	
+14-175	2535-2536	,	_	
+14-176	2537-2544	testing	_	
+14-177	2544-2545	,	_	
+14-178	2546-2549	and	_	
+14-179	2550-2560	production	_	
+14-180	2561-2572	Participate	_	
+14-181	2573-2575	in	_	
+14-182	2576-2580	code	_	
+14-183	2581-2588	reviews	_	
+14-184	2589-2591	to	_	
+14-185	2592-2598	ensure	_	
+14-186	2599-2602	the	_	
+14-187	2603-2610	quality	_	
+14-188	2611-2614	and	_	
+14-189	2615-2626	consistency	_	
+14-190	2627-2629	of	_	
+14-191	2630-2633	the	_	
+14-192	2634-2642	codebase	_	
+14-193	2643-2655	Continuously	_	
+14-194	2656-2664	identify	_	
+14-195	2665-2670	areas	_	
+14-196	2671-2674	for	_	
+14-197	2675-2686	improvement	_	
+14-198	2687-2689	in	_	
+14-199	2690-2693	the	_	
+14-200	2694-2705	application	_	
+14-201	2706-2709	and	_	
+14-202	2710-2719	implement	_	
+14-203	2720-2729	solutions	_	
+14-204	2730-2732	to	_	
+14-205	2733-2740	enhance	_	
+14-206	2741-2752	performance	_	
+14-207	2753-2756	and	_	
+14-208	2757-2770	functionality	_	

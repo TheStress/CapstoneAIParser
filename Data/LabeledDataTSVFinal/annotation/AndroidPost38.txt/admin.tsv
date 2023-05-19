@@ -1,0 +1,621 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job Responsibilities Candidate will be part of app development team that has developed NewsHunt.
+1-1	0-3	Job	_	
+1-2	4-20	Responsibilities	_	
+1-3	21-30	Candidate	_	
+1-4	31-35	will	_	
+1-5	36-38	be	_	
+1-6	39-43	part	_	
+1-7	44-46	of	_	
+1-8	47-50	app	_	
+1-9	51-62	development	_	
+1-10	63-67	team	_	
+1-11	68-72	that	_	
+1-12	73-76	has	_	
+1-13	77-86	developed	_	
+1-14	87-95	NewsHunt	_	
+1-15	95-96	.	_	
+
+#Text=Responsible for designing, coding, testing, debugging, evaluating, and documenting new application development on mobile platforms.
+2-1	97-108	Responsible	_	
+2-2	109-112	for	_	
+2-3	113-122	designing	_	
+2-4	122-123	,	_	
+2-5	124-130	coding	Hard Skill	
+2-6	130-131	,	_	
+2-7	132-139	testing	_	
+2-8	139-140	,	_	
+2-9	141-150	debugging	Hard Skill	
+2-10	150-151	,	_	
+2-11	152-162	evaluating	_	
+2-12	162-163	,	_	
+2-13	164-167	and	_	
+2-14	168-179	documenting	_	
+2-15	180-183	new	_	
+2-16	184-195	application	_	
+2-17	196-207	development	_	
+2-18	208-210	on	_	
+2-19	211-217	mobile	_	
+2-20	218-227	platforms	_	
+2-21	227-228	.	_	
+
+#Text=Active member of a highly skilled and motivated agile development team Work with agile team to deliver solutions on time and at high quality that conform to user... story acceptance criteria.
+3-1	229-235	Active	_	
+3-2	236-242	member	_	
+3-3	243-245	of	_	
+3-4	246-247	a	_	
+3-5	248-254	highly	_	
+3-6	255-262	skilled	_	
+3-7	263-266	and	_	
+3-8	267-276	motivated	_	
+3-9	277-282	agile	Hard Skill	
+3-10	283-294	development	_	
+3-11	295-299	team	_	
+3-12	300-304	Work	_	
+3-13	305-309	with	_	
+3-14	310-315	agile	Hard Skill	
+3-15	316-320	team	_	
+3-16	321-323	to	_	
+3-17	324-331	deliver	_	
+3-18	332-341	solutions	_	
+3-19	342-344	on	_	
+3-20	345-349	time	_	
+3-21	350-353	and	_	
+3-22	354-356	at	_	
+3-23	357-361	high	_	
+3-24	362-369	quality	_	
+3-25	370-374	that	_	
+3-26	375-382	conform	_	
+3-27	383-385	to	_	
+3-28	386-390	user	_	
+3-29	390-391	.	_	
+3-30	391-392	.	_	
+3-31	392-393	.	_	
+3-32	394-399	story	_	
+3-33	400-410	acceptance	_	
+3-34	411-419	criteria	_	
+3-35	419-420	.	_	
+
+#Text=Work closely with product teams and product management to understand requirements and translate them to elegant implementation.
+4-1	421-425	Work	_	
+4-2	426-433	closely	_	
+4-3	434-438	with	_	
+4-4	439-446	product	_	
+4-5	447-452	teams	_	
+4-6	453-456	and	_	
+4-7	457-464	product	_	
+4-8	465-475	management	_	
+4-9	476-478	to	_	
+4-10	479-489	understand	_	
+4-11	490-502	requirements	_	
+4-12	503-506	and	_	
+4-13	507-516	translate	_	
+4-14	517-521	them	_	
+4-15	522-524	to	_	
+4-16	525-532	elegant	_	
+4-17	533-547	implementation	Hard Skill	
+4-18	547-548	.	_	
+
+#Text=Design and implement elegant, highly quality mobile applications with a perfect customer experience Peer reviews for code and designRequirements 3+ years of Android Native application development, should have completed at least 3 large full cycle applications/projects, that are launched on Google Play Store etc.
+5-1	549-555	Design	Hard Skill	
+5-2	556-559	and	_	
+5-3	560-569	implement	_	
+5-4	570-577	elegant	_	
+5-5	577-578	,	_	
+5-6	579-585	highly	_	
+5-7	586-593	quality	_	
+5-8	594-600	mobile	_	
+5-9	601-613	applications	_	
+5-10	614-618	with	_	
+5-11	619-620	a	_	
+5-12	621-628	perfect	_	
+5-13	629-637	customer	_	
+5-14	638-648	experience	_	
+5-15	649-653	Peer	_	
+5-16	654-661	reviews	_	
+5-17	662-665	for	_	
+5-18	666-670	code	_	
+5-19	671-674	and	_	
+5-20	675-693	designRequirements	_	
+5-21	694-695	3	_	
+5-22	695-696	+	_	
+5-23	697-702	years	_	
+5-24	703-705	of	_	
+5-25	706-713	Android	Hard Skill	
+5-26	714-720	Native	_	
+5-27	721-732	application	_	
+5-28	733-744	development	_	
+5-29	744-745	,	_	
+5-30	746-752	should	_	
+5-31	753-757	have	_	
+5-32	758-767	completed	_	
+5-33	768-770	at	_	
+5-34	771-776	least	_	
+5-35	777-778	3	_	
+5-36	779-784	large	_	
+5-37	785-789	full	_	
+5-38	790-795	cycle	_	
+5-39	796-808	applications	_	
+5-40	808-809	/	_	
+5-41	809-817	projects	_	
+5-42	817-818	,	_	
+5-43	819-823	that	_	
+5-44	824-827	are	_	
+5-45	828-836	launched	_	
+5-46	837-839	on	_	
+5-47	840-846	Google	_	
+5-48	847-851	Play	_	
+5-49	852-857	Store	_	
+5-50	858-861	etc	_	
+5-51	861-862	.	_	
+
+#Text=Strong design skills with ability to divide requirements into data model, view, and HTTP interaction with back-end.
+6-1	863-869	Strong	_	
+6-2	870-876	design	Hard Skill	
+6-3	877-883	skills	_	
+6-4	884-888	with	_	
+6-5	889-896	ability	_	
+6-6	897-899	to	_	
+6-7	900-906	divide	_	
+6-8	907-919	requirements	_	
+6-9	920-924	into	_	
+6-10	925-929	data	_	
+6-11	930-935	model	_	
+6-12	935-936	,	_	
+6-13	937-941	view	_	
+6-14	941-942	,	_	
+6-15	943-946	and	_	
+6-16	947-951	HTTP	_	
+6-17	952-963	interaction	_	
+6-18	964-968	with	_	
+6-19	969-977	back-end	_	
+6-20	977-978	.	_	
+
+#Text=Well conversant with Android UI  various layouts, and web views.
+7-1	979-983	Well	_	
+7-2	984-994	conversant	_	
+7-3	995-999	with	_	
+7-4	1000-1007	Android	Hard Skill	
+7-5	1008-1010	UI	_	
+7-6	1012-1019	various	_	
+7-7	1020-1027	layouts	_	
+7-8	1027-1028	,	_	
+7-9	1029-1032	and	_	
+7-10	1033-1036	web	_	
+7-11	1037-1042	views	_	
+7-12	1042-1043	.	_	
+
+#Text=Strong Java skills relevant to Android.
+8-1	1044-1050	Strong	_	
+8-2	1051-1055	Java	Hard Skill	
+8-3	1056-1062	skills	_	
+8-4	1063-1071	relevant	_	
+8-5	1072-1074	to	_	
+8-6	1075-1082	Android	Hard Skill	
+8-7	1082-1083	.	_	
+
+#Text=Previous experience with JSON and XML web services.
+9-1	1084-1092	Previous	_	
+9-2	1093-1103	experience	_	
+9-3	1104-1108	with	_	
+9-4	1109-1113	JSON	Hard Skill	
+9-5	1114-1117	and	_	
+9-6	1118-1121	XML	_	
+9-7	1122-1125	web	_	
+9-8	1126-1134	services	_	
+9-9	1134-1135	.	_	
+
+#Text=Experience with building mobile app that interact with scalable, reliable and secure web services Should have Strong debugging and trouble-shooting skills and prior experience with performance measurement tools & Familiarity with Android SDK and Tools (Debugger, Device Manager) Design efficient, adaptable, & reusable code.
+10-1	1136-1146	Experience	_	
+10-2	1147-1151	with	_	
+10-3	1152-1160	building	_	
+10-4	1161-1167	mobile	_	
+10-5	1168-1171	app	_	
+10-6	1172-1176	that	_	
+10-7	1177-1185	interact	_	
+10-8	1186-1190	with	_	
+10-9	1191-1199	scalable	_	
+10-10	1199-1200	,	_	
+10-11	1201-1209	reliable	_	
+10-12	1210-1213	and	_	
+10-13	1214-1220	secure	_	
+10-14	1221-1224	web	_	
+10-15	1225-1233	services	_	
+10-16	1234-1240	Should	_	
+10-17	1241-1245	have	_	
+10-18	1246-1252	Strong	_	
+10-19	1253-1262	debugging	Hard Skill	
+10-20	1263-1266	and	_	
+10-21	1267-1283	trouble-shooting	_	
+10-22	1284-1290	skills	_	
+10-23	1291-1294	and	_	
+10-24	1295-1300	prior	_	
+10-25	1301-1311	experience	_	
+10-26	1312-1316	with	_	
+10-27	1317-1328	performance	_	
+10-28	1329-1340	measurement	_	
+10-29	1341-1346	tools	_	
+10-30	1347-1348	&	_	
+10-31	1349-1360	Familiarity	_	
+10-32	1361-1365	with	_	
+10-33	1366-1373	Android	Hard Skill	
+10-34	1374-1377	SDK	_	
+10-35	1378-1381	and	_	
+10-36	1382-1387	Tools	_	
+10-37	1388-1389	(	_	
+10-38	1389-1397	Debugger	_	
+10-39	1397-1398	,	_	
+10-40	1399-1405	Device	_	
+10-41	1406-1413	Manager	_	
+10-42	1413-1414	)	_	
+10-43	1415-1421	Design	Hard Skill	
+10-44	1422-1431	efficient	_	
+10-45	1431-1432	,	_	
+10-46	1433-1442	adaptable	_	
+10-47	1442-1443	,	_	
+10-48	1444-1445	&	_	
+10-49	1446-1454	reusable	_	
+10-50	1455-1459	code	_	
+10-51	1459-1460	.	_	
+
+#Text=Tuning components for high performance & scalability using techniques such as caching, code optimization, and efficient memory management.
+11-1	1461-1467	Tuning	_	
+11-2	1468-1478	components	_	
+11-3	1479-1482	for	_	
+11-4	1483-1487	high	_	
+11-5	1488-1499	performance	_	
+11-6	1500-1501	&	_	
+11-7	1502-1513	scalability	_	
+11-8	1514-1519	using	_	
+11-9	1520-1530	techniques	_	
+11-10	1531-1535	such	_	
+11-11	1536-1538	as	_	
+11-12	1539-1546	caching	_	
+11-13	1546-1547	,	_	
+11-14	1548-1552	code	_	
+11-15	1553-1565	optimization	_	
+11-16	1565-1566	,	_	
+11-17	1567-1570	and	_	
+11-18	1571-1580	efficient	_	
+11-19	1581-1587	memory	_	
+11-20	1588-1598	management	_	
+11-21	1598-1599	.	_	
+
+#Text=Developing for different version of the Android platform and across smart phones and tabletsSkills Android Native application development, JSON and XML web services, Android SDKEducation BE Computers, Information Technology, Information Science, MCARelevant Work Experience 1  3 years Requirements 3+ years of Android Native application development, should have completed at least 3 large full cycle applications/projects, that are launched on Google Play Store etc Strong design skills with ability to divide requirements into data model, view, and HTTP interaction with back-end Well conversant with Android UI  various layouts, and web views Strong Java skills relevant to Android Previous experience with JSON and XML web services Experience with building mobile app that interact with scalable, reliable and secure web services Should have Strong debugging and trouble-shooting skills and prior experience with performance measurement tools & Familiarity with Android SDK and Tools (Debugger, Device Manager) Design efficient, adaptable, & reusable code Developing for different version of the Android platform and across smart phones and tablets Skills Android Native application development, JSON and XML web services, Android SDK Education BE Computers, Information Technology, Information Science, MCA Relevant Work Experience 1  3 years Job Responsibilities Candidate will be part of app development team that has developed NewsHunt Responsible for designing, coding, testing, debugging, evaluating, and documenting new application development on mobile platforms Active member of a highly skilled and motivated agile development team Work with agile team to deliver solutions on time and at high quality that conform to user story acceptance criteria Work closely with product teams and product management to understand requirements and translate them to elegant implementation Design and implement elegant, highly quality mobile applications with a perfect customer experience Peer reviews for code and design Tuning components for high performance & scalability using techniques such as caching, code optimization, and efficient memory management
+12-1	1600-1610	Developing	_	
+12-2	1611-1614	for	_	
+12-3	1615-1624	different	_	
+12-4	1625-1632	version	_	
+12-5	1633-1635	of	_	
+12-6	1636-1639	the	_	
+12-7	1640-1647	Android	Hard Skill	
+12-8	1648-1656	platform	_	
+12-9	1657-1660	and	_	
+12-10	1661-1667	across	_	
+12-11	1668-1673	smart	_	
+12-12	1674-1680	phones	_	
+12-13	1681-1684	and	_	
+12-14	1685-1698	tabletsSkills	_	
+12-15	1699-1706	Android	Hard Skill	
+12-16	1707-1713	Native	_	
+12-17	1714-1725	application	_	
+12-18	1726-1737	development	_	
+12-19	1737-1738	,	_	
+12-20	1739-1743	JSON	Hard Skill	
+12-21	1744-1747	and	_	
+12-22	1748-1751	XML	_	
+12-23	1752-1755	web	_	
+12-24	1756-1764	services	_	
+12-25	1764-1765	,	_	
+12-26	1766-1773	Android	Hard Skill	
+12-27	1774-1786	SDKEducation	_	
+12-28	1787-1789	BE	_	
+12-29	1790-1799	Computers	_	
+12-30	1799-1800	,	_	
+12-31	1801-1812	Information	_	
+12-32	1813-1823	Technology	_	
+12-33	1823-1824	,	_	
+12-34	1825-1836	Information	_	
+12-35	1837-1844	Science	_	
+12-36	1844-1845	,	_	
+12-37	1846-1857	MCARelevant	_	
+12-38	1858-1862	Work	_	
+12-39	1863-1873	Experience	_	
+12-40	1874-1875	1	_	
+12-41	1877-1878	3	_	
+12-42	1879-1884	years	_	
+12-43	1885-1897	Requirements	_	
+12-44	1898-1899	3	_	
+12-45	1899-1900	+	_	
+12-46	1901-1906	years	_	
+12-47	1907-1909	of	_	
+12-48	1910-1917	Android	Hard Skill	
+12-49	1918-1924	Native	_	
+12-50	1925-1936	application	_	
+12-51	1937-1948	development	_	
+12-52	1948-1949	,	_	
+12-53	1950-1956	should	_	
+12-54	1957-1961	have	_	
+12-55	1962-1971	completed	_	
+12-56	1972-1974	at	_	
+12-57	1975-1980	least	_	
+12-58	1981-1982	3	_	
+12-59	1983-1988	large	_	
+12-60	1989-1993	full	_	
+12-61	1994-1999	cycle	_	
+12-62	2000-2012	applications	_	
+12-63	2012-2013	/	_	
+12-64	2013-2021	projects	_	
+12-65	2021-2022	,	_	
+12-66	2023-2027	that	_	
+12-67	2028-2031	are	_	
+12-68	2032-2040	launched	_	
+12-69	2041-2043	on	_	
+12-70	2044-2050	Google	_	
+12-71	2051-2055	Play	_	
+12-72	2056-2061	Store	_	
+12-73	2062-2065	etc	_	
+12-74	2066-2072	Strong	_	
+12-75	2073-2079	design	Hard Skill	
+12-76	2080-2086	skills	_	
+12-77	2087-2091	with	_	
+12-78	2092-2099	ability	_	
+12-79	2100-2102	to	_	
+12-80	2103-2109	divide	_	
+12-81	2110-2122	requirements	_	
+12-82	2123-2127	into	_	
+12-83	2128-2132	data	_	
+12-84	2133-2138	model	_	
+12-85	2138-2139	,	_	
+12-86	2140-2144	view	_	
+12-87	2144-2145	,	_	
+12-88	2146-2149	and	_	
+12-89	2150-2154	HTTP	_	
+12-90	2155-2166	interaction	_	
+12-91	2167-2171	with	_	
+12-92	2172-2180	back-end	_	
+12-93	2181-2185	Well	_	
+12-94	2186-2196	conversant	_	
+12-95	2197-2201	with	_	
+12-96	2202-2209	Android	Hard Skill	
+12-97	2210-2212	UI	_	
+12-98	2214-2221	various	_	
+12-99	2222-2229	layouts	_	
+12-100	2229-2230	,	_	
+12-101	2231-2234	and	_	
+12-102	2235-2238	web	_	
+12-103	2239-2244	views	_	
+12-104	2245-2251	Strong	_	
+12-105	2252-2256	Java	Hard Skill	
+12-106	2257-2263	skills	_	
+12-107	2264-2272	relevant	_	
+12-108	2273-2275	to	_	
+12-109	2276-2283	Android	Hard Skill	
+12-110	2284-2292	Previous	_	
+12-111	2293-2303	experience	_	
+12-112	2304-2308	with	_	
+12-113	2309-2313	JSON	Hard Skill	
+12-114	2314-2317	and	_	
+12-115	2318-2321	XML	_	
+12-116	2322-2325	web	_	
+12-117	2326-2334	services	_	
+12-118	2335-2345	Experience	_	
+12-119	2346-2350	with	_	
+12-120	2351-2359	building	_	
+12-121	2360-2366	mobile	_	
+12-122	2367-2370	app	_	
+12-123	2371-2375	that	_	
+12-124	2376-2384	interact	_	
+12-125	2385-2389	with	_	
+12-126	2390-2398	scalable	_	
+12-127	2398-2399	,	_	
+12-128	2400-2408	reliable	_	
+12-129	2409-2412	and	_	
+12-130	2413-2419	secure	_	
+12-131	2420-2423	web	_	
+12-132	2424-2432	services	_	
+12-133	2433-2439	Should	_	
+12-134	2440-2444	have	_	
+12-135	2445-2451	Strong	_	
+12-136	2452-2461	debugging	Hard Skill	
+12-137	2462-2465	and	_	
+12-138	2466-2482	trouble-shooting	_	
+12-139	2483-2489	skills	_	
+12-140	2490-2493	and	_	
+12-141	2494-2499	prior	_	
+12-142	2500-2510	experience	_	
+12-143	2511-2515	with	_	
+12-144	2516-2527	performance	_	
+12-145	2528-2539	measurement	_	
+12-146	2540-2545	tools	_	
+12-147	2546-2547	&	_	
+12-148	2548-2559	Familiarity	_	
+12-149	2560-2564	with	_	
+12-150	2565-2572	Android	Hard Skill	
+12-151	2573-2576	SDK	_	
+12-152	2577-2580	and	_	
+12-153	2581-2586	Tools	_	
+12-154	2587-2588	(	_	
+12-155	2588-2596	Debugger	_	
+12-156	2596-2597	,	_	
+12-157	2598-2604	Device	_	
+12-158	2605-2612	Manager	_	
+12-159	2612-2613	)	_	
+12-160	2614-2620	Design	Hard Skill	
+12-161	2621-2630	efficient	_	
+12-162	2630-2631	,	_	
+12-163	2632-2641	adaptable	_	
+12-164	2641-2642	,	_	
+12-165	2643-2644	&	_	
+12-166	2645-2653	reusable	_	
+12-167	2654-2658	code	_	
+12-168	2659-2669	Developing	_	
+12-169	2670-2673	for	_	
+12-170	2674-2683	different	_	
+12-171	2684-2691	version	_	
+12-172	2692-2694	of	_	
+12-173	2695-2698	the	_	
+12-174	2699-2706	Android	Hard Skill	
+12-175	2707-2715	platform	_	
+12-176	2716-2719	and	_	
+12-177	2720-2726	across	_	
+12-178	2727-2732	smart	_	
+12-179	2733-2739	phones	_	
+12-180	2740-2743	and	_	
+12-181	2744-2751	tablets	_	
+12-182	2752-2758	Skills	_	
+12-183	2759-2766	Android	Hard Skill	
+12-184	2767-2773	Native	_	
+12-185	2774-2785	application	_	
+12-186	2786-2797	development	_	
+12-187	2797-2798	,	_	
+12-188	2799-2803	JSON	Hard Skill	
+12-189	2804-2807	and	_	
+12-190	2808-2811	XML	_	
+12-191	2812-2815	web	_	
+12-192	2816-2824	services	_	
+12-193	2824-2825	,	_	
+12-194	2826-2833	Android	Hard Skill	
+12-195	2834-2837	SDK	_	
+12-196	2838-2847	Education	_	
+12-197	2848-2850	BE	_	
+12-198	2851-2860	Computers	_	
+12-199	2860-2861	,	_	
+12-200	2862-2873	Information	_	
+12-201	2874-2884	Technology	_	
+12-202	2884-2885	,	_	
+12-203	2886-2897	Information	_	
+12-204	2898-2905	Science	_	
+12-205	2905-2906	,	_	
+12-206	2907-2910	MCA	_	
+12-207	2911-2919	Relevant	_	
+12-208	2920-2924	Work	_	
+12-209	2925-2935	Experience	_	
+12-210	2936-2937	1	_	
+12-211	2939-2940	3	_	
+12-212	2941-2946	years	_	
+12-213	2947-2950	Job	_	
+12-214	2951-2967	Responsibilities	_	
+12-215	2968-2977	Candidate	_	
+12-216	2978-2982	will	_	
+12-217	2983-2985	be	_	
+12-218	2986-2990	part	_	
+12-219	2991-2993	of	_	
+12-220	2994-2997	app	_	
+12-221	2998-3009	development	_	
+12-222	3010-3014	team	_	
+12-223	3015-3019	that	_	
+12-224	3020-3023	has	_	
+12-225	3024-3033	developed	_	
+12-226	3034-3042	NewsHunt	_	
+12-227	3043-3054	Responsible	_	
+12-228	3055-3058	for	_	
+12-229	3059-3068	designing	_	
+12-230	3068-3069	,	_	
+12-231	3070-3076	coding	Hard Skill	
+12-232	3076-3077	,	_	
+12-233	3078-3085	testing	_	
+12-234	3085-3086	,	_	
+12-235	3087-3096	debugging	Hard Skill	
+12-236	3096-3097	,	_	
+12-237	3098-3108	evaluating	_	
+12-238	3108-3109	,	_	
+12-239	3110-3113	and	_	
+12-240	3114-3125	documenting	_	
+12-241	3126-3129	new	_	
+12-242	3130-3141	application	_	
+12-243	3142-3153	development	_	
+12-244	3154-3156	on	_	
+12-245	3157-3163	mobile	_	
+12-246	3164-3173	platforms	_	
+12-247	3174-3180	Active	_	
+12-248	3181-3187	member	_	
+12-249	3188-3190	of	_	
+12-250	3191-3192	a	_	
+12-251	3193-3199	highly	_	
+12-252	3200-3207	skilled	_	
+12-253	3208-3211	and	_	
+12-254	3212-3221	motivated	_	
+12-255	3222-3227	agile	Hard Skill	
+12-256	3228-3239	development	_	
+12-257	3240-3244	team	_	
+12-258	3245-3249	Work	_	
+12-259	3250-3254	with	_	
+12-260	3255-3260	agile	Hard Skill	
+12-261	3261-3265	team	_	
+12-262	3266-3268	to	_	
+12-263	3269-3276	deliver	_	
+12-264	3277-3286	solutions	_	
+12-265	3287-3289	on	_	
+12-266	3290-3294	time	_	
+12-267	3295-3298	and	_	
+12-268	3299-3301	at	_	
+12-269	3302-3306	high	_	
+12-270	3307-3314	quality	_	
+12-271	3315-3319	that	_	
+12-272	3320-3327	conform	_	
+12-273	3328-3330	to	_	
+12-274	3331-3335	user	_	
+12-275	3336-3341	story	_	
+12-276	3342-3352	acceptance	_	
+12-277	3353-3361	criteria	_	
+12-278	3362-3366	Work	_	
+12-279	3367-3374	closely	_	
+12-280	3375-3379	with	_	
+12-281	3380-3387	product	_	
+12-282	3388-3393	teams	_	
+12-283	3394-3397	and	_	
+12-284	3398-3405	product	_	
+12-285	3406-3416	management	_	
+12-286	3417-3419	to	_	
+12-287	3420-3430	understand	_	
+12-288	3431-3443	requirements	_	
+12-289	3444-3447	and	_	
+12-290	3448-3457	translate	_	
+12-291	3458-3462	them	_	
+12-292	3463-3465	to	_	
+12-293	3466-3473	elegant	_	
+12-294	3474-3488	implementation	Hard Skill	
+12-295	3489-3495	Design	Hard Skill	
+12-296	3496-3499	and	_	
+12-297	3500-3509	implement	_	
+12-298	3510-3517	elegant	_	
+12-299	3517-3518	,	_	
+12-300	3519-3525	highly	_	
+12-301	3526-3533	quality	_	
+12-302	3534-3540	mobile	_	
+12-303	3541-3553	applications	_	
+12-304	3554-3558	with	_	
+12-305	3559-3560	a	_	
+12-306	3561-3568	perfect	_	
+12-307	3569-3577	customer	_	
+12-308	3578-3588	experience	_	
+12-309	3589-3593	Peer	_	
+12-310	3594-3601	reviews	_	
+12-311	3602-3605	for	_	
+12-312	3606-3610	code	_	
+12-313	3611-3614	and	_	
+12-314	3615-3621	design	Hard Skill	
+12-315	3622-3628	Tuning	_	
+12-316	3629-3639	components	_	
+12-317	3640-3643	for	_	
+12-318	3644-3648	high	_	
+12-319	3649-3660	performance	_	
+12-320	3661-3662	&	_	
+12-321	3663-3674	scalability	_	
+12-322	3675-3680	using	_	
+12-323	3681-3691	techniques	_	
+12-324	3692-3696	such	_	
+12-325	3697-3699	as	_	
+12-326	3700-3707	caching	_	
+12-327	3707-3708	,	_	
+12-328	3709-3713	code	_	
+12-329	3714-3726	optimization	_	
+12-330	3726-3727	,	_	
+12-331	3728-3731	and	_	
+12-332	3732-3741	efficient	_	
+12-333	3742-3748	memory	_	
+12-334	3749-3759	management	_	

@@ -1,0 +1,238 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=The Back-End Developer role is to support Insurance French company in Polanco to develop microservices with Java skills.The main responsabilities are...Application Services Development, Java Microservices, Code Quality with SonarQube and Unit Test Coverage with JUnit.Key Competences:1.
+1-1	0-3	The	_	
+1-2	4-12	Back-End	_	
+1-3	13-22	Developer	_	
+1-4	23-27	role	_	
+1-5	28-30	is	_	
+1-6	31-33	to	_	
+1-7	34-41	support	_	
+1-8	42-51	Insurance	_	
+1-9	52-58	French	_	
+1-10	59-66	company	_	
+1-11	67-69	in	_	
+1-12	70-77	Polanco	_	
+1-13	78-80	to	_	
+1-14	81-88	develop	_	
+1-15	89-102	microservices	_	
+1-16	103-107	with	_	
+1-17	108-112	Java	Hard Skill	
+1-18	113-123	skills.The	_	
+1-19	124-128	main	_	
+1-20	129-145	responsabilities	_	
+1-21	146-149	are	_	
+1-22	149-150	.	_	
+1-23	150-151	.	_	
+1-24	151-152	.	_	
+1-25	152-163	Application	_	
+1-26	164-172	Services	_	
+1-27	173-184	Development	_	
+1-28	184-185	,	_	
+1-29	186-190	Java	Hard Skill	
+1-30	191-204	Microservices	_	
+1-31	204-205	,	_	
+1-32	206-210	Code	_	
+1-33	211-218	Quality	_	
+1-34	219-223	with	_	
+1-35	224-233	SonarQube	_	
+1-36	234-237	and	_	
+1-37	238-242	Unit	_	
+1-38	243-247	Test	_	
+1-39	248-256	Coverage	_	
+1-40	257-261	with	_	
+1-41	262-271	JUnit.Key	_	
+1-42	272-283	Competences	_	
+1-43	283-284	:	_	
+1-44	284-285	1	_	
+1-45	285-286	.	_	
+
+#Text=Strong knowledge in back-end microservices (Spring, JPA)2.
+2-1	287-293	Strong	_	
+2-2	294-303	knowledge	_	
+2-3	304-306	in	_	
+2-4	307-315	back-end	_	
+2-5	316-329	microservices	_	
+2-6	330-331	(	_	
+2-7	331-337	Spring	_	
+2-8	337-338	,	_	
+2-9	339-342	JPA	_	
+2-10	342-343	)	_	
+2-11	343-344	2	_	
+2-12	344-345	.	_	
+
+#Text=Ability to work individually and as part of a team.3.
+3-1	346-353	Ability	_	
+3-2	354-356	to	_	
+3-3	357-361	work	_	
+3-4	362-374	individually	_	
+3-5	375-378	and	_	
+3-6	379-381	as	_	
+3-7	382-386	part	_	
+3-8	387-389	of	_	
+3-9	390-391	a	_	
+3-10	392-396	team	_	
+3-11	396-398	.3	_	
+3-12	398-399	.	_	
+
+#Text=Server application development (JBoss or similar).4.
+4-1	400-406	Server	_	
+4-2	407-418	application	_	
+4-3	419-430	development	_	
+4-4	431-432	(	_	
+4-5	432-437	JBoss	_	
+4-6	438-440	or	_	
+4-7	441-448	similar	_	
+4-8	448-449	)	_	
+4-9	449-451	.4	_	
+4-10	451-452	.	_	
+
+#Text=Strong communication skills (verbal and written)5.
+5-1	453-459	Strong	_	
+5-2	460-473	communication	Soft Skill	
+5-3	474-480	skills	_	
+5-4	481-482	(	_	
+5-5	482-488	verbal	_	
+5-6	489-492	and	_	
+5-7	493-500	written	_	
+5-8	500-501	)	_	
+5-9	501-502	5	_	
+5-10	502-503	.	_	
+
+#Text=High personal level of ethics6.
+6-1	504-508	High	_	
+6-2	509-517	personal	_	
+6-3	518-523	level	_	
+6-4	524-526	of	_	
+6-5	527-534	ethics6	_	
+6-6	534-535	.	_	
+
+#Text=Detail oriented, quantitative analysis, multi-tasking/prioritizing7.Oracle, SQL Server8.
+7-1	536-542	Detail	_	
+7-2	543-551	oriented	_	
+7-3	551-552	,	_	
+7-4	553-565	quantitative	_	
+7-5	566-574	analysis	Hard Skill	
+7-6	574-575	,	_	
+7-7	576-589	multi-tasking	_	
+7-8	589-590	/	_	
+7-9	590-603	prioritizing7	_	
+7-10	603-604	.	_	
+7-11	604-610	Oracle	_	
+7-12	610-611	,	_	
+7-13	612-615	SQL	Hard Skill	
+7-14	616-623	Server8	_	
+7-15	623-624	.	_	
+
+#Text=GitLab, Bitbucket o controlador de versiones similar, SonarQube, JUnit, Nexus y Jenkins9.
+8-1	625-631	GitLab	Hard Skill	
+8-2	631-632	,	_	
+8-3	633-642	Bitbucket	_	
+8-4	643-644	o	_	
+8-5	645-656	controlador	_	
+8-6	657-659	de	_	
+8-7	660-669	versiones	_	
+8-8	670-677	similar	_	
+8-9	677-678	,	_	
+8-10	679-688	SonarQube	_	
+8-11	688-689	,	_	
+8-12	690-695	JUnit	Hard Skill	
+8-13	695-696	,	_	
+8-14	697-702	Nexus	_	
+8-15	703-704	y	_	
+8-16	705-713	Jenkins9	_	
+8-17	713-714	.	_	
+
+#Text=Agile Method Strong knowledge in back-end microservices (Spring, JPA) Ability to work individually and as part of a team Server application development (JBoss or similar) Strong communication skills (verbal and written) High personal level of ethics Detail oriented, quantitative analysis, multi-tasking/prioritizing Oracle, SQL Server GitLab, Bitbucket controlador de versiones similar, SonarQube, JUnit, Nexus y Jenkins Agile Method Application Services Development, Java Microservices, Code Quality with SonarQube and Unit Test Coverage with JUnit
+9-1	715-720	Agile	Hard Skill	
+9-2	721-727	Method	_	
+9-3	728-734	Strong	_	
+9-4	735-744	knowledge	_	
+9-5	745-747	in	_	
+9-6	748-756	back-end	_	
+9-7	757-770	microservices	_	
+9-8	771-772	(	_	
+9-9	772-778	Spring	_	
+9-10	778-779	,	_	
+9-11	780-783	JPA	_	
+9-12	783-784	)	_	
+9-13	785-792	Ability	_	
+9-14	793-795	to	_	
+9-15	796-800	work	_	
+9-16	801-813	individually	_	
+9-17	814-817	and	_	
+9-18	818-820	as	_	
+9-19	821-825	part	_	
+9-20	826-828	of	_	
+9-21	829-830	a	_	
+9-22	831-835	team	_	
+9-23	836-842	Server	_	
+9-24	843-854	application	_	
+9-25	855-866	development	_	
+9-26	867-868	(	_	
+9-27	868-873	JBoss	_	
+9-28	874-876	or	_	
+9-29	877-884	similar	_	
+9-30	884-885	)	_	
+9-31	886-892	Strong	_	
+9-32	893-906	communication	Soft Skill	
+9-33	907-913	skills	_	
+9-34	914-915	(	_	
+9-35	915-921	verbal	_	
+9-36	922-925	and	_	
+9-37	926-933	written	_	
+9-38	933-934	)	_	
+9-39	935-939	High	_	
+9-40	940-948	personal	_	
+9-41	949-954	level	_	
+9-42	955-957	of	_	
+9-43	958-964	ethics	_	
+9-44	965-971	Detail	_	
+9-45	972-980	oriented	_	
+9-46	980-981	,	_	
+9-47	982-994	quantitative	_	
+9-48	995-1003	analysis	Hard Skill	
+9-49	1003-1004	,	_	
+9-50	1005-1018	multi-tasking	_	
+9-51	1018-1019	/	_	
+9-52	1019-1031	prioritizing	_	
+9-53	1032-1038	Oracle	_	
+9-54	1038-1039	,	_	
+9-55	1040-1043	SQL	Hard Skill	
+9-56	1044-1050	Server	_	
+9-57	1051-1057	GitLab	Hard Skill	
+9-58	1057-1058	,	_	
+9-59	1059-1068	Bitbucket	_	
+9-60	1069-1080	controlador	_	
+9-61	1081-1083	de	_	
+9-62	1084-1093	versiones	_	
+9-63	1094-1101	similar	_	
+9-64	1101-1102	,	_	
+9-65	1103-1112	SonarQube	_	
+9-66	1112-1113	,	_	
+9-67	1114-1119	JUnit	Hard Skill	
+9-68	1119-1120	,	_	
+9-69	1121-1126	Nexus	_	
+9-70	1127-1128	y	_	
+9-71	1129-1136	Jenkins	Hard Skill	
+9-72	1137-1142	Agile	Hard Skill	
+9-73	1143-1149	Method	_	
+9-74	1150-1161	Application	_	
+9-75	1162-1170	Services	_	
+9-76	1171-1182	Development	_	
+9-77	1182-1183	,	_	
+9-78	1184-1188	Java	Hard Skill	
+9-79	1189-1202	Microservices	_	
+9-80	1202-1203	,	_	
+9-81	1204-1208	Code	_	
+9-82	1209-1216	Quality	_	
+9-83	1217-1221	with	_	
+9-84	1222-1231	SonarQube	_	
+9-85	1232-1235	and	_	
+9-86	1236-1240	Unit	_	
+9-87	1241-1245	Test	_	
+9-88	1246-1254	Coverage	_	
+9-89	1255-1259	with	_	
+9-90	1260-1265	JUnit	Hard Skill	

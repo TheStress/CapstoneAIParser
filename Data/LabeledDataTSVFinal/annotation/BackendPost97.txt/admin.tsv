@@ -1,0 +1,370 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Hi,I am Mahesh Reddy, With Seven Hills Group Technologies.
+1-1	0-2	Hi	_	
+1-2	2-3	,	_	
+1-3	3-4	I	_	
+1-4	5-7	am	_	
+1-5	8-14	Mahesh	_	
+1-6	15-20	Reddy	_	
+1-7	20-21	,	_	
+1-8	22-26	With	_	
+1-9	27-32	Seven	_	
+1-10	33-38	Hills	_	
+1-11	39-44	Group	_	
+1-12	45-57	Technologies	_	
+1-13	57-58	.	_	
+
+#Text=I had a chance to review your resume and thought youd be a great fit for an exciting opportunity we have in USA (Remote).This opportunity is with one of our premier clients for Sr Java Backend Developer Ive included some information below for your review; please let me know your availability to discuss this opportunity in greater... detail.Job Title: Sr Java Backend DeveloperLocation: USA (Remote)Job Description:NOTE: looking for an Pure hard core Backend Developers with Java8 hands on experience and AWS, NOSQL, GarphQL.1.
+2-1	59-60	I	_	
+2-2	61-64	had	_	
+2-3	65-66	a	_	
+2-4	67-73	chance	_	
+2-5	74-76	to	_	
+2-6	77-83	review	_	
+2-7	84-88	your	_	
+2-8	89-95	resume	_	
+2-9	96-99	and	_	
+2-10	100-107	thought	_	
+2-11	108-112	youd	_	
+2-12	113-115	be	_	
+2-13	116-117	a	_	
+2-14	118-123	great	_	
+2-15	124-127	fit	_	
+2-16	128-131	for	_	
+2-17	132-134	an	_	
+2-18	135-143	exciting	_	
+2-19	144-155	opportunity	_	
+2-20	156-158	we	_	
+2-21	159-163	have	_	
+2-22	164-166	in	_	
+2-23	167-170	USA	_	
+2-24	171-172	(	_	
+2-25	172-178	Remote	_	
+2-26	178-179	)	_	
+2-27	179-180	.	_	
+2-28	180-184	This	_	
+2-29	185-196	opportunity	_	
+2-30	197-199	is	_	
+2-31	200-204	with	_	
+2-32	205-208	one	_	
+2-33	209-211	of	_	
+2-34	212-215	our	_	
+2-35	216-223	premier	_	
+2-36	224-231	clients	_	
+2-37	232-235	for	_	
+2-38	236-238	Sr	_	
+2-39	239-243	Java	Hard Skill	
+2-40	244-251	Backend	_	
+2-41	252-261	Developer	_	
+2-42	262-265	Ive	_	
+2-43	266-274	included	_	
+2-44	275-279	some	_	
+2-45	280-291	information	_	
+2-46	292-297	below	_	
+2-47	298-301	for	_	
+2-48	302-306	your	_	
+2-49	307-313	review	_	
+2-50	313-314	;	_	
+2-51	315-321	please	_	
+2-52	322-325	let	_	
+2-53	326-328	me	_	
+2-54	329-333	know	_	
+2-55	334-338	your	_	
+2-56	339-351	availability	_	
+2-57	352-354	to	_	
+2-58	355-362	discuss	_	
+2-59	363-367	this	_	
+2-60	368-379	opportunity	_	
+2-61	380-382	in	_	
+2-62	383-390	greater	_	
+2-63	390-391	.	_	
+2-64	391-392	.	_	
+2-65	392-393	.	_	
+2-66	394-404	detail.Job	_	
+2-67	405-410	Title	_	
+2-68	410-411	:	_	
+2-69	412-414	Sr	_	
+2-70	415-419	Java	Hard Skill	
+2-71	420-427	Backend	_	
+2-72	428-445	DeveloperLocation	_	
+2-73	445-446	:	_	
+2-74	447-450	USA	_	
+2-75	451-452	(	_	
+2-76	452-458	Remote	_	
+2-77	458-459	)	_	
+2-78	459-462	Job	_	
+2-79	463-474	Description	_	
+2-80	474-475	:	_	
+2-81	475-479	NOTE	_	
+2-82	479-480	:	_	
+2-83	481-488	looking	_	
+2-84	489-492	for	_	
+2-85	493-495	an	_	
+2-86	496-500	Pure	_	
+2-87	501-505	hard	_	
+2-88	506-510	core	_	
+2-89	511-518	Backend	_	
+2-90	519-529	Developers	_	
+2-91	530-534	with	_	
+2-92	535-540	Java8	_	
+2-93	541-546	hands	_	
+2-94	547-549	on	_	
+2-95	550-560	experience	_	
+2-96	561-564	and	_	
+2-97	565-568	AWS	Hard Skill	
+2-98	568-569	,	_	
+2-99	570-575	NOSQL	Hard Skill	
+2-100	575-576	,	_	
+2-101	577-584	GarphQL	_	
+2-102	584-586	.1	_	
+2-103	586-587	.	_	
+
+#Text=Strong Java foundations,2.
+3-1	588-594	Strong	_	
+3-2	595-599	Java	Hard Skill	
+3-3	600-611	foundations	_	
+3-4	611-612	,	_	
+3-5	612-613	2	_	
+3-6	613-614	.	_	
+
+#Text=Rest Service development using Java, Spring Boot3.
+4-1	615-619	Rest	_	
+4-2	620-627	Service	_	
+4-3	628-639	development	_	
+4-4	640-645	using	_	
+4-5	646-650	Java	Hard Skill	
+4-6	650-651	,	_	
+4-7	652-658	Spring	_	
+4-8	659-664	Boot3	_	
+4-9	664-665	.	_	
+
+#Text=Unit test frameworks in Java, Github4.
+5-1	666-670	Unit	_	
+5-2	671-675	test	_	
+5-3	676-686	frameworks	_	
+5-4	687-689	in	_	
+5-5	690-694	Java	Hard Skill	
+5-6	694-695	,	_	
+5-7	696-703	Github4	_	
+5-8	703-704	.	_	
+
+#Text=Strong experience leading design and implementation of robust and highly scalable web services5.
+6-1	705-711	Strong	_	
+6-2	712-722	experience	_	
+6-3	723-730	leading	_	
+6-4	731-737	design	Hard Skill	
+6-5	738-741	and	_	
+6-6	742-756	implementation	Hard Skill	
+6-7	757-759	of	_	
+6-8	760-766	robust	_	
+6-9	767-770	and	_	
+6-10	771-777	highly	_	
+6-11	778-786	scalable	_	
+6-12	787-790	web	_	
+6-13	791-800	services5	_	
+6-14	800-801	.	_	
+
+#Text=Strong OOD and SOA principles, with ability to implement them in Java6.
+7-1	802-808	Strong	_	
+7-2	809-812	OOD	_	
+7-3	813-816	and	_	
+7-4	817-820	SOA	_	
+7-5	821-831	principles	_	
+7-6	831-832	,	_	
+7-7	833-837	with	_	
+7-8	838-845	ability	_	
+7-9	846-848	to	_	
+7-10	849-858	implement	_	
+7-11	859-863	them	_	
+7-12	864-866	in	_	
+7-13	867-872	Java6	_	
+7-14	872-873	.	_	
+
+#Text=Experience in NOSQL _ preference for DynamoDB7.
+8-1	874-884	Experience	_	
+8-2	885-887	in	_	
+8-3	888-893	NOSQL	Hard Skill	
+8-4	894-895	_	_	
+8-5	896-906	preference	_	
+8-6	907-910	for	_	
+8-7	911-920	DynamoDB7	_	
+8-8	920-921	.	_	
+
+#Text=Experience in GarphQLPreferred/Good to Have Skills:8.
+9-1	922-932	Experience	_	
+9-2	933-935	in	_	
+9-3	936-952	GarphQLPreferred	_	
+9-4	952-953	/	_	
+9-5	953-957	Good	_	
+9-6	958-960	to	_	
+9-7	961-965	Have	_	
+9-8	966-972	Skills	_	
+9-9	972-973	:	_	
+9-10	973-974	8	_	
+9-11	974-975	.	_	
+
+#Text=AWS expertise, Docker/Kubernetes (preferred)9.
+10-1	976-979	AWS	Hard Skill	
+10-2	980-989	expertise	_	
+10-3	989-990	,	_	
+10-4	991-997	Docker	Hard Skill	
+10-5	997-998	/	_	
+10-6	998-1008	Kubernetes	Hard Skill	
+10-7	1009-1010	(	_	
+10-8	1010-1019	preferred	_	
+10-9	1019-1020	)	_	
+10-10	1020-1021	9	_	
+10-11	1021-1022	.	_	
+
+#Text=AWS services such as Route53, API Gateway etc.,10.
+11-1	1023-1026	AWS	Hard Skill	
+11-2	1027-1035	services	_	
+11-3	1036-1040	such	_	
+11-4	1041-1043	as	_	
+11-5	1044-1051	Route53	_	
+11-6	1051-1052	,	_	
+11-7	1053-1056	API	Hard Skill	
+11-8	1057-1064	Gateway	_	
+11-9	1065-1068	etc	_	
+11-10	1068-1069	.	_	
+11-11	1069-1070	,	_	
+11-12	1070-1072	10	_	
+11-13	1072-1073	.	_	
+
+#Text=Experience with Amazon AWS is required  Experience with Microservices is highly desirable11.
+12-1	1074-1084	Experience	_	
+12-2	1085-1089	with	_	
+12-3	1090-1096	Amazon	_	
+12-4	1097-1100	AWS	Hard Skill	
+12-5	1101-1103	is	_	
+12-6	1104-1112	required	_	
+12-7	1114-1124	Experience	_	
+12-8	1125-1129	with	_	
+12-9	1130-1143	Microservices	_	
+12-10	1144-1146	is	_	
+12-11	1147-1153	highly	_	
+12-12	1154-1165	desirable11	_	
+12-13	1165-1166	.	_	
+
+#Text=Experience with full stack development is a plus12.
+13-1	1167-1177	Experience	_	
+13-2	1178-1182	with	_	
+13-3	1183-1187	full	_	
+13-4	1188-1193	stack	_	
+13-5	1194-1205	development	_	
+13-6	1206-1208	is	_	
+13-7	1209-1210	a	_	
+13-8	1211-1217	plus12	_	
+13-9	1217-1218	.	_	
+
+#Text=Experience with no-SQL or RDBMS datastores is a plusJob Type: Full-timePay: $33.77 - $70.93 per hourExperience: java8: 10 years (Preferred) AWS: 10 years (Preferred) NOSQL: 10 years (Preferred) GarphQL: 10 years (Preferred)Work Location: RemoteSpeak with the employer+91 9700053541 Unit test frameworks in Java, Github Strong experience leading design and implementation of robust and highly scalable web services Strong OOD and SOA principles, with ability to implement them in Java Experience in NOSQL _ preference for DynamoDB Experience in GarphQL Pay: $33.77 - $70.93 per hour
+14-1	1219-1229	Experience	_	
+14-2	1230-1234	with	_	
+14-3	1235-1241	no-SQL	_	
+14-4	1242-1244	or	_	
+14-5	1245-1250	RDBMS	_	
+14-6	1251-1261	datastores	_	
+14-7	1262-1264	is	_	
+14-8	1265-1266	a	_	
+14-9	1267-1274	plusJob	_	
+14-10	1275-1279	Type	_	
+14-11	1279-1280	:	_	
+14-12	1281-1293	Full-timePay	_	
+14-13	1293-1294	:	_	
+14-14	1295-1301	$33.77	_	
+14-15	1302-1303	-	_	
+14-16	1304-1310	$70.93	_	
+14-17	1311-1314	per	_	
+14-18	1315-1329	hourExperience	_	
+14-19	1329-1330	:	_	
+14-20	1331-1336	java8	_	
+14-21	1336-1337	:	_	
+14-22	1338-1340	10	_	
+14-23	1341-1346	years	_	
+14-24	1347-1348	(	_	
+14-25	1348-1357	Preferred	_	
+14-26	1357-1358	)	_	
+14-27	1359-1362	AWS	Hard Skill	
+14-28	1362-1363	:	_	
+14-29	1364-1366	10	_	
+14-30	1367-1372	years	_	
+14-31	1373-1374	(	_	
+14-32	1374-1383	Preferred	_	
+14-33	1383-1384	)	_	
+14-34	1385-1390	NOSQL	Hard Skill	
+14-35	1390-1391	:	_	
+14-36	1392-1394	10	_	
+14-37	1395-1400	years	_	
+14-38	1401-1402	(	_	
+14-39	1402-1411	Preferred	_	
+14-40	1411-1412	)	_	
+14-41	1413-1420	GarphQL	_	
+14-42	1420-1421	:	_	
+14-43	1422-1424	10	_	
+14-44	1425-1430	years	_	
+14-45	1431-1432	(	_	
+14-46	1432-1441	Preferred	_	
+14-47	1441-1442	)	_	
+14-48	1442-1446	Work	_	
+14-49	1447-1455	Location	_	
+14-50	1455-1456	:	_	
+14-51	1457-1468	RemoteSpeak	_	
+14-52	1469-1473	with	_	
+14-53	1474-1477	the	_	
+14-54	1478-1486	employer	_	
+14-55	1486-1487	+	_	
+14-56	1487-1489	91	_	
+14-57	1490-1500	9700053541	_	
+14-58	1501-1505	Unit	_	
+14-59	1506-1510	test	_	
+14-60	1511-1521	frameworks	_	
+14-61	1522-1524	in	_	
+14-62	1525-1529	Java	Hard Skill	
+14-63	1529-1530	,	_	
+14-64	1531-1537	Github	Hard Skill	
+14-65	1538-1544	Strong	_	
+14-66	1545-1555	experience	_	
+14-67	1556-1563	leading	_	
+14-68	1564-1570	design	Hard Skill	
+14-69	1571-1574	and	_	
+14-70	1575-1589	implementation	Hard Skill	
+14-71	1590-1592	of	_	
+14-72	1593-1599	robust	_	
+14-73	1600-1603	and	_	
+14-74	1604-1610	highly	_	
+14-75	1611-1619	scalable	_	
+14-76	1620-1623	web	_	
+14-77	1624-1632	services	_	
+14-78	1633-1639	Strong	_	
+14-79	1640-1643	OOD	_	
+14-80	1644-1647	and	_	
+14-81	1648-1651	SOA	_	
+14-82	1652-1662	principles	_	
+14-83	1662-1663	,	_	
+14-84	1664-1668	with	_	
+14-85	1669-1676	ability	_	
+14-86	1677-1679	to	_	
+14-87	1680-1689	implement	_	
+14-88	1690-1694	them	_	
+14-89	1695-1697	in	_	
+14-90	1698-1702	Java	Hard Skill	
+14-91	1703-1713	Experience	_	
+14-92	1714-1716	in	_	
+14-93	1717-1722	NOSQL	Hard Skill	
+14-94	1723-1724	_	_	
+14-95	1725-1735	preference	_	
+14-96	1736-1739	for	_	
+14-97	1740-1748	DynamoDB	Hard Skill	
+14-98	1749-1759	Experience	_	
+14-99	1760-1762	in	_	
+14-100	1763-1770	GarphQL	_	
+14-101	1771-1774	Pay	_	
+14-102	1774-1775	:	_	
+14-103	1776-1782	$33.77	_	
+14-104	1783-1784	-	_	
+14-105	1785-1791	$70.93	_	
+14-106	1792-1795	per	_	
+14-107	1796-1800	hour	_	

@@ -1,0 +1,483 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job Title: Frontend Developer (HTML/CSS/JS)We are currently seeking an experienced frontend developer who is proficient in HTML, CSS, and JavaScript to join our team over at Naizop.com.
+1-1	0-3	Job	_	
+1-2	4-9	Title	_	
+1-3	9-10	:	_	
+1-4	11-19	Frontend	_	
+1-5	20-29	Developer	_	
+1-6	30-31	(	_	
+1-7	31-35	HTML	Hard Skill	
+1-8	35-36	/	_	
+1-9	36-39	CSS	Hard Skill	
+1-10	39-40	/	_	
+1-11	40-42	JS	_	
+1-12	42-43	)	_	
+1-13	43-45	We	_	
+1-14	46-49	are	_	
+1-15	50-59	currently	_	
+1-16	60-67	seeking	_	
+1-17	68-70	an	_	
+1-18	71-82	experienced	_	
+1-19	83-91	frontend	_	
+1-20	92-101	developer	_	
+1-21	102-105	who	_	
+1-22	106-108	is	_	
+1-23	109-119	proficient	_	
+1-24	120-122	in	_	
+1-25	123-127	HTML	Hard Skill	
+1-26	127-128	,	_	
+1-27	129-132	CSS	Hard Skill	
+1-28	132-133	,	_	
+1-29	134-137	and	_	
+1-30	138-148	JavaScript	Hard Skill	
+1-31	149-151	to	_	
+1-32	152-156	join	_	
+1-33	157-160	our	_	
+1-34	161-165	team	_	
+1-35	166-170	over	_	
+1-36	171-173	at	_	
+1-37	174-184	Naizop.com	_	
+1-38	184-185	.	_	
+
+#Text=As a frontend developer, you will be responsible for coding a pixel-perfect design from Figma, ensuring that the final product is visually appealing, user-friendly, and accessible...Responsibilities:Translate design mock-ups from Figma into pixel-perfect HTML/CSS/JS code.Collaborate with the design team to ensure that the final product meets their specifications.Ensure that the code is optimized for speed, scalability, and accessibility.Work with the backend team to integrate frontend code with backend functionality.Troubleshoot and debug issues as they arise.Stay up-to-date with the latest frontend technologies and techniques.Requirements:At least 3 years of experience in frontend development.Proficiency in HTML, CSS, and JavaScript.Strong understanding of responsive design principles and cross-browser compatibility.Experience with version control systems such as Git.Excellent problem-solving skills and attention to detail.Ability to work independently as well as in a team.In order for us to speed up the hiring process, I have attached the public figma link for you to review.
+2-1	186-188	As	_	
+2-2	189-190	a	_	
+2-3	191-199	frontend	_	
+2-4	200-209	developer	_	
+2-5	209-210	,	_	
+2-6	211-214	you	_	
+2-7	215-219	will	_	
+2-8	220-222	be	_	
+2-9	223-234	responsible	_	
+2-10	235-238	for	_	
+2-11	239-245	coding	Hard Skill	
+2-12	246-247	a	_	
+2-13	248-261	pixel-perfect	_	
+2-14	262-268	design	Hard Skill	
+2-15	269-273	from	_	
+2-16	274-279	Figma	Hard Skill	
+2-17	279-280	,	_	
+2-18	281-289	ensuring	_	
+2-19	290-294	that	_	
+2-20	295-298	the	_	
+2-21	299-304	final	_	
+2-22	305-312	product	_	
+2-23	313-315	is	_	
+2-24	316-324	visually	_	
+2-25	325-334	appealing	_	
+2-26	334-335	,	_	
+2-27	336-349	user-friendly	_	
+2-28	349-350	,	_	
+2-29	351-354	and	_	
+2-30	355-365	accessible	_	
+2-31	365-366	.	_	
+2-32	366-367	.	_	
+2-33	367-368	.	_	
+2-34	368-384	Responsibilities	_	
+2-35	384-385	:	_	
+2-36	385-394	Translate	_	
+2-37	395-401	design	Hard Skill	
+2-38	402-410	mock-ups	_	
+2-39	411-415	from	_	
+2-40	416-421	Figma	Hard Skill	
+2-41	422-426	into	_	
+2-42	427-440	pixel-perfect	_	
+2-43	441-445	HTML	Hard Skill	
+2-44	445-446	/	_	
+2-45	446-449	CSS	Hard Skill	
+2-46	449-450	/	_	
+2-47	450-452	JS	_	
+2-48	453-469	code.Collaborate	_	
+2-49	470-474	with	_	
+2-50	475-478	the	_	
+2-51	479-485	design	Hard Skill	
+2-52	486-490	team	_	
+2-53	491-493	to	_	
+2-54	494-500	ensure	_	
+2-55	501-505	that	_	
+2-56	506-509	the	_	
+2-57	510-515	final	_	
+2-58	516-523	product	_	
+2-59	524-529	meets	_	
+2-60	530-535	their	_	
+2-61	536-557	specifications.Ensure	_	
+2-62	558-562	that	_	
+2-63	563-566	the	_	
+2-64	567-571	code	_	
+2-65	572-574	is	_	
+2-66	575-584	optimized	_	
+2-67	585-588	for	_	
+2-68	589-594	speed	_	
+2-69	594-595	,	_	
+2-70	596-607	scalability	_	
+2-71	607-608	,	_	
+2-72	609-612	and	_	
+2-73	613-631	accessibility.Work	_	
+2-74	632-636	with	_	
+2-75	637-640	the	_	
+2-76	641-648	backend	_	
+2-77	649-653	team	_	
+2-78	654-656	to	_	
+2-79	657-666	integrate	_	
+2-80	667-675	frontend	_	
+2-81	676-680	code	_	
+2-82	681-685	with	_	
+2-83	686-693	backend	_	
+2-84	694-720	functionality.Troubleshoot	_	
+2-85	721-724	and	_	
+2-86	725-730	debug	Hard Skill	
+2-87	731-737	issues	_	
+2-88	738-740	as	_	
+2-89	741-745	they	_	
+2-90	746-756	arise.Stay	_	
+2-91	757-767	up-to-date	_	
+2-92	768-772	with	_	
+2-93	773-776	the	_	
+2-94	777-783	latest	_	
+2-95	784-792	frontend	_	
+2-96	793-805	technologies	_	
+2-97	806-809	and	_	
+2-98	810-833	techniques.Requirements	_	
+2-99	833-834	:	_	
+2-100	834-836	At	_	
+2-101	837-842	least	_	
+2-102	843-844	3	_	
+2-103	845-850	years	_	
+2-104	851-853	of	_	
+2-105	854-864	experience	_	
+2-106	865-867	in	_	
+2-107	868-876	frontend	_	
+2-108	877-900	development.Proficiency	_	
+2-109	901-903	in	_	
+2-110	904-908	HTML	Hard Skill	
+2-111	908-909	,	_	
+2-112	910-913	CSS	Hard Skill	
+2-113	913-914	,	_	
+2-114	915-918	and	_	
+2-115	919-936	JavaScript.Strong	_	
+2-116	937-950	understanding	_	
+2-117	951-953	of	_	
+2-118	954-964	responsive	_	
+2-119	965-971	design	Hard Skill	
+2-120	972-982	principles	_	
+2-121	983-986	and	_	
+2-122	987-1000	cross-browser	_	
+2-123	1001-1025	compatibility.Experience	_	
+2-124	1026-1030	with	_	
+2-125	1031-1038	version	_	
+2-126	1039-1046	control	_	
+2-127	1047-1054	systems	_	
+2-128	1055-1059	such	_	
+2-129	1060-1062	as	_	
+2-130	1063-1076	Git.Excellent	_	
+2-131	1077-1092	problem-solving	_	
+2-132	1093-1099	skills	_	
+2-133	1100-1103	and	_	
+2-134	1104-1113	attention	_	
+2-135	1114-1116	to	_	
+2-136	1117-1131	detail.Ability	_	
+2-137	1132-1134	to	_	
+2-138	1135-1139	work	_	
+2-139	1140-1153	independently	_	
+2-140	1154-1156	as	_	
+2-141	1157-1161	well	_	
+2-142	1162-1164	as	_	
+2-143	1165-1167	in	_	
+2-144	1168-1169	a	_	
+2-145	1170-1177	team.In	_	
+2-146	1178-1183	order	_	
+2-147	1184-1187	for	_	
+2-148	1188-1190	us	_	
+2-149	1191-1193	to	_	
+2-150	1194-1199	speed	_	
+2-151	1200-1202	up	_	
+2-152	1203-1206	the	_	
+2-153	1207-1213	hiring	_	
+2-154	1214-1221	process	_	
+2-155	1221-1222	,	_	
+2-156	1223-1224	I	_	
+2-157	1225-1229	have	_	
+2-158	1230-1238	attached	_	
+2-159	1239-1242	the	_	
+2-160	1243-1249	public	_	
+2-161	1250-1255	figma	_	
+2-162	1256-1260	link	_	
+2-163	1261-1264	for	_	
+2-164	1265-1268	you	_	
+2-165	1269-1271	to	_	
+2-166	1272-1278	review	_	
+2-167	1278-1279	.	_	
+
+#Text=If you would be able to provide me an estimated fixed price for this project, would be great.
+3-1	1280-1282	If	_	
+3-2	1283-1286	you	_	
+3-3	1287-1292	would	_	
+3-4	1293-1295	be	_	
+3-5	1296-1300	able	_	
+3-6	1301-1303	to	_	
+3-7	1304-1311	provide	_	
+3-8	1312-1314	me	_	
+3-9	1315-1317	an	_	
+3-10	1318-1327	estimated	_	
+3-11	1328-1333	fixed	_	
+3-12	1334-1339	price	_	
+3-13	1340-1343	for	_	
+3-14	1344-1348	this	_	
+3-15	1349-1356	project	_	
+3-16	1356-1357	,	_	
+3-17	1358-1363	would	_	
+3-18	1364-1366	be	_	
+3-19	1367-1372	great	_	
+3-20	1372-1373	.	_	
+
+#Text=Please find the figma link attached below: https://www.figma.com/file/dKMp184Y7MLdPWNVH69kFz/NAIZOP-%7C-Morethan-Design-%7C---Evgeniy-(Copy)?
+4-1	1374-1380	Please	_	
+4-2	1381-1385	find	_	
+4-3	1386-1389	the	_	
+4-4	1390-1395	figma	_	
+4-5	1396-1400	link	_	
+4-6	1401-1409	attached	_	
+4-7	1410-1415	below	_	
+4-8	1415-1416	:	_	
+4-9	1417-1422	https	_	
+4-10	1422-1423	:	_	
+4-11	1423-1424	/	_	
+4-12	1424-1425	/	_	
+4-13	1425-1438	www.figma.com	_	
+4-14	1438-1439	/	_	
+4-15	1439-1443	file	_	
+4-16	1443-1444	/	_	
+4-17	1444-1466	dKMp184Y7MLdPWNVH69kFz	_	
+4-18	1466-1467	/	_	
+4-19	1467-1473	NAIZOP	_	
+4-20	1473-1474	-	_	
+4-21	1474-1475	%	_	
+4-22	1475-1493	7C-Morethan-Design	_	
+4-23	1493-1494	-	_	
+4-24	1494-1495	%	_	
+4-25	1495-1497	7C	_	
+4-26	1497-1498	-	_	
+4-27	1498-1499	-	_	
+4-28	1499-1500	-	_	
+4-29	1500-1507	Evgeniy	_	
+4-30	1507-1508	-	_	
+4-31	1508-1509	(	_	
+4-32	1509-1513	Copy	_	
+4-33	1513-1514	)	_	
+4-34	1514-1515	?	_	
+
+#Text=type=design&node-id=1246-3531&t=5PRx0bLjmOWfRcLA-0If you are passionate about frontend development, have a keen eye for design, and are eager to work on challenging projects, we would love to hear from you!
+5-1	1515-1519	type	_	
+5-2	1519-1520	=	_	
+5-3	1520-1526	design	Hard Skill	
+5-4	1526-1527	&	_	
+5-5	1527-1534	node-id	_	
+5-6	1534-1535	=	_	
+5-7	1535-1539	1246	_	
+5-8	1539-1540	-	_	
+5-9	1540-1545	3531&	_	
+5-10	1545-1546	t	_	
+5-11	1546-1547	=	_	
+5-12	1547-1563	5PRx0bLjmOWfRcLA	_	
+5-13	1563-1564	-	_	
+5-14	1564-1567	0If	_	
+5-15	1568-1571	you	_	
+5-16	1572-1575	are	_	
+5-17	1576-1586	passionate	_	
+5-18	1587-1592	about	_	
+5-19	1593-1601	frontend	_	
+5-20	1602-1613	development	_	
+5-21	1613-1614	,	_	
+5-22	1615-1619	have	_	
+5-23	1620-1621	a	_	
+5-24	1622-1626	keen	_	
+5-25	1627-1630	eye	_	
+5-26	1631-1634	for	_	
+5-27	1635-1641	design	Hard Skill	
+5-28	1641-1642	,	_	
+5-29	1643-1646	and	_	
+5-30	1647-1650	are	_	
+5-31	1651-1656	eager	_	
+5-32	1657-1659	to	_	
+5-33	1660-1664	work	_	
+5-34	1665-1667	on	_	
+5-35	1668-1679	challenging	_	
+5-36	1680-1688	projects	_	
+5-37	1688-1689	,	_	
+5-38	1690-1692	we	_	
+5-39	1693-1698	would	_	
+5-40	1699-1703	love	_	
+5-41	1704-1706	to	_	
+5-42	1707-1711	hear	_	
+5-43	1712-1716	from	_	
+5-44	1717-1720	you	_	
+5-45	1720-1721	!	_	
+
+#Text=Please include your resume, portfolio, and your fixed price offer for this job At least 3 years of experience in frontend development Proficiency in HTML, CSS, and JavaScript Strong understanding of responsive design principles and cross-browser compatibility Experience with version control systems such as Git Excellent problem-solving skills and attention to detail Ability to work independently as well as in a team As a frontend developer, you will be responsible for coding a pixel-perfect design from Figma, ensuring that the final product is visually appealing, user-friendly, and accessible Translate design mock-ups from Figma into pixel-perfect HTML/CSS/JS code Collaborate with the design team to ensure that the final product meets their specifications Ensure that the code is optimized for speed, scalability, and accessibility Work with the backend team to integrate frontend code with backend functionality Troubleshoot and debug issues as they arise Stay up-to-date with the latest frontend technologies and techniques
+6-1	1722-1728	Please	_	
+6-2	1729-1736	include	_	
+6-3	1737-1741	your	_	
+6-4	1742-1748	resume	_	
+6-5	1748-1749	,	_	
+6-6	1750-1759	portfolio	_	
+6-7	1759-1760	,	_	
+6-8	1761-1764	and	_	
+6-9	1765-1769	your	_	
+6-10	1770-1775	fixed	_	
+6-11	1776-1781	price	_	
+6-12	1782-1787	offer	_	
+6-13	1788-1791	for	_	
+6-14	1792-1796	this	_	
+6-15	1797-1800	job	_	
+6-16	1801-1803	At	_	
+6-17	1804-1809	least	_	
+6-18	1810-1811	3	_	
+6-19	1812-1817	years	_	
+6-20	1818-1820	of	_	
+6-21	1821-1831	experience	_	
+6-22	1832-1834	in	_	
+6-23	1835-1843	frontend	_	
+6-24	1844-1855	development	_	
+6-25	1856-1867	Proficiency	_	
+6-26	1868-1870	in	_	
+6-27	1871-1875	HTML	Hard Skill	
+6-28	1875-1876	,	_	
+6-29	1877-1880	CSS	Hard Skill	
+6-30	1880-1881	,	_	
+6-31	1882-1885	and	_	
+6-32	1886-1896	JavaScript	Hard Skill	
+6-33	1897-1903	Strong	_	
+6-34	1904-1917	understanding	_	
+6-35	1918-1920	of	_	
+6-36	1921-1931	responsive	_	
+6-37	1932-1938	design	Hard Skill	
+6-38	1939-1949	principles	_	
+6-39	1950-1953	and	_	
+6-40	1954-1967	cross-browser	_	
+6-41	1968-1981	compatibility	_	
+6-42	1982-1992	Experience	_	
+6-43	1993-1997	with	_	
+6-44	1998-2005	version	_	
+6-45	2006-2013	control	_	
+6-46	2014-2021	systems	_	
+6-47	2022-2026	such	_	
+6-48	2027-2029	as	_	
+6-49	2030-2033	Git	Hard Skill	
+6-50	2034-2043	Excellent	_	
+6-51	2044-2059	problem-solving	_	
+6-52	2060-2066	skills	_	
+6-53	2067-2070	and	_	
+6-54	2071-2080	attention	_	
+6-55	2081-2083	to	_	
+6-56	2084-2090	detail	_	
+6-57	2091-2098	Ability	_	
+6-58	2099-2101	to	_	
+6-59	2102-2106	work	_	
+6-60	2107-2120	independently	_	
+6-61	2121-2123	as	_	
+6-62	2124-2128	well	_	
+6-63	2129-2131	as	_	
+6-64	2132-2134	in	_	
+6-65	2135-2136	a	_	
+6-66	2137-2141	team	_	
+6-67	2142-2144	As	_	
+6-68	2145-2146	a	_	
+6-69	2147-2155	frontend	_	
+6-70	2156-2165	developer	_	
+6-71	2165-2166	,	_	
+6-72	2167-2170	you	_	
+6-73	2171-2175	will	_	
+6-74	2176-2178	be	_	
+6-75	2179-2190	responsible	_	
+6-76	2191-2194	for	_	
+6-77	2195-2201	coding	Hard Skill	
+6-78	2202-2203	a	_	
+6-79	2204-2217	pixel-perfect	_	
+6-80	2218-2224	design	Hard Skill	
+6-81	2225-2229	from	_	
+6-82	2230-2235	Figma	Hard Skill	
+6-83	2235-2236	,	_	
+6-84	2237-2245	ensuring	_	
+6-85	2246-2250	that	_	
+6-86	2251-2254	the	_	
+6-87	2255-2260	final	_	
+6-88	2261-2268	product	_	
+6-89	2269-2271	is	_	
+6-90	2272-2280	visually	_	
+6-91	2281-2290	appealing	_	
+6-92	2290-2291	,	_	
+6-93	2292-2305	user-friendly	_	
+6-94	2305-2306	,	_	
+6-95	2307-2310	and	_	
+6-96	2311-2321	accessible	_	
+6-97	2322-2331	Translate	_	
+6-98	2332-2338	design	Hard Skill	
+6-99	2339-2347	mock-ups	_	
+6-100	2348-2352	from	_	
+6-101	2353-2358	Figma	Hard Skill	
+6-102	2359-2363	into	_	
+6-103	2364-2377	pixel-perfect	_	
+6-104	2378-2382	HTML	Hard Skill	
+6-105	2382-2383	/	_	
+6-106	2383-2386	CSS	Hard Skill	
+6-107	2386-2387	/	_	
+6-108	2387-2389	JS	_	
+6-109	2390-2394	code	_	
+6-110	2395-2406	Collaborate	_	
+6-111	2407-2411	with	_	
+6-112	2412-2415	the	_	
+6-113	2416-2422	design	Hard Skill	
+6-114	2423-2427	team	_	
+6-115	2428-2430	to	_	
+6-116	2431-2437	ensure	_	
+6-117	2438-2442	that	_	
+6-118	2443-2446	the	_	
+6-119	2447-2452	final	_	
+6-120	2453-2460	product	_	
+6-121	2461-2466	meets	_	
+6-122	2467-2472	their	_	
+6-123	2473-2487	specifications	_	
+6-124	2488-2494	Ensure	_	
+6-125	2495-2499	that	_	
+6-126	2500-2503	the	_	
+6-127	2504-2508	code	_	
+6-128	2509-2511	is	_	
+6-129	2512-2521	optimized	_	
+6-130	2522-2525	for	_	
+6-131	2526-2531	speed	_	
+6-132	2531-2532	,	_	
+6-133	2533-2544	scalability	_	
+6-134	2544-2545	,	_	
+6-135	2546-2549	and	_	
+6-136	2550-2563	accessibility	_	
+6-137	2564-2568	Work	_	
+6-138	2569-2573	with	_	
+6-139	2574-2577	the	_	
+6-140	2578-2585	backend	_	
+6-141	2586-2590	team	_	
+6-142	2591-2593	to	_	
+6-143	2594-2603	integrate	_	
+6-144	2604-2612	frontend	_	
+6-145	2613-2617	code	_	
+6-146	2618-2622	with	_	
+6-147	2623-2630	backend	_	
+6-148	2631-2644	functionality	_	
+6-149	2645-2657	Troubleshoot	_	
+6-150	2658-2661	and	_	
+6-151	2662-2667	debug	Hard Skill	
+6-152	2668-2674	issues	_	
+6-153	2675-2677	as	_	
+6-154	2678-2682	they	_	
+6-155	2683-2688	arise	_	
+6-156	2689-2693	Stay	_	
+6-157	2694-2704	up-to-date	_	
+6-158	2705-2709	with	_	
+6-159	2710-2713	the	_	
+6-160	2714-2720	latest	_	
+6-161	2721-2729	frontend	_	
+6-162	2730-2742	technologies	_	
+6-163	2743-2746	and	_	
+6-164	2747-2757	techniques	_	

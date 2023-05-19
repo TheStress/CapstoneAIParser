@@ -1,0 +1,293 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Android Developer (Kotlin) Plano,TX and Wilmington,DE.
+1-1	0-7	Android	Hard Skill	
+1-2	8-17	Developer	_	
+1-3	18-19	(	_	
+1-4	19-25	Kotlin	Hard Skill	
+1-5	25-26	)	_	
+1-6	27-32	Plano	_	
+1-7	32-33	,	_	
+1-8	33-35	TX	_	
+1-9	36-39	and	_	
+1-10	40-50	Wilmington	_	
+1-11	50-51	,	_	
+1-12	51-53	DE	_	
+1-13	53-54	.	_	
+
+#Text=Hybrid model (3 days from office) Phone + Skype Contract Job Description:- We are looking for Mobile Developer who is strong in Kotlin and Native development on Android.
+2-1	55-61	Hybrid	_	
+2-2	62-67	model	_	
+2-3	68-69	(	_	
+2-4	69-70	3	_	
+2-5	71-75	days	_	
+2-6	76-80	from	_	
+2-7	81-87	office	_	
+2-8	87-88	)	_	
+2-9	89-94	Phone	_	
+2-10	95-96	+	_	
+2-11	97-102	Skype	Hard Skill	
+2-12	103-111	Contract	_	
+2-13	112-115	Job	_	
+2-14	116-127	Description	_	
+2-15	127-128	:	_	
+2-16	128-129	-	_	
+2-17	130-132	We	_	
+2-18	133-136	are	_	
+2-19	137-144	looking	_	
+2-20	145-148	for	_	
+2-21	149-155	Mobile	_	
+2-22	156-165	Developer	_	
+2-23	166-169	who	_	
+2-24	170-172	is	_	
+2-25	173-179	strong	_	
+2-26	180-182	in	_	
+2-27	183-189	Kotlin	Hard Skill	
+2-28	190-193	and	_	
+2-29	194-200	Native	_	
+2-30	201-212	development	_	
+2-31	213-215	on	_	
+2-32	216-223	Android	Hard Skill	
+2-33	223-224	.	_	
+
+#Text=The candidate should have good communication skills, analytical ability and client facing experience.
+3-1	225-228	The	_	
+3-2	229-238	candidate	_	
+3-3	239-245	should	_	
+3-4	246-250	have	_	
+3-5	251-255	good	_	
+3-6	256-269	communication	Soft Skill	
+3-7	270-276	skills	_	
+3-8	276-277	,	_	
+3-9	278-288	analytical	_	
+3-10	289-296	ability	_	
+3-11	297-300	and	_	
+3-12	301-307	client	_	
+3-13	308-314	facing	_	
+3-14	315-325	experience	_	
+3-15	325-326	.	_	
+
+#Text=He should have strong knowledge on MVVM architecture.
+4-1	327-329	He	_	
+4-2	330-336	should	_	
+4-3	337-341	have	_	
+4-4	342-348	strong	_	
+4-5	349-358	knowledge	_	
+4-6	359-361	on	_	
+4-7	362-366	MVVM	Hard Skill	
+4-8	367-379	architecture	_	
+4-9	379-380	.	_	
+
+#Text=Should be able to... articulate the concepts of Binding, 1.
+5-1	381-387	Should	_	
+5-2	388-390	be	_	
+5-3	391-395	able	_	
+5-4	396-398	to	_	
+5-5	398-399	.	_	
+5-6	399-400	.	_	
+5-7	400-401	.	_	
+5-8	402-412	articulate	_	
+5-9	413-416	the	_	
+5-10	417-425	concepts	_	
+5-11	426-428	of	_	
+5-12	429-436	Binding	_	
+5-13	436-437	,	_	
+5-14	438-439	1	_	
+5-15	439-440	.	_	
+
+#Text=Android, Android SDK, 2.
+6-1	441-448	Android	Hard Skill	
+6-2	448-449	,	_	
+6-3	450-457	Android	Hard Skill	
+6-4	458-461	SDK	_	
+6-5	461-462	,	_	
+6-6	463-464	2	_	
+6-7	464-465	.	_	
+
+#Text=Java, Kotlin 3.
+7-1	466-470	Java	Hard Skill	
+7-2	470-471	,	_	
+7-3	472-478	Kotlin	Hard Skill	
+7-4	479-480	3	_	
+7-5	480-481	.	_	
+
+#Text=MVVM 4.
+8-1	482-486	MVVM	Hard Skill	
+8-2	487-488	4	_	
+8-3	488-489	.	_	
+
+#Text=Eclipse 5.
+9-1	490-497	Eclipse	_	
+9-2	498-499	5	_	
+9-3	499-500	.	_	
+
+#Text=Android Studio Good to have : Exposure to Unit Testing, Jira, Jenkins, Total Experience 5 years Sudhanshu Kumar Gaur IT Technical Recruiter Phone Email: Gtalk: Android Developer (Kotlin) Plano,TX and Wilmington,DE.
+10-1	501-508	Android	Hard Skill	
+10-2	509-515	Studio	_	
+10-3	516-520	Good	_	
+10-4	521-523	to	_	
+10-5	524-528	have	_	
+10-6	529-530	:	_	
+10-7	531-539	Exposure	_	
+10-8	540-542	to	_	
+10-9	543-547	Unit	_	
+10-10	548-555	Testing	_	
+10-11	555-556	,	_	
+10-12	557-561	Jira	Hard Skill	
+10-13	561-562	,	_	
+10-14	563-570	Jenkins	Hard Skill	
+10-15	570-571	,	_	
+10-16	572-577	Total	_	
+10-17	578-588	Experience	_	
+10-18	589-590	5	_	
+10-19	591-596	years	_	
+10-20	597-606	Sudhanshu	_	
+10-21	607-612	Kumar	_	
+10-22	613-617	Gaur	_	
+10-23	618-620	IT	_	
+10-24	621-630	Technical	_	
+10-25	631-640	Recruiter	_	
+10-26	641-646	Phone	_	
+10-27	647-652	Email	_	
+10-28	652-653	:	_	
+10-29	654-659	Gtalk	_	
+10-30	659-660	:	_	
+10-31	661-668	Android	Hard Skill	
+10-32	669-678	Developer	_	
+10-33	679-680	(	_	
+10-34	680-686	Kotlin	Hard Skill	
+10-35	686-687	)	_	
+10-36	688-693	Plano	_	
+10-37	693-694	,	_	
+10-38	694-696	TX	_	
+10-39	697-700	and	_	
+10-40	701-711	Wilmington	_	
+10-41	711-712	,	_	
+10-42	712-714	DE	_	
+10-43	714-715	.	_	
+
+#Text=Hybrid model (3 days from office) Phone + Skype Contract Hybrid model (3 days from office) Phone + Skype Contract Job Description:- We are looking for Mobile Developer who is strong in Kotlin and Native development on Android.
+11-1	716-722	Hybrid	_	
+11-2	723-728	model	_	
+11-3	729-730	(	_	
+11-4	730-731	3	_	
+11-5	732-736	days	_	
+11-6	737-741	from	_	
+11-7	742-748	office	_	
+11-8	748-749	)	_	
+11-9	750-755	Phone	_	
+11-10	756-757	+	_	
+11-11	758-763	Skype	Hard Skill	
+11-12	764-772	Contract	_	
+11-13	773-779	Hybrid	_	
+11-14	780-785	model	_	
+11-15	786-787	(	_	
+11-16	787-788	3	_	
+11-17	789-793	days	_	
+11-18	794-798	from	_	
+11-19	799-805	office	_	
+11-20	805-806	)	_	
+11-21	807-812	Phone	_	
+11-22	813-814	+	_	
+11-23	815-820	Skype	Hard Skill	
+11-24	821-829	Contract	_	
+11-25	830-833	Job	_	
+11-26	834-845	Description	_	
+11-27	845-846	:	_	
+11-28	846-847	-	_	
+11-29	848-850	We	_	
+11-30	851-854	are	_	
+11-31	855-862	looking	_	
+11-32	863-866	for	_	
+11-33	867-873	Mobile	_	
+11-34	874-883	Developer	_	
+11-35	884-887	who	_	
+11-36	888-890	is	_	
+11-37	891-897	strong	_	
+11-38	898-900	in	_	
+11-39	901-907	Kotlin	Hard Skill	
+11-40	908-911	and	_	
+11-41	912-918	Native	_	
+11-42	919-930	development	_	
+11-43	931-933	on	_	
+11-44	934-941	Android	Hard Skill	
+11-45	941-942	.	_	
+
+#Text=The candidate should have good communication skills, analytical ability and client facing experience He should have strong knowledge on MVVM architecture Should be able to articulate the concepts of Binding, 1 Android Studio Good to have : Exposure to Unit Testing, Jira, Jenkins, Total Experience 5 years Sudhanshu Kumar Gaur IT Technical Recruiter Phone Email: Gtalk: Android Developer (Kotlin) Plano,TX and Wilmington,DE
+12-1	943-946	The	_	
+12-2	947-956	candidate	_	
+12-3	957-963	should	_	
+12-4	964-968	have	_	
+12-5	969-973	good	_	
+12-6	974-987	communication	Soft Skill	
+12-7	988-994	skills	_	
+12-8	994-995	,	_	
+12-9	996-1006	analytical	_	
+12-10	1007-1014	ability	_	
+12-11	1015-1018	and	_	
+12-12	1019-1025	client	_	
+12-13	1026-1032	facing	_	
+12-14	1033-1043	experience	_	
+12-15	1044-1046	He	_	
+12-16	1047-1053	should	_	
+12-17	1054-1058	have	_	
+12-18	1059-1065	strong	_	
+12-19	1066-1075	knowledge	_	
+12-20	1076-1078	on	_	
+12-21	1079-1083	MVVM	Hard Skill	
+12-22	1084-1096	architecture	_	
+12-23	1097-1103	Should	_	
+12-24	1104-1106	be	_	
+12-25	1107-1111	able	_	
+12-26	1112-1114	to	_	
+12-27	1115-1125	articulate	_	
+12-28	1126-1129	the	_	
+12-29	1130-1138	concepts	_	
+12-30	1139-1141	of	_	
+12-31	1142-1149	Binding	_	
+12-32	1149-1150	,	_	
+12-33	1151-1152	1	_	
+12-34	1153-1160	Android	Hard Skill	
+12-35	1161-1167	Studio	_	
+12-36	1168-1172	Good	_	
+12-37	1173-1175	to	_	
+12-38	1176-1180	have	_	
+12-39	1181-1182	:	_	
+12-40	1183-1191	Exposure	_	
+12-41	1192-1194	to	_	
+12-42	1195-1199	Unit	_	
+12-43	1200-1207	Testing	_	
+12-44	1207-1208	,	_	
+12-45	1209-1213	Jira	Hard Skill	
+12-46	1213-1214	,	_	
+12-47	1215-1222	Jenkins	Hard Skill	
+12-48	1222-1223	,	_	
+12-49	1224-1229	Total	_	
+12-50	1230-1240	Experience	_	
+12-51	1241-1242	5	_	
+12-52	1243-1248	years	_	
+12-53	1249-1258	Sudhanshu	_	
+12-54	1259-1264	Kumar	_	
+12-55	1265-1269	Gaur	_	
+12-56	1270-1272	IT	_	
+12-57	1273-1282	Technical	_	
+12-58	1283-1292	Recruiter	_	
+12-59	1293-1298	Phone	_	
+12-60	1299-1304	Email	_	
+12-61	1304-1305	:	_	
+12-62	1306-1311	Gtalk	_	
+12-63	1311-1312	:	_	
+12-64	1313-1320	Android	Hard Skill	
+12-65	1321-1330	Developer	_	
+12-66	1331-1332	(	_	
+12-67	1332-1338	Kotlin	Hard Skill	
+12-68	1338-1339	)	_	
+12-69	1340-1345	Plano	_	
+12-70	1345-1346	,	_	
+12-71	1346-1348	TX	_	
+12-72	1349-1352	and	_	
+12-73	1353-1363	Wilmington	_	
+12-74	1363-1364	,	_	
+12-75	1364-1366	DE	_	

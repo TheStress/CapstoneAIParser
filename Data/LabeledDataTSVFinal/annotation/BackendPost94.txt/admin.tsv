@@ -1,0 +1,211 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Wingz is a rideshare company focused on Specialized Transportation, which we define as transportation requiring drivers with special training.
+1-1	0-5	Wingz	_	
+1-2	6-8	is	_	
+1-3	9-10	a	_	
+1-4	11-20	rideshare	_	
+1-5	21-28	company	_	
+1-6	29-36	focused	_	
+1-7	37-39	on	_	
+1-8	40-51	Specialized	_	
+1-9	52-66	Transportation	_	
+1-10	66-67	,	_	
+1-11	68-73	which	_	
+1-12	74-76	we	_	
+1-13	77-83	define	_	
+1-14	84-86	as	_	
+1-15	87-101	transportation	_	
+1-16	102-111	requiring	_	
+1-17	112-119	drivers	_	
+1-18	120-124	with	_	
+1-19	125-132	special	_	
+1-20	133-141	training	_	
+1-21	141-142	.	_	
+
+#Text=Our primary use cases today include Medical and Airport transportation.We are a fully-distributed team looking for talented engineers to join our team...Immediate responsibilities include: Building enterprise software solutions Building internal tools to help our TNC operations run more efficientlyRequirements: Proficient with Django, Django REST framework and MySQL Strong communication skills Experience deploying/supporting live production apps and REST APIsWingz focuses on Peer-to-Peer, Transportation, Public Transportation, and Collaborative Consumption.
+2-1	143-146	Our	_	
+2-2	147-154	primary	_	
+2-3	155-158	use	_	
+2-4	159-164	cases	_	
+2-5	165-170	today	_	
+2-6	171-178	include	_	
+2-7	179-186	Medical	_	
+2-8	187-190	and	_	
+2-9	191-198	Airport	_	
+2-10	199-216	transportation.We	_	
+2-11	217-220	are	_	
+2-12	221-222	a	_	
+2-13	223-240	fully-distributed	_	
+2-14	241-245	team	_	
+2-15	246-253	looking	_	
+2-16	254-257	for	_	
+2-17	258-266	talented	_	
+2-18	267-276	engineers	_	
+2-19	277-279	to	_	
+2-20	280-284	join	_	
+2-21	285-288	our	_	
+2-22	289-293	team	_	
+2-23	293-294	.	_	
+2-24	294-295	.	_	
+2-25	295-296	.	_	
+2-26	296-305	Immediate	_	
+2-27	306-322	responsibilities	_	
+2-28	323-330	include	_	
+2-29	330-331	:	_	
+2-30	332-340	Building	_	
+2-31	341-351	enterprise	_	
+2-32	352-360	software	_	
+2-33	361-370	solutions	_	
+2-34	371-379	Building	_	
+2-35	380-388	internal	_	
+2-36	389-394	tools	_	
+2-37	395-397	to	_	
+2-38	398-402	help	_	
+2-39	403-406	our	_	
+2-40	407-410	TNC	_	
+2-41	411-421	operations	_	
+2-42	422-425	run	_	
+2-43	426-430	more	_	
+2-44	431-454	efficientlyRequirements	_	
+2-45	454-455	:	_	
+2-46	456-466	Proficient	_	
+2-47	467-471	with	_	
+2-48	472-478	Django	Hard Skill	
+2-49	478-479	,	_	
+2-50	480-486	Django	Hard Skill	
+2-51	487-491	REST	_	
+2-52	492-501	framework	_	
+2-53	502-505	and	_	
+2-54	506-511	MySQL	Hard Skill	
+2-55	512-518	Strong	_	
+2-56	519-532	communication	Soft Skill	
+2-57	533-539	skills	_	
+2-58	540-550	Experience	_	
+2-59	551-560	deploying	_	
+2-60	560-561	/	_	
+2-61	561-571	supporting	_	
+2-62	572-576	live	_	
+2-63	577-587	production	_	
+2-64	588-592	apps	_	
+2-65	593-596	and	_	
+2-66	597-601	REST	_	
+2-67	602-611	APIsWingz	_	
+2-68	612-619	focuses	_	
+2-69	620-622	on	_	
+2-70	623-635	Peer-to-Peer	_	
+2-71	635-636	,	_	
+2-72	637-651	Transportation	_	
+2-73	651-652	,	_	
+2-74	653-659	Public	_	
+2-75	660-674	Transportation	_	
+2-76	674-675	,	_	
+2-77	676-679	and	_	
+2-78	680-693	Collaborative	Soft Skill	
+2-79	694-705	Consumption	_	
+2-80	705-706	.	_	
+
+#Text=Their company has offices in San Francisco.
+3-1	707-712	Their	_	
+3-2	713-720	company	_	
+3-3	721-724	has	_	
+3-4	725-732	offices	_	
+3-5	733-735	in	_	
+3-6	736-739	San	_	
+3-7	740-749	Francisco	_	
+3-8	749-750	.	_	
+
+#Text=They have a small team that's between 11-50 employees.
+4-1	751-755	They	_	
+4-2	756-760	have	_	
+4-3	761-762	a	_	
+4-4	763-768	small	_	
+4-5	769-773	team	_	
+4-6	774-780	that's	_	
+4-7	781-788	between	_	
+4-8	789-791	11	_	
+4-9	791-792	-	_	
+4-10	792-794	50	_	
+4-11	795-804	employees	_	
+4-12	804-805	.	_	
+
+#Text=To date, Wingz has raised $13.725M of funding; their latest round was closed on January 2016.You can view their website at http://wingz.com or find them on Twitter, Facebook, and LinkedIn Proficient with Django, Django REST framework and MySQL Strong communication skills Experience deploying/supporting live production apps and REST APIs Building enterprise software solutions Building internal tools to help our TNC operations run more efficiently
+5-1	806-808	To	_	
+5-2	809-813	date	_	
+5-3	813-814	,	_	
+5-4	815-820	Wingz	_	
+5-5	821-824	has	_	
+5-6	825-831	raised	_	
+5-7	832-840	$13.725M	_	
+5-8	841-843	of	_	
+5-9	844-851	funding	_	
+5-10	851-852	;	_	
+5-11	853-858	their	_	
+5-12	859-865	latest	_	
+5-13	866-871	round	_	
+5-14	872-875	was	_	
+5-15	876-882	closed	_	
+5-16	883-885	on	_	
+5-17	886-893	January	_	
+5-18	894-898	2016	_	
+5-19	898-899	.	_	
+5-20	899-902	You	_	
+5-21	903-906	can	_	
+5-22	907-911	view	_	
+5-23	912-917	their	_	
+5-24	918-925	website	_	
+5-25	926-928	at	_	
+5-26	929-933	http	_	
+5-27	933-934	:	_	
+5-28	934-935	/	_	
+5-29	935-936	/	_	
+5-30	936-945	wingz.com	_	
+5-31	946-948	or	_	
+5-32	949-953	find	_	
+5-33	954-958	them	_	
+5-34	959-961	on	_	
+5-35	962-969	Twitter	_	
+5-36	969-970	,	_	
+5-37	971-979	Facebook	Hard Skill	
+5-38	979-980	,	_	
+5-39	981-984	and	_	
+5-40	985-993	LinkedIn	_	
+5-41	994-1004	Proficient	_	
+5-42	1005-1009	with	_	
+5-43	1010-1016	Django	Hard Skill	
+5-44	1016-1017	,	_	
+5-45	1018-1024	Django	Hard Skill	
+5-46	1025-1029	REST	_	
+5-47	1030-1039	framework	_	
+5-48	1040-1043	and	_	
+5-49	1044-1049	MySQL	Hard Skill	
+5-50	1050-1056	Strong	_	
+5-51	1057-1070	communication	Soft Skill	
+5-52	1071-1077	skills	_	
+5-53	1078-1088	Experience	_	
+5-54	1089-1098	deploying	_	
+5-55	1098-1099	/	_	
+5-56	1099-1109	supporting	_	
+5-57	1110-1114	live	_	
+5-58	1115-1125	production	_	
+5-59	1126-1130	apps	_	
+5-60	1131-1134	and	_	
+5-61	1135-1139	REST	_	
+5-62	1140-1144	APIs	_	
+5-63	1145-1153	Building	_	
+5-64	1154-1164	enterprise	_	
+5-65	1165-1173	software	_	
+5-66	1174-1183	solutions	_	
+5-67	1184-1192	Building	_	
+5-68	1193-1201	internal	_	
+5-69	1202-1207	tools	_	
+5-70	1208-1210	to	_	
+5-71	1211-1215	help	_	
+5-72	1216-1219	our	_	
+5-73	1220-1223	TNC	_	
+5-74	1224-1234	operations	_	
+5-75	1235-1238	run	_	
+5-76	1239-1243	more	_	
+5-77	1244-1255	efficiently	_	

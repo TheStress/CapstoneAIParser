@@ -1,0 +1,222 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Our Client is a fast-growth Logistics SaaS Startup with 250 employees - seeking a Sr.
+1-1	0-3	Our	_	
+1-2	4-10	Client	_	
+1-3	11-13	is	_	
+1-4	14-15	a	_	
+1-5	16-27	fast-growth	_	
+1-6	28-37	Logistics	_	
+1-7	38-42	SaaS	_	
+1-8	43-50	Startup	_	
+1-9	51-55	with	_	
+1-10	56-59	250	_	
+1-11	60-69	employees	_	
+1-12	70-71	-	_	
+1-13	72-79	seeking	_	
+1-14	80-81	a	_	
+1-15	82-84	Sr	_	
+1-16	84-85	.	_	
+
+#Text=Android Developer for a full-time salary position.What you'll do...You will work on designing and developing new features and enhancements for existing and future mobile applications.
+2-1	86-93	Android	Hard Skill	
+2-2	94-103	Developer	_	
+2-3	104-107	for	_	
+2-4	108-109	a	_	
+2-5	110-119	full-time	_	
+2-6	120-126	salary	_	
+2-7	127-140	position.What	_	
+2-8	141-147	you'll	_	
+2-9	148-150	do	_	
+2-10	150-151	.	_	
+2-11	151-152	.	_	
+2-12	152-153	.	_	
+2-13	153-156	You	_	
+2-14	157-161	will	_	
+2-15	162-166	work	_	
+2-16	167-169	on	_	
+2-17	170-179	designing	_	
+2-18	180-183	and	_	
+2-19	184-194	developing	_	
+2-20	195-198	new	_	
+2-21	199-207	features	_	
+2-22	208-211	and	_	
+2-23	212-224	enhancements	_	
+2-24	225-228	for	_	
+2-25	229-237	existing	_	
+2-26	238-241	and	_	
+2-27	242-248	future	_	
+2-28	249-255	mobile	_	
+2-29	256-268	applications	_	
+2-30	268-269	.	_	
+
+#Text=You will play an integral role in creating great user experiences.
+3-1	270-273	You	_	
+3-2	274-278	will	_	
+3-3	279-283	play	_	
+3-4	284-286	an	_	
+3-5	287-295	integral	_	
+3-6	296-300	role	_	
+3-7	301-303	in	_	
+3-8	304-312	creating	_	
+3-9	313-318	great	_	
+3-10	319-323	user	_	
+3-11	324-335	experiences	_	
+3-12	335-336	.	_	
+
+#Text=We have exciting applications we've built in-house that run every aspect of our operations.What you'll need: 3+ years Kotlin (or Java) RESTful API Consumption Asynchronous and thread-safe code UI implementation from wireframe designs Git or similar version control Useful libraries to have experience with (RxJava, Conductor, MVI-Core, Splitties, Jetpack, Coroutines)Bonus: Unlimited vacation Health benefits Regular happy-hours and team-building events 3+ years Kotlin (or Java) RESTful API Consumption Asynchronous and thread-safe code UI implementation from wireframe designs Git or similar version control Useful libraries to have experience with (RxJava, Conductor, MVI-Core, Splitties, Jetpack, Coroutines) You will work on designing and developing new features and enhancements for existing and future mobile applications You will play an integral role in creating great user experiences Unlimited vacation Health benefits Regular happy-hours and team-building events
+4-1	337-339	We	_	
+4-2	340-344	have	_	
+4-3	345-353	exciting	_	
+4-4	354-366	applications	_	
+4-5	367-372	we've	_	
+4-6	373-378	built	_	
+4-7	379-387	in-house	_	
+4-8	388-392	that	_	
+4-9	393-396	run	_	
+4-10	397-402	every	_	
+4-11	403-409	aspect	_	
+4-12	410-412	of	_	
+4-13	413-416	our	_	
+4-14	417-432	operations.What	_	
+4-15	433-439	you'll	_	
+4-16	440-444	need	_	
+4-17	444-445	:	_	
+4-18	446-447	3	_	
+4-19	447-448	+	_	
+4-20	449-454	years	_	
+4-21	455-461	Kotlin	Hard Skill	
+4-22	462-463	(	_	
+4-23	463-465	or	_	
+4-24	466-470	Java	Hard Skill	
+4-25	470-471	)	_	
+4-26	472-479	RESTful	_	
+4-27	480-483	API	Hard Skill	
+4-28	484-495	Consumption	_	
+4-29	496-508	Asynchronous	_	
+4-30	509-512	and	_	
+4-31	513-524	thread-safe	_	
+4-32	525-529	code	_	
+4-33	530-532	UI	_	
+4-34	533-547	implementation	Hard Skill	
+4-35	548-552	from	_	
+4-36	553-562	wireframe	_	
+4-37	563-570	designs	_	
+4-38	571-574	Git	Hard Skill	
+4-39	575-577	or	_	
+4-40	578-585	similar	_	
+4-41	586-593	version	_	
+4-42	594-601	control	_	
+4-43	602-608	Useful	_	
+4-44	609-618	libraries	_	
+4-45	619-621	to	_	
+4-46	622-626	have	_	
+4-47	627-637	experience	_	
+4-48	638-642	with	_	
+4-49	643-644	(	_	
+4-50	644-650	RxJava	Hard Skill	
+4-51	650-651	,	_	
+4-52	652-661	Conductor	_	
+4-53	661-662	,	_	
+4-54	663-671	MVI-Core	_	
+4-55	671-672	,	_	
+4-56	673-682	Splitties	_	
+4-57	682-683	,	_	
+4-58	684-691	Jetpack	_	
+4-59	691-692	,	_	
+4-60	693-703	Coroutines	_	
+4-61	703-704	)	_	
+4-62	704-709	Bonus	_	
+4-63	709-710	:	_	
+4-64	711-720	Unlimited	_	
+4-65	721-729	vacation	_	
+4-66	730-736	Health	_	
+4-67	737-745	benefits	_	
+4-68	746-753	Regular	_	
+4-69	754-765	happy-hours	_	
+4-70	766-769	and	_	
+4-71	770-783	team-building	_	
+4-72	784-790	events	_	
+4-73	791-792	3	_	
+4-74	792-793	+	_	
+4-75	794-799	years	_	
+4-76	800-806	Kotlin	Hard Skill	
+4-77	807-808	(	_	
+4-78	808-810	or	_	
+4-79	811-815	Java	Hard Skill	
+4-80	815-816	)	_	
+4-81	817-824	RESTful	_	
+4-82	825-828	API	Hard Skill	
+4-83	829-840	Consumption	_	
+4-84	841-853	Asynchronous	_	
+4-85	854-857	and	_	
+4-86	858-869	thread-safe	_	
+4-87	870-874	code	_	
+4-88	875-877	UI	_	
+4-89	878-892	implementation	Hard Skill	
+4-90	893-897	from	_	
+4-91	898-907	wireframe	_	
+4-92	908-915	designs	_	
+4-93	916-919	Git	Hard Skill	
+4-94	920-922	or	_	
+4-95	923-930	similar	_	
+4-96	931-938	version	_	
+4-97	939-946	control	_	
+4-98	947-953	Useful	_	
+4-99	954-963	libraries	_	
+4-100	964-966	to	_	
+4-101	967-971	have	_	
+4-102	972-982	experience	_	
+4-103	983-987	with	_	
+4-104	988-989	(	_	
+4-105	989-995	RxJava	Hard Skill	
+4-106	995-996	,	_	
+4-107	997-1006	Conductor	_	
+4-108	1006-1007	,	_	
+4-109	1008-1016	MVI-Core	_	
+4-110	1016-1017	,	_	
+4-111	1018-1027	Splitties	_	
+4-112	1027-1028	,	_	
+4-113	1029-1036	Jetpack	_	
+4-114	1036-1037	,	_	
+4-115	1038-1048	Coroutines	_	
+4-116	1048-1049	)	_	
+4-117	1050-1053	You	_	
+4-118	1054-1058	will	_	
+4-119	1059-1063	work	_	
+4-120	1064-1066	on	_	
+4-121	1067-1076	designing	_	
+4-122	1077-1080	and	_	
+4-123	1081-1091	developing	_	
+4-124	1092-1095	new	_	
+4-125	1096-1104	features	_	
+4-126	1105-1108	and	_	
+4-127	1109-1121	enhancements	_	
+4-128	1122-1125	for	_	
+4-129	1126-1134	existing	_	
+4-130	1135-1138	and	_	
+4-131	1139-1145	future	_	
+4-132	1146-1152	mobile	_	
+4-133	1153-1165	applications	_	
+4-134	1166-1169	You	_	
+4-135	1170-1174	will	_	
+4-136	1175-1179	play	_	
+4-137	1180-1182	an	_	
+4-138	1183-1191	integral	_	
+4-139	1192-1196	role	_	
+4-140	1197-1199	in	_	
+4-141	1200-1208	creating	_	
+4-142	1209-1214	great	_	
+4-143	1215-1219	user	_	
+4-144	1220-1231	experiences	_	
+4-145	1232-1241	Unlimited	_	
+4-146	1242-1250	vacation	_	
+4-147	1251-1257	Health	_	
+4-148	1258-1266	benefits	_	
+4-149	1267-1274	Regular	_	
+4-150	1275-1286	happy-hours	_	
+4-151	1287-1290	and	_	
+4-152	1291-1304	team-building	_	
+4-153	1305-1311	events	_	

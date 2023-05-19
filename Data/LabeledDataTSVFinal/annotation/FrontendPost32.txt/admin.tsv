@@ -1,0 +1,534 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Front End Web Developer - SeniorGlobal Hospitality Company6 months / full remote...$68 - $72POSITION RESPONSIBILITIES: Responsible for building 'client-side' web application development.
+1-1	0-5	Front	_	
+1-2	6-9	End	_	
+1-3	10-13	Web	_	
+1-4	14-23	Developer	_	
+1-5	24-25	-	_	
+1-6	26-38	SeniorGlobal	_	
+1-7	39-50	Hospitality	_	
+1-8	51-59	Company6	_	
+1-9	60-66	months	_	
+1-10	67-68	/	_	
+1-11	69-73	full	_	
+1-12	74-80	remote	_	
+1-13	80-81	.	_	
+1-14	81-82	.	_	
+1-15	82-83	.	_	
+1-16	83-86	$68	_	
+1-17	87-88	-	_	
+1-18	89-100	$72POSITION	_	
+1-19	101-117	RESPONSIBILITIES	_	
+1-20	117-118	:	_	
+1-21	119-130	Responsible	_	
+1-22	131-134	for	_	
+1-23	135-143	building	_	
+1-24	144-145	'	_	
+1-25	145-156	client-side	_	
+1-26	156-157	'	_	
+1-27	158-161	web	_	
+1-28	162-173	application	_	
+1-29	174-185	development	_	
+1-30	185-186	.	_	
+
+#Text=Translate our company and customer needs into functional and appealing interactive applications.
+2-1	187-196	Translate	_	
+2-2	197-200	our	_	
+2-3	201-208	company	_	
+2-4	209-212	and	_	
+2-5	213-221	customer	_	
+2-6	222-227	needs	_	
+2-7	228-232	into	_	
+2-8	233-243	functional	_	
+2-9	244-247	and	_	
+2-10	248-257	appealing	_	
+2-11	258-269	interactive	_	
+2-12	270-282	applications	_	
+2-13	282-283	.	_	
+
+#Text=Use markup languages like HTML, CSS, and JavaScript to create user-friendly cross-browser / cross-platform web applications.
+3-1	284-287	Use	_	
+3-2	288-294	markup	_	
+3-3	295-304	languages	_	
+3-4	305-309	like	_	
+3-5	310-314	HTML	Hard Skill	
+3-6	314-315	,	_	
+3-7	316-319	CSS	Hard Skill	
+3-8	319-320	,	_	
+3-9	321-324	and	_	
+3-10	325-335	JavaScript	Hard Skill	
+3-11	336-338	to	_	
+3-12	339-345	create	_	
+3-13	346-359	user-friendly	_	
+3-14	360-373	cross-browser	_	
+3-15	374-375	/	_	
+3-16	376-390	cross-platform	_	
+3-17	391-394	web	_	
+3-18	395-407	applications	_	
+3-19	407-408	.	_	
+
+#Text=Optimize applications for maximum speed.
+4-1	409-417	Optimize	Hard Skill	
+4-2	418-430	applications	_	
+4-3	431-434	for	_	
+4-4	435-442	maximum	_	
+4-5	443-448	speed	_	
+4-6	448-449	.	_	
+
+#Text=Design and implement responsive features.
+5-1	450-456	Design	Hard Skill	
+5-2	457-460	and	_	
+5-3	461-470	implement	_	
+5-4	471-481	responsive	_	
+5-5	482-490	features	_	
+5-6	490-491	.	_	
+
+#Text=Collaborate with back-end developers and web designers to improve usability and meet product stakeholder requirements.
+6-1	492-503	Collaborate	Soft Skill	
+6-2	504-508	with	_	
+6-3	509-517	back-end	_	
+6-4	518-528	developers	_	
+6-5	529-532	and	_	
+6-6	533-536	web	_	
+6-7	537-546	designers	_	
+6-8	547-549	to	_	
+6-9	550-557	improve	_	
+6-10	558-567	usability	_	
+6-11	568-571	and	_	
+6-12	572-576	meet	_	
+6-13	577-584	product	_	
+6-14	585-596	stakeholder	_	
+6-15	597-609	requirements	_	
+6-16	609-610	.	_	
+
+#Text=Create quality mockups and prototypes as needed.
+7-1	611-617	Create	_	
+7-2	618-625	quality	_	
+7-3	626-633	mockups	_	
+7-4	634-637	and	_	
+7-5	638-648	prototypes	_	
+7-6	649-651	as	_	
+7-7	652-658	needed	_	
+7-8	658-659	.	_	
+
+#Text=Help back-end developers with coding and troubleshooting.
+8-1	660-664	Help	_	
+8-2	665-673	back-end	_	
+8-3	674-684	developers	_	
+8-4	685-689	with	_	
+8-5	690-696	coding	Hard Skill	
+8-6	697-700	and	_	
+8-7	701-716	troubleshooting	Hard Skill	
+8-8	716-717	.	_	
+
+#Text=Ensure high quality graphic standards and brand consistency.
+9-1	718-724	Ensure	_	
+9-2	725-729	high	_	
+9-3	730-737	quality	_	
+9-4	738-745	graphic	_	
+9-5	746-755	standards	_	
+9-6	756-759	and	_	
+9-7	760-765	brand	_	
+9-8	766-777	consistency	_	
+9-9	777-778	.	_	
+
+#Text=Stay up-to-date on emerging technologies.EXPERIENCE AND QUALIFICATIONS: 8+ years experience Proven work experience as a Front-end developer Hands on experience with markup languages Hands on experience with JavaScript, CSS and jQuery Familiarity with cross-browser, cross-platform testing and debugging In-depth understanding of the entire web development process (design, development and deployment) Understanding of layout aesthetics Knowledge of SEO principles Familiarity with software like Adobe Suite, Photoshop and content management systems An ability to perform well in a fast-paced environment Strong sense of ownership and accountability with a commitment to delivering quality outcomes that balance technical and business goals Broad web and digital knowledge, an aptitude for troubleshooting and problem solving as well as mentoring/guiding other members of the team Excellent written and verbal communication skills Ability to establish goals and set clear expectations, prioritize activities, and follow through to completion#PCIT #Hospitality #LI-Remote 8+ years experience Proven work experience as a Front-end developer Hands on experience with markup languages Hands on experience with JavaScript, CSS and jQuery Familiarity with cross-browser, cross-platform testing and debugging In-depth understanding of the entire web development process (design, development and deployment) Understanding of layout aesthetics Knowledge of SEO principles Familiarity with software like Adobe Suite, Photoshop and content management systems An ability to perform well in a fast-paced environment Strong sense of ownership and accountability with a commitment to delivering quality outcomes that balance technical and business goals Broad web and digital knowledge, an aptitude for troubleshooting and problem solving as well as mentoring/guiding other members of the team Excellent written and verbal communication skills Ability to establish goals and set clear expectations, prioritize activities, and follow through to completion Responsible for building 'client-side' web application development Translate our company and customer needs into functional and appealing interactive applications Use markup languages like HTML, CSS, and JavaScript to create user-friendly cross-browser / cross-platform web applications Optimize applications for maximum speed Design and implement responsive features Collaborate with back-end developers and web designers to improve usability and meet product stakeholder requirements Create quality mockups and prototypes as needed Help back-end developers with coding and troubleshooting Ensure high quality graphic standards and brand consistency Stay up-to-date on emerging technologies $68 - $72
+10-1	779-783	Stay	_	
+10-2	784-794	up-to-date	_	
+10-3	795-797	on	_	
+10-4	798-806	emerging	_	
+10-5	807-830	technologies.EXPERIENCE	_	
+10-6	831-834	AND	_	
+10-7	835-849	QUALIFICATIONS	_	
+10-8	849-850	:	_	
+10-9	851-852	8	_	
+10-10	852-853	+	_	
+10-11	854-859	years	_	
+10-12	860-870	experience	_	
+10-13	871-877	Proven	_	
+10-14	878-882	work	_	
+10-15	883-893	experience	_	
+10-16	894-896	as	_	
+10-17	897-898	a	_	
+10-18	899-908	Front-end	_	
+10-19	909-918	developer	_	
+10-20	919-924	Hands	_	
+10-21	925-927	on	_	
+10-22	928-938	experience	_	
+10-23	939-943	with	_	
+10-24	944-950	markup	_	
+10-25	951-960	languages	_	
+10-26	961-966	Hands	_	
+10-27	967-969	on	_	
+10-28	970-980	experience	_	
+10-29	981-985	with	_	
+10-30	986-996	JavaScript	Hard Skill	
+10-31	996-997	,	_	
+10-32	998-1001	CSS	Hard Skill	
+10-33	1002-1005	and	_	
+10-34	1006-1012	jQuery	Hard Skill	
+10-35	1013-1024	Familiarity	_	
+10-36	1025-1029	with	_	
+10-37	1030-1043	cross-browser	_	
+10-38	1043-1044	,	_	
+10-39	1045-1059	cross-platform	_	
+10-40	1060-1067	testing	_	
+10-41	1068-1071	and	_	
+10-42	1072-1081	debugging	Hard Skill	
+10-43	1082-1090	In-depth	_	
+10-44	1091-1104	understanding	_	
+10-45	1105-1107	of	_	
+10-46	1108-1111	the	_	
+10-47	1112-1118	entire	_	
+10-48	1119-1122	web	_	
+10-49	1123-1134	development	_	
+10-50	1135-1142	process	_	
+10-51	1143-1144	(	_	
+10-52	1144-1150	design	Hard Skill	
+10-53	1150-1151	,	_	
+10-54	1152-1163	development	_	
+10-55	1164-1167	and	_	
+10-56	1168-1178	deployment	_	
+10-57	1178-1179	)	_	
+10-58	1180-1193	Understanding	_	
+10-59	1194-1196	of	_	
+10-60	1197-1203	layout	_	
+10-61	1204-1214	aesthetics	_	
+10-62	1215-1224	Knowledge	_	
+10-63	1225-1227	of	_	
+10-64	1228-1231	SEO	_	
+10-65	1232-1242	principles	_	
+10-66	1243-1254	Familiarity	_	
+10-67	1255-1259	with	_	
+10-68	1260-1268	software	_	
+10-69	1269-1273	like	_	
+10-70	1274-1279	Adobe	_	
+10-71	1280-1285	Suite	_	
+10-72	1285-1286	,	_	
+10-73	1287-1296	Photoshop	_	
+10-74	1297-1300	and	_	
+10-75	1301-1308	content	_	
+10-76	1309-1319	management	_	
+10-77	1320-1327	systems	_	
+10-78	1328-1330	An	_	
+10-79	1331-1338	ability	_	
+10-80	1339-1341	to	_	
+10-81	1342-1349	perform	_	
+10-82	1350-1354	well	_	
+10-83	1355-1357	in	_	
+10-84	1358-1359	a	_	
+10-85	1360-1370	fast-paced	_	
+10-86	1371-1382	environment	_	
+10-87	1383-1389	Strong	_	
+10-88	1390-1395	sense	_	
+10-89	1396-1398	of	_	
+10-90	1399-1408	ownership	_	
+10-91	1409-1412	and	_	
+10-92	1413-1427	accountability	_	
+10-93	1428-1432	with	_	
+10-94	1433-1434	a	_	
+10-95	1435-1445	commitment	_	
+10-96	1446-1448	to	_	
+10-97	1449-1459	delivering	_	
+10-98	1460-1467	quality	_	
+10-99	1468-1476	outcomes	_	
+10-100	1477-1481	that	_	
+10-101	1482-1489	balance	_	
+10-102	1490-1499	technical	_	
+10-103	1500-1503	and	_	
+10-104	1504-1512	business	_	
+10-105	1513-1518	goals	_	
+10-106	1519-1524	Broad	_	
+10-107	1525-1528	web	_	
+10-108	1529-1532	and	_	
+10-109	1533-1540	digital	_	
+10-110	1541-1550	knowledge	_	
+10-111	1550-1551	,	_	
+10-112	1552-1554	an	_	
+10-113	1555-1563	aptitude	_	
+10-114	1564-1567	for	_	
+10-115	1568-1583	troubleshooting	Hard Skill	
+10-116	1584-1587	and	_	
+10-117	1588-1595	problem	_	
+10-118	1596-1603	solving	_	
+10-119	1604-1606	as	_	
+10-120	1607-1611	well	_	
+10-121	1612-1614	as	_	
+10-122	1615-1624	mentoring	_	
+10-123	1624-1625	/	_	
+10-124	1625-1632	guiding	_	
+10-125	1633-1638	other	_	
+10-126	1639-1646	members	_	
+10-127	1647-1649	of	_	
+10-128	1650-1653	the	_	
+10-129	1654-1658	team	_	
+10-130	1659-1668	Excellent	_	
+10-131	1669-1676	written	_	
+10-132	1677-1680	and	_	
+10-133	1681-1687	verbal	_	
+10-134	1688-1701	communication	Soft Skill	
+10-135	1702-1708	skills	_	
+10-136	1709-1716	Ability	_	
+10-137	1717-1719	to	_	
+10-138	1720-1729	establish	_	
+10-139	1730-1735	goals	_	
+10-140	1736-1739	and	_	
+10-141	1740-1743	set	_	
+10-142	1744-1749	clear	_	
+10-143	1750-1762	expectations	_	
+10-144	1762-1763	,	_	
+10-145	1764-1774	prioritize	_	
+10-146	1775-1785	activities	_	
+10-147	1785-1786	,	_	
+10-148	1787-1790	and	_	
+10-149	1791-1797	follow	_	
+10-150	1798-1805	through	_	
+10-151	1806-1808	to	_	
+10-152	1809-1819	completion	_	
+10-153	1819-1820	#	_	
+10-154	1820-1824	PCIT	_	
+10-155	1825-1826	#	_	
+10-156	1826-1837	Hospitality	_	
+10-157	1838-1839	#	_	
+10-158	1839-1848	LI-Remote	_	
+10-159	1849-1850	8	_	
+10-160	1850-1851	+	_	
+10-161	1852-1857	years	_	
+10-162	1858-1868	experience	_	
+10-163	1869-1875	Proven	_	
+10-164	1876-1880	work	_	
+10-165	1881-1891	experience	_	
+10-166	1892-1894	as	_	
+10-167	1895-1896	a	_	
+10-168	1897-1906	Front-end	_	
+10-169	1907-1916	developer	_	
+10-170	1917-1922	Hands	_	
+10-171	1923-1925	on	_	
+10-172	1926-1936	experience	_	
+10-173	1937-1941	with	_	
+10-174	1942-1948	markup	_	
+10-175	1949-1958	languages	_	
+10-176	1959-1964	Hands	_	
+10-177	1965-1967	on	_	
+10-178	1968-1978	experience	_	
+10-179	1979-1983	with	_	
+10-180	1984-1994	JavaScript	Hard Skill	
+10-181	1994-1995	,	_	
+10-182	1996-1999	CSS	Hard Skill	
+10-183	2000-2003	and	_	
+10-184	2004-2010	jQuery	Hard Skill	
+10-185	2011-2022	Familiarity	_	
+10-186	2023-2027	with	_	
+10-187	2028-2041	cross-browser	_	
+10-188	2041-2042	,	_	
+10-189	2043-2057	cross-platform	_	
+10-190	2058-2065	testing	_	
+10-191	2066-2069	and	_	
+10-192	2070-2079	debugging	Hard Skill	
+10-193	2080-2088	In-depth	_	
+10-194	2089-2102	understanding	_	
+10-195	2103-2105	of	_	
+10-196	2106-2109	the	_	
+10-197	2110-2116	entire	_	
+10-198	2117-2120	web	_	
+10-199	2121-2132	development	_	
+10-200	2133-2140	process	_	
+10-201	2141-2142	(	_	
+10-202	2142-2148	design	Hard Skill	
+10-203	2148-2149	,	_	
+10-204	2150-2161	development	_	
+10-205	2162-2165	and	_	
+10-206	2166-2176	deployment	_	
+10-207	2176-2177	)	_	
+10-208	2178-2191	Understanding	_	
+10-209	2192-2194	of	_	
+10-210	2195-2201	layout	_	
+10-211	2202-2212	aesthetics	_	
+10-212	2213-2222	Knowledge	_	
+10-213	2223-2225	of	_	
+10-214	2226-2229	SEO	_	
+10-215	2230-2240	principles	_	
+10-216	2241-2252	Familiarity	_	
+10-217	2253-2257	with	_	
+10-218	2258-2266	software	_	
+10-219	2267-2271	like	_	
+10-220	2272-2277	Adobe	_	
+10-221	2278-2283	Suite	_	
+10-222	2283-2284	,	_	
+10-223	2285-2294	Photoshop	_	
+10-224	2295-2298	and	_	
+10-225	2299-2306	content	_	
+10-226	2307-2317	management	_	
+10-227	2318-2325	systems	_	
+10-228	2326-2328	An	_	
+10-229	2329-2336	ability	_	
+10-230	2337-2339	to	_	
+10-231	2340-2347	perform	_	
+10-232	2348-2352	well	_	
+10-233	2353-2355	in	_	
+10-234	2356-2357	a	_	
+10-235	2358-2368	fast-paced	_	
+10-236	2369-2380	environment	_	
+10-237	2381-2387	Strong	_	
+10-238	2388-2393	sense	_	
+10-239	2394-2396	of	_	
+10-240	2397-2406	ownership	_	
+10-241	2407-2410	and	_	
+10-242	2411-2425	accountability	_	
+10-243	2426-2430	with	_	
+10-244	2431-2432	a	_	
+10-245	2433-2443	commitment	_	
+10-246	2444-2446	to	_	
+10-247	2447-2457	delivering	_	
+10-248	2458-2465	quality	_	
+10-249	2466-2474	outcomes	_	
+10-250	2475-2479	that	_	
+10-251	2480-2487	balance	_	
+10-252	2488-2497	technical	_	
+10-253	2498-2501	and	_	
+10-254	2502-2510	business	_	
+10-255	2511-2516	goals	_	
+10-256	2517-2522	Broad	_	
+10-257	2523-2526	web	_	
+10-258	2527-2530	and	_	
+10-259	2531-2538	digital	_	
+10-260	2539-2548	knowledge	_	
+10-261	2548-2549	,	_	
+10-262	2550-2552	an	_	
+10-263	2553-2561	aptitude	_	
+10-264	2562-2565	for	_	
+10-265	2566-2581	troubleshooting	Hard Skill	
+10-266	2582-2585	and	_	
+10-267	2586-2593	problem	_	
+10-268	2594-2601	solving	_	
+10-269	2602-2604	as	_	
+10-270	2605-2609	well	_	
+10-271	2610-2612	as	_	
+10-272	2613-2622	mentoring	_	
+10-273	2622-2623	/	_	
+10-274	2623-2630	guiding	_	
+10-275	2631-2636	other	_	
+10-276	2637-2644	members	_	
+10-277	2645-2647	of	_	
+10-278	2648-2651	the	_	
+10-279	2652-2656	team	_	
+10-280	2657-2666	Excellent	_	
+10-281	2667-2674	written	_	
+10-282	2675-2678	and	_	
+10-283	2679-2685	verbal	_	
+10-284	2686-2699	communication	Soft Skill	
+10-285	2700-2706	skills	_	
+10-286	2707-2714	Ability	_	
+10-287	2715-2717	to	_	
+10-288	2718-2727	establish	_	
+10-289	2728-2733	goals	_	
+10-290	2734-2737	and	_	
+10-291	2738-2741	set	_	
+10-292	2742-2747	clear	_	
+10-293	2748-2760	expectations	_	
+10-294	2760-2761	,	_	
+10-295	2762-2772	prioritize	_	
+10-296	2773-2783	activities	_	
+10-297	2783-2784	,	_	
+10-298	2785-2788	and	_	
+10-299	2789-2795	follow	_	
+10-300	2796-2803	through	_	
+10-301	2804-2806	to	_	
+10-302	2807-2817	completion	_	
+10-303	2818-2829	Responsible	_	
+10-304	2830-2833	for	_	
+10-305	2834-2842	building	_	
+10-306	2843-2844	'	_	
+10-307	2844-2855	client-side	_	
+10-308	2855-2856	'	_	
+10-309	2857-2860	web	_	
+10-310	2861-2872	application	_	
+10-311	2873-2884	development	_	
+10-312	2885-2894	Translate	_	
+10-313	2895-2898	our	_	
+10-314	2899-2906	company	_	
+10-315	2907-2910	and	_	
+10-316	2911-2919	customer	_	
+10-317	2920-2925	needs	_	
+10-318	2926-2930	into	_	
+10-319	2931-2941	functional	_	
+10-320	2942-2945	and	_	
+10-321	2946-2955	appealing	_	
+10-322	2956-2967	interactive	_	
+10-323	2968-2980	applications	_	
+10-324	2981-2984	Use	_	
+10-325	2985-2991	markup	_	
+10-326	2992-3001	languages	_	
+10-327	3002-3006	like	_	
+10-328	3007-3011	HTML	Hard Skill	
+10-329	3011-3012	,	_	
+10-330	3013-3016	CSS	Hard Skill	
+10-331	3016-3017	,	_	
+10-332	3018-3021	and	_	
+10-333	3022-3032	JavaScript	Hard Skill	
+10-334	3033-3035	to	_	
+10-335	3036-3042	create	_	
+10-336	3043-3056	user-friendly	_	
+10-337	3057-3070	cross-browser	_	
+10-338	3071-3072	/	_	
+10-339	3073-3087	cross-platform	_	
+10-340	3088-3091	web	_	
+10-341	3092-3104	applications	_	
+10-342	3105-3113	Optimize	Hard Skill	
+10-343	3114-3126	applications	_	
+10-344	3127-3130	for	_	
+10-345	3131-3138	maximum	_	
+10-346	3139-3144	speed	_	
+10-347	3145-3151	Design	Hard Skill	
+10-348	3152-3155	and	_	
+10-349	3156-3165	implement	_	
+10-350	3166-3176	responsive	_	
+10-351	3177-3185	features	_	
+10-352	3186-3197	Collaborate	Soft Skill	
+10-353	3198-3202	with	_	
+10-354	3203-3211	back-end	_	
+10-355	3212-3222	developers	_	
+10-356	3223-3226	and	_	
+10-357	3227-3230	web	_	
+10-358	3231-3240	designers	_	
+10-359	3241-3243	to	_	
+10-360	3244-3251	improve	_	
+10-361	3252-3261	usability	_	
+10-362	3262-3265	and	_	
+10-363	3266-3270	meet	_	
+10-364	3271-3278	product	_	
+10-365	3279-3290	stakeholder	_	
+10-366	3291-3303	requirements	_	
+10-367	3304-3310	Create	_	
+10-368	3311-3318	quality	_	
+10-369	3319-3326	mockups	_	
+10-370	3327-3330	and	_	
+10-371	3331-3341	prototypes	_	
+10-372	3342-3344	as	_	
+10-373	3345-3351	needed	_	
+10-374	3352-3356	Help	_	
+10-375	3357-3365	back-end	_	
+10-376	3366-3376	developers	_	
+10-377	3377-3381	with	_	
+10-378	3382-3388	coding	Hard Skill	
+10-379	3389-3392	and	_	
+10-380	3393-3408	troubleshooting	Hard Skill	
+10-381	3409-3415	Ensure	_	
+10-382	3416-3420	high	_	
+10-383	3421-3428	quality	_	
+10-384	3429-3436	graphic	_	
+10-385	3437-3446	standards	_	
+10-386	3447-3450	and	_	
+10-387	3451-3456	brand	_	
+10-388	3457-3468	consistency	_	
+10-389	3469-3473	Stay	_	
+10-390	3474-3484	up-to-date	_	
+10-391	3485-3487	on	_	
+10-392	3488-3496	emerging	_	
+10-393	3497-3509	technologies	_	
+10-394	3510-3513	$68	_	
+10-395	3514-3515	-	_	
+10-396	3516-3519	$72	_	

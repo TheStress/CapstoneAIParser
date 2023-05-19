@@ -1,0 +1,173 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Design and build applications for the iOS platform.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-24	Design	Hard Skill	
+1-4	25-28	and	_	
+1-5	29-34	build	_	
+1-6	35-47	applications	_	
+1-7	48-51	for	_	
+1-8	52-55	the	_	
+1-9	56-59	iOS	_	
+1-10	60-68	platform	_	
+1-11	68-69	.	_	
+
+#Text=Ensure the performance, quality, and responsiveness of applications.
+2-1	70-76	Ensure	_	
+2-2	77-80	the	_	
+2-3	81-92	performance	_	
+2-4	92-93	,	_	
+2-5	94-101	quality	_	
+2-6	101-102	,	_	
+2-7	103-106	and	_	
+2-8	107-121	responsiveness	_	
+2-9	122-124	of	_	
+2-10	125-137	applications	_	
+2-11	137-138	.	_	
+
+#Text=Collaborate with a team to define, design, and ship new features.
+3-1	139-150	Collaborate	_	
+3-2	151-155	with	_	
+3-3	156-157	a	_	
+3-4	158-162	team	_	
+3-5	163-165	to	_	
+3-6	166-172	define	_	
+3-7	172-173	,	_	
+3-8	174-180	design	Hard Skill	
+3-9	180-181	,	_	
+3-10	182-185	and	_	
+3-11	186-190	ship	_	
+3-12	191-194	new	_	
+3-13	195-203	features	_	
+3-14	203-204	.	_	
+
+#Text=Identify and correct bottlenecks and fix bugs.
+4-1	205-213	Identify	_	
+4-2	214-217	and	_	
+4-3	218-225	correct	_	
+4-4	226-237	bottlenecks	_	
+4-5	238-241	and	_	
+4-6	242-245	fix	_	
+4-7	246-250	bugs	_	
+4-8	250-251	.	_	
+
+#Text=Help maintain code quality, organisation, and automatisation.
+5-1	252-256	Help	_	
+5-2	257-265	maintain	_	
+5-3	266-270	code	_	
+5-4	271-278	quality	_	
+5-5	278-279	,	_	
+5-6	280-292	organisation	_	
+5-7	292-293	,	_	
+5-8	294-297	and	_	
+5-9	298-312	automatisation	_	
+5-10	312-313	.	_	
+
+#Text=Customising software for client use with the aim of optimising operational... efficiency.Key Skills: Basic syntax.
+6-1	314-325	Customising	_	
+6-2	326-334	software	_	
+6-3	335-338	for	_	
+6-4	339-345	client	_	
+6-5	346-349	use	_	
+6-6	350-354	with	_	
+6-7	355-358	the	_	
+6-8	359-362	aim	_	
+6-9	363-365	of	_	
+6-10	366-376	optimising	_	
+6-11	377-388	operational	_	
+6-12	388-389	.	_	
+6-13	389-390	.	_	
+6-14	390-391	.	_	
+6-15	392-406	efficiency.Key	_	
+6-16	407-413	Skills	_	
+6-17	413-414	:	_	
+6-18	415-420	Basic	_	
+6-19	421-427	syntax	_	
+6-20	427-428	.	_	
+
+#Text=Optionals.
+7-1	429-438	Optionals	_	
+7-2	438-439	.	_	
+
+#Text=Classes, inheritance & initialization.
+8-1	440-447	Classes	_	
+8-2	447-448	,	_	
+8-3	449-460	inheritance	_	
+8-4	461-462	&	_	
+8-5	463-477	initialization	_	
+8-6	477-478	.	_	
+
+#Text=Error handling.
+9-1	479-484	Error	_	
+9-2	485-493	handling	_	
+9-3	493-494	.	_	
+
+#Text=Objective-C Interoperability Objective-C Interoperability Responsibilities: Design and build applications for the iOS platform Ensure the performance, quality, and responsiveness of applications Collaborate with a team to define, design, and ship new features Identify and correct bottlenecks and fix bugs Help maintain code quality, organisation, and automatisation Customising software for client use with the aim of optimising operational efficiency
+10-1	495-506	Objective-C	_	
+10-2	507-523	Interoperability	_	
+10-3	524-535	Objective-C	_	
+10-4	536-552	Interoperability	_	
+10-5	553-569	Responsibilities	_	
+10-6	569-570	:	_	
+10-7	571-577	Design	Hard Skill	
+10-8	578-581	and	_	
+10-9	582-587	build	_	
+10-10	588-600	applications	_	
+10-11	601-604	for	_	
+10-12	605-608	the	_	
+10-13	609-612	iOS	_	
+10-14	613-621	platform	_	
+10-15	622-628	Ensure	_	
+10-16	629-632	the	_	
+10-17	633-644	performance	_	
+10-18	644-645	,	_	
+10-19	646-653	quality	_	
+10-20	653-654	,	_	
+10-21	655-658	and	_	
+10-22	659-673	responsiveness	_	
+10-23	674-676	of	_	
+10-24	677-689	applications	_	
+10-25	690-701	Collaborate	_	
+10-26	702-706	with	_	
+10-27	707-708	a	_	
+10-28	709-713	team	_	
+10-29	714-716	to	_	
+10-30	717-723	define	_	
+10-31	723-724	,	_	
+10-32	725-731	design	Hard Skill	
+10-33	731-732	,	_	
+10-34	733-736	and	_	
+10-35	737-741	ship	_	
+10-36	742-745	new	_	
+10-37	746-754	features	_	
+10-38	755-763	Identify	_	
+10-39	764-767	and	_	
+10-40	768-775	correct	_	
+10-41	776-787	bottlenecks	_	
+10-42	788-791	and	_	
+10-43	792-795	fix	_	
+10-44	796-800	bugs	_	
+10-45	801-805	Help	_	
+10-46	806-814	maintain	_	
+10-47	815-819	code	_	
+10-48	820-827	quality	_	
+10-49	827-828	,	_	
+10-50	829-841	organisation	_	
+10-51	841-842	,	_	
+10-52	843-846	and	_	
+10-53	847-861	automatisation	_	
+10-54	862-873	Customising	_	
+10-55	874-882	software	_	
+10-56	883-886	for	_	
+10-57	887-893	client	_	
+10-58	894-897	use	_	
+10-59	898-902	with	_	
+10-60	903-906	the	_	
+10-61	907-910	aim	_	
+10-62	911-913	of	_	
+10-63	914-924	optimising	_	
+10-64	925-936	operational	_	
+10-65	937-947	efficiency	_	

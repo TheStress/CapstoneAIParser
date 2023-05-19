@@ -1,0 +1,273 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Front-end Developer for d-cloud.io Web Platform (Contract)Description: We are looking for an experienced Front-end Developer to join our team at d-cloud.io and work on our innovative web platform powered by Ark.
+1-1	0-9	Front-end	_	
+1-2	10-19	Developer	_	
+1-3	20-23	for	_	
+1-4	24-34	d-cloud.io	_	
+1-5	35-38	Web	_	
+1-6	39-47	Platform	_	
+1-7	48-49	(	_	
+1-8	49-57	Contract	_	
+1-9	57-58	)	_	
+1-10	58-69	Description	_	
+1-11	69-70	:	_	
+1-12	71-73	We	_	
+1-13	74-77	are	_	
+1-14	78-85	looking	_	
+1-15	86-89	for	_	
+1-16	90-92	an	_	
+1-17	93-104	experienced	_	
+1-18	105-114	Front-end	_	
+1-19	115-124	Developer	_	
+1-20	125-127	to	_	
+1-21	128-132	join	_	
+1-22	133-136	our	_	
+1-23	137-141	team	_	
+1-24	142-144	at	_	
+1-25	145-155	d-cloud.io	_	
+1-26	156-159	and	_	
+1-27	160-164	work	_	
+1-28	165-167	on	_	
+1-29	168-171	our	_	
+1-30	172-182	innovative	_	
+1-31	183-186	web	_	
+1-32	187-195	platform	_	
+1-33	196-203	powered	_	
+1-34	204-206	by	_	
+1-35	207-210	Ark	_	
+1-36	210-211	.	_	
+
+#Text=The ideal candidate should have a strong background in HTML, CSS, and JavaScript, along with experience working with modern front-end frameworks such as React or...
+2-1	212-215	The	_	
+2-2	216-221	ideal	_	
+2-3	222-231	candidate	_	
+2-4	232-238	should	_	
+2-5	239-243	have	_	
+2-6	244-245	a	_	
+2-7	246-252	strong	_	
+2-8	253-263	background	_	
+2-9	264-266	in	_	
+2-10	267-271	HTML	Hard Skill	
+2-11	271-272	,	_	
+2-12	273-276	CSS	Hard Skill	
+2-13	276-277	,	_	
+2-14	278-281	and	_	
+2-15	282-292	JavaScript	Hard Skill	
+2-16	292-293	,	_	
+2-17	294-299	along	_	
+2-18	300-304	with	_	
+2-19	305-315	experience	_	
+2-20	316-323	working	_	
+2-21	324-328	with	_	
+2-22	329-335	modern	_	
+2-23	336-345	front-end	_	
+2-24	346-356	frameworks	_	
+2-25	357-361	such	_	
+2-26	362-364	as	_	
+2-27	365-370	React	Hard Skill	
+2-28	371-373	or	_	
+2-29	373-374	.	_	
+2-30	374-375	.	_	
+2-31	375-376	.	_	
+
+#Text=Angular.Responsibilities:Develop user interfaces for d-cloud.io web platform Collaborate with product managers and designers to create seamless user experiences Write clean, reusable, and efficient code Ensure cross-browser compatibility and responsiveness Provide technical support and address any issues that ariseRequirements: 3+ years of experience in front-end web development Proficient in HTML, CSS, and JavaScript Experience with modern front-end frameworks (e.g., React, Angular) Strong understanding of web design principles and best practices Excellent communication and problem-solving skills Familiarity with Ark or similar programming languages is a plus The ideal candidate should have a strong background in HTML, CSS, and JavaScript, along with experience working with modern front-end frameworks such as React or Angular 3+ years of experience in front-end web development Proficient in HTML, CSS, and JavaScript Strong understanding of web design principles and best practices Excellent communication and problem-solving skills Develop user interfaces for d-cloud.io web platform Collaborate with product managers and designers to create seamless user experiences Write clean, reusable, and efficient code Ensure cross-browser compatibility and responsiveness Provide technical support and address any issues that arise
+3-1	377-401	Angular.Responsibilities	_	
+3-2	401-402	:	_	
+3-3	402-409	Develop	_	
+3-4	410-414	user	_	
+3-5	415-425	interfaces	_	
+3-6	426-429	for	_	
+3-7	430-440	d-cloud.io	_	
+3-8	441-444	web	_	
+3-9	445-453	platform	_	
+3-10	454-465	Collaborate	Soft Skill	
+3-11	466-470	with	_	
+3-12	471-478	product	_	
+3-13	479-487	managers	_	
+3-14	488-491	and	_	
+3-15	492-501	designers	_	
+3-16	502-504	to	_	
+3-17	505-511	create	_	
+3-18	512-520	seamless	_	
+3-19	521-525	user	_	
+3-20	526-537	experiences	_	
+3-21	538-543	Write	_	
+3-22	544-549	clean	_	
+3-23	549-550	,	_	
+3-24	551-559	reusable	_	
+3-25	559-560	,	_	
+3-26	561-564	and	_	
+3-27	565-574	efficient	_	
+3-28	575-579	code	_	
+3-29	580-586	Ensure	_	
+3-30	587-600	cross-browser	_	
+3-31	601-614	compatibility	_	
+3-32	615-618	and	_	
+3-33	619-633	responsiveness	_	
+3-34	634-641	Provide	_	
+3-35	642-651	technical	_	
+3-36	652-659	support	_	
+3-37	660-663	and	_	
+3-38	664-671	address	_	
+3-39	672-675	any	_	
+3-40	676-682	issues	_	
+3-41	683-687	that	_	
+3-42	688-705	ariseRequirements	_	
+3-43	705-706	:	_	
+3-44	707-708	3	_	
+3-45	708-709	+	_	
+3-46	710-715	years	_	
+3-47	716-718	of	_	
+3-48	719-729	experience	_	
+3-49	730-732	in	_	
+3-50	733-742	front-end	_	
+3-51	743-746	web	_	
+3-52	747-758	development	_	
+3-53	759-769	Proficient	_	
+3-54	770-772	in	_	
+3-55	773-777	HTML	Hard Skill	
+3-56	777-778	,	_	
+3-57	779-782	CSS	Hard Skill	
+3-58	782-783	,	_	
+3-59	784-787	and	_	
+3-60	788-798	JavaScript	Hard Skill	
+3-61	799-809	Experience	_	
+3-62	810-814	with	_	
+3-63	815-821	modern	_	
+3-64	822-831	front-end	_	
+3-65	832-842	frameworks	_	
+3-66	843-844	(	_	
+3-67	844-847	e.g	_	
+3-68	847-848	.	_	
+3-69	848-849	,	_	
+3-70	850-855	React	Hard Skill	
+3-71	855-856	,	_	
+3-72	857-864	Angular	Hard Skill	
+3-73	864-865	)	_	
+3-74	866-872	Strong	_	
+3-75	873-886	understanding	_	
+3-76	887-889	of	_	
+3-77	890-893	web	_	
+3-78	894-900	design	Hard Skill	
+3-79	901-911	principles	_	
+3-80	912-915	and	_	
+3-81	916-920	best	_	
+3-82	921-930	practices	_	
+3-83	931-940	Excellent	_	
+3-84	941-954	communication	Soft Skill	
+3-85	955-958	and	_	
+3-86	959-974	problem-solving	_	
+3-87	975-981	skills	_	
+3-88	982-993	Familiarity	_	
+3-89	994-998	with	_	
+3-90	999-1002	Ark	_	
+3-91	1003-1005	or	_	
+3-92	1006-1013	similar	_	
+3-93	1014-1025	programming	Hard Skill	
+3-94	1026-1035	languages	_	
+3-95	1036-1038	is	_	
+3-96	1039-1040	a	_	
+3-97	1041-1045	plus	_	
+3-98	1046-1049	The	_	
+3-99	1050-1055	ideal	_	
+3-100	1056-1065	candidate	_	
+3-101	1066-1072	should	_	
+3-102	1073-1077	have	_	
+3-103	1078-1079	a	_	
+3-104	1080-1086	strong	_	
+3-105	1087-1097	background	_	
+3-106	1098-1100	in	_	
+3-107	1101-1105	HTML	Hard Skill	
+3-108	1105-1106	,	_	
+3-109	1107-1110	CSS	Hard Skill	
+3-110	1110-1111	,	_	
+3-111	1112-1115	and	_	
+3-112	1116-1126	JavaScript	Hard Skill	
+3-113	1126-1127	,	_	
+3-114	1128-1133	along	_	
+3-115	1134-1138	with	_	
+3-116	1139-1149	experience	_	
+3-117	1150-1157	working	_	
+3-118	1158-1162	with	_	
+3-119	1163-1169	modern	_	
+3-120	1170-1179	front-end	_	
+3-121	1180-1190	frameworks	_	
+3-122	1191-1195	such	_	
+3-123	1196-1198	as	_	
+3-124	1199-1204	React	Hard Skill	
+3-125	1205-1207	or	_	
+3-126	1208-1215	Angular	Hard Skill	
+3-127	1216-1217	3	_	
+3-128	1217-1218	+	_	
+3-129	1219-1224	years	_	
+3-130	1225-1227	of	_	
+3-131	1228-1238	experience	_	
+3-132	1239-1241	in	_	
+3-133	1242-1251	front-end	_	
+3-134	1252-1255	web	_	
+3-135	1256-1267	development	_	
+3-136	1268-1278	Proficient	_	
+3-137	1279-1281	in	_	
+3-138	1282-1286	HTML	Hard Skill	
+3-139	1286-1287	,	_	
+3-140	1288-1291	CSS	Hard Skill	
+3-141	1291-1292	,	_	
+3-142	1293-1296	and	_	
+3-143	1297-1307	JavaScript	Hard Skill	
+3-144	1308-1314	Strong	_	
+3-145	1315-1328	understanding	_	
+3-146	1329-1331	of	_	
+3-147	1332-1335	web	_	
+3-148	1336-1342	design	Hard Skill	
+3-149	1343-1353	principles	_	
+3-150	1354-1357	and	_	
+3-151	1358-1362	best	_	
+3-152	1363-1372	practices	_	
+3-153	1373-1382	Excellent	_	
+3-154	1383-1396	communication	Soft Skill	
+3-155	1397-1400	and	_	
+3-156	1401-1416	problem-solving	_	
+3-157	1417-1423	skills	_	
+3-158	1424-1431	Develop	_	
+3-159	1432-1436	user	_	
+3-160	1437-1447	interfaces	_	
+3-161	1448-1451	for	_	
+3-162	1452-1462	d-cloud.io	_	
+3-163	1463-1466	web	_	
+3-164	1467-1475	platform	_	
+3-165	1476-1487	Collaborate	Soft Skill	
+3-166	1488-1492	with	_	
+3-167	1493-1500	product	_	
+3-168	1501-1509	managers	_	
+3-169	1510-1513	and	_	
+3-170	1514-1523	designers	_	
+3-171	1524-1526	to	_	
+3-172	1527-1533	create	_	
+3-173	1534-1542	seamless	_	
+3-174	1543-1547	user	_	
+3-175	1548-1559	experiences	_	
+3-176	1560-1565	Write	_	
+3-177	1566-1571	clean	_	
+3-178	1571-1572	,	_	
+3-179	1573-1581	reusable	_	
+3-180	1581-1582	,	_	
+3-181	1583-1586	and	_	
+3-182	1587-1596	efficient	_	
+3-183	1597-1601	code	_	
+3-184	1602-1608	Ensure	_	
+3-185	1609-1622	cross-browser	_	
+3-186	1623-1636	compatibility	_	
+3-187	1637-1640	and	_	
+3-188	1641-1655	responsiveness	_	
+3-189	1656-1663	Provide	_	
+3-190	1664-1673	technical	_	
+3-191	1674-1681	support	_	
+3-192	1682-1685	and	_	
+3-193	1686-1693	address	_	
+3-194	1694-1697	any	_	
+3-195	1698-1704	issues	_	
+3-196	1705-1709	that	_	
+3-197	1710-1715	arise	_	

@@ -1,0 +1,222 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Sr.
+1-1	0-2	Sr	_	
+1-2	2-3	.	_	
+
+#Text=Android DeveloperOur client in Charlotte, NC is looking for hardworking, motivated talent to join their team.
+2-1	4-11	Android	Hard Skill	
+2-2	12-24	DeveloperOur	_	
+2-3	25-31	client	_	
+2-4	32-34	in	_	
+2-5	35-44	Charlotte	_	
+2-6	44-45	,	_	
+2-7	46-48	NC	_	
+2-8	49-51	is	_	
+2-9	52-59	looking	_	
+2-10	60-63	for	_	
+2-11	64-75	hardworking	_	
+2-12	75-76	,	_	
+2-13	77-86	motivated	_	
+2-14	87-93	talent	_	
+2-15	94-96	to	_	
+2-16	97-101	join	_	
+2-17	102-107	their	_	
+2-18	108-112	team	_	
+2-19	112-113	.	_	
+
+#Text=(Fortune 100 financial services) Dont wait apply today!
+3-1	114-115	(	_	
+3-2	115-122	Fortune	_	
+3-3	123-126	100	_	
+3-4	127-136	financial	_	
+3-5	137-145	services	_	
+3-6	145-146	)	_	
+3-7	147-151	Dont	_	
+3-8	152-156	wait	_	
+3-9	157-162	apply	_	
+3-10	163-168	today	_	
+3-11	168-169	!	_	
+
+#Text=What's in it for you...Payrate or Pay range: $80-85/hrOnsite(Charlotte, NC / Iselin, NJ)ContractFull timeRequired:3+yrs of Android Development experiencePreferred:Java or Kotlin experienceAgile experienceExperience working with JiraExperience working with CI/CD tools such as JenkinsAndroid UI components and library's experienceKnowledge of Firebase tooWhy should you chooseMedical, Dental, Vision, 401kWeekly pay with direct depositConsultant Care supportFree Training to upgrade your skillsDedicated Career Partner to help you achieve your career goalsAre you Interested?
+4-1	169-175	What's	_	
+4-2	176-178	in	_	
+4-3	179-181	it	_	
+4-4	182-185	for	_	
+4-5	186-189	you	_	
+4-6	189-190	.	_	
+4-7	190-191	.	_	
+4-8	191-192	.	_	
+4-9	192-199	Payrate	_	
+4-10	200-202	or	_	
+4-11	203-206	Pay	_	
+4-12	207-212	range	_	
+4-13	212-213	:	_	
+4-14	214-217	$80	_	
+4-15	217-218	-	_	
+4-16	218-220	85	_	
+4-17	220-221	/	_	
+4-18	221-229	hrOnsite	_	
+4-19	229-230	(	_	
+4-20	230-239	Charlotte	_	
+4-21	239-240	,	_	
+4-22	241-243	NC	_	
+4-23	244-245	/	_	
+4-24	246-252	Iselin	_	
+4-25	252-253	,	_	
+4-26	254-256	NJ	_	
+4-27	256-257	)	_	
+4-28	257-269	ContractFull	_	
+4-29	270-282	timeRequired	_	
+4-30	282-283	:	_	
+4-31	283-284	3	_	
+4-32	284-285	+	_	
+4-33	285-288	yrs	_	
+4-34	289-291	of	_	
+4-35	292-299	Android	Hard Skill	
+4-36	300-311	Development	_	
+4-37	312-331	experiencePreferred	_	
+4-38	331-332	:	_	
+4-39	332-336	Java	Hard Skill	
+4-40	337-339	or	_	
+4-41	340-346	Kotlin	Hard Skill	
+4-42	347-362	experienceAgile	_	
+4-43	363-383	experienceExperience	_	
+4-44	384-391	working	_	
+4-45	392-396	with	_	
+4-46	397-411	JiraExperience	_	
+4-47	412-419	working	_	
+4-48	420-424	with	_	
+4-49	425-427	CI	_	
+4-50	427-428	/	_	
+4-51	428-430	CD	_	
+4-52	431-436	tools	_	
+4-53	437-441	such	_	
+4-54	442-444	as	_	
+4-55	445-459	JenkinsAndroid	_	
+4-56	460-462	UI	_	
+4-57	463-473	components	_	
+4-58	474-477	and	_	
+4-59	478-487	library's	_	
+4-60	488-507	experienceKnowledge	_	
+4-61	508-510	of	_	
+4-62	511-519	Firebase	Hard Skill	
+4-63	520-526	tooWhy	_	
+4-64	527-533	should	_	
+4-65	534-537	you	_	
+4-66	538-551	chooseMedical	_	
+4-67	551-552	,	_	
+4-68	553-559	Dental	_	
+4-69	559-560	,	_	
+4-70	561-567	Vision	_	
+4-71	567-568	,	_	
+4-72	569-579	401kWeekly	_	
+4-73	580-583	pay	_	
+4-74	584-588	with	_	
+4-75	589-595	direct	_	
+4-76	596-613	depositConsultant	_	
+4-77	614-618	Care	_	
+4-78	619-630	supportFree	_	
+4-79	631-639	Training	_	
+4-80	640-642	to	_	
+4-81	643-650	upgrade	_	
+4-82	651-655	your	_	
+4-83	656-671	skillsDedicated	_	
+4-84	672-678	Career	_	
+4-85	679-686	Partner	_	
+4-86	687-689	to	_	
+4-87	690-694	help	_	
+4-88	695-698	you	_	
+4-89	699-706	achieve	_	
+4-90	707-711	your	_	
+4-91	712-718	career	_	
+4-92	719-727	goalsAre	_	
+4-93	728-731	you	_	
+4-94	732-742	Interested	_	
+4-95	742-743	?	_	
+
+#Text=Share this job with friends and family and earn dollars with every successful hire 3+yrs of Android Development experience Java or Kotlin experience Agile experience Experience working with Jira Experience working with CI/CD tools such as Jenkins Android UI components and library's experience Knowledge of Firebase too Payrate or Pay range: $80-85/hr Medical, Dental, Vision, 401k Weekly pay with direct deposit Consultant Care support Free Training to upgrade your skills
+5-1	743-748	Share	_	
+5-2	749-753	this	_	
+5-3	754-757	job	_	
+5-4	758-762	with	_	
+5-5	763-770	friends	_	
+5-6	771-774	and	_	
+5-7	775-781	family	_	
+5-8	782-785	and	_	
+5-9	786-790	earn	_	
+5-10	791-798	dollars	_	
+5-11	799-803	with	_	
+5-12	804-809	every	_	
+5-13	810-820	successful	_	
+5-14	821-825	hire	_	
+5-15	826-827	3	_	
+5-16	827-828	+	_	
+5-17	828-831	yrs	_	
+5-18	832-834	of	_	
+5-19	835-842	Android	Hard Skill	
+5-20	843-854	Development	_	
+5-21	855-865	experience	_	
+5-22	866-870	Java	Hard Skill	
+5-23	871-873	or	_	
+5-24	874-880	Kotlin	Hard Skill	
+5-25	881-891	experience	_	
+5-26	892-897	Agile	Hard Skill	
+5-27	898-908	experience	_	
+5-28	909-919	Experience	_	
+5-29	920-927	working	_	
+5-30	928-932	with	_	
+5-31	933-937	Jira	Hard Skill	
+5-32	938-948	Experience	_	
+5-33	949-956	working	_	
+5-34	957-961	with	_	
+5-35	962-964	CI	_	
+5-36	964-965	/	_	
+5-37	965-967	CD	_	
+5-38	968-973	tools	_	
+5-39	974-978	such	_	
+5-40	979-981	as	_	
+5-41	982-989	Jenkins	Hard Skill	
+5-42	990-997	Android	Hard Skill	
+5-43	998-1000	UI	_	
+5-44	1001-1011	components	_	
+5-45	1012-1015	and	_	
+5-46	1016-1025	library's	_	
+5-47	1026-1036	experience	_	
+5-48	1037-1046	Knowledge	_	
+5-49	1047-1049	of	_	
+5-50	1050-1058	Firebase	Hard Skill	
+5-51	1059-1062	too	_	
+5-52	1063-1070	Payrate	_	
+5-53	1071-1073	or	_	
+5-54	1074-1077	Pay	_	
+5-55	1078-1083	range	_	
+5-56	1083-1084	:	_	
+5-57	1085-1088	$80	_	
+5-58	1088-1089	-	_	
+5-59	1089-1091	85	_	
+5-60	1091-1092	/	_	
+5-61	1092-1094	hr	_	
+5-62	1095-1102	Medical	_	
+5-63	1102-1103	,	_	
+5-64	1104-1110	Dental	_	
+5-65	1110-1111	,	_	
+5-66	1112-1118	Vision	_	
+5-67	1118-1119	,	_	
+5-68	1120-1124	401k	_	
+5-69	1125-1131	Weekly	_	
+5-70	1132-1135	pay	_	
+5-71	1136-1140	with	_	
+5-72	1141-1147	direct	_	
+5-73	1148-1155	deposit	_	
+5-74	1156-1166	Consultant	_	
+5-75	1167-1171	Care	_	
+5-76	1172-1179	support	_	
+5-77	1180-1184	Free	_	
+5-78	1185-1193	Training	_	
+5-79	1194-1196	to	_	
+5-80	1197-1204	upgrade	_	
+5-81	1205-1209	your	_	
+5-82	1210-1216	skills	_	

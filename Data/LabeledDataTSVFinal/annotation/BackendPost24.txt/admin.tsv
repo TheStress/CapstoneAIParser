@@ -1,0 +1,729 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=ABOUT THE BACK-END DEVELOPER POSITIONTHETA. is looking for a PASSIONATE, DIFFERENT-thinking Back-end Developer looking to BE OF SERVICE to the public good that'll be responsible for the server-side of our client(s) web applications.
+1-1	0-5	ABOUT	_	
+1-2	6-9	THE	_	
+1-3	10-18	BACK-END	_	
+1-4	19-28	DEVELOPER	_	
+1-5	29-42	POSITIONTHETA	_	
+1-6	42-43	.	_	
+1-7	44-46	is	_	
+1-8	47-54	looking	_	
+1-9	55-58	for	_	
+1-10	59-60	a	_	
+1-11	61-71	PASSIONATE	_	
+1-12	71-72	,	_	
+1-13	73-91	DIFFERENT-thinking	_	
+1-14	92-100	Back-end	_	
+1-15	101-110	Developer	_	
+1-16	111-118	looking	_	
+1-17	119-121	to	_	
+1-18	122-124	BE	_	
+1-19	125-127	OF	_	
+1-20	128-135	SERVICE	_	
+1-21	136-138	to	_	
+1-22	139-142	the	_	
+1-23	143-149	public	_	
+1-24	150-154	good	_	
+1-25	155-162	that'll	_	
+1-26	163-165	be	_	
+1-27	166-177	responsible	_	
+1-28	178-181	for	_	
+1-29	182-185	the	_	
+1-30	186-197	server-side	_	
+1-31	198-200	of	_	
+1-32	201-204	our	_	
+1-33	205-211	client	_	
+1-34	211-212	(	_	
+1-35	212-213	s	_	
+1-36	213-214	)	_	
+1-37	215-218	web	_	
+1-38	219-231	applications	_	
+1-39	231-232	.	_	
+
+#Text=You will work closely with our engineers to ensure system consistency and improve user experience...We expect you to be a tech-savvy professional who can develop and maintain functional and stable web applications for various end-user needs.
+2-1	233-236	You	_	
+2-2	237-241	will	_	
+2-3	242-246	work	_	
+2-4	247-254	closely	_	
+2-5	255-259	with	_	
+2-6	260-263	our	_	
+2-7	264-273	engineers	_	
+2-8	274-276	to	_	
+2-9	277-283	ensure	_	
+2-10	284-290	system	_	
+2-11	291-302	consistency	_	
+2-12	303-306	and	_	
+2-13	307-314	improve	_	
+2-14	315-319	user	_	
+2-15	320-330	experience	_	
+2-16	330-331	.	_	
+2-17	331-332	.	_	
+2-18	332-333	.	_	
+2-19	333-335	We	_	
+2-20	336-342	expect	_	
+2-21	343-346	you	_	
+2-22	347-349	to	_	
+2-23	350-352	be	_	
+2-24	353-354	a	_	
+2-25	355-365	tech-savvy	_	
+2-26	366-378	professional	_	
+2-27	379-382	who	_	
+2-28	383-386	can	_	
+2-29	387-394	develop	_	
+2-30	395-398	and	_	
+2-31	399-407	maintain	_	
+2-32	408-418	functional	_	
+2-33	419-422	and	_	
+2-34	423-429	stable	_	
+2-35	430-433	web	_	
+2-36	434-446	applications	_	
+2-37	447-450	for	_	
+2-38	451-458	various	_	
+2-39	459-467	end-user	_	
+2-40	468-473	needs	_	
+2-41	473-474	.	_	
+
+#Text=Therefore you have to possess EXCELLENT programming skills and a passion for developing applications or improving through refactoring existing ones.Besides that, we expect you to be a good team player and find optimal ways to solve problems.U.S.
+3-1	475-484	Therefore	_	
+3-2	485-488	you	_	
+3-3	489-493	have	_	
+3-4	494-496	to	_	
+3-5	497-504	possess	_	
+3-6	505-514	EXCELLENT	_	
+3-7	515-526	programming	Hard Skill	
+3-8	527-533	skills	_	
+3-9	534-537	and	_	
+3-10	538-539	a	_	
+3-11	540-547	passion	Soft Skill	
+3-12	548-551	for	_	
+3-13	552-562	developing	_	
+3-14	563-575	applications	_	
+3-15	576-578	or	_	
+3-16	579-588	improving	_	
+3-17	589-596	through	_	
+3-18	597-608	refactoring	Hard Skill	
+3-19	609-617	existing	_	
+3-20	618-630	ones.Besides	_	
+3-21	631-635	that	_	
+3-22	635-636	,	_	
+3-23	637-639	we	_	
+3-24	640-646	expect	_	
+3-25	647-650	you	_	
+3-26	651-653	to	_	
+3-27	654-656	be	_	
+3-28	657-658	a	_	
+3-29	659-663	good	_	
+3-30	664-668	team	_	
+3-31	669-675	player	_	
+3-32	676-679	and	_	
+3-33	680-684	find	_	
+3-34	685-692	optimal	_	
+3-35	693-697	ways	_	
+3-36	698-700	to	_	
+3-37	701-706	solve	_	
+3-38	707-719	problems.U.S	_	
+3-39	719-720	.	_	
+
+#Text=Citizenship, Green Card, EAD requiredBACK-END DEVELOPER RESPONSIBILITIES ARE: Take part in the entire application lifecycle, focusing on coding and debugging.
+4-1	721-732	Citizenship	_	
+4-2	732-733	,	_	
+4-3	734-739	Green	_	
+4-4	740-744	Card	_	
+4-5	744-745	,	_	
+4-6	746-749	EAD	_	
+4-7	750-766	requiredBACK-END	_	
+4-8	767-776	DEVELOPER	_	
+4-9	777-793	RESPONSIBILITIES	_	
+4-10	794-797	ARE	_	
+4-11	797-798	:	_	
+4-12	799-803	Take	_	
+4-13	804-808	part	_	
+4-14	809-811	in	_	
+4-15	812-815	the	_	
+4-16	816-822	entire	_	
+4-17	823-834	application	_	
+4-18	835-844	lifecycle	_	
+4-19	844-845	,	_	
+4-20	846-854	focusing	_	
+4-21	855-857	on	_	
+4-22	858-864	coding	Hard Skill	
+4-23	865-868	and	_	
+4-24	869-878	debugging	Hard Skill	
+4-25	878-879	.	_	
+
+#Text=Write quality code to develop functional web applications.
+5-1	880-885	Write	_	
+5-2	886-893	quality	_	
+5-3	894-898	code	_	
+5-4	899-901	to	_	
+5-5	902-909	develop	_	
+5-6	910-920	functional	_	
+5-7	921-924	web	_	
+5-8	925-937	applications	_	
+5-9	937-938	.	_	
+
+#Text=Develop and maintain UI tests to optimize performance Debug applications and detect and fix errors Work together with Front-end Developers to integrate UI elements with server-side logic.
+6-1	939-946	Develop	_	
+6-2	947-950	and	_	
+6-3	951-959	maintain	_	
+6-4	960-962	UI	_	
+6-5	963-968	tests	_	
+6-6	969-971	to	_	
+6-7	972-980	optimize	Hard Skill	
+6-8	981-992	performance	_	
+6-9	993-998	Debug	Hard Skill	
+6-10	999-1011	applications	_	
+6-11	1012-1015	and	_	
+6-12	1016-1022	detect	_	
+6-13	1023-1026	and	_	
+6-14	1027-1030	fix	_	
+6-15	1031-1037	errors	_	
+6-16	1038-1042	Work	_	
+6-17	1043-1051	together	_	
+6-18	1052-1056	with	_	
+6-19	1057-1066	Front-end	_	
+6-20	1067-1077	Developers	_	
+6-21	1078-1080	to	_	
+6-22	1081-1090	integrate	_	
+6-23	1091-1093	UI	_	
+6-24	1094-1102	elements	_	
+6-25	1103-1107	with	_	
+6-26	1108-1119	server-side	_	
+6-27	1120-1125	logic	_	
+6-28	1125-1126	.	_	
+
+#Text=Implement modern technologies to improve legacy applications Collect, analyze and address technical and design requirements Help to create reusable code and libraries for future use.
+7-1	1127-1136	Implement	_	
+7-2	1137-1143	modern	_	
+7-3	1144-1156	technologies	_	
+7-4	1157-1159	to	_	
+7-5	1160-1167	improve	_	
+7-6	1168-1174	legacy	_	
+7-7	1175-1187	applications	_	
+7-8	1188-1195	Collect	_	
+7-9	1195-1196	,	_	
+7-10	1197-1204	analyze	_	
+7-11	1205-1208	and	_	
+7-12	1209-1216	address	_	
+7-13	1217-1226	technical	_	
+7-14	1227-1230	and	_	
+7-15	1231-1237	design	Hard Skill	
+7-16	1238-1250	requirements	_	
+7-17	1251-1255	Help	_	
+7-18	1256-1258	to	_	
+7-19	1259-1265	create	_	
+7-20	1266-1274	reusable	_	
+7-21	1275-1279	code	_	
+7-22	1280-1283	and	_	
+7-23	1284-1293	libraries	_	
+7-24	1294-1297	for	_	
+7-25	1298-1304	future	_	
+7-26	1305-1308	use	_	
+7-27	1308-1309	.	_	
+
+#Text=Train and support internal teams Interact with developers, designers, and system administrators to identify new features Stay informed about emerging technologies.BACK-END DEVELOPER REQUIREMENTS ARE: 7+ years' experience of working in a Back-end Developer position Solid experience with programming languages like Java, C#, Go, Rust, Ruby, PHP, and/or Python.
+8-1	1310-1315	Train	_	
+8-2	1316-1319	and	_	
+8-3	1320-1327	support	_	
+8-4	1328-1336	internal	_	
+8-5	1337-1342	teams	_	
+8-6	1343-1351	Interact	_	
+8-7	1352-1356	with	_	
+8-8	1357-1367	developers	_	
+8-9	1367-1368	,	_	
+8-10	1369-1378	designers	_	
+8-11	1378-1379	,	_	
+8-12	1380-1383	and	_	
+8-13	1384-1390	system	_	
+8-14	1391-1405	administrators	_	
+8-15	1406-1408	to	_	
+8-16	1409-1417	identify	_	
+8-17	1418-1421	new	_	
+8-18	1422-1430	features	_	
+8-19	1431-1435	Stay	_	
+8-20	1436-1444	informed	_	
+8-21	1445-1450	about	_	
+8-22	1451-1459	emerging	_	
+8-23	1460-1481	technologies.BACK-END	_	
+8-24	1482-1491	DEVELOPER	_	
+8-25	1492-1504	REQUIREMENTS	_	
+8-26	1505-1508	ARE	_	
+8-27	1508-1509	:	_	
+8-28	1510-1511	7	_	
+8-29	1511-1512	+	_	
+8-30	1513-1518	years	_	
+8-31	1518-1519	'	_	
+8-32	1520-1530	experience	_	
+8-33	1531-1533	of	_	
+8-34	1534-1541	working	_	
+8-35	1542-1544	in	_	
+8-36	1545-1546	a	_	
+8-37	1547-1555	Back-end	_	
+8-38	1556-1565	Developer	_	
+8-39	1566-1574	position	_	
+8-40	1575-1580	Solid	_	
+8-41	1581-1591	experience	_	
+8-42	1592-1596	with	_	
+8-43	1597-1608	programming	Hard Skill	
+8-44	1609-1618	languages	_	
+8-45	1619-1623	like	_	
+8-46	1624-1628	Java	Hard Skill	
+8-47	1628-1629	,	_	
+8-48	1630-1631	C	Hard Skill	
+8-49	1631-1632	#	_	
+8-50	1632-1633	,	_	
+8-51	1634-1636	Go	Hard Skill	
+8-52	1636-1637	,	_	
+8-53	1638-1642	Rust	Hard Skill	
+8-54	1642-1643	,	_	
+8-55	1644-1648	Ruby	Hard Skill	
+8-56	1648-1649	,	_	
+8-57	1650-1653	PHP	Hard Skill	
+8-58	1653-1654	,	_	
+8-59	1655-1658	and	_	
+8-60	1658-1659	/	_	
+8-61	1659-1661	or	_	
+8-62	1662-1668	Python	Hard Skill	
+8-63	1668-1669	.	_	
+
+#Text=SOLID API DEVELOPMENT EXPERIENCE.
+9-1	1670-1675	SOLID	_	
+9-2	1676-1679	API	Hard Skill	
+9-3	1680-1691	DEVELOPMENT	_	
+9-4	1692-1702	EXPERIENCE	_	
+9-5	1702-1703	.	_	
+
+#Text=Excellent understanding of the entire web development process (design, development, and deployment) and application lifecycle Good practical experience with frameworks Good knowledge of front-end languages and frameworks (e.g., HTML, JavaScript, CSS, AngularJS, Vue.JS, ReactJS) Strong analytical and time management skills Good teamwork skills with a problem-solving attitudeSALARY RANGE: $90,000 - $161,000THETA. - an SBA-Certified HUBZONE digital & management firm based in Baltimore, MD, working to create a world where tech works for EVERYBODY.
+10-1	1704-1713	Excellent	_	
+10-2	1714-1727	understanding	_	
+10-3	1728-1730	of	_	
+10-4	1731-1734	the	_	
+10-5	1735-1741	entire	_	
+10-6	1742-1745	web	_	
+10-7	1746-1757	development	_	
+10-8	1758-1765	process	_	
+10-9	1766-1767	(	_	
+10-10	1767-1773	design	Hard Skill	
+10-11	1773-1774	,	_	
+10-12	1775-1786	development	_	
+10-13	1786-1787	,	_	
+10-14	1788-1791	and	_	
+10-15	1792-1802	deployment	_	
+10-16	1802-1803	)	_	
+10-17	1804-1807	and	_	
+10-18	1808-1819	application	_	
+10-19	1820-1829	lifecycle	_	
+10-20	1830-1834	Good	_	
+10-21	1835-1844	practical	_	
+10-22	1845-1855	experience	_	
+10-23	1856-1860	with	_	
+10-24	1861-1871	frameworks	_	
+10-25	1872-1876	Good	_	
+10-26	1877-1886	knowledge	_	
+10-27	1887-1889	of	_	
+10-28	1890-1899	front-end	_	
+10-29	1900-1909	languages	_	
+10-30	1910-1913	and	_	
+10-31	1914-1924	frameworks	_	
+10-32	1925-1926	(	_	
+10-33	1926-1929	e.g	_	
+10-34	1929-1930	.	_	
+10-35	1930-1931	,	_	
+10-36	1932-1936	HTML	Hard Skill	
+10-37	1936-1937	,	_	
+10-38	1938-1948	JavaScript	Hard Skill	
+10-39	1948-1949	,	_	
+10-40	1950-1953	CSS	Hard Skill	
+10-41	1953-1954	,	_	
+10-42	1955-1964	AngularJS	Hard Skill	
+10-43	1964-1965	,	_	
+10-44	1966-1972	Vue.JS	Hard Skill	
+10-45	1972-1973	,	_	
+10-46	1974-1981	ReactJS	Hard Skill	
+10-47	1981-1982	)	_	
+10-48	1983-1989	Strong	_	
+10-49	1990-2000	analytical	_	
+10-50	2001-2004	and	_	
+10-51	2005-2009	time	_	
+10-52	2010-2020	management	_	
+10-53	2021-2027	skills	_	
+10-54	2028-2032	Good	_	
+10-55	2033-2041	teamwork	Soft Skill	
+10-56	2042-2048	skills	_	
+10-57	2049-2053	with	_	
+10-58	2054-2055	a	_	
+10-59	2056-2071	problem-solving	_	
+10-60	2072-2086	attitudeSALARY	_	
+10-61	2087-2092	RANGE	_	
+10-62	2092-2093	:	_	
+10-63	2094-2101	$90,000	_	
+10-64	2102-2103	-	_	
+10-65	2104-2117	$161,000THETA	_	
+10-66	2117-2118	.	_	
+10-67	2119-2120	-	_	
+10-68	2121-2123	an	_	
+10-69	2124-2137	SBA-Certified	_	
+10-70	2138-2145	HUBZONE	_	
+10-71	2146-2153	digital	_	
+10-72	2154-2155	&	_	
+10-73	2156-2166	management	_	
+10-74	2167-2171	firm	_	
+10-75	2172-2177	based	_	
+10-76	2178-2180	in	_	
+10-77	2181-2190	Baltimore	_	
+10-78	2190-2191	,	_	
+10-79	2192-2194	MD	_	
+10-80	2194-2195	,	_	
+10-81	2196-2203	working	_	
+10-82	2204-2206	to	_	
+10-83	2207-2213	create	_	
+10-84	2214-2215	a	_	
+10-85	2216-2221	world	_	
+10-86	2222-2227	where	_	
+10-87	2228-2232	tech	_	
+10-88	2233-2238	works	_	
+10-89	2239-2242	for	_	
+10-90	2243-2252	EVERYBODY	_	
+10-91	2252-2253	.	_	
+
+#Text=We take pride in being at the intersection of innovation & technology AND the intersection of technology and its impact on the world.
+11-1	2254-2256	We	_	
+11-2	2257-2261	take	_	
+11-3	2262-2267	pride	_	
+11-4	2268-2270	in	_	
+11-5	2271-2276	being	_	
+11-6	2277-2279	at	_	
+11-7	2280-2283	the	_	
+11-8	2284-2296	intersection	_	
+11-9	2297-2299	of	_	
+11-10	2300-2310	innovation	_	
+11-11	2311-2312	&	_	
+11-12	2313-2323	technology	_	
+11-13	2324-2327	AND	_	
+11-14	2328-2331	the	_	
+11-15	2332-2344	intersection	_	
+11-16	2345-2347	of	_	
+11-17	2348-2358	technology	_	
+11-18	2359-2362	and	_	
+11-19	2363-2366	its	_	
+11-20	2367-2373	impact	_	
+11-21	2374-2376	on	_	
+11-22	2377-2380	the	_	
+11-23	2381-2386	world	_	
+11-24	2386-2387	.	_	
+
+#Text=Our position at these intersections allows us to intimately understand these worlds' limitations and develop innovative organic solutions to unique problems We expect you to be a tech-savvy professional who can develop and maintain functional and stable web applications for various end-user needs Therefore you have to possess EXCELLENT programming skills and a passion for developing applications or improving through refactoring existing ones Besides that, we expect you to be a good team player and find optimal ways to solve problems U.S.
+12-1	2388-2391	Our	_	
+12-2	2392-2400	position	_	
+12-3	2401-2403	at	_	
+12-4	2404-2409	these	_	
+12-5	2410-2423	intersections	_	
+12-6	2424-2430	allows	_	
+12-7	2431-2433	us	_	
+12-8	2434-2436	to	_	
+12-9	2437-2447	intimately	_	
+12-10	2448-2458	understand	_	
+12-11	2459-2464	these	_	
+12-12	2465-2471	worlds	_	
+12-13	2471-2472	'	_	
+12-14	2473-2484	limitations	_	
+12-15	2485-2488	and	_	
+12-16	2489-2496	develop	_	
+12-17	2497-2507	innovative	_	
+12-18	2508-2515	organic	_	
+12-19	2516-2525	solutions	_	
+12-20	2526-2528	to	_	
+12-21	2529-2535	unique	_	
+12-22	2536-2544	problems	_	
+12-23	2545-2547	We	_	
+12-24	2548-2554	expect	_	
+12-25	2555-2558	you	_	
+12-26	2559-2561	to	_	
+12-27	2562-2564	be	_	
+12-28	2565-2566	a	_	
+12-29	2567-2577	tech-savvy	_	
+12-30	2578-2590	professional	_	
+12-31	2591-2594	who	_	
+12-32	2595-2598	can	_	
+12-33	2599-2606	develop	_	
+12-34	2607-2610	and	_	
+12-35	2611-2619	maintain	_	
+12-36	2620-2630	functional	_	
+12-37	2631-2634	and	_	
+12-38	2635-2641	stable	_	
+12-39	2642-2645	web	_	
+12-40	2646-2658	applications	_	
+12-41	2659-2662	for	_	
+12-42	2663-2670	various	_	
+12-43	2671-2679	end-user	_	
+12-44	2680-2685	needs	_	
+12-45	2686-2695	Therefore	_	
+12-46	2696-2699	you	_	
+12-47	2700-2704	have	_	
+12-48	2705-2707	to	_	
+12-49	2708-2715	possess	_	
+12-50	2716-2725	EXCELLENT	_	
+12-51	2726-2737	programming	Hard Skill	
+12-52	2738-2744	skills	_	
+12-53	2745-2748	and	_	
+12-54	2749-2750	a	_	
+12-55	2751-2758	passion	Soft Skill	
+12-56	2759-2762	for	_	
+12-57	2763-2773	developing	_	
+12-58	2774-2786	applications	_	
+12-59	2787-2789	or	_	
+12-60	2790-2799	improving	_	
+12-61	2800-2807	through	_	
+12-62	2808-2819	refactoring	Hard Skill	
+12-63	2820-2828	existing	_	
+12-64	2829-2833	ones	_	
+12-65	2834-2841	Besides	_	
+12-66	2842-2846	that	_	
+12-67	2846-2847	,	_	
+12-68	2848-2850	we	_	
+12-69	2851-2857	expect	_	
+12-70	2858-2861	you	_	
+12-71	2862-2864	to	_	
+12-72	2865-2867	be	_	
+12-73	2868-2869	a	_	
+12-74	2870-2874	good	_	
+12-75	2875-2879	team	_	
+12-76	2880-2886	player	_	
+12-77	2887-2890	and	_	
+12-78	2891-2895	find	_	
+12-79	2896-2903	optimal	_	
+12-80	2904-2908	ways	_	
+12-81	2909-2911	to	_	
+12-82	2912-2917	solve	_	
+12-83	2918-2926	problems	_	
+12-84	2927-2930	U.S	_	
+12-85	2930-2931	.	_	
+
+#Text=Citizenship, Green Card, EAD required 7+ years' experience of working in a Back-end Developer position Solid experience with programming languages like Java, C#, Go, Rust, Ruby, PHP, and/or Python SOLID API DEVELOPMENT EXPERIENCE Excellent understanding of the entire web development process (design, development, and deployment) and application lifecycle Good practical experience with frameworks Good knowledge of front-end languages and frameworks (e.g., HTML, JavaScript, CSS, AngularJS, Vue.JS, ReactJS) Strong analytical and time management skills Good teamwork skills with a problem-solving attitude You will work closely with our engineers to ensure system consistency and improve user experience Take part in the entire application lifecycle, focusing on coding and debugging Write quality code to develop functional web applications Develop and maintain UI tests to optimize performance Debug applications and detect and fix errors Work together with Front-end Developers to integrate UI elements with server-side logic Implement modern technologies to improve legacy applications Collect, analyze and address technical and design requirements Help to create reusable code and libraries for future use Train and support internal teams Interact with developers, designers, and system administrators to identify new features Stay informed about emerging technologies SALARY RANGE: $90,000 - $161,000
+13-1	2932-2943	Citizenship	_	
+13-2	2943-2944	,	_	
+13-3	2945-2950	Green	_	
+13-4	2951-2955	Card	_	
+13-5	2955-2956	,	_	
+13-6	2957-2960	EAD	_	
+13-7	2961-2969	required	_	
+13-8	2970-2971	7	_	
+13-9	2971-2972	+	_	
+13-10	2973-2978	years	_	
+13-11	2978-2979	'	_	
+13-12	2980-2990	experience	_	
+13-13	2991-2993	of	_	
+13-14	2994-3001	working	_	
+13-15	3002-3004	in	_	
+13-16	3005-3006	a	_	
+13-17	3007-3015	Back-end	_	
+13-18	3016-3025	Developer	_	
+13-19	3026-3034	position	_	
+13-20	3035-3040	Solid	_	
+13-21	3041-3051	experience	_	
+13-22	3052-3056	with	_	
+13-23	3057-3068	programming	Hard Skill	
+13-24	3069-3078	languages	_	
+13-25	3079-3083	like	_	
+13-26	3084-3088	Java	Hard Skill	
+13-27	3088-3089	,	_	
+13-28	3090-3091	C	Hard Skill	
+13-29	3091-3092	#	_	
+13-30	3092-3093	,	_	
+13-31	3094-3096	Go	Hard Skill	
+13-32	3096-3097	,	_	
+13-33	3098-3102	Rust	Hard Skill	
+13-34	3102-3103	,	_	
+13-35	3104-3108	Ruby	Hard Skill	
+13-36	3108-3109	,	_	
+13-37	3110-3113	PHP	Hard Skill	
+13-38	3113-3114	,	_	
+13-39	3115-3118	and	_	
+13-40	3118-3119	/	_	
+13-41	3119-3121	or	_	
+13-42	3122-3128	Python	Hard Skill	
+13-43	3129-3134	SOLID	_	
+13-44	3135-3138	API	Hard Skill	
+13-45	3139-3150	DEVELOPMENT	_	
+13-46	3151-3161	EXPERIENCE	_	
+13-47	3162-3171	Excellent	_	
+13-48	3172-3185	understanding	_	
+13-49	3186-3188	of	_	
+13-50	3189-3192	the	_	
+13-51	3193-3199	entire	_	
+13-52	3200-3203	web	_	
+13-53	3204-3215	development	_	
+13-54	3216-3223	process	_	
+13-55	3224-3225	(	_	
+13-56	3225-3231	design	Hard Skill	
+13-57	3231-3232	,	_	
+13-58	3233-3244	development	_	
+13-59	3244-3245	,	_	
+13-60	3246-3249	and	_	
+13-61	3250-3260	deployment	_	
+13-62	3260-3261	)	_	
+13-63	3262-3265	and	_	
+13-64	3266-3277	application	_	
+13-65	3278-3287	lifecycle	_	
+13-66	3288-3292	Good	_	
+13-67	3293-3302	practical	_	
+13-68	3303-3313	experience	_	
+13-69	3314-3318	with	_	
+13-70	3319-3329	frameworks	_	
+13-71	3330-3334	Good	_	
+13-72	3335-3344	knowledge	_	
+13-73	3345-3347	of	_	
+13-74	3348-3357	front-end	_	
+13-75	3358-3367	languages	_	
+13-76	3368-3371	and	_	
+13-77	3372-3382	frameworks	_	
+13-78	3383-3384	(	_	
+13-79	3384-3387	e.g	_	
+13-80	3387-3388	.	_	
+13-81	3388-3389	,	_	
+13-82	3390-3394	HTML	Hard Skill	
+13-83	3394-3395	,	_	
+13-84	3396-3406	JavaScript	Hard Skill	
+13-85	3406-3407	,	_	
+13-86	3408-3411	CSS	Hard Skill	
+13-87	3411-3412	,	_	
+13-88	3413-3422	AngularJS	Hard Skill	
+13-89	3422-3423	,	_	
+13-90	3424-3430	Vue.JS	Hard Skill	
+13-91	3430-3431	,	_	
+13-92	3432-3439	ReactJS	Hard Skill	
+13-93	3439-3440	)	_	
+13-94	3441-3447	Strong	_	
+13-95	3448-3458	analytical	_	
+13-96	3459-3462	and	_	
+13-97	3463-3467	time	_	
+13-98	3468-3478	management	_	
+13-99	3479-3485	skills	_	
+13-100	3486-3490	Good	_	
+13-101	3491-3499	teamwork	Soft Skill	
+13-102	3500-3506	skills	_	
+13-103	3507-3511	with	_	
+13-104	3512-3513	a	_	
+13-105	3514-3529	problem-solving	_	
+13-106	3530-3538	attitude	_	
+13-107	3539-3542	You	_	
+13-108	3543-3547	will	_	
+13-109	3548-3552	work	_	
+13-110	3553-3560	closely	_	
+13-111	3561-3565	with	_	
+13-112	3566-3569	our	_	
+13-113	3570-3579	engineers	_	
+13-114	3580-3582	to	_	
+13-115	3583-3589	ensure	_	
+13-116	3590-3596	system	_	
+13-117	3597-3608	consistency	_	
+13-118	3609-3612	and	_	
+13-119	3613-3620	improve	_	
+13-120	3621-3625	user	_	
+13-121	3626-3636	experience	_	
+13-122	3637-3641	Take	_	
+13-123	3642-3646	part	_	
+13-124	3647-3649	in	_	
+13-125	3650-3653	the	_	
+13-126	3654-3660	entire	_	
+13-127	3661-3672	application	_	
+13-128	3673-3682	lifecycle	_	
+13-129	3682-3683	,	_	
+13-130	3684-3692	focusing	_	
+13-131	3693-3695	on	_	
+13-132	3696-3702	coding	Hard Skill	
+13-133	3703-3706	and	_	
+13-134	3707-3716	debugging	Hard Skill	
+13-135	3717-3722	Write	_	
+13-136	3723-3730	quality	_	
+13-137	3731-3735	code	_	
+13-138	3736-3738	to	_	
+13-139	3739-3746	develop	_	
+13-140	3747-3757	functional	_	
+13-141	3758-3761	web	_	
+13-142	3762-3774	applications	_	
+13-143	3775-3782	Develop	_	
+13-144	3783-3786	and	_	
+13-145	3787-3795	maintain	_	
+13-146	3796-3798	UI	_	
+13-147	3799-3804	tests	_	
+13-148	3805-3807	to	_	
+13-149	3808-3816	optimize	Hard Skill	
+13-150	3817-3828	performance	_	
+13-151	3829-3834	Debug	Hard Skill	
+13-152	3835-3847	applications	_	
+13-153	3848-3851	and	_	
+13-154	3852-3858	detect	_	
+13-155	3859-3862	and	_	
+13-156	3863-3866	fix	_	
+13-157	3867-3873	errors	_	
+13-158	3874-3878	Work	_	
+13-159	3879-3887	together	_	
+13-160	3888-3892	with	_	
+13-161	3893-3902	Front-end	_	
+13-162	3903-3913	Developers	_	
+13-163	3914-3916	to	_	
+13-164	3917-3926	integrate	_	
+13-165	3927-3929	UI	_	
+13-166	3930-3938	elements	_	
+13-167	3939-3943	with	_	
+13-168	3944-3955	server-side	_	
+13-169	3956-3961	logic	_	
+13-170	3962-3971	Implement	_	
+13-171	3972-3978	modern	_	
+13-172	3979-3991	technologies	_	
+13-173	3992-3994	to	_	
+13-174	3995-4002	improve	_	
+13-175	4003-4009	legacy	_	
+13-176	4010-4022	applications	_	
+13-177	4023-4030	Collect	_	
+13-178	4030-4031	,	_	
+13-179	4032-4039	analyze	_	
+13-180	4040-4043	and	_	
+13-181	4044-4051	address	_	
+13-182	4052-4061	technical	_	
+13-183	4062-4065	and	_	
+13-184	4066-4072	design	Hard Skill	
+13-185	4073-4085	requirements	_	
+13-186	4086-4090	Help	_	
+13-187	4091-4093	to	_	
+13-188	4094-4100	create	_	
+13-189	4101-4109	reusable	_	
+13-190	4110-4114	code	_	
+13-191	4115-4118	and	_	
+13-192	4119-4128	libraries	_	
+13-193	4129-4132	for	_	
+13-194	4133-4139	future	_	
+13-195	4140-4143	use	_	
+13-196	4144-4149	Train	_	
+13-197	4150-4153	and	_	
+13-198	4154-4161	support	_	
+13-199	4162-4170	internal	_	
+13-200	4171-4176	teams	_	
+13-201	4177-4185	Interact	_	
+13-202	4186-4190	with	_	
+13-203	4191-4201	developers	_	
+13-204	4201-4202	,	_	
+13-205	4203-4212	designers	_	
+13-206	4212-4213	,	_	
+13-207	4214-4217	and	_	
+13-208	4218-4224	system	_	
+13-209	4225-4239	administrators	_	
+13-210	4240-4242	to	_	
+13-211	4243-4251	identify	_	
+13-212	4252-4255	new	_	
+13-213	4256-4264	features	_	
+13-214	4265-4269	Stay	_	
+13-215	4270-4278	informed	_	
+13-216	4279-4284	about	_	
+13-217	4285-4293	emerging	_	
+13-218	4294-4306	technologies	_	
+13-219	4307-4313	SALARY	_	
+13-220	4314-4319	RANGE	_	
+13-221	4319-4320	:	_	
+13-222	4321-4328	$90,000	_	
+13-223	4329-4330	-	_	
+13-224	4331-4339	$161,000	_	

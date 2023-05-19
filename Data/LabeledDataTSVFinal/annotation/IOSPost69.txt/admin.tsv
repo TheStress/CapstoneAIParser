@@ -1,0 +1,255 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Design and build applications for the iOS platform.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-24	Design	Hard Skill	
+1-4	25-28	and	_	
+1-5	29-34	build	_	
+1-6	35-47	applications	_	
+1-7	48-51	for	_	
+1-8	52-55	the	_	
+1-9	56-59	iOS	_	
+1-10	60-68	platform	_	
+1-11	68-69	.	_	
+
+#Text=Ensure the performance, quality, and responsiveness of applications.
+2-1	70-76	Ensure	_	
+2-2	77-80	the	_	
+2-3	81-92	performance	_	
+2-4	92-93	,	_	
+2-5	94-101	quality	_	
+2-6	101-102	,	_	
+2-7	103-106	and	_	
+2-8	107-121	responsiveness	_	
+2-9	122-124	of	_	
+2-10	125-137	applications	_	
+2-11	137-138	.	_	
+
+#Text=Collaborate with cross-functional teams to define, design, and ship new features.
+3-1	139-150	Collaborate	_	
+3-2	151-155	with	_	
+3-3	156-172	cross-functional	_	
+3-4	173-178	teams	_	
+3-5	179-181	to	_	
+3-6	182-188	define	_	
+3-7	188-189	,	_	
+3-8	190-196	design	Hard Skill	
+3-9	196-197	,	_	
+3-10	198-201	and	_	
+3-11	202-206	ship	_	
+3-12	207-210	new	_	
+3-13	211-219	features	_	
+3-14	219-220	.	_	
+
+#Text=Help maintain code quality, organization, and automatization.
+4-1	221-225	Help	_	
+4-2	226-234	maintain	_	
+4-3	235-239	code	_	
+4-4	240-247	quality	_	
+4-5	247-248	,	_	
+4-6	249-261	organization	_	
+4-7	261-262	,	_	
+4-8	263-266	and	_	
+4-9	267-281	automatization	_	
+4-10	281-282	.	_	
+
+#Text=Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+5-1	283-295	Continuously	_	
+5-2	296-304	discover	_	
+5-3	304-305	,	_	
+5-4	306-314	evaluate	_	
+5-5	314-315	,	_	
+5-6	316-319	and	_	
+5-7	320-329	implement	_	
+5-8	330-333	new	_	
+5-9	334-346	technologies	_	
+5-10	347-349	to	_	
+5-11	350-358	maximize	_	
+5-12	359-370	development	_	
+5-13	371-381	efficiency	_	
+5-14	381-382	.	_	
+
+#Text=Unit-test code... for robustness, including edge cases, usability, and general reliability.Key Skills: Experience in Objective-C, Swift, Xcode, and Cocoa Touch.
+6-1	383-392	Unit-test	_	
+6-2	393-397	code	_	
+6-3	397-398	.	_	
+6-4	398-399	.	_	
+6-5	399-400	.	_	
+6-6	401-404	for	_	
+6-7	405-415	robustness	_	
+6-8	415-416	,	_	
+6-9	417-426	including	_	
+6-10	427-431	edge	_	
+6-11	432-437	cases	_	
+6-12	437-438	,	_	
+6-13	439-448	usability	_	
+6-14	448-449	,	_	
+6-15	450-453	and	_	
+6-16	454-461	general	_	
+6-17	462-477	reliability.Key	_	
+6-18	478-484	Skills	_	
+6-19	484-485	:	_	
+6-20	486-496	Experience	_	
+6-21	497-499	in	_	
+6-22	500-511	Objective-C	_	
+6-23	511-512	,	_	
+6-24	513-518	Swift	Hard Skill	
+6-25	518-519	,	_	
+6-26	520-525	Xcode	Hard Skill	
+6-27	525-526	,	_	
+6-28	527-530	and	_	
+6-29	531-536	Cocoa	_	
+6-30	537-542	Touch	_	
+6-31	542-543	.	_	
+
+#Text=Knowledge of iOS back-end services.
+7-1	544-553	Knowledge	_	
+7-2	554-556	of	_	
+7-3	557-560	iOS	_	
+7-4	561-569	back-end	_	
+7-5	570-578	services	_	
+7-6	578-579	.	_	
+
+#Text=Proficient in iOS Frameworks such as Core Data, Core Graphics, and Core Animation.
+8-1	580-590	Proficient	_	
+8-2	591-593	in	_	
+8-3	594-597	iOS	_	
+8-4	598-608	Frameworks	_	
+8-5	609-613	such	_	
+8-6	614-616	as	_	
+8-7	617-621	Core	_	
+8-8	622-626	Data	_	
+8-9	626-627	,	_	
+8-10	628-632	Core	_	
+8-11	633-641	Graphics	_	
+8-12	641-642	,	_	
+8-13	643-646	and	_	
+8-14	647-651	Core	_	
+8-15	652-661	Animation	_	
+8-16	661-662	.	_	
+
+#Text=Knowledge of Apple's design principles and application interface guidelines Unit-test code for robustness, including edge cases, usability, and general reliability Key Skills: Experience in Objective-C, Swift, Xcode, and Cocoa Touch Knowledge of iOS back-end services Proficient in iOS Frameworks such as Core Data, Core Graphics, and Core Animation Knowledge of Apple's design principles and application interface guidelines Responsibilities: Design and build applications for the iOS platform Ensure the performance, quality, and responsiveness of applications Collaborate with cross-functional teams to define, design, and ship new features Help maintain code quality, organization, and automatization Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+9-1	663-672	Knowledge	_	
+9-2	673-675	of	_	
+9-3	676-683	Apple's	_	
+9-4	684-690	design	Hard Skill	
+9-5	691-701	principles	_	
+9-6	702-705	and	_	
+9-7	706-717	application	_	
+9-8	718-727	interface	_	
+9-9	728-738	guidelines	_	
+9-10	739-748	Unit-test	_	
+9-11	749-753	code	_	
+9-12	754-757	for	_	
+9-13	758-768	robustness	_	
+9-14	768-769	,	_	
+9-15	770-779	including	_	
+9-16	780-784	edge	_	
+9-17	785-790	cases	_	
+9-18	790-791	,	_	
+9-19	792-801	usability	_	
+9-20	801-802	,	_	
+9-21	803-806	and	_	
+9-22	807-814	general	_	
+9-23	815-826	reliability	_	
+9-24	827-830	Key	_	
+9-25	831-837	Skills	_	
+9-26	837-838	:	_	
+9-27	839-849	Experience	_	
+9-28	850-852	in	_	
+9-29	853-864	Objective-C	_	
+9-30	864-865	,	_	
+9-31	866-871	Swift	Hard Skill	
+9-32	871-872	,	_	
+9-33	873-878	Xcode	Hard Skill	
+9-34	878-879	,	_	
+9-35	880-883	and	_	
+9-36	884-889	Cocoa	_	
+9-37	890-895	Touch	_	
+9-38	896-905	Knowledge	_	
+9-39	906-908	of	_	
+9-40	909-912	iOS	_	
+9-41	913-921	back-end	_	
+9-42	922-930	services	_	
+9-43	931-941	Proficient	_	
+9-44	942-944	in	_	
+9-45	945-948	iOS	_	
+9-46	949-959	Frameworks	_	
+9-47	960-964	such	_	
+9-48	965-967	as	_	
+9-49	968-972	Core	_	
+9-50	973-977	Data	_	
+9-51	977-978	,	_	
+9-52	979-983	Core	_	
+9-53	984-992	Graphics	_	
+9-54	992-993	,	_	
+9-55	994-997	and	_	
+9-56	998-1002	Core	_	
+9-57	1003-1012	Animation	_	
+9-58	1013-1022	Knowledge	_	
+9-59	1023-1025	of	_	
+9-60	1026-1033	Apple's	_	
+9-61	1034-1040	design	Hard Skill	
+9-62	1041-1051	principles	_	
+9-63	1052-1055	and	_	
+9-64	1056-1067	application	_	
+9-65	1068-1077	interface	_	
+9-66	1078-1088	guidelines	_	
+9-67	1089-1105	Responsibilities	_	
+9-68	1105-1106	:	_	
+9-69	1107-1113	Design	Hard Skill	
+9-70	1114-1117	and	_	
+9-71	1118-1123	build	_	
+9-72	1124-1136	applications	_	
+9-73	1137-1140	for	_	
+9-74	1141-1144	the	_	
+9-75	1145-1148	iOS	_	
+9-76	1149-1157	platform	_	
+9-77	1158-1164	Ensure	_	
+9-78	1165-1168	the	_	
+9-79	1169-1180	performance	_	
+9-80	1180-1181	,	_	
+9-81	1182-1189	quality	_	
+9-82	1189-1190	,	_	
+9-83	1191-1194	and	_	
+9-84	1195-1209	responsiveness	_	
+9-85	1210-1212	of	_	
+9-86	1213-1225	applications	_	
+9-87	1226-1237	Collaborate	_	
+9-88	1238-1242	with	_	
+9-89	1243-1259	cross-functional	_	
+9-90	1260-1265	teams	_	
+9-91	1266-1268	to	_	
+9-92	1269-1275	define	_	
+9-93	1275-1276	,	_	
+9-94	1277-1283	design	Hard Skill	
+9-95	1283-1284	,	_	
+9-96	1285-1288	and	_	
+9-97	1289-1293	ship	_	
+9-98	1294-1297	new	_	
+9-99	1298-1306	features	_	
+9-100	1307-1311	Help	_	
+9-101	1312-1320	maintain	_	
+9-102	1321-1325	code	_	
+9-103	1326-1333	quality	_	
+9-104	1333-1334	,	_	
+9-105	1335-1347	organization	_	
+9-106	1347-1348	,	_	
+9-107	1349-1352	and	_	
+9-108	1353-1367	automatization	_	
+9-109	1368-1380	Continuously	_	
+9-110	1381-1389	discover	_	
+9-111	1389-1390	,	_	
+9-112	1391-1399	evaluate	_	
+9-113	1399-1400	,	_	
+9-114	1401-1404	and	_	
+9-115	1405-1414	implement	_	
+9-116	1415-1418	new	_	
+9-117	1419-1431	technologies	_	
+9-118	1432-1434	to	_	
+9-119	1435-1443	maximize	_	
+9-120	1444-1455	development	_	
+9-121	1456-1466	efficiency	_	

@@ -1,0 +1,395 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job DescriptionWe are seeking a talented Java Back-end Developer to join our team.
+1-1	0-3	Job	_	
+1-2	4-17	DescriptionWe	_	
+1-3	18-21	are	_	
+1-4	22-29	seeking	_	
+1-5	30-31	a	_	
+1-6	32-40	talented	_	
+1-7	41-45	Java	Hard Skill	
+1-8	46-54	Back-end	_	
+1-9	55-64	Developer	_	
+1-10	65-67	to	_	
+1-11	68-72	join	_	
+1-12	73-76	our	_	
+1-13	77-81	team	_	
+1-14	81-82	.	_	
+
+#Text=The ideal candidate should have a minimum of 4 years of work experience in developing and maintaining robust and scalable Java-based applications...Key Responsibilities: Design, develop, and maintain Java-based applications and services.
+2-1	83-86	The	_	
+2-2	87-92	ideal	_	
+2-3	93-102	candidate	_	
+2-4	103-109	should	_	
+2-5	110-114	have	_	
+2-6	115-116	a	_	
+2-7	117-124	minimum	_	
+2-8	125-127	of	_	
+2-9	128-129	4	_	
+2-10	130-135	years	_	
+2-11	136-138	of	_	
+2-12	139-143	work	_	
+2-13	144-154	experience	_	
+2-14	155-157	in	_	
+2-15	158-168	developing	_	
+2-16	169-172	and	_	
+2-17	173-184	maintaining	_	
+2-18	185-191	robust	_	
+2-19	192-195	and	_	
+2-20	196-204	scalable	_	
+2-21	205-215	Java-based	_	
+2-22	216-228	applications	_	
+2-23	228-229	.	_	
+2-24	229-230	.	_	
+2-25	230-231	.	_	
+2-26	231-234	Key	_	
+2-27	235-251	Responsibilities	_	
+2-28	251-252	:	_	
+2-29	253-259	Design	Hard Skill	
+2-30	259-260	,	_	
+2-31	261-268	develop	_	
+2-32	268-269	,	_	
+2-33	270-273	and	_	
+2-34	274-282	maintain	_	
+2-35	283-293	Java-based	_	
+2-36	294-306	applications	_	
+2-37	307-310	and	_	
+2-38	311-319	services	_	
+2-39	319-320	.	_	
+
+#Text=Implement RESTful APIs and microservices.
+3-1	321-330	Implement	_	
+3-2	331-338	RESTful	_	
+3-3	339-343	APIs	_	
+3-4	344-347	and	_	
+3-5	348-361	microservices	_	
+3-6	361-362	.	_	
+
+#Text=Write clean, maintainable, and testable code.
+4-1	363-368	Write	_	
+4-2	369-374	clean	_	
+4-3	374-375	,	_	
+4-4	376-388	maintainable	_	
+4-5	388-389	,	_	
+4-6	390-393	and	_	
+4-7	394-402	testable	_	
+4-8	403-407	code	_	
+4-9	407-408	.	_	
+
+#Text=Collaborate with cross-functional teams to define, design, and ship new features.
+5-1	409-420	Collaborate	Soft Skill	
+5-2	421-425	with	_	
+5-3	426-442	cross-functional	_	
+5-4	443-448	teams	_	
+5-5	449-451	to	_	
+5-6	452-458	define	_	
+5-7	458-459	,	_	
+5-8	460-466	design	Hard Skill	
+5-9	466-467	,	_	
+5-10	468-471	and	_	
+5-11	472-476	ship	_	
+5-12	477-480	new	_	
+5-13	481-489	features	_	
+5-14	489-490	.	_	
+
+#Text=Troubleshoot and debug production issues.Qualifications: Bachelor's degree in Computer Science, Engineering, or a related field.
+6-1	491-503	Troubleshoot	_	
+6-2	504-507	and	_	
+6-3	508-513	debug	Hard Skill	
+6-4	514-524	production	_	
+6-5	525-546	issues.Qualifications	_	
+6-6	546-547	:	_	
+6-7	548-558	Bachelor's	_	
+6-8	559-565	degree	_	
+6-9	566-568	in	_	
+6-10	569-577	Computer	_	
+6-11	578-585	Science	_	
+6-12	585-586	,	_	
+6-13	587-598	Engineering	_	
+6-14	598-599	,	_	
+6-15	600-602	or	_	
+6-16	603-604	a	_	
+6-17	605-612	related	_	
+6-18	613-618	field	_	
+6-19	618-619	.	_	
+
+#Text=At least 4 years of work experience in Java back-end development.
+7-1	620-622	At	_	
+7-2	623-628	least	_	
+7-3	629-630	4	_	
+7-4	631-636	years	_	
+7-5	637-639	of	_	
+7-6	640-644	work	_	
+7-7	645-655	experience	_	
+7-8	656-658	in	_	
+7-9	659-663	Java	Hard Skill	
+7-10	664-672	back-end	_	
+7-11	673-684	development	_	
+7-12	684-685	.	_	
+
+#Text=Strong experience with Java, Spring, Hibernate, and related technologies.
+8-1	686-692	Strong	_	
+8-2	693-703	experience	_	
+8-3	704-708	with	_	
+8-4	709-713	Java	Hard Skill	
+8-5	713-714	,	_	
+8-6	715-721	Spring	_	
+8-7	721-722	,	_	
+8-8	723-732	Hibernate	_	
+8-9	732-733	,	_	
+8-10	734-737	and	_	
+8-11	738-745	related	_	
+8-12	746-758	technologies	_	
+8-13	758-759	.	_	
+
+#Text=Familiarity with RESTful APIs and microservices.
+9-1	760-771	Familiarity	_	
+9-2	772-776	with	_	
+9-3	777-784	RESTful	_	
+9-4	785-789	APIs	_	
+9-5	790-793	and	_	
+9-6	794-807	microservices	_	
+9-7	807-808	.	_	
+
+#Text=Knowledge of database technologies, such as MySQL or PostgreSQL.
+10-1	809-818	Knowledge	_	
+10-2	819-821	of	_	
+10-3	822-830	database	_	
+10-4	831-843	technologies	_	
+10-5	843-844	,	_	
+10-6	845-849	such	_	
+10-7	850-852	as	_	
+10-8	853-858	MySQL	Hard Skill	
+10-9	859-861	or	_	
+10-10	862-872	PostgreSQL	Hard Skill	
+10-11	872-873	.	_	
+
+#Text=Experience with Git, JUnit, and other development tools.
+11-1	874-884	Experience	_	
+11-2	885-889	with	_	
+11-3	890-893	Git	Hard Skill	
+11-4	893-894	,	_	
+11-5	895-900	JUnit	Hard Skill	
+11-6	900-901	,	_	
+11-7	902-905	and	_	
+11-8	906-911	other	_	
+11-9	912-923	development	_	
+11-10	924-929	tools	_	
+11-11	929-930	.	_	
+
+#Text=Excellent problem-solving skills and attention to detail.If you are a skilled Java Back-end Developer and want to join a fast-paced and challenging work environment, we would love to hear from you!
+12-1	931-940	Excellent	_	
+12-2	941-956	problem-solving	_	
+12-3	957-963	skills	_	
+12-4	964-967	and	_	
+12-5	968-977	attention	_	
+12-6	978-980	to	_	
+12-7	981-990	detail.If	_	
+12-8	991-994	you	_	
+12-9	995-998	are	_	
+12-10	999-1000	a	_	
+12-11	1001-1008	skilled	_	
+12-12	1009-1013	Java	Hard Skill	
+12-13	1014-1022	Back-end	_	
+12-14	1023-1032	Developer	_	
+12-15	1033-1036	and	_	
+12-16	1037-1041	want	_	
+12-17	1042-1044	to	_	
+12-18	1045-1049	join	_	
+12-19	1050-1051	a	_	
+12-20	1052-1062	fast-paced	_	
+12-21	1063-1066	and	_	
+12-22	1067-1078	challenging	_	
+12-23	1079-1083	work	_	
+12-24	1084-1095	environment	_	
+12-25	1095-1096	,	_	
+12-26	1097-1099	we	_	
+12-27	1100-1105	would	_	
+12-28	1106-1110	love	_	
+12-29	1111-1113	to	_	
+12-30	1114-1118	hear	_	
+12-31	1119-1123	from	_	
+12-32	1124-1127	you	_	
+12-33	1127-1128	!	_	
+
+#Text=Please send your resume and cover letter toReport this job Dice Id: 90979540 Position Id: 7749882 The ideal candidate should have a minimum of 4 years of work experience in developing and maintaining robust and scalable Java-based applications Bachelor's degree in Computer Science, Engineering, or a related field At least 4 years of work experience in Java back-end development Strong experience with Java, Spring, Hibernate, and related technologies Familiarity with RESTful APIs and microservices Knowledge of database technologies, such as MySQL or PostgreSQL Experience with Git, JUnit, and other development tools Excellent problem-solving skills and attention to detail If you are a skilled Java Back-end Developer and want to join a fast-paced and challenging work environment, we would love to hear from you!
+13-1	1129-1135	Please	_	
+13-2	1136-1140	send	_	
+13-3	1141-1145	your	_	
+13-4	1146-1152	resume	_	
+13-5	1153-1156	and	_	
+13-6	1157-1162	cover	_	
+13-7	1163-1169	letter	_	
+13-8	1170-1178	toReport	_	
+13-9	1179-1183	this	_	
+13-10	1184-1187	job	_	
+13-11	1188-1192	Dice	_	
+13-12	1193-1195	Id	_	
+13-13	1195-1196	:	_	
+13-14	1197-1205	90979540	_	
+13-15	1206-1214	Position	_	
+13-16	1215-1217	Id	_	
+13-17	1217-1218	:	_	
+13-18	1219-1226	7749882	_	
+13-19	1227-1230	The	_	
+13-20	1231-1236	ideal	_	
+13-21	1237-1246	candidate	_	
+13-22	1247-1253	should	_	
+13-23	1254-1258	have	_	
+13-24	1259-1260	a	_	
+13-25	1261-1268	minimum	_	
+13-26	1269-1271	of	_	
+13-27	1272-1273	4	_	
+13-28	1274-1279	years	_	
+13-29	1280-1282	of	_	
+13-30	1283-1287	work	_	
+13-31	1288-1298	experience	_	
+13-32	1299-1301	in	_	
+13-33	1302-1312	developing	_	
+13-34	1313-1316	and	_	
+13-35	1317-1328	maintaining	_	
+13-36	1329-1335	robust	_	
+13-37	1336-1339	and	_	
+13-38	1340-1348	scalable	_	
+13-39	1349-1359	Java-based	_	
+13-40	1360-1372	applications	_	
+13-41	1373-1383	Bachelor's	_	
+13-42	1384-1390	degree	_	
+13-43	1391-1393	in	_	
+13-44	1394-1402	Computer	_	
+13-45	1403-1410	Science	_	
+13-46	1410-1411	,	_	
+13-47	1412-1423	Engineering	_	
+13-48	1423-1424	,	_	
+13-49	1425-1427	or	_	
+13-50	1428-1429	a	_	
+13-51	1430-1437	related	_	
+13-52	1438-1443	field	_	
+13-53	1444-1446	At	_	
+13-54	1447-1452	least	_	
+13-55	1453-1454	4	_	
+13-56	1455-1460	years	_	
+13-57	1461-1463	of	_	
+13-58	1464-1468	work	_	
+13-59	1469-1479	experience	_	
+13-60	1480-1482	in	_	
+13-61	1483-1487	Java	Hard Skill	
+13-62	1488-1496	back-end	_	
+13-63	1497-1508	development	_	
+13-64	1509-1515	Strong	_	
+13-65	1516-1526	experience	_	
+13-66	1527-1531	with	_	
+13-67	1532-1536	Java	Hard Skill	
+13-68	1536-1537	,	_	
+13-69	1538-1544	Spring	_	
+13-70	1544-1545	,	_	
+13-71	1546-1555	Hibernate	_	
+13-72	1555-1556	,	_	
+13-73	1557-1560	and	_	
+13-74	1561-1568	related	_	
+13-75	1569-1581	technologies	_	
+13-76	1582-1593	Familiarity	_	
+13-77	1594-1598	with	_	
+13-78	1599-1606	RESTful	_	
+13-79	1607-1611	APIs	_	
+13-80	1612-1615	and	_	
+13-81	1616-1629	microservices	_	
+13-82	1630-1639	Knowledge	_	
+13-83	1640-1642	of	_	
+13-84	1643-1651	database	_	
+13-85	1652-1664	technologies	_	
+13-86	1664-1665	,	_	
+13-87	1666-1670	such	_	
+13-88	1671-1673	as	_	
+13-89	1674-1679	MySQL	Hard Skill	
+13-90	1680-1682	or	_	
+13-91	1683-1693	PostgreSQL	Hard Skill	
+13-92	1694-1704	Experience	_	
+13-93	1705-1709	with	_	
+13-94	1710-1713	Git	Hard Skill	
+13-95	1713-1714	,	_	
+13-96	1715-1720	JUnit	Hard Skill	
+13-97	1720-1721	,	_	
+13-98	1722-1725	and	_	
+13-99	1726-1731	other	_	
+13-100	1732-1743	development	_	
+13-101	1744-1749	tools	_	
+13-102	1750-1759	Excellent	_	
+13-103	1760-1775	problem-solving	_	
+13-104	1776-1782	skills	_	
+13-105	1783-1786	and	_	
+13-106	1787-1796	attention	_	
+13-107	1797-1799	to	_	
+13-108	1800-1806	detail	_	
+13-109	1807-1809	If	_	
+13-110	1810-1813	you	_	
+13-111	1814-1817	are	_	
+13-112	1818-1819	a	_	
+13-113	1820-1827	skilled	_	
+13-114	1828-1832	Java	Hard Skill	
+13-115	1833-1841	Back-end	_	
+13-116	1842-1851	Developer	_	
+13-117	1852-1855	and	_	
+13-118	1856-1860	want	_	
+13-119	1861-1863	to	_	
+13-120	1864-1868	join	_	
+13-121	1869-1870	a	_	
+13-122	1871-1881	fast-paced	_	
+13-123	1882-1885	and	_	
+13-124	1886-1897	challenging	_	
+13-125	1898-1902	work	_	
+13-126	1903-1914	environment	_	
+13-127	1914-1915	,	_	
+13-128	1916-1918	we	_	
+13-129	1919-1924	would	_	
+13-130	1925-1929	love	_	
+13-131	1930-1932	to	_	
+13-132	1933-1937	hear	_	
+13-133	1938-1942	from	_	
+13-134	1943-1946	you	_	
+13-135	1946-1947	!	_	
+
+#Text=Design, develop, and maintain Java-based applications and services Implement RESTful APIs and microservices Write clean, maintainable, and testable code Collaborate with cross-functional teams to define, design, and ship new features Troubleshoot and debug production issues
+14-1	1948-1954	Design	Hard Skill	
+14-2	1954-1955	,	_	
+14-3	1956-1963	develop	_	
+14-4	1963-1964	,	_	
+14-5	1965-1968	and	_	
+14-6	1969-1977	maintain	_	
+14-7	1978-1988	Java-based	_	
+14-8	1989-2001	applications	_	
+14-9	2002-2005	and	_	
+14-10	2006-2014	services	_	
+14-11	2015-2024	Implement	_	
+14-12	2025-2032	RESTful	_	
+14-13	2033-2037	APIs	_	
+14-14	2038-2041	and	_	
+14-15	2042-2055	microservices	_	
+14-16	2056-2061	Write	_	
+14-17	2062-2067	clean	_	
+14-18	2067-2068	,	_	
+14-19	2069-2081	maintainable	_	
+14-20	2081-2082	,	_	
+14-21	2083-2086	and	_	
+14-22	2087-2095	testable	_	
+14-23	2096-2100	code	_	
+14-24	2101-2112	Collaborate	Soft Skill	
+14-25	2113-2117	with	_	
+14-26	2118-2134	cross-functional	_	
+14-27	2135-2140	teams	_	
+14-28	2141-2143	to	_	
+14-29	2144-2150	define	_	
+14-30	2150-2151	,	_	
+14-31	2152-2158	design	Hard Skill	
+14-32	2158-2159	,	_	
+14-33	2160-2163	and	_	
+14-34	2164-2168	ship	_	
+14-35	2169-2172	new	_	
+14-36	2173-2181	features	_	
+14-37	2182-2194	Troubleshoot	_	
+14-38	2195-2198	and	_	
+14-39	2199-2204	debug	Hard Skill	
+14-40	2205-2215	production	_	
+14-41	2216-2222	issues	_	

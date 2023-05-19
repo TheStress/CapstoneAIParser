@@ -1,0 +1,229 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Role and Responsibilities: Handle support questions from partner android app developers...
+1-1	0-4	Role	_	
+1-2	5-8	and	_	
+1-3	9-25	Responsibilities	_	
+1-4	25-26	:	_	
+1-5	27-33	Handle	_	
+1-6	34-41	support	_	
+1-7	42-51	questions	_	
+1-8	52-56	from	_	
+1-9	57-64	partner	_	
+1-10	65-72	android	Hard Skill	
+1-11	73-76	app	_	
+1-12	77-87	developers	_	
+1-13	87-88	.	_	
+1-14	88-89	.	_	
+1-15	89-90	.	_	
+
+#Text=Understanding App flow and best practices in Android API implementation.
+2-1	91-104	Understanding	_	
+2-2	105-108	App	_	
+2-3	109-113	flow	_	
+2-4	114-117	and	_	
+2-5	118-122	best	_	
+2-6	123-132	practices	_	
+2-7	133-135	in	_	
+2-8	136-143	Android	Hard Skill	
+2-9	144-147	API	Hard Skill	
+2-10	148-162	implementation	Hard Skill	
+2-11	162-163	.	_	
+
+#Text=Detailed analysis to identify the root cause of incoming issues and assign to relevant teams/suggest solutions.Skills Required: BS/BE in computer science or equivalent 3 years of relevant experience in Android application or platform development.
+3-1	164-172	Detailed	_	
+3-2	173-181	analysis	Hard Skill	
+3-3	182-184	to	_	
+3-4	185-193	identify	_	
+3-5	194-197	the	_	
+3-6	198-202	root	_	
+3-7	203-208	cause	_	
+3-8	209-211	of	_	
+3-9	212-220	incoming	_	
+3-10	221-227	issues	_	
+3-11	228-231	and	_	
+3-12	232-238	assign	_	
+3-13	239-241	to	_	
+3-14	242-250	relevant	_	
+3-15	251-256	teams	_	
+3-16	256-257	/	_	
+3-17	257-264	suggest	_	
+3-18	265-281	solutions.Skills	_	
+3-19	282-290	Required	_	
+3-20	290-291	:	_	
+3-21	292-294	BS	_	
+3-22	294-295	/	_	
+3-23	295-297	BE	_	
+3-24	298-300	in	_	
+3-25	301-309	computer	_	
+3-26	310-317	science	_	
+3-27	318-320	or	_	
+3-28	321-331	equivalent	_	
+3-29	332-333	3	_	
+3-30	334-339	years	_	
+3-31	340-342	of	_	
+3-32	343-351	relevant	_	
+3-33	352-362	experience	_	
+3-34	363-365	in	_	
+3-35	366-373	Android	Hard Skill	
+3-36	374-385	application	_	
+3-37	386-388	or	_	
+3-38	389-397	platform	_	
+3-39	398-409	development	_	
+3-40	409-410	.	_	
+
+#Text=Good understanding of Android Architecture and different Android sub systems Must be familiar with ADB commands, Android debugging with Bugreports, logcat logs etc.
+4-1	411-415	Good	_	
+4-2	416-429	understanding	_	
+4-3	430-432	of	_	
+4-4	433-440	Android	Hard Skill	
+4-5	441-453	Architecture	_	
+4-6	454-457	and	_	
+4-7	458-467	different	_	
+4-8	468-475	Android	Hard Skill	
+4-9	476-479	sub	_	
+4-10	480-487	systems	_	
+4-11	488-492	Must	_	
+4-12	493-495	be	_	
+4-13	496-504	familiar	_	
+4-14	505-509	with	_	
+4-15	510-513	ADB	_	
+4-16	514-522	commands	_	
+4-17	522-523	,	_	
+4-18	524-531	Android	Hard Skill	
+4-19	532-541	debugging	Hard Skill	
+4-20	542-546	with	_	
+4-21	547-557	Bugreports	_	
+4-22	557-558	,	_	
+4-23	559-565	logcat	_	
+4-24	566-570	logs	_	
+4-25	571-574	etc	_	
+4-26	574-575	.	_	
+
+#Text=Strong Java programming skills Familiarity with Linux environment is must Excellent written and verbal communication skills Experience in using defect management systems BS/BE in computer science or equivalent 3 years of relevant experience in Android application or platform development Good understanding of Android Architecture and different Android sub systems Must be familiar with ADB commands, Android debugging with Bugreports, logcat logs etc Strong Java programming skills Familiarity with Linux environment is must Excellent written and verbal communication skills Experience in using defect management systems Handle support questions from partner android app developers Understanding App flow and best practices in Android API implementation Detailed analysis to identify the root cause of incoming issues and assign to relevant teams/suggest solutions
+5-1	576-582	Strong	_	
+5-2	583-587	Java	Hard Skill	
+5-3	588-599	programming	Hard Skill	
+5-4	600-606	skills	_	
+5-5	607-618	Familiarity	_	
+5-6	619-623	with	_	
+5-7	624-629	Linux	Hard Skill	
+5-8	630-641	environment	_	
+5-9	642-644	is	_	
+5-10	645-649	must	_	
+5-11	650-659	Excellent	_	
+5-12	660-667	written	_	
+5-13	668-671	and	_	
+5-14	672-678	verbal	_	
+5-15	679-692	communication	Soft Skill	
+5-16	693-699	skills	_	
+5-17	700-710	Experience	_	
+5-18	711-713	in	_	
+5-19	714-719	using	_	
+5-20	720-726	defect	_	
+5-21	727-737	management	_	
+5-22	738-745	systems	_	
+5-23	746-748	BS	_	
+5-24	748-749	/	_	
+5-25	749-751	BE	_	
+5-26	752-754	in	_	
+5-27	755-763	computer	_	
+5-28	764-771	science	_	
+5-29	772-774	or	_	
+5-30	775-785	equivalent	_	
+5-31	786-787	3	_	
+5-32	788-793	years	_	
+5-33	794-796	of	_	
+5-34	797-805	relevant	_	
+5-35	806-816	experience	_	
+5-36	817-819	in	_	
+5-37	820-827	Android	Hard Skill	
+5-38	828-839	application	_	
+5-39	840-842	or	_	
+5-40	843-851	platform	_	
+5-41	852-863	development	_	
+5-42	864-868	Good	_	
+5-43	869-882	understanding	_	
+5-44	883-885	of	_	
+5-45	886-893	Android	Hard Skill	
+5-46	894-906	Architecture	_	
+5-47	907-910	and	_	
+5-48	911-920	different	_	
+5-49	921-928	Android	Hard Skill	
+5-50	929-932	sub	_	
+5-51	933-940	systems	_	
+5-52	941-945	Must	_	
+5-53	946-948	be	_	
+5-54	949-957	familiar	_	
+5-55	958-962	with	_	
+5-56	963-966	ADB	_	
+5-57	967-975	commands	_	
+5-58	975-976	,	_	
+5-59	977-984	Android	Hard Skill	
+5-60	985-994	debugging	Hard Skill	
+5-61	995-999	with	_	
+5-62	1000-1010	Bugreports	_	
+5-63	1010-1011	,	_	
+5-64	1012-1018	logcat	_	
+5-65	1019-1023	logs	_	
+5-66	1024-1027	etc	_	
+5-67	1028-1034	Strong	_	
+5-68	1035-1039	Java	Hard Skill	
+5-69	1040-1051	programming	Hard Skill	
+5-70	1052-1058	skills	_	
+5-71	1059-1070	Familiarity	_	
+5-72	1071-1075	with	_	
+5-73	1076-1081	Linux	Hard Skill	
+5-74	1082-1093	environment	_	
+5-75	1094-1096	is	_	
+5-76	1097-1101	must	_	
+5-77	1102-1111	Excellent	_	
+5-78	1112-1119	written	_	
+5-79	1120-1123	and	_	
+5-80	1124-1130	verbal	_	
+5-81	1131-1144	communication	Soft Skill	
+5-82	1145-1151	skills	_	
+5-83	1152-1162	Experience	_	
+5-84	1163-1165	in	_	
+5-85	1166-1171	using	_	
+5-86	1172-1178	defect	_	
+5-87	1179-1189	management	_	
+5-88	1190-1197	systems	_	
+5-89	1198-1204	Handle	_	
+5-90	1205-1212	support	_	
+5-91	1213-1222	questions	_	
+5-92	1223-1227	from	_	
+5-93	1228-1235	partner	_	
+5-94	1236-1243	android	Hard Skill	
+5-95	1244-1247	app	_	
+5-96	1248-1258	developers	_	
+5-97	1259-1272	Understanding	_	
+5-98	1273-1276	App	_	
+5-99	1277-1281	flow	_	
+5-100	1282-1285	and	_	
+5-101	1286-1290	best	_	
+5-102	1291-1300	practices	_	
+5-103	1301-1303	in	_	
+5-104	1304-1311	Android	Hard Skill	
+5-105	1312-1315	API	Hard Skill	
+5-106	1316-1330	implementation	Hard Skill	
+5-107	1331-1339	Detailed	_	
+5-108	1340-1348	analysis	Hard Skill	
+5-109	1349-1351	to	_	
+5-110	1352-1360	identify	_	
+5-111	1361-1364	the	_	
+5-112	1365-1369	root	_	
+5-113	1370-1375	cause	_	
+5-114	1376-1378	of	_	
+5-115	1379-1387	incoming	_	
+5-116	1388-1394	issues	_	
+5-117	1395-1398	and	_	
+5-118	1399-1405	assign	_	
+5-119	1406-1408	to	_	
+5-120	1409-1417	relevant	_	
+5-121	1418-1423	teams	_	
+5-122	1423-1424	/	_	
+5-123	1424-1431	suggest	_	
+5-124	1432-1441	solutions	_	

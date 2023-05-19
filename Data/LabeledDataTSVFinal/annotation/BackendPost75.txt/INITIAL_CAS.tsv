@@ -1,0 +1,202 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsibilities: You will abstract away complex data interactions with easy-to-use APIs that will power several mobile and web applications.
+1-1	0-16	Responsibilities	
+1-2	16-17	:	
+1-3	18-21	You	
+1-4	22-26	will	
+1-5	27-35	abstract	
+1-6	36-40	away	
+1-7	41-48	complex	
+1-8	49-53	data	
+1-9	54-66	interactions	
+1-10	67-71	with	
+1-11	72-83	easy-to-use	
+1-12	84-88	APIs	
+1-13	89-93	that	
+1-14	94-98	will	
+1-15	99-104	power	
+1-16	105-112	several	
+1-17	113-119	mobile	
+1-18	120-123	and	
+1-19	124-127	web	
+1-20	128-140	applications	
+1-21	140-141	.	
+
+#Text=You will also own, scale, and maintain the computational and storage infrastructure for the various micro-services and long-running jobs, designed and implemented by you and the team.
+2-1	142-145	You	
+2-2	146-150	will	
+2-3	151-155	also	
+2-4	156-159	own	
+2-5	159-160	,	
+2-6	161-166	scale	
+2-7	166-167	,	
+2-8	168-171	and	
+2-9	172-180	maintain	
+2-10	181-184	the	
+2-11	185-198	computational	
+2-12	199-202	and	
+2-13	203-210	storage	
+2-14	211-225	infrastructure	
+2-15	226-229	for	
+2-16	230-233	the	
+2-17	234-241	various	
+2-18	242-256	micro-services	
+2-19	257-260	and	
+2-20	261-273	long-running	
+2-21	274-278	jobs	
+2-22	278-279	,	
+2-23	280-288	designed	
+2-24	289-292	and	
+2-25	293-304	implemented	
+2-26	305-307	by	
+2-27	308-311	you	
+2-28	312-315	and	
+2-29	316-319	the	
+2-30	320-324	team	
+2-31	324-325	.	
+
+#Text=We will look to you to make key decisions on the technology stack... architecture, networking, and security.
+3-1	326-328	We	
+3-2	329-333	will	
+3-3	334-338	look	
+3-4	339-341	to	
+3-5	342-345	you	
+3-6	346-348	to	
+3-7	349-353	make	
+3-8	354-357	key	
+3-9	358-367	decisions	
+3-10	368-370	on	
+3-11	371-374	the	
+3-12	375-385	technology	
+3-13	386-391	stack	
+3-14	391-392	.	
+3-15	392-393	.	
+3-16	393-394	.	
+3-17	395-407	architecture	
+3-18	407-408	,	
+3-19	409-419	networking	
+3-20	419-420	,	
+3-21	421-424	and	
+3-22	425-433	security	
+3-23	433-434	.	
+
+#Text=We love working with bleeding-edge technology, especially if it improves the malleability, and simplicity of our deliverables.
+4-1	435-437	We	
+4-2	438-442	love	
+4-3	443-450	working	
+4-4	451-455	with	
+4-5	456-469	bleeding-edge	
+4-6	470-480	technology	
+4-7	480-481	,	
+4-8	482-492	especially	
+4-9	493-495	if	
+4-10	496-498	it	
+4-11	499-507	improves	
+4-12	508-511	the	
+4-13	512-524	malleability	
+4-14	524-525	,	
+4-15	526-529	and	
+4-16	530-540	simplicity	
+4-17	541-543	of	
+4-18	544-547	our	
+4-19	548-560	deliverables	
+4-20	560-561	.	
+
+#Text=Coordinating with development department to determine application requirement.Key Skills: Python.
+5-1	562-574	Coordinating	
+5-2	575-579	with	
+5-3	580-591	development	
+5-4	592-602	department	
+5-5	603-605	to	
+5-6	606-615	determine	
+5-7	616-627	application	
+5-8	628-643	requirement.Key	
+5-9	644-650	Skills	
+5-10	650-651	:	
+5-11	652-658	Python	
+5-12	658-659	.	
+
+#Text=Java.
+6-1	660-664	Java	
+6-2	664-665	.	
+
+#Text=PHP.
+7-1	666-669	PHP	
+7-2	669-670	.	
+
+#Text=SQL.
+8-1	671-674	SQL	
+8-2	674-675	.	
+
+#Text=HTML.
+9-1	676-680	HTML	
+9-2	680-681	.	
+
+#Text=CSS.
+10-1	682-685	CSS	
+10-2	685-686	.	
+
+#Text=JavaScript Java PHP Responsibilities: You will abstract away complex data interactions with easy-to-use APIs that will power several mobile and web applications You will also own, scale, and maintain the computational and storage infrastructure for the various micro-services and long-running jobs, designed and implemented by you and the team Coordinating with development department to determine application requirement
+11-1	687-697	JavaScript	
+11-2	698-702	Java	
+11-3	703-706	PHP	
+11-4	707-723	Responsibilities	
+11-5	723-724	:	
+11-6	725-728	You	
+11-7	729-733	will	
+11-8	734-742	abstract	
+11-9	743-747	away	
+11-10	748-755	complex	
+11-11	756-760	data	
+11-12	761-773	interactions	
+11-13	774-778	with	
+11-14	779-790	easy-to-use	
+11-15	791-795	APIs	
+11-16	796-800	that	
+11-17	801-805	will	
+11-18	806-811	power	
+11-19	812-819	several	
+11-20	820-826	mobile	
+11-21	827-830	and	
+11-22	831-834	web	
+11-23	835-847	applications	
+11-24	848-851	You	
+11-25	852-856	will	
+11-26	857-861	also	
+11-27	862-865	own	
+11-28	865-866	,	
+11-29	867-872	scale	
+11-30	872-873	,	
+11-31	874-877	and	
+11-32	878-886	maintain	
+11-33	887-890	the	
+11-34	891-904	computational	
+11-35	905-908	and	
+11-36	909-916	storage	
+11-37	917-931	infrastructure	
+11-38	932-935	for	
+11-39	936-939	the	
+11-40	940-947	various	
+11-41	948-962	micro-services	
+11-42	963-966	and	
+11-43	967-979	long-running	
+11-44	980-984	jobs	
+11-45	984-985	,	
+11-46	986-994	designed	
+11-47	995-998	and	
+11-48	999-1010	implemented	
+11-49	1011-1013	by	
+11-50	1014-1017	you	
+11-51	1018-1021	and	
+11-52	1022-1025	the	
+11-53	1026-1030	team	
+11-54	1031-1043	Coordinating	
+11-55	1044-1048	with	
+11-56	1049-1060	development	
+11-57	1061-1071	department	
+11-58	1072-1074	to	
+11-59	1075-1084	determine	
+11-60	1085-1096	application	
+11-61	1097-1108	requirement	

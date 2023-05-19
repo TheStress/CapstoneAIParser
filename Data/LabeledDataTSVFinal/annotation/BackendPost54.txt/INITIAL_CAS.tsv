@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsibilities: Responsible for understanding functional and business requirements and translate them into effective code.
+1-1	0-16	Responsibilities	
+1-2	16-17	:	
+1-3	18-29	Responsible	
+1-4	30-33	for	
+1-5	34-47	understanding	
+1-6	48-58	functional	
+1-7	59-62	and	
+1-8	63-71	business	
+1-9	72-84	requirements	
+1-10	85-88	and	
+1-11	89-98	translate	
+1-12	99-103	them	
+1-13	104-108	into	
+1-14	109-118	effective	
+1-15	119-123	code	
+1-16	123-124	.	
+
+#Text=Provide support till deployment of code into production.
+2-1	125-132	Provide	
+2-2	133-140	support	
+2-3	141-145	till	
+2-4	146-156	deployment	
+2-5	157-159	of	
+2-6	160-164	code	
+2-7	165-169	into	
+2-8	170-180	production	
+2-9	180-181	.	
+
+#Text=Ownership for ensuring code optimization, problem diagnosis and on time delivery.
+3-1	182-191	Ownership	
+3-2	192-195	for	
+3-3	196-204	ensuring	
+3-4	205-209	code	
+3-5	210-222	optimization	
+3-6	222-223	,	
+3-7	224-231	problem	
+3-8	232-241	diagnosis	
+3-9	242-245	and	
+3-10	246-248	on	
+3-11	249-253	time	
+3-12	254-262	delivery	
+3-13	262-263	.	
+
+#Text=Implement solutions as per the pre-defined framework /guidelines and adherence to processes.
+4-1	264-273	Implement	
+4-2	274-283	solutions	
+4-3	284-286	as	
+4-4	287-290	per	
+4-5	291-294	the	
+4-6	295-306	pre-defined	
+4-7	307-316	framework	
+4-8	317-318	/	
+4-9	318-328	guidelines	
+4-10	329-332	and	
+4-11	333-342	adherence	
+4-12	343-345	to	
+4-13	346-355	processes	
+4-14	355-356	.	
+
+#Text=Finding an optimal solution for the... problem statement.Key Skills: Python.
+5-1	357-364	Finding	
+5-2	365-367	an	
+5-3	368-375	optimal	
+5-4	376-384	solution	
+5-5	385-388	for	
+5-6	389-392	the	
+5-7	392-393	.	
+5-8	393-394	.	
+5-9	394-395	.	
+5-10	396-403	problem	
+5-11	404-417	statement.Key	
+5-12	418-424	Skills	
+5-13	424-425	:	
+5-14	426-432	Python	
+5-15	432-433	.	
+
+#Text=Java.
+6-1	434-438	Java	
+6-2	438-439	.	
+
+#Text=PHP.
+7-1	440-443	PHP	
+7-2	443-444	.	
+
+#Text=SQL.
+8-1	445-448	SQL	
+8-2	448-449	.	
+
+#Text=HTML.
+9-1	450-454	HTML	
+9-2	454-455	.	
+
+#Text=CSS.
+10-1	456-459	CSS	
+10-2	459-460	.	
+
+#Text=JavaScript Java PHP Responsibilities: Responsible for understanding functional and business requirements and translate them into effective code Provide support till deployment of code into production Ownership for ensuring code optimization, problem diagnosis and on time delivery Implement solutions as per the pre-defined framework /guidelines and adherence to processes Finding an optimal solution for the problem statement
+11-1	461-471	JavaScript	
+11-2	472-476	Java	
+11-3	477-480	PHP	
+11-4	481-497	Responsibilities	
+11-5	497-498	:	
+11-6	499-510	Responsible	
+11-7	511-514	for	
+11-8	515-528	understanding	
+11-9	529-539	functional	
+11-10	540-543	and	
+11-11	544-552	business	
+11-12	553-565	requirements	
+11-13	566-569	and	
+11-14	570-579	translate	
+11-15	580-584	them	
+11-16	585-589	into	
+11-17	590-599	effective	
+11-18	600-604	code	
+11-19	605-612	Provide	
+11-20	613-620	support	
+11-21	621-625	till	
+11-22	626-636	deployment	
+11-23	637-639	of	
+11-24	640-644	code	
+11-25	645-649	into	
+11-26	650-660	production	
+11-27	661-670	Ownership	
+11-28	671-674	for	
+11-29	675-683	ensuring	
+11-30	684-688	code	
+11-31	689-701	optimization	
+11-32	701-702	,	
+11-33	703-710	problem	
+11-34	711-720	diagnosis	
+11-35	721-724	and	
+11-36	725-727	on	
+11-37	728-732	time	
+11-38	733-741	delivery	
+11-39	742-751	Implement	
+11-40	752-761	solutions	
+11-41	762-764	as	
+11-42	765-768	per	
+11-43	769-772	the	
+11-44	773-784	pre-defined	
+11-45	785-794	framework	
+11-46	795-796	/	
+11-47	796-806	guidelines	
+11-48	807-810	and	
+11-49	811-820	adherence	
+11-50	821-823	to	
+11-51	824-833	processes	
+11-52	834-841	Finding	
+11-53	842-844	an	
+11-54	845-852	optimal	
+11-55	853-861	solution	
+11-56	862-865	for	
+11-57	866-869	the	
+11-58	870-877	problem	
+11-59	878-887	statement	

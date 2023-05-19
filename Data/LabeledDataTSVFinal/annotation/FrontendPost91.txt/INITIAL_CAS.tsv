@@ -1,0 +1,185 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsibilities: Designing, developing, and testing UI for mobile and web applications.
+1-1	0-16	Responsibilities	
+1-2	16-17	:	
+1-3	18-27	Designing	
+1-4	27-28	,	
+1-5	29-39	developing	
+1-6	39-40	,	
+1-7	41-44	and	
+1-8	45-52	testing	
+1-9	53-55	UI	
+1-10	56-59	for	
+1-11	60-66	mobile	
+1-12	67-70	and	
+1-13	71-74	web	
+1-14	75-87	applications	
+1-15	87-88	.	
+
+#Text=Build reusable code and libraries for future use.
+2-1	89-94	Build	
+2-2	95-103	reusable	
+2-3	104-108	code	
+2-4	109-112	and	
+2-5	113-122	libraries	
+2-6	123-126	for	
+2-7	127-133	future	
+2-8	134-137	use	
+2-9	137-138	.	
+
+#Text=Accurately translate user and business needs into functional front-end code.Requirements: Bachelor's degree or equivalent in Computer Science, Information Technology or MCA.
+3-1	139-149	Accurately	
+3-2	150-159	translate	
+3-3	160-164	user	
+3-4	165-168	and	
+3-5	169-177	business	
+3-6	178-183	needs	
+3-7	184-188	into	
+3-8	189-199	functional	
+3-9	200-209	front-end	
+3-10	210-227	code.Requirements	
+3-11	227-228	:	
+3-12	229-239	Bachelor's	
+3-13	240-246	degree	
+3-14	247-249	or	
+3-15	250-260	equivalent	
+3-16	261-263	in	
+3-17	264-272	Computer	
+3-18	273-280	Science	
+3-19	280-281	,	
+3-20	282-293	Information	
+3-21	294-304	Technology	
+3-22	305-307	or	
+3-23	308-311	MCA	
+3-24	311-312	.	
+
+#Text=Good in fundamentals of Computer Science and Programming Languages.
+4-1	313-317	Good	
+4-2	318-320	in	
+4-3	321-333	fundamentals	
+4-4	334-336	of	
+4-5	337-345	Computer	
+4-6	346-353	Science	
+4-7	354-357	and	
+4-8	358-369	Programming	
+4-9	370-379	Languages	
+4-10	379-380	.	
+
+#Text=Understanding of...
+5-1	381-394	Understanding	
+5-2	395-397	of	
+5-3	397-398	.	
+5-4	398-399	.	
+5-5	399-400	.	
+
+#Text=HTML, CSS or JavaScript will be an added advantage.Key Skills: JavaScript/jQuery.
+6-1	401-405	HTML	
+6-2	405-406	,	
+6-3	407-410	CSS	
+6-4	411-413	or	
+6-5	414-424	JavaScript	
+6-6	425-429	will	
+6-7	430-432	be	
+6-8	433-435	an	
+6-9	436-441	added	
+6-10	442-455	advantage.Key	
+6-11	456-462	Skills	
+6-12	462-463	:	
+6-13	464-474	JavaScript	
+6-14	474-475	/	
+6-15	475-481	jQuery	
+6-16	481-482	.	
+
+#Text=Frameworks.
+7-1	483-493	Frameworks	
+7-2	493-494	.	
+
+#Text=Responsive Design.
+8-1	495-505	Responsive	
+8-2	506-512	Design	
+8-3	512-513	.	
+
+#Text=Testing/Debugging.
+9-1	514-521	Testing	
+9-2	521-522	/	
+9-3	522-531	Debugging	
+9-4	531-532	.	
+
+#Text=Browser Developer Tools.
+10-1	533-540	Browser	
+10-2	541-550	Developer	
+10-3	551-556	Tools	
+10-4	556-557	.	
+
+#Text=Web Performance Requirements: Bachelor's degree or equivalent in Computer Science, Information Technology or MCA Good in fundamentals of Computer Science and Programming Languages Understanding of HTML, CSS or JavaScript will be an added advantage Responsibilities: Designing, developing, and testing UI for mobile and web applications Build reusable code and libraries for future use Accurately translate user and business needs into functional front-end code
+11-1	558-561	Web	
+11-2	562-573	Performance	
+11-3	574-586	Requirements	
+11-4	586-587	:	
+11-5	588-598	Bachelor's	
+11-6	599-605	degree	
+11-7	606-608	or	
+11-8	609-619	equivalent	
+11-9	620-622	in	
+11-10	623-631	Computer	
+11-11	632-639	Science	
+11-12	639-640	,	
+11-13	641-652	Information	
+11-14	653-663	Technology	
+11-15	664-666	or	
+11-16	667-670	MCA	
+11-17	671-675	Good	
+11-18	676-678	in	
+11-19	679-691	fundamentals	
+11-20	692-694	of	
+11-21	695-703	Computer	
+11-22	704-711	Science	
+11-23	712-715	and	
+11-24	716-727	Programming	
+11-25	728-737	Languages	
+11-26	738-751	Understanding	
+11-27	752-754	of	
+11-28	755-759	HTML	
+11-29	759-760	,	
+11-30	761-764	CSS	
+11-31	765-767	or	
+11-32	768-778	JavaScript	
+11-33	779-783	will	
+11-34	784-786	be	
+11-35	787-789	an	
+11-36	790-795	added	
+11-37	796-805	advantage	
+11-38	806-822	Responsibilities	
+11-39	822-823	:	
+11-40	824-833	Designing	
+11-41	833-834	,	
+11-42	835-845	developing	
+11-43	845-846	,	
+11-44	847-850	and	
+11-45	851-858	testing	
+11-46	859-861	UI	
+11-47	862-865	for	
+11-48	866-872	mobile	
+11-49	873-876	and	
+11-50	877-880	web	
+11-51	881-893	applications	
+11-52	894-899	Build	
+11-53	900-908	reusable	
+11-54	909-913	code	
+11-55	914-917	and	
+11-56	918-927	libraries	
+11-57	928-931	for	
+11-58	932-938	future	
+11-59	939-942	use	
+11-60	943-953	Accurately	
+11-61	954-963	translate	
+11-62	964-968	user	
+11-63	969-972	and	
+11-64	973-981	business	
+11-65	982-987	needs	
+11-66	988-992	into	
+11-67	993-1003	functional	
+11-68	1004-1013	front-end	
+11-69	1014-1018	code	

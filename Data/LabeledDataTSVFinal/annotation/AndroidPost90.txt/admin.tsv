@@ -1,0 +1,633 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=HelloJob Title  (Sr.
+1-1	0-8	HelloJob	_	
+1-2	9-14	Title	_	
+1-3	16-17	(	_	
+1-4	17-19	Sr	_	
+1-5	19-20	.	_	
+
+#Text=Android Developer) Software EngineerDuration  11 monthsLocation  Addison, TX (Onsite)Job DescriptionDesigns modifies develops writes and implements software programming applications.
+2-1	21-28	Android	Hard Skill	
+2-2	29-38	Developer	_	
+2-3	38-39	)	_	
+2-4	40-48	Software	_	
+2-5	49-65	EngineerDuration	_	
+2-6	67-69	11	_	
+2-7	70-84	monthsLocation	_	
+2-8	86-93	Addison	_	
+2-9	93-94	,	_	
+2-10	95-97	TX	_	
+2-11	98-99	(	_	
+2-12	99-105	Onsite	_	
+2-13	105-106	)	_	
+2-14	106-109	Job	_	
+2-15	110-128	DescriptionDesigns	_	
+2-16	129-137	modifies	_	
+2-17	138-146	develops	_	
+2-18	147-153	writes	_	
+2-19	154-157	and	_	
+2-20	158-168	implements	_	
+2-21	169-177	software	_	
+2-22	178-189	programming	Hard Skill	
+2-23	190-202	applications	_	
+2-24	202-203	.	_	
+
+#Text=Supports and/or installs software applications/operating systems.
+3-1	204-212	Supports	_	
+3-2	213-216	and	_	
+3-3	216-217	/	_	
+3-4	217-219	or	_	
+3-5	220-228	installs	_	
+3-6	229-237	software	_	
+3-7	238-250	applications	_	
+3-8	250-251	/	_	
+3-9	251-260	operating	_	
+3-10	261-268	systems	_	
+3-11	268-269	.	_	
+
+#Text=Participates in the testing process through test review and analysis test witnessing and certification of software.Requires a bachelors degree in a related area and 7 years of experience in the field or in a related area.
+4-1	270-282	Participates	_	
+4-2	283-285	in	_	
+4-3	286-289	the	_	
+4-4	290-297	testing	_	
+4-5	298-305	process	_	
+4-6	306-313	through	_	
+4-7	314-318	test	_	
+4-8	319-325	review	_	
+4-9	326-329	and	_	
+4-10	330-338	analysis	Hard Skill	
+4-11	339-343	test	_	
+4-12	344-354	witnessing	_	
+4-13	355-358	and	_	
+4-14	359-372	certification	_	
+4-15	373-375	of	_	
+4-16	376-393	software.Requires	_	
+4-17	394-395	a	_	
+4-18	396-405	bachelors	_	
+4-19	406-412	degree	_	
+4-20	413-415	in	_	
+4-21	416-417	a	_	
+4-22	418-425	related	_	
+4-23	426-430	area	_	
+4-24	431-434	and	_	
+4-25	435-436	7	_	
+4-26	437-442	years	_	
+4-27	443-445	of	_	
+4-28	446-456	experience	_	
+4-29	457-459	in	_	
+4-30	460-463	the	_	
+4-31	464-469	field	_	
+4-32	470-472	or	_	
+4-33	473-475	in	_	
+4-34	476-477	a	_	
+4-35	478-485	related	_	
+4-36	486-490	area	_	
+4-37	490-491	.	_	
+
+#Text=Has knowledge of commonly used concepts practices and procedures within a particular field.
+5-1	492-495	Has	_	
+5-2	496-505	knowledge	_	
+5-3	506-508	of	_	
+5-4	509-517	commonly	_	
+5-5	518-522	used	_	
+5-6	523-531	concepts	_	
+5-7	532-541	practices	_	
+5-8	542-545	and	_	
+5-9	546-556	procedures	_	
+5-10	557-563	within	_	
+5-11	564-565	a	_	
+5-12	566-576	particular	_	
+5-13	577-582	field	_	
+5-14	582-583	.	_	
+
+#Text=Relies on instructions and pre-established guidelines to perform the functions of the job.
+6-1	584-590	Relies	_	
+6-2	591-593	on	_	
+6-3	594-606	instructions	_	
+6-4	607-610	and	_	
+6-5	611-626	pre-established	_	
+6-6	627-637	guidelines	_	
+6-7	638-640	to	_	
+6-8	641-648	perform	_	
+6-9	649-652	the	_	
+6-10	653-662	functions	_	
+6-11	663-665	of	_	
+6-12	666-669	the	_	
+6-13	670-673	job	_	
+6-14	673-674	.	_	
+
+#Text=Works under immediate supervision.Primary job functions do not typically require exercising independent judgment.
+7-1	675-680	Works	_	
+7-2	681-686	under	_	
+7-3	687-696	immediate	_	
+7-4	697-716	supervision.Primary	_	
+7-5	717-720	job	_	
+7-6	721-730	functions	_	
+7-7	731-733	do	_	
+7-8	734-737	not	_	
+7-9	738-747	typically	_	
+7-10	748-755	require	_	
+7-11	756-766	exercising	_	
+7-12	767-778	independent	_	
+7-13	779-787	judgment	_	
+7-14	787-788	.	_	
+
+#Text=Typically reports to a manager. 7 years of experience with full cycle software development preferably in an agile environment.
+8-1	789-798	Typically	_	
+8-2	799-806	reports	_	
+8-3	807-809	to	_	
+8-4	810-811	a	_	
+8-5	812-819	manager	_	
+8-6	819-820	.	_	
+8-7	821-822	7	_	
+8-8	823-828	years	_	
+8-9	829-831	of	_	
+8-10	832-842	experience	_	
+8-11	843-847	with	_	
+8-12	848-852	full	_	
+8-13	853-858	cycle	_	
+8-14	859-867	software	_	
+8-15	868-879	development	_	
+8-16	880-890	preferably	_	
+8-17	891-893	in	_	
+8-18	894-896	an	_	
+8-19	897-902	agile	Hard Skill	
+8-20	903-914	environment	_	
+8-21	914-915	.	_	
+
+#Text=Experience should include all the following  design coding testing release... and maintenance5 years of Experience with Android application engineering with at least one app shipped to the Google Play StoreExperience with Android Studio Gradle and GitExperience/good working knowledge of Kotlin and JavaExperience with REST JSON Dagger Realm URL loading and web servicesExperience/ working knowledge with various architectural design patterns UDF MVVM MVCExperience with RxJavaFamiliarity with Jetpack ComposeFamiliarity with Test Driven Development is a huge plusFamiliarity with agile software tools such as JIRAExcellent verbal and written communication skillsPassionate and engaged with the latest technology trends and willing to share possibilities with the broader teamRequired SkillsSr.Android Developer gt 5 years experience.
+9-1	916-926	Experience	_	
+9-2	927-933	should	_	
+9-3	934-941	include	_	
+9-4	942-945	all	_	
+9-5	946-949	the	_	
+9-6	950-959	following	_	
+9-7	961-967	design	Hard Skill	
+9-8	968-974	coding	Hard Skill	
+9-9	975-982	testing	_	
+9-10	983-990	release	_	
+9-11	990-991	.	_	
+9-12	991-992	.	_	
+9-13	992-993	.	_	
+9-14	994-997	and	_	
+9-15	998-1010	maintenance5	_	
+9-16	1011-1016	years	_	
+9-17	1017-1019	of	_	
+9-18	1020-1030	Experience	_	
+9-19	1031-1035	with	_	
+9-20	1036-1043	Android	Hard Skill	
+9-21	1044-1055	application	_	
+9-22	1056-1067	engineering	_	
+9-23	1068-1072	with	_	
+9-24	1073-1075	at	_	
+9-25	1076-1081	least	_	
+9-26	1082-1085	one	_	
+9-27	1086-1089	app	_	
+9-28	1090-1097	shipped	_	
+9-29	1098-1100	to	_	
+9-30	1101-1104	the	_	
+9-31	1105-1111	Google	_	
+9-32	1112-1116	Play	_	
+9-33	1117-1132	StoreExperience	_	
+9-34	1133-1137	with	_	
+9-35	1138-1145	Android	Hard Skill	
+9-36	1146-1152	Studio	_	
+9-37	1153-1159	Gradle	_	
+9-38	1160-1163	and	_	
+9-39	1164-1177	GitExperience	_	
+9-40	1177-1178	/	_	
+9-41	1178-1182	good	_	
+9-42	1183-1190	working	_	
+9-43	1191-1200	knowledge	_	
+9-44	1201-1203	of	_	
+9-45	1204-1210	Kotlin	Hard Skill	
+9-46	1211-1214	and	_	
+9-47	1215-1229	JavaExperience	_	
+9-48	1230-1234	with	_	
+9-49	1235-1239	REST	_	
+9-50	1240-1244	JSON	Hard Skill	
+9-51	1245-1251	Dagger	_	
+9-52	1252-1257	Realm	_	
+9-53	1258-1261	URL	_	
+9-54	1262-1269	loading	_	
+9-55	1270-1273	and	_	
+9-56	1274-1277	web	_	
+9-57	1278-1296	servicesExperience	_	
+9-58	1296-1297	/	_	
+9-59	1298-1305	working	_	
+9-60	1306-1315	knowledge	_	
+9-61	1316-1320	with	_	
+9-62	1321-1328	various	_	
+9-63	1329-1342	architectural	_	
+9-64	1343-1349	design	Hard Skill	
+9-65	1350-1358	patterns	_	
+9-66	1359-1362	UDF	_	
+9-67	1363-1367	MVVM	Hard Skill	
+9-68	1368-1381	MVCExperience	_	
+9-69	1382-1386	with	_	
+9-70	1387-1404	RxJavaFamiliarity	_	
+9-71	1405-1409	with	_	
+9-72	1410-1417	Jetpack	_	
+9-73	1418-1436	ComposeFamiliarity	_	
+9-74	1437-1441	with	_	
+9-75	1442-1446	Test	_	
+9-76	1447-1453	Driven	_	
+9-77	1454-1465	Development	_	
+9-78	1466-1468	is	_	
+9-79	1469-1470	a	_	
+9-80	1471-1475	huge	_	
+9-81	1476-1491	plusFamiliarity	_	
+9-82	1492-1496	with	_	
+9-83	1497-1502	agile	Hard Skill	
+9-84	1503-1511	software	_	
+9-85	1512-1517	tools	_	
+9-86	1518-1522	such	_	
+9-87	1523-1525	as	_	
+9-88	1526-1539	JIRAExcellent	_	
+9-89	1540-1546	verbal	_	
+9-90	1547-1550	and	_	
+9-91	1551-1558	written	_	
+9-92	1559-1572	communication	Soft Skill	
+9-93	1573-1589	skillsPassionate	_	
+9-94	1590-1593	and	_	
+9-95	1594-1601	engaged	_	
+9-96	1602-1606	with	_	
+9-97	1607-1610	the	_	
+9-98	1611-1617	latest	_	
+9-99	1618-1628	technology	_	
+9-100	1629-1635	trends	_	
+9-101	1636-1639	and	_	
+9-102	1640-1647	willing	_	
+9-103	1648-1650	to	_	
+9-104	1651-1656	share	_	
+9-105	1657-1670	possibilities	_	
+9-106	1671-1675	with	_	
+9-107	1676-1679	the	_	
+9-108	1680-1687	broader	_	
+9-109	1688-1700	teamRequired	_	
+9-110	1701-1717	SkillsSr.Android	_	
+9-111	1718-1727	Developer	_	
+9-112	1728-1730	gt	_	
+9-113	1731-1732	5	_	
+9-114	1733-1738	years	_	
+9-115	1739-1749	experience	_	
+9-116	1749-1750	.	_	
+
+#Text=Jetpack Compose Experience Preferred.
+10-1	1751-1758	Jetpack	_	
+10-2	1759-1766	Compose	_	
+10-3	1767-1777	Experience	_	
+10-4	1778-1787	Preferred	_	
+10-5	1787-1788	.	_	
+
+#Text=Should be comfortable with daily commits/pull requests.
+11-1	1789-1795	Should	_	
+11-2	1796-1798	be	_	
+11-3	1799-1810	comfortable	_	
+11-4	1811-1815	with	_	
+11-5	1816-1821	daily	_	
+11-6	1822-1829	commits	_	
+11-7	1829-1830	/	_	
+11-8	1830-1834	pull	_	
+11-9	1835-1843	requests	_	
+11-10	1843-1844	.	_	
+
+#Text=Should be comfortable working with UX product and tech leads to bring clarity to tickets.No items found.
+12-1	1845-1851	Should	_	
+12-2	1852-1854	be	_	
+12-3	1855-1866	comfortable	_	
+12-4	1867-1874	working	_	
+12-5	1875-1879	with	_	
+12-6	1880-1882	UX	_	
+12-7	1883-1890	product	_	
+12-8	1891-1894	and	_	
+12-9	1895-1899	tech	_	
+12-10	1900-1905	leads	_	
+12-11	1906-1908	to	_	
+12-12	1909-1914	bring	_	
+12-13	1915-1922	clarity	_	
+12-14	1923-1925	to	_	
+12-15	1926-1936	tickets.No	_	
+12-16	1937-1942	items	_	
+12-17	1943-1948	found	_	
+12-18	1948-1949	.	_	
+
+#Text=SDL2017Source  HelloJob Title  (Sr.
+13-1	1950-1963	SDL2017Source	_	
+13-2	1965-1973	HelloJob	_	
+13-3	1974-1979	Title	_	
+13-4	1981-1982	(	_	
+13-5	1982-1984	Sr	_	
+13-6	1984-1985	.	_	
+
+#Text=Android Developer) Software EngineerDuration  11 monthsLocation  Addison, TX (Onsite)Job DescriptionDesigns modifies develops writes and implements software programming applications.
+14-1	1986-1993	Android	Hard Skill	
+14-2	1994-2003	Developer	_	
+14-3	2003-2004	)	_	
+14-4	2005-2013	Software	_	
+14-5	2014-2030	EngineerDuration	_	
+14-6	2032-2034	11	_	
+14-7	2035-2049	monthsLocation	_	
+14-8	2051-2058	Addison	_	
+14-9	2058-2059	,	_	
+14-10	2060-2062	TX	_	
+14-11	2063-2064	(	_	
+14-12	2064-2070	Onsite	_	
+14-13	2070-2071	)	_	
+14-14	2071-2074	Job	_	
+14-15	2075-2093	DescriptionDesigns	_	
+14-16	2094-2102	modifies	_	
+14-17	2103-2111	develops	_	
+14-18	2112-2118	writes	_	
+14-19	2119-2122	and	_	
+14-20	2123-2133	implements	_	
+14-21	2134-2142	software	_	
+14-22	2143-2154	programming	Hard Skill	
+14-23	2155-2167	applications	_	
+14-24	2167-2168	.	_	
+
+#Text=Supports and/or installs software applications/operating systems.
+15-1	2169-2177	Supports	_	
+15-2	2178-2181	and	_	
+15-3	2181-2182	/	_	
+15-4	2182-2184	or	_	
+15-5	2185-2193	installs	_	
+15-6	2194-2202	software	_	
+15-7	2203-2215	applications	_	
+15-8	2215-2216	/	_	
+15-9	2216-2225	operating	_	
+15-10	2226-2233	systems	_	
+15-11	2233-2234	.	_	
+
+#Text=Participates in the testing process through test review and analysis test witnessing and certification of software.Requires a bachelors degree in a related area and 7 years of experience in the field or in a related area.
+16-1	2235-2247	Participates	_	
+16-2	2248-2250	in	_	
+16-3	2251-2254	the	_	
+16-4	2255-2262	testing	_	
+16-5	2263-2270	process	_	
+16-6	2271-2278	through	_	
+16-7	2279-2283	test	_	
+16-8	2284-2290	review	_	
+16-9	2291-2294	and	_	
+16-10	2295-2303	analysis	Hard Skill	
+16-11	2304-2308	test	_	
+16-12	2309-2319	witnessing	_	
+16-13	2320-2323	and	_	
+16-14	2324-2337	certification	_	
+16-15	2338-2340	of	_	
+16-16	2341-2358	software.Requires	_	
+16-17	2359-2360	a	_	
+16-18	2361-2370	bachelors	_	
+16-19	2371-2377	degree	_	
+16-20	2378-2380	in	_	
+16-21	2381-2382	a	_	
+16-22	2383-2390	related	_	
+16-23	2391-2395	area	_	
+16-24	2396-2399	and	_	
+16-25	2400-2401	7	_	
+16-26	2402-2407	years	_	
+16-27	2408-2410	of	_	
+16-28	2411-2421	experience	_	
+16-29	2422-2424	in	_	
+16-30	2425-2428	the	_	
+16-31	2429-2434	field	_	
+16-32	2435-2437	or	_	
+16-33	2438-2440	in	_	
+16-34	2441-2442	a	_	
+16-35	2443-2450	related	_	
+16-36	2451-2455	area	_	
+16-37	2455-2456	.	_	
+
+#Text=Has knowledge of commonly used concepts practices and procedures within a particular field.
+17-1	2457-2460	Has	_	
+17-2	2461-2470	knowledge	_	
+17-3	2471-2473	of	_	
+17-4	2474-2482	commonly	_	
+17-5	2483-2487	used	_	
+17-6	2488-2496	concepts	_	
+17-7	2497-2506	practices	_	
+17-8	2507-2510	and	_	
+17-9	2511-2521	procedures	_	
+17-10	2522-2528	within	_	
+17-11	2529-2530	a	_	
+17-12	2531-2541	particular	_	
+17-13	2542-2547	field	_	
+17-14	2547-2548	.	_	
+
+#Text=Relies on instructions and pre-established guidelines to perform the functions of the job.
+18-1	2549-2555	Relies	_	
+18-2	2556-2558	on	_	
+18-3	2559-2571	instructions	_	
+18-4	2572-2575	and	_	
+18-5	2576-2591	pre-established	_	
+18-6	2592-2602	guidelines	_	
+18-7	2603-2605	to	_	
+18-8	2606-2613	perform	_	
+18-9	2614-2617	the	_	
+18-10	2618-2627	functions	_	
+18-11	2628-2630	of	_	
+18-12	2631-2634	the	_	
+18-13	2635-2638	job	_	
+18-14	2638-2639	.	_	
+
+#Text=Works under immediate supervision.Primary job functions do not typically require exercising independent judgment.
+19-1	2640-2645	Works	_	
+19-2	2646-2651	under	_	
+19-3	2652-2661	immediate	_	
+19-4	2662-2681	supervision.Primary	_	
+19-5	2682-2685	job	_	
+19-6	2686-2695	functions	_	
+19-7	2696-2698	do	_	
+19-8	2699-2702	not	_	
+19-9	2703-2712	typically	_	
+19-10	2713-2720	require	_	
+19-11	2721-2731	exercising	_	
+19-12	2732-2743	independent	_	
+19-13	2744-2752	judgment	_	
+19-14	2752-2753	.	_	
+
+#Text=Typically reports to a manager. 7 years of experience with full cycle software development preferably in an agile environment.
+20-1	2754-2763	Typically	_	
+20-2	2764-2771	reports	_	
+20-3	2772-2774	to	_	
+20-4	2775-2776	a	_	
+20-5	2777-2784	manager	_	
+20-6	2784-2785	.	_	
+20-7	2786-2787	7	_	
+20-8	2788-2793	years	_	
+20-9	2794-2796	of	_	
+20-10	2797-2807	experience	_	
+20-11	2808-2812	with	_	
+20-12	2813-2817	full	_	
+20-13	2818-2823	cycle	_	
+20-14	2824-2832	software	_	
+20-15	2833-2844	development	_	
+20-16	2845-2855	preferably	_	
+20-17	2856-2858	in	_	
+20-18	2859-2861	an	_	
+20-19	2862-2867	agile	Hard Skill	
+20-20	2868-2879	environment	_	
+20-21	2879-2880	.	_	
+
+#Text=Experience should include all the following  design coding testing release... and maintenance5 years of Experience with Android application engineering with at least one app shipped to the Google Play StoreExperience with Android Studio Gradle and GitExperience/good working knowledge of Kotlin and JavaExperience with REST JSON Dagger Realm URL loading and web servicesExperience/ working knowledge with various architectural design patterns UDF MVVM MVCExperience with RxJavaFamiliarity with Jetpack ComposeFamiliarity with Test Driven Development is a huge plusFamiliarity with agile software tools such as JIRAExcellent verbal and written communication skillsPassionate and engaged with the latest technology trends and willing to share possibilities with the broader teamRequired SkillsSr.Android Developer gt 5 years experience.
+21-1	2881-2891	Experience	_	
+21-2	2892-2898	should	_	
+21-3	2899-2906	include	_	
+21-4	2907-2910	all	_	
+21-5	2911-2914	the	_	
+21-6	2915-2924	following	_	
+21-7	2926-2932	design	Hard Skill	
+21-8	2933-2939	coding	Hard Skill	
+21-9	2940-2947	testing	_	
+21-10	2948-2955	release	_	
+21-11	2955-2956	.	_	
+21-12	2956-2957	.	_	
+21-13	2957-2958	.	_	
+21-14	2959-2962	and	_	
+21-15	2963-2975	maintenance5	_	
+21-16	2976-2981	years	_	
+21-17	2982-2984	of	_	
+21-18	2985-2995	Experience	_	
+21-19	2996-3000	with	_	
+21-20	3001-3008	Android	Hard Skill	
+21-21	3009-3020	application	_	
+21-22	3021-3032	engineering	_	
+21-23	3033-3037	with	_	
+21-24	3038-3040	at	_	
+21-25	3041-3046	least	_	
+21-26	3047-3050	one	_	
+21-27	3051-3054	app	_	
+21-28	3055-3062	shipped	_	
+21-29	3063-3065	to	_	
+21-30	3066-3069	the	_	
+21-31	3070-3076	Google	_	
+21-32	3077-3081	Play	_	
+21-33	3082-3097	StoreExperience	_	
+21-34	3098-3102	with	_	
+21-35	3103-3110	Android	Hard Skill	
+21-36	3111-3117	Studio	_	
+21-37	3118-3124	Gradle	_	
+21-38	3125-3128	and	_	
+21-39	3129-3142	GitExperience	_	
+21-40	3142-3143	/	_	
+21-41	3143-3147	good	_	
+21-42	3148-3155	working	_	
+21-43	3156-3165	knowledge	_	
+21-44	3166-3168	of	_	
+21-45	3169-3175	Kotlin	Hard Skill	
+21-46	3176-3179	and	_	
+21-47	3180-3194	JavaExperience	_	
+21-48	3195-3199	with	_	
+21-49	3200-3204	REST	_	
+21-50	3205-3209	JSON	Hard Skill	
+21-51	3210-3216	Dagger	_	
+21-52	3217-3222	Realm	_	
+21-53	3223-3226	URL	_	
+21-54	3227-3234	loading	_	
+21-55	3235-3238	and	_	
+21-56	3239-3242	web	_	
+21-57	3243-3261	servicesExperience	_	
+21-58	3261-3262	/	_	
+21-59	3263-3270	working	_	
+21-60	3271-3280	knowledge	_	
+21-61	3281-3285	with	_	
+21-62	3286-3293	various	_	
+21-63	3294-3307	architectural	_	
+21-64	3308-3314	design	Hard Skill	
+21-65	3315-3323	patterns	_	
+21-66	3324-3327	UDF	_	
+21-67	3328-3332	MVVM	Hard Skill	
+21-68	3333-3346	MVCExperience	_	
+21-69	3347-3351	with	_	
+21-70	3352-3369	RxJavaFamiliarity	_	
+21-71	3370-3374	with	_	
+21-72	3375-3382	Jetpack	_	
+21-73	3383-3401	ComposeFamiliarity	_	
+21-74	3402-3406	with	_	
+21-75	3407-3411	Test	_	
+21-76	3412-3418	Driven	_	
+21-77	3419-3430	Development	_	
+21-78	3431-3433	is	_	
+21-79	3434-3435	a	_	
+21-80	3436-3440	huge	_	
+21-81	3441-3456	plusFamiliarity	_	
+21-82	3457-3461	with	_	
+21-83	3462-3467	agile	Hard Skill	
+21-84	3468-3476	software	_	
+21-85	3477-3482	tools	_	
+21-86	3483-3487	such	_	
+21-87	3488-3490	as	_	
+21-88	3491-3504	JIRAExcellent	_	
+21-89	3505-3511	verbal	_	
+21-90	3512-3515	and	_	
+21-91	3516-3523	written	_	
+21-92	3524-3537	communication	Soft Skill	
+21-93	3538-3554	skillsPassionate	_	
+21-94	3555-3558	and	_	
+21-95	3559-3566	engaged	_	
+21-96	3567-3571	with	_	
+21-97	3572-3575	the	_	
+21-98	3576-3582	latest	_	
+21-99	3583-3593	technology	_	
+21-100	3594-3600	trends	_	
+21-101	3601-3604	and	_	
+21-102	3605-3612	willing	_	
+21-103	3613-3615	to	_	
+21-104	3616-3621	share	_	
+21-105	3622-3635	possibilities	_	
+21-106	3636-3640	with	_	
+21-107	3641-3644	the	_	
+21-108	3645-3652	broader	_	
+21-109	3653-3665	teamRequired	_	
+21-110	3666-3682	SkillsSr.Android	_	
+21-111	3683-3692	Developer	_	
+21-112	3693-3695	gt	_	
+21-113	3696-3697	5	_	
+21-114	3698-3703	years	_	
+21-115	3704-3714	experience	_	
+21-116	3714-3715	.	_	
+
+#Text=Jetpack Compose Experience Preferred.
+22-1	3716-3723	Jetpack	_	
+22-2	3724-3731	Compose	_	
+22-3	3732-3742	Experience	_	
+22-4	3743-3752	Preferred	_	
+22-5	3752-3753	.	_	
+
+#Text=Should be comfortable with daily commits/pull requests.
+23-1	3754-3760	Should	_	
+23-2	3761-3763	be	_	
+23-3	3764-3775	comfortable	_	
+23-4	3776-3780	with	_	
+23-5	3781-3786	daily	_	
+23-6	3787-3794	commits	_	
+23-7	3794-3795	/	_	
+23-8	3795-3799	pull	_	
+23-9	3800-3808	requests	_	
+23-10	3808-3809	.	_	
+
+#Text=Should be comfortable working with UX product and tech leads to bring clarity to tickets.No items found.
+24-1	3810-3816	Should	_	
+24-2	3817-3819	be	_	
+24-3	3820-3831	comfortable	_	
+24-4	3832-3839	working	_	
+24-5	3840-3844	with	_	
+24-6	3845-3847	UX	_	
+24-7	3848-3855	product	_	
+24-8	3856-3859	and	_	
+24-9	3860-3864	tech	_	
+24-10	3865-3870	leads	_	
+24-11	3871-3873	to	_	
+24-12	3874-3879	bring	_	
+24-13	3880-3887	clarity	_	
+24-14	3888-3890	to	_	
+24-15	3891-3901	tickets.No	_	
+24-16	3902-3907	items	_	
+24-17	3908-3913	found	_	
+24-18	3913-3914	.	_	
+
+#Text=SDL2017Source
+25-1	3915-3928	SDL2017Source	_	

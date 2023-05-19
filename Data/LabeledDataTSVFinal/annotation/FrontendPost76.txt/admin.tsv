@@ -1,0 +1,323 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=We have Immediate requirement for Front-End Developers in our company.
+1-1	0-2	We	_	
+1-2	3-7	have	_	
+1-3	8-17	Immediate	_	
+1-4	18-29	requirement	_	
+1-5	30-33	for	_	
+1-6	34-43	Front-End	_	
+1-7	44-54	Developers	_	
+1-8	55-57	in	_	
+1-9	58-61	our	_	
+1-10	62-69	company	_	
+1-11	69-70	.	_	
+
+#Text=Front-End Developer Requirements  Strong AngularJs, JavaScript development experience  Strong front end development experience  Experience in developing web front end apps using AngularJS 1.x, Grunt, Yeoman, etc.
+2-1	71-80	Front-End	_	
+2-2	81-90	Developer	_	
+2-3	91-103	Requirements	_	
+2-4	105-111	Strong	_	
+2-5	112-121	AngularJs	Hard Skill	
+2-6	121-122	,	_	
+2-7	123-133	JavaScript	Hard Skill	
+2-8	134-145	development	_	
+2-9	146-156	experience	_	
+2-10	158-164	Strong	_	
+2-11	165-170	front	_	
+2-12	171-174	end	_	
+2-13	175-186	development	_	
+2-14	187-197	experience	_	
+2-15	199-209	Experience	_	
+2-16	210-212	in	_	
+2-17	213-223	developing	_	
+2-18	224-227	web	_	
+2-19	228-233	front	_	
+2-20	234-237	end	_	
+2-21	238-242	apps	_	
+2-22	243-248	using	_	
+2-23	249-258	AngularJS	Hard Skill	
+2-24	259-260	1	_	
+2-25	260-261	.	_	
+2-26	261-262	x	_	
+2-27	262-263	,	_	
+2-28	264-269	Grunt	_	
+2-29	269-270	,	_	
+2-30	271-277	Yeoman	_	
+2-31	277-278	,	_	
+2-32	279-282	etc	_	
+2-33	282-283	.	_	
+
+#Text=Good experience with AJAX, REST and JSON  Experience with development practices such as Test-Driven Development and Continuous Integration  Experience with Agile development methodologies such as Scrum, or at a minimum, a passion to work in an agile environment  Software engineering practices and knowledge of Design Patterns  Outstanding oral communication skills and visual presentation  Solid understanding of Responsive Web Design Personal Skills: Excellent organization skills, attention to detail, and ability to multi-task Demonstrated sense of responsibility and capability to deliver quickly Excellent communication skills with clear articulation and documentation of technical specifications...
+3-1	285-289	Good	_	
+3-2	290-300	experience	_	
+3-3	301-305	with	_	
+3-4	306-310	AJAX	Hard Skill	
+3-5	310-311	,	_	
+3-6	312-316	REST	_	
+3-7	317-320	and	_	
+3-8	321-325	JSON	Hard Skill	
+3-9	327-337	Experience	_	
+3-10	338-342	with	_	
+3-11	343-354	development	_	
+3-12	355-364	practices	_	
+3-13	365-369	such	_	
+3-14	370-372	as	_	
+3-15	373-384	Test-Driven	_	
+3-16	385-396	Development	_	
+3-17	397-400	and	_	
+3-18	401-411	Continuous	_	
+3-19	412-423	Integration	_	
+3-20	425-435	Experience	_	
+3-21	436-440	with	_	
+3-22	441-446	Agile	Hard Skill	
+3-23	447-458	development	_	
+3-24	459-472	methodologies	_	
+3-25	473-477	such	_	
+3-26	478-480	as	_	
+3-27	481-486	Scrum	_	
+3-28	486-487	,	_	
+3-29	488-490	or	_	
+3-30	491-493	at	_	
+3-31	494-495	a	_	
+3-32	496-503	minimum	_	
+3-33	503-504	,	_	
+3-34	505-506	a	_	
+3-35	507-514	passion	Soft Skill	
+3-36	515-517	to	_	
+3-37	518-522	work	_	
+3-38	523-525	in	_	
+3-39	526-528	an	_	
+3-40	529-534	agile	Hard Skill	
+3-41	535-546	environment	_	
+3-42	548-556	Software	_	
+3-43	557-568	engineering	_	
+3-44	569-578	practices	_	
+3-45	579-582	and	_	
+3-46	583-592	knowledge	_	
+3-47	593-595	of	_	
+3-48	596-602	Design	Hard Skill	
+3-49	603-611	Patterns	_	
+3-50	613-624	Outstanding	_	
+3-51	625-629	oral	_	
+3-52	630-643	communication	Soft Skill	
+3-53	644-650	skills	_	
+3-54	651-654	and	_	
+3-55	655-661	visual	_	
+3-56	662-674	presentation	_	
+3-57	676-681	Solid	_	
+3-58	682-695	understanding	_	
+3-59	696-698	of	_	
+3-60	699-709	Responsive	_	
+3-61	710-713	Web	_	
+3-62	714-720	Design	Hard Skill	
+3-63	721-729	Personal	_	
+3-64	730-736	Skills	_	
+3-65	736-737	:	_	
+3-66	738-747	Excellent	_	
+3-67	748-760	organization	_	
+3-68	761-767	skills	_	
+3-69	767-768	,	_	
+3-70	769-778	attention	_	
+3-71	779-781	to	_	
+3-72	782-788	detail	_	
+3-73	788-789	,	_	
+3-74	790-793	and	_	
+3-75	794-801	ability	_	
+3-76	802-804	to	_	
+3-77	805-815	multi-task	_	
+3-78	816-828	Demonstrated	_	
+3-79	829-834	sense	_	
+3-80	835-837	of	_	
+3-81	838-852	responsibility	_	
+3-82	853-856	and	_	
+3-83	857-867	capability	_	
+3-84	868-870	to	_	
+3-85	871-878	deliver	_	
+3-86	879-886	quickly	_	
+3-87	887-896	Excellent	_	
+3-88	897-910	communication	Soft Skill	
+3-89	911-917	skills	_	
+3-90	918-922	with	_	
+3-91	923-928	clear	_	
+3-92	929-941	articulation	_	
+3-93	942-945	and	_	
+3-94	946-959	documentation	Hard Skill	
+3-95	960-962	of	_	
+3-96	963-972	technical	_	
+3-97	973-987	specifications	_	
+3-98	987-988	.	_	
+3-99	988-989	.	_	
+3-100	989-990	.	_	
+
+#Text=Proactive problem-solver Relationship builder and a good team player We have Immediate requirement for Front-End Developers in our company.
+4-1	991-1000	Proactive	_	
+4-2	1001-1015	problem-solver	_	
+4-3	1016-1028	Relationship	_	
+4-4	1029-1036	builder	_	
+4-5	1037-1040	and	_	
+4-6	1041-1042	a	_	
+4-7	1043-1047	good	_	
+4-8	1048-1052	team	_	
+4-9	1053-1059	player	_	
+4-10	1060-1062	We	_	
+4-11	1063-1067	have	_	
+4-12	1068-1077	Immediate	_	
+4-13	1078-1089	requirement	_	
+4-14	1090-1093	for	_	
+4-15	1094-1103	Front-End	_	
+4-16	1104-1114	Developers	_	
+4-17	1115-1117	in	_	
+4-18	1118-1121	our	_	
+4-19	1122-1129	company	_	
+4-20	1129-1130	.	_	
+
+#Text=Front-End Developer Requirements  Strong AngularJs, JavaScript development experience  Strong front end development experience  Experience in developing web front end apps using AngularJS 1.x, Grunt, Yeoman, etc.
+5-1	1131-1140	Front-End	_	
+5-2	1141-1150	Developer	_	
+5-3	1151-1163	Requirements	_	
+5-4	1165-1171	Strong	_	
+5-5	1172-1181	AngularJs	Hard Skill	
+5-6	1181-1182	,	_	
+5-7	1183-1193	JavaScript	Hard Skill	
+5-8	1194-1205	development	_	
+5-9	1206-1216	experience	_	
+5-10	1218-1224	Strong	_	
+5-11	1225-1230	front	_	
+5-12	1231-1234	end	_	
+5-13	1235-1246	development	_	
+5-14	1247-1257	experience	_	
+5-15	1259-1269	Experience	_	
+5-16	1270-1272	in	_	
+5-17	1273-1283	developing	_	
+5-18	1284-1287	web	_	
+5-19	1288-1293	front	_	
+5-20	1294-1297	end	_	
+5-21	1298-1302	apps	_	
+5-22	1303-1308	using	_	
+5-23	1309-1318	AngularJS	Hard Skill	
+5-24	1319-1320	1	_	
+5-25	1320-1321	.	_	
+5-26	1321-1322	x	_	
+5-27	1322-1323	,	_	
+5-28	1324-1329	Grunt	_	
+5-29	1329-1330	,	_	
+5-30	1331-1337	Yeoman	_	
+5-31	1337-1338	,	_	
+5-32	1339-1342	etc	_	
+5-33	1342-1343	.	_	
+
+#Text=Good experience with AJAX, REST and JSON  Experience with development practices such as Test-Driven Development and Continuous Integration  Experience with Agile development methodologies such as Scrum, or at a minimum, a passion to work in an agile environment  Software engineering practices and knowledge of Design Patterns  Outstanding oral communication skills and visual presentation  Solid understanding of Responsive Web Design Personal Skills: Excellent organization skills, attention to detail, and ability to multi-task Demonstrated sense of responsibility and capability to deliver quickly Excellent communication skills with clear articulation and documentation of technical specifications...
+6-1	1345-1349	Good	_	
+6-2	1350-1360	experience	_	
+6-3	1361-1365	with	_	
+6-4	1366-1370	AJAX	Hard Skill	
+6-5	1370-1371	,	_	
+6-6	1372-1376	REST	_	
+6-7	1377-1380	and	_	
+6-8	1381-1385	JSON	Hard Skill	
+6-9	1387-1397	Experience	_	
+6-10	1398-1402	with	_	
+6-11	1403-1414	development	_	
+6-12	1415-1424	practices	_	
+6-13	1425-1429	such	_	
+6-14	1430-1432	as	_	
+6-15	1433-1444	Test-Driven	_	
+6-16	1445-1456	Development	_	
+6-17	1457-1460	and	_	
+6-18	1461-1471	Continuous	_	
+6-19	1472-1483	Integration	_	
+6-20	1485-1495	Experience	_	
+6-21	1496-1500	with	_	
+6-22	1501-1506	Agile	Hard Skill	
+6-23	1507-1518	development	_	
+6-24	1519-1532	methodologies	_	
+6-25	1533-1537	such	_	
+6-26	1538-1540	as	_	
+6-27	1541-1546	Scrum	_	
+6-28	1546-1547	,	_	
+6-29	1548-1550	or	_	
+6-30	1551-1553	at	_	
+6-31	1554-1555	a	_	
+6-32	1556-1563	minimum	_	
+6-33	1563-1564	,	_	
+6-34	1565-1566	a	_	
+6-35	1567-1574	passion	Soft Skill	
+6-36	1575-1577	to	_	
+6-37	1578-1582	work	_	
+6-38	1583-1585	in	_	
+6-39	1586-1588	an	_	
+6-40	1589-1594	agile	Hard Skill	
+6-41	1595-1606	environment	_	
+6-42	1608-1616	Software	_	
+6-43	1617-1628	engineering	_	
+6-44	1629-1638	practices	_	
+6-45	1639-1642	and	_	
+6-46	1643-1652	knowledge	_	
+6-47	1653-1655	of	_	
+6-48	1656-1662	Design	Hard Skill	
+6-49	1663-1671	Patterns	_	
+6-50	1673-1684	Outstanding	_	
+6-51	1685-1689	oral	_	
+6-52	1690-1703	communication	Soft Skill	
+6-53	1704-1710	skills	_	
+6-54	1711-1714	and	_	
+6-55	1715-1721	visual	_	
+6-56	1722-1734	presentation	_	
+6-57	1736-1741	Solid	_	
+6-58	1742-1755	understanding	_	
+6-59	1756-1758	of	_	
+6-60	1759-1769	Responsive	_	
+6-61	1770-1773	Web	_	
+6-62	1774-1780	Design	Hard Skill	
+6-63	1781-1789	Personal	_	
+6-64	1790-1796	Skills	_	
+6-65	1796-1797	:	_	
+6-66	1798-1807	Excellent	_	
+6-67	1808-1820	organization	_	
+6-68	1821-1827	skills	_	
+6-69	1827-1828	,	_	
+6-70	1829-1838	attention	_	
+6-71	1839-1841	to	_	
+6-72	1842-1848	detail	_	
+6-73	1848-1849	,	_	
+6-74	1850-1853	and	_	
+6-75	1854-1861	ability	_	
+6-76	1862-1864	to	_	
+6-77	1865-1875	multi-task	_	
+6-78	1876-1888	Demonstrated	_	
+6-79	1889-1894	sense	_	
+6-80	1895-1897	of	_	
+6-81	1898-1912	responsibility	_	
+6-82	1913-1916	and	_	
+6-83	1917-1927	capability	_	
+6-84	1928-1930	to	_	
+6-85	1931-1938	deliver	_	
+6-86	1939-1946	quickly	_	
+6-87	1947-1956	Excellent	_	
+6-88	1957-1970	communication	Soft Skill	
+6-89	1971-1977	skills	_	
+6-90	1978-1982	with	_	
+6-91	1983-1988	clear	_	
+6-92	1989-2001	articulation	_	
+6-93	2002-2005	and	_	
+6-94	2006-2019	documentation	Hard Skill	
+6-95	2020-2022	of	_	
+6-96	2023-2032	technical	_	
+6-97	2033-2047	specifications	_	
+6-98	2047-2048	.	_	
+6-99	2048-2049	.	_	
+6-100	2049-2050	.	_	
+
+#Text=Proactive problem-solver Relationship builder and a good team player
+7-1	2051-2060	Proactive	_	
+7-2	2061-2075	problem-solver	_	
+7-3	2076-2088	Relationship	_	
+7-4	2089-2096	builder	_	
+7-5	2097-2100	and	_	
+7-6	2101-2102	a	_	
+7-7	2103-2107	good	_	
+7-8	2108-2112	team	_	
+7-9	2113-2119	player	_	

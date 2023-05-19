@@ -1,0 +1,299 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=harpoon is disrupting the entire DevOps ecosystem by automating production deployments with our SaaS-based no code solution.
+1-1	0-7	harpoon	_	
+1-2	8-10	is	_	
+1-3	11-21	disrupting	_	
+1-4	22-25	the	_	
+1-5	26-32	entire	_	
+1-6	33-39	DevOps	_	
+1-7	40-49	ecosystem	_	
+1-8	50-52	by	_	
+1-9	53-63	automating	_	
+1-10	64-74	production	_	
+1-11	75-86	deployments	_	
+1-12	87-91	with	_	
+1-13	92-95	our	_	
+1-14	96-106	SaaS-based	_	
+1-15	107-109	no	_	
+1-16	110-114	code	_	
+1-17	115-123	solution	_	
+1-18	123-124	.	_	
+
+#Text=We are looking to grow our engineering team after our latest successful raise with an experienced Mid to Senior level Backend Developer who is very familiar with the ins-and-outs of Node, Express, Mongo, and Kubernetes.
+2-1	125-127	We	_	
+2-2	128-131	are	_	
+2-3	132-139	looking	_	
+2-4	140-142	to	_	
+2-5	143-147	grow	_	
+2-6	148-151	our	_	
+2-7	152-163	engineering	_	
+2-8	164-168	team	_	
+2-9	169-174	after	_	
+2-10	175-178	our	_	
+2-11	179-185	latest	_	
+2-12	186-196	successful	_	
+2-13	197-202	raise	_	
+2-14	203-207	with	_	
+2-15	208-210	an	_	
+2-16	211-222	experienced	_	
+2-17	223-226	Mid	_	
+2-18	227-229	to	_	
+2-19	230-236	Senior	_	
+2-20	237-242	level	_	
+2-21	243-250	Backend	_	
+2-22	251-260	Developer	_	
+2-23	261-264	who	_	
+2-24	265-267	is	_	
+2-25	268-272	very	_	
+2-26	273-281	familiar	_	
+2-27	282-286	with	_	
+2-28	287-290	the	_	
+2-29	291-303	ins-and-outs	_	
+2-30	304-306	of	_	
+2-31	307-311	Node	_	
+2-32	311-312	,	_	
+2-33	313-320	Express	_	
+2-34	320-321	,	_	
+2-35	322-327	Mongo	_	
+2-36	327-328	,	_	
+2-37	329-332	and	_	
+2-38	333-343	Kubernetes	Hard Skill	
+2-39	343-344	.	_	
+
+#Text=You will be joining our existing highly collaborative... and remote team of distributed developers.Our company has a great culture and very flexible work schedule, but we are all very driven to push this novel capability out to the masses.
+3-1	345-348	You	_	
+3-2	349-353	will	_	
+3-3	354-356	be	_	
+3-4	357-364	joining	_	
+3-5	365-368	our	_	
+3-6	369-377	existing	_	
+3-7	378-384	highly	_	
+3-8	385-398	collaborative	Soft Skill	
+3-9	398-399	.	_	
+3-10	399-400	.	_	
+3-11	400-401	.	_	
+3-12	402-405	and	_	
+3-13	406-412	remote	_	
+3-14	413-417	team	_	
+3-15	418-420	of	_	
+3-16	421-432	distributed	_	
+3-17	433-447	developers.Our	_	
+3-18	448-455	company	_	
+3-19	456-459	has	_	
+3-20	460-461	a	_	
+3-21	462-467	great	_	
+3-22	468-475	culture	_	
+3-23	476-479	and	_	
+3-24	480-484	very	_	
+3-25	485-493	flexible	_	
+3-26	494-498	work	_	
+3-27	499-507	schedule	Soft Skill	
+3-28	507-508	,	_	
+3-29	509-512	but	_	
+3-30	513-515	we	_	
+3-31	516-519	are	_	
+3-32	520-523	all	_	
+3-33	524-528	very	_	
+3-34	529-535	driven	_	
+3-35	536-538	to	_	
+3-36	539-543	push	_	
+3-37	544-548	this	_	
+3-38	549-554	novel	_	
+3-39	555-565	capability	_	
+3-40	566-569	out	_	
+3-41	570-572	to	_	
+3-42	573-576	the	_	
+3-43	577-583	masses	_	
+3-44	583-584	.	_	
+
+#Text=Successful candidates will be self-motivated and have an ownership mentality while being able to keep a relaxed working atmosphere.
+4-1	585-595	Successful	_	
+4-2	596-606	candidates	_	
+4-3	607-611	will	_	
+4-4	612-614	be	_	
+4-5	615-629	self-motivated	Soft Skill	
+4-6	630-633	and	_	
+4-7	634-638	have	_	
+4-8	639-641	an	_	
+4-9	642-651	ownership	_	
+4-10	652-661	mentality	_	
+4-11	662-667	while	_	
+4-12	668-673	being	_	
+4-13	674-678	able	_	
+4-14	679-681	to	_	
+4-15	682-686	keep	_	
+4-16	687-688	a	_	
+4-17	689-696	relaxed	_	
+4-18	697-704	working	_	
+4-19	705-715	atmosphere	_	
+4-20	715-716	.	_	
+
+#Text=Open to W-2 or 1099 for full-time or part-time candidates with the right experience.
+5-1	717-721	Open	_	
+5-2	722-724	to	_	
+5-3	725-726	W	_	
+5-4	726-727	-	_	
+5-5	727-728	2	_	
+5-6	729-731	or	_	
+5-7	732-736	1099	_	
+5-8	737-740	for	_	
+5-9	741-750	full-time	_	
+5-10	751-753	or	_	
+5-11	754-763	part-time	_	
+5-12	764-774	candidates	_	
+5-13	775-779	with	_	
+5-14	780-783	the	_	
+5-15	784-789	right	_	
+5-16	790-800	experience	_	
+5-17	800-801	.	_	
+
+#Text=Must have strong communication skills and mastery of the english language.
+6-1	802-806	Must	_	
+6-2	807-811	have	_	
+6-3	812-818	strong	_	
+6-4	819-832	communication	Soft Skill	
+6-5	833-839	skills	_	
+6-6	840-843	and	_	
+6-7	844-851	mastery	_	
+6-8	852-854	of	_	
+6-9	855-858	the	_	
+6-10	859-866	english	_	
+6-11	867-875	language	_	
+6-12	875-876	.	_	
+
+#Text=Must be US-based and US Citizen.This is an exciting opportunity to get in on the ground floor of a funded startup that is poised to be massively scaled and existing customers already.
+7-1	877-881	Must	_	
+7-2	882-884	be	_	
+7-3	885-893	US-based	_	
+7-4	894-897	and	_	
+7-5	898-900	US	_	
+7-6	901-913	Citizen.This	_	
+7-7	914-916	is	_	
+7-8	917-919	an	_	
+7-9	920-928	exciting	_	
+7-10	929-940	opportunity	_	
+7-11	941-943	to	_	
+7-12	944-947	get	_	
+7-13	948-950	in	_	
+7-14	951-953	on	_	
+7-15	954-957	the	_	
+7-16	958-964	ground	_	
+7-17	965-970	floor	_	
+7-18	971-973	of	_	
+7-19	974-975	a	_	
+7-20	976-982	funded	_	
+7-21	983-990	startup	_	
+7-22	991-995	that	_	
+7-23	996-998	is	_	
+7-24	999-1005	poised	_	
+7-25	1006-1008	to	_	
+7-26	1009-1011	be	_	
+7-27	1012-1021	massively	_	
+7-28	1022-1028	scaled	_	
+7-29	1029-1032	and	_	
+7-30	1033-1041	existing	_	
+7-31	1042-1051	customers	_	
+7-32	1052-1059	already	_	
+7-33	1059-1060	.	_	
+
+#Text=Apply today!
+8-1	1061-1066	Apply	_	
+8-2	1067-1072	today	_	
+8-3	1072-1073	!	_	
+
+#Text=harpoon focuses on SaaS, Enterprise Software, and Machine Learning.
+9-1	1073-1080	harpoon	_	
+9-2	1081-1088	focuses	_	
+9-3	1089-1091	on	_	
+9-4	1092-1096	SaaS	_	
+9-5	1096-1097	,	_	
+9-6	1098-1108	Enterprise	_	
+9-7	1109-1117	Software	_	
+9-8	1117-1118	,	_	
+9-9	1119-1122	and	_	
+9-10	1123-1130	Machine	_	
+9-11	1131-1139	Learning	_	
+9-12	1139-1140	.	_	
+
+#Text=Their company has offices in San Francisco, Austin, Boston, Denver, and Seattle.
+10-1	1141-1146	Their	_	
+10-2	1147-1154	company	_	
+10-3	1155-1158	has	_	
+10-4	1159-1166	offices	_	
+10-5	1167-1169	in	_	
+10-6	1170-1173	San	_	
+10-7	1174-1183	Francisco	_	
+10-8	1183-1184	,	_	
+10-9	1185-1191	Austin	_	
+10-10	1191-1192	,	_	
+10-11	1193-1199	Boston	_	
+10-12	1199-1200	,	_	
+10-13	1201-1207	Denver	_	
+10-14	1207-1208	,	_	
+10-15	1209-1212	and	_	
+10-16	1213-1220	Seattle	_	
+10-17	1220-1221	.	_	
+
+#Text=They have a small team that's between 1-10 employees.You can view their website at https://harpoon.io or find them on LinkedIn Open to W-2 or 1099 for full-time or part-time candidates with the right experience Must have strong communication skills and mastery of the english language Must be US-based and US Citizen
+11-1	1222-1226	They	_	
+11-2	1227-1231	have	_	
+11-3	1232-1233	a	_	
+11-4	1234-1239	small	_	
+11-5	1240-1244	team	_	
+11-6	1245-1251	that's	_	
+11-7	1252-1259	between	_	
+11-8	1260-1261	1	_	
+11-9	1261-1262	-	_	
+11-10	1262-1264	10	_	
+11-11	1265-1278	employees.You	_	
+11-12	1279-1282	can	_	
+11-13	1283-1287	view	_	
+11-14	1288-1293	their	_	
+11-15	1294-1301	website	_	
+11-16	1302-1304	at	_	
+11-17	1305-1310	https	_	
+11-18	1310-1311	:	_	
+11-19	1311-1312	/	_	
+11-20	1312-1313	/	_	
+11-21	1313-1323	harpoon.io	_	
+11-22	1324-1326	or	_	
+11-23	1327-1331	find	_	
+11-24	1332-1336	them	_	
+11-25	1337-1339	on	_	
+11-26	1340-1348	LinkedIn	_	
+11-27	1349-1353	Open	_	
+11-28	1354-1356	to	_	
+11-29	1357-1358	W	_	
+11-30	1358-1359	-	_	
+11-31	1359-1360	2	_	
+11-32	1361-1363	or	_	
+11-33	1364-1368	1099	_	
+11-34	1369-1372	for	_	
+11-35	1373-1382	full-time	_	
+11-36	1383-1385	or	_	
+11-37	1386-1395	part-time	_	
+11-38	1396-1406	candidates	_	
+11-39	1407-1411	with	_	
+11-40	1412-1415	the	_	
+11-41	1416-1421	right	_	
+11-42	1422-1432	experience	_	
+11-43	1433-1437	Must	_	
+11-44	1438-1442	have	_	
+11-45	1443-1449	strong	_	
+11-46	1450-1463	communication	Soft Skill	
+11-47	1464-1470	skills	_	
+11-48	1471-1474	and	_	
+11-49	1475-1482	mastery	_	
+11-50	1483-1485	of	_	
+11-51	1486-1489	the	_	
+11-52	1490-1497	english	_	
+11-53	1498-1506	language	_	
+11-54	1507-1511	Must	_	
+11-55	1512-1514	be	_	
+11-56	1515-1523	US-based	_	
+11-57	1524-1527	and	_	
+11-58	1528-1530	US	_	
+11-59	1531-1538	Citizen	_	

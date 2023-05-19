@@ -136,38 +136,95 @@ def ParseJSONForDescriptions(sourcePathJSON, outputPath, outFileName="jobPost"):
             output.write(fullDescription)
         currentDoc += 1
 
-def TSVParser():
+
+def TSVParser(TSVFolderPath, docName, numofFiles, trainingSplit, skillList):
     trainingData = []
-    for i in range(20):
-        path = "Data/SmallJobPostTest/LabeledDataTSV/annotation/jobPost" + str(i) + ".txt" + "/admin.tsv"
+    for i in range(numofFiles):
+        path = TSVFolderPath + "/annotation/"+ docName + str(i) + ".txt" + "/admin.tsv"
         text = ""
         annotations = []
 
         #Parsing data for annotations
         if(os.path.exists(path)):
             with open(path, 'r') as csvInput:
-                data = csv.reader(csvInput, delimiter='\t', quotechar="~")
+                data = csv.reader(csvInput, delimiter='\t', quotechar="\u2022") #setting a nonsense quotechar since " are chars
+                startIndex = 0
+                endIndex = 0
+                word = ""
+                multiSpanEntityIndex = 0
+                skillFound = ""
+
                 for row in data:
                     if(len(row) > 1):
-                        if(row[3] == "SKILL"):
-                            holder = row[1].split("-")
-                            oneAnnotation = [int(holder[0]), int(holder[1]), row[2], row[3]]
-                            annotations.append(oneAnnotation)
+                        for skill in skillList:
+                            skillLabel = row[3]
+                            indexHolder = row[1].split("-")
+                            if(skillLabel[:len(skill)] == skill):
+                                # Is a multi span entitiy
+                                if(len(skillLabel) > len(skill)):
+                                    currentSpanEntityIndex = skillLabel[len(skillLabel)-2]
+                                    if(int(currentSpanEntityIndex) > multiSpanEntityIndex):
+                                        if(multiSpanEntityIndex > 0):
+                                            oneAnnotation = [startIndex, endIndex, word, skillFound]
+                                            annotations.append(oneAnnotation)
+                                        multiSpanEntityIndex += 1
+                                        startIndex = int(indexHolder[0])
+                                        word = row[2]
+                                    else:
+                                        skillFound = skill
+                                        endIndex = int(indexHolder[1])
+                                        word += row[2]
+                                else:
+                                    oneAnnotation = [int(indexHolder[0]), int(indexHolder[1]), row[2], row[3]]
+                                    annotations.append(oneAnnotation)
+                
+                # For leftover keywords found
+                if(multiSpanEntityIndex > 0):
+                    oneAnnotation = [startIndex, endIndex, word, skillFound]
+                    annotations.append(oneAnnotation)
         else:
-            print(path + "(Does not exist)")
+            print(path + " (Does not exist)")
 
         # Reading text from source
-        path = "Data\SmallJobPostTest\LabeledDataTSV\source\jobPost" + str(i) + ".txt"
+        path = TSVFolderPath + "/source/"+ docName + str(i) + ".txt"
         if(os.path.exists(path)):
             with open(path, 'r') as sourceInput:
                 text = sourceInput.read()
         else:
-            print(path + "(Does not exist)")
+            print(path + " (Does not exist)")
 
-        doc = {"id": i, "annotations": annotations, "text": text}
+        # Putting it all together
+        isTrainingData = True
+        if(i > trainingSplit):
+            isTrainingData = False
+        doc = {"isTrainingData": isTrainingData, "annotations": annotations, "text": text}
         trainingData.append(doc)
 
     return trainingData
+
+def GetTSVData(trainingSplit):
+    trainingData = []
+    skillList = ["Hard Skill", "Soft Skill"]
+    fileAmount = 100
+
+    holderData = TSVParser("Data\LabeledDataTSVFinal", "AndroidPost", fileAmount, int(fileAmount*trainingSplit), skillList)
+    for data in holderData:
+        trainingData.append(data)
+    holderData = TSVParser("Data\LabeledDataTSVFinal", "BackendPost", fileAmount, int(fileAmount*trainingSplit), skillList)
+    for data in holderData:
+        trainingData.append(data)
+    holderData = TSVParser("Data\LabeledDataTSVFinal", "FrontendPost", fileAmount, int(fileAmount*trainingSplit), skillList)
+    for data in holderData:
+        trainingData.append(data)
+    holderData = TSVParser("Data\LabeledDataTSVFinal", "IOSPost", fileAmount, int(fileAmount*trainingSplit), skillList)
+    for data in holderData:
+        trainingData.append(data)
+    holderData = TSVParser("Data\LabeledDataTSVFinal", "SWEPost", fileAmount, int(fileAmount*trainingSplit), skillList)
+    for data in holderData:
+        trainingData.append(data)
+
+    return trainingData
+
 
 def OutputDoc(inputDoc):
     colors = {"SKILL": "#F67DE3"}
@@ -184,22 +241,22 @@ if __name__ == "__main__":
     # ParseJSONForDescriptions("Data/BackEnd/jobPostDatasetBackEnd_5_8_23.json", "Data/BackEnd/IndividualDocs", "BackendPost")
     # ParseJSONForDescriptions("Data/FrontEnd/jobPostDatasetFrontEnd_5_8_23.json", "Data/FrontEnd/IndividualDocs", "FrontendPost")
     # ParseJSONForDescriptions("Data/IOSDeveloper/jobPostDatasetIOS_5_8_23.json", "Data/IOSDeveloper/IndividualDocs", "IOSPost")
+    # GetTSVData()
+    # for data in GetTSVData():
+    #     for annotation in data["annotations"]:
+    #         if(annotation[2] == "C++"):
+    #             print(annotation)
+        
+    # allSkills = CreateManualList("Data/skillsManualHard.csv")
+    # WriteSearchListInception(allSkills, "InceptionPasteList/PasteListHard.txt")
     
     
-    
-    allSkills = CreateManualList("Data/skillsManualHard.csv")
+    # allSkills = CreateManualList("Data\skillsManualSoft.csv")
+    # WriteSearchListInception(allSkills, "InceptionPasteList/PasteListSoft.txt")
 
-    WriteSearchListInception(allSkills, "InceptionPasteList/PasteListHard.txt")
-    
-    
-    allSkills = CreateManualList("Data\skillsManualSoft.csv")
-
-    WriteSearchListInception(allSkills, "InceptionPasteList/PasteListSoft.txt")
-
-    allSkills = CreateSkillListOStar()
-
-    allSkills.remove("C")
-    WriteSearchListInception(allSkills, "InceptionPasteList/PasteListO.txt")
+    # allSkills = CreateSkillListOStar()
+    # allSkills.remove("C")
+    # WriteSearchListInception(allSkills, "InceptionPasteList/PasteListO.txt")
 
     # WriteList(allSkills, "Data\skillsDataNew.csv") # data cleaning
     

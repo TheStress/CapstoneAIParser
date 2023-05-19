@@ -1,0 +1,503 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job DescriptioniOS Developer - Analysis/Research Looking for an iOS developer who has experience with Swift and Objective C.
+1-1	0-3	Job	_	
+1-2	4-18	DescriptioniOS	_	
+1-3	19-28	Developer	_	
+1-4	29-30	-	_	
+1-5	31-39	Analysis	Hard Skill	
+1-6	39-40	/	_	
+1-7	40-48	Research	_	
+1-8	49-56	Looking	_	
+1-9	57-60	for	_	
+1-10	61-63	an	_	
+1-11	64-67	iOS	_	
+1-12	68-77	developer	_	
+1-13	78-81	who	_	
+1-14	82-85	has	_	
+1-15	86-96	experience	_	
+1-16	97-101	with	_	
+1-17	102-107	Swift	Hard Skill	
+1-18	108-111	and	_	
+1-19	112-121	Objective	_	
+1-20	122-123	C	Hard Skill	
+1-21	123-124	.	_	
+
+#Text=This person will be analyzing complex apps so they must have experience and a thorough understanding of how apps are designed and built from the ground up.
+2-1	125-129	This	_	
+2-2	130-136	person	_	
+2-3	137-141	will	_	
+2-4	142-144	be	_	
+2-5	145-154	analyzing	_	
+2-6	155-162	complex	_	
+2-7	163-167	apps	_	
+2-8	168-170	so	_	
+2-9	171-175	they	_	
+2-10	176-180	must	_	
+2-11	181-185	have	_	
+2-12	186-196	experience	_	
+2-13	197-200	and	_	
+2-14	201-202	a	_	
+2-15	203-211	thorough	_	
+2-16	212-225	understanding	_	
+2-17	226-228	of	_	
+2-18	229-232	how	_	
+2-19	233-237	apps	_	
+2-20	238-241	are	_	
+2-21	242-250	designed	_	
+2-22	251-254	and	_	
+2-23	255-260	built	_	
+2-24	261-265	from	_	
+2-25	266-269	the	_	
+2-26	270-276	ground	_	
+2-27	277-279	up	_	
+2-28	279-280	.	_	
+
+#Text=This person won't be building apps themselves, but that level of understanding and experience will be required...
+3-1	281-285	This	_	
+3-2	286-292	person	_	
+3-3	293-298	won't	_	
+3-4	299-301	be	_	
+3-5	302-310	building	_	
+3-6	311-315	apps	_	
+3-7	316-326	themselves	_	
+3-8	326-327	,	_	
+3-9	328-331	but	_	
+3-10	332-336	that	_	
+3-11	337-342	level	_	
+3-12	343-345	of	_	
+3-13	346-359	understanding	_	
+3-14	360-363	and	_	
+3-15	364-374	experience	_	
+3-16	375-379	will	_	
+3-17	380-382	be	_	
+3-18	383-391	required	_	
+3-19	391-392	.	_	
+3-20	392-393	.	_	
+3-21	393-394	.	_	
+
+#Text=Experience with app analysis technologies/research would be a home run.
+4-1	395-405	Experience	_	
+4-2	406-410	with	_	
+4-3	411-414	app	_	
+4-4	415-423	analysis	Hard Skill	
+4-5	424-436	technologies	_	
+4-6	436-437	/	_	
+4-7	437-445	research	_	
+4-8	446-451	would	_	
+4-9	452-454	be	_	
+4-10	455-456	a	_	
+4-11	457-461	home	_	
+4-12	462-465	run	_	
+4-13	465-466	.	_	
+
+#Text=Required:  5+ years of iOS development experience.
+5-1	467-475	Required	_	
+5-2	475-476	:	_	
+5-3	478-479	5	_	
+5-4	479-480	+	_	
+5-5	481-486	years	_	
+5-6	487-489	of	_	
+5-7	490-493	iOS	_	
+5-8	494-505	development	_	
+5-9	506-516	experience	_	
+5-10	516-517	.	_	
+
+#Text=Experience and understanding of how iOS apps are built from scratch.
+6-1	519-529	Experience	_	
+6-2	530-533	and	_	
+6-3	534-547	understanding	_	
+6-4	548-550	of	_	
+6-5	551-554	how	_	
+6-6	555-558	iOS	_	
+6-7	559-563	apps	_	
+6-8	564-567	are	_	
+6-9	568-573	built	_	
+6-10	574-578	from	_	
+6-11	579-586	scratch	_	
+6-12	586-587	.	_	
+
+#Text=Objective C experience.
+7-1	589-598	Objective	_	
+7-2	599-600	C	Hard Skill	
+7-3	601-611	experience	_	
+7-4	611-612	.	_	
+
+#Text=Solid Swift experience.
+8-1	614-619	Solid	_	
+8-2	620-625	Swift	Hard Skill	
+8-3	626-636	experience	_	
+8-4	636-637	.	_	
+
+#Text=Experience with iOS frameworks - iOS Automation, Appium, WebDriver.
+9-1	639-649	Experience	_	
+9-2	650-654	with	_	
+9-3	655-658	iOS	_	
+9-4	659-669	frameworks	_	
+9-5	670-671	-	_	
+9-6	672-675	iOS	_	
+9-7	676-686	Automation	_	
+9-8	686-687	,	_	
+9-9	688-694	Appium	_	
+9-10	694-695	,	_	
+9-11	696-705	WebDriver	_	
+9-12	705-706	.	_	
+
+#Text=Someone that knows how iOS frameworks work - How apps work with SDKs, development cycles, app approval processes, etc.
+10-1	708-715	Someone	_	
+10-2	716-720	that	_	
+10-3	721-726	knows	_	
+10-4	727-730	how	_	
+10-5	731-734	iOS	_	
+10-6	735-745	frameworks	_	
+10-7	746-750	work	_	
+10-8	751-752	-	_	
+10-9	753-756	How	_	
+10-10	757-761	apps	_	
+10-11	762-766	work	_	
+10-12	767-771	with	_	
+10-13	772-776	SDKs	_	
+10-14	776-777	,	_	
+10-15	778-789	development	_	
+10-16	790-796	cycles	_	
+10-17	796-797	,	_	
+10-18	798-801	app	_	
+10-19	802-810	approval	_	
+10-20	811-820	processes	_	
+10-21	820-821	,	_	
+10-22	822-825	etc	_	
+10-23	825-826	.	_	
+
+#Text=Experience and/or knowledge of how to analyze apps.
+11-1	828-838	Experience	_	
+11-2	839-842	and	_	
+11-3	842-843	/	_	
+11-4	843-845	or	_	
+11-5	846-855	knowledge	_	
+11-6	856-858	of	_	
+11-7	859-862	how	_	
+11-8	863-865	to	_	
+11-9	866-873	analyze	_	
+11-10	874-878	apps	_	
+11-11	878-879	.	_	
+
+#Text=Look at SDKs, data types, etc.
+12-1	880-884	Look	_	
+12-2	885-887	at	_	
+12-3	888-892	SDKs	_	
+12-4	892-893	,	_	
+12-5	894-898	data	_	
+12-6	899-904	types	_	
+12-7	904-905	,	_	
+12-8	906-909	etc	_	
+12-9	909-910	.	_	
+
+#Text=Ability to understand the architecture of hundreds of apps.
+13-1	912-919	Ability	_	
+13-2	920-922	to	_	
+13-3	923-933	understand	_	
+13-4	934-937	the	_	
+13-5	938-950	architecture	_	
+13-6	951-953	of	_	
+13-7	954-962	hundreds	_	
+13-8	963-965	of	_	
+13-9	966-970	apps	_	
+13-10	970-971	.	_	
+
+#Text=Building app analysis technologies but not building apps themselves.
+14-1	973-981	Building	_	
+14-2	982-985	app	_	
+14-3	986-994	analysis	Hard Skill	
+14-4	995-1007	technologies	_	
+14-5	1008-1011	but	_	
+14-6	1012-1015	not	_	
+14-7	1016-1024	building	_	
+14-8	1025-1029	apps	_	
+14-9	1030-1040	themselves	_	
+14-10	1040-1041	.	_	
+
+#Text=Note: Any pay ranges displayed are estimations.
+15-1	1042-1046	Note	_	
+15-2	1046-1047	:	_	
+15-3	1048-1051	Any	_	
+15-4	1052-1055	pay	_	
+15-5	1056-1062	ranges	_	
+15-6	1063-1072	displayed	_	
+15-7	1073-1076	are	_	
+15-8	1077-1088	estimations	_	
+15-9	1088-1089	.	_	
+
+#Text=Actual pay is determined by an applicant's experience, technical expertise, and other qualifications as listed in the job description.
+16-1	1090-1096	Actual	_	
+16-2	1097-1100	pay	_	
+16-3	1101-1103	is	_	
+16-4	1104-1114	determined	_	
+16-5	1115-1117	by	_	
+16-6	1118-1120	an	_	
+16-7	1121-1132	applicant's	_	
+16-8	1133-1143	experience	_	
+16-9	1143-1144	,	_	
+16-10	1145-1154	technical	_	
+16-11	1155-1164	expertise	_	
+16-12	1164-1165	,	_	
+16-13	1166-1169	and	_	
+16-14	1170-1175	other	_	
+16-15	1176-1190	qualifications	_	
+16-16	1191-1193	as	_	
+16-17	1194-1200	listed	_	
+16-18	1201-1203	in	_	
+16-19	1204-1207	the	_	
+16-20	1208-1211	job	_	
+16-21	1212-1223	description	_	
+16-22	1223-1224	.	_	
+
+#Text=All qualified applicants are welcome to apply.
+17-1	1225-1228	All	_	
+17-2	1229-1238	qualified	_	
+17-3	1239-1249	applicants	_	
+17-4	1250-1253	are	_	
+17-5	1254-1261	welcome	_	
+17-6	1262-1264	to	_	
+17-7	1265-1270	apply	_	
+17-8	1270-1271	.	_	
+
+#Text=Yoh, a Day & Zimmermann company, is an Equal Opportunity Employer.
+18-1	1272-1275	Yoh	_	
+18-2	1275-1276	,	_	
+18-3	1277-1278	a	_	
+18-4	1279-1282	Day	_	
+18-5	1283-1284	&	_	
+18-6	1285-1295	Zimmermann	_	
+18-7	1296-1303	company	_	
+18-8	1303-1304	,	_	
+18-9	1305-1307	is	_	
+18-10	1308-1310	an	_	
+18-11	1311-1316	Equal	_	
+18-12	1317-1328	Opportunity	_	
+18-13	1329-1337	Employer	_	
+18-14	1337-1338	.	_	
+
+#Text=All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+19-1	1339-1342	All	_	
+19-2	1343-1352	qualified	_	
+19-3	1353-1363	applicants	_	
+19-4	1364-1368	will	_	
+19-5	1369-1376	receive	_	
+19-6	1377-1390	consideration	_	
+19-7	1391-1394	for	_	
+19-8	1395-1405	employment	_	
+19-9	1406-1413	without	_	
+19-10	1414-1420	regard	_	
+19-11	1421-1423	to	_	
+19-12	1424-1428	race	_	
+19-13	1428-1429	,	_	
+19-14	1430-1435	color	_	
+19-15	1435-1436	,	_	
+19-16	1437-1445	religion	_	
+19-17	1445-1446	,	_	
+19-18	1447-1450	sex	_	
+19-19	1450-1451	,	_	
+19-20	1452-1458	sexual	_	
+19-21	1459-1470	orientation	_	
+19-22	1470-1471	,	_	
+19-23	1472-1478	gender	_	
+19-24	1479-1487	identity	_	
+19-25	1487-1488	,	_	
+19-26	1489-1497	national	_	
+19-27	1498-1504	origin	_	
+19-28	1504-1505	,	_	
+19-29	1506-1516	disability	_	
+19-30	1516-1517	,	_	
+19-31	1518-1520	or	_	
+19-32	1521-1527	status	_	
+19-33	1528-1530	as	_	
+19-34	1531-1532	a	_	
+19-35	1533-1542	protected	_	
+19-36	1543-1550	veteran	_	
+19-37	1550-1551	.	_	
+
+#Text=Visit -with-disabilities to contact us if you are an individual with a disability and require accommodation in the application process iOS Developer - Analysis/Research Looking for an iOS developer who has experience with Swift and Objective C.
+20-1	1552-1557	Visit	_	
+20-2	1558-1559	-	_	
+20-3	1559-1576	with-disabilities	_	
+20-4	1577-1579	to	_	
+20-5	1580-1587	contact	_	
+20-6	1588-1590	us	_	
+20-7	1591-1593	if	_	
+20-8	1594-1597	you	_	
+20-9	1598-1601	are	_	
+20-10	1602-1604	an	_	
+20-11	1605-1615	individual	_	
+20-12	1616-1620	with	_	
+20-13	1621-1622	a	_	
+20-14	1623-1633	disability	_	
+20-15	1634-1637	and	_	
+20-16	1638-1645	require	_	
+20-17	1646-1659	accommodation	_	
+20-18	1660-1662	in	_	
+20-19	1663-1666	the	_	
+20-20	1667-1678	application	_	
+20-21	1679-1686	process	_	
+20-22	1687-1690	iOS	_	
+20-23	1691-1700	Developer	_	
+20-24	1701-1702	-	_	
+20-25	1703-1711	Analysis	Hard Skill	
+20-26	1711-1712	/	_	
+20-27	1712-1720	Research	_	
+20-28	1721-1728	Looking	_	
+20-29	1729-1732	for	_	
+20-30	1733-1735	an	_	
+20-31	1736-1739	iOS	_	
+20-32	1740-1749	developer	_	
+20-33	1750-1753	who	_	
+20-34	1754-1757	has	_	
+20-35	1758-1768	experience	_	
+20-36	1769-1773	with	_	
+20-37	1774-1779	Swift	Hard Skill	
+20-38	1780-1783	and	_	
+20-39	1784-1793	Objective	_	
+20-40	1794-1795	C	Hard Skill	
+20-41	1795-1796	.	_	
+
+#Text=This person will be analyzing complex apps so they must have experience and a thorough understanding of how apps are designed and built from the ground up This person won't be building apps themselves, but that level of understanding and experience will be required Experience with app analysis technologies/research would be a home run 5+ years of iOS development experience Objective C experience Solid Swift experience Experience with iOS frameworks - iOS Automation, Appium, WebDriver Someone that knows how iOS frameworks work - How apps work with SDKs, development cycles, app approval processes, etc Experience and/or knowledge of how to analyze apps Look at SDKs, data types, etc Ability to understand the architecture of hundreds of apps Building app analysis technologies but not building apps themselves
+21-1	1797-1801	This	_	
+21-2	1802-1808	person	_	
+21-3	1809-1813	will	_	
+21-4	1814-1816	be	_	
+21-5	1817-1826	analyzing	_	
+21-6	1827-1834	complex	_	
+21-7	1835-1839	apps	_	
+21-8	1840-1842	so	_	
+21-9	1843-1847	they	_	
+21-10	1848-1852	must	_	
+21-11	1853-1857	have	_	
+21-12	1858-1868	experience	_	
+21-13	1869-1872	and	_	
+21-14	1873-1874	a	_	
+21-15	1875-1883	thorough	_	
+21-16	1884-1897	understanding	_	
+21-17	1898-1900	of	_	
+21-18	1901-1904	how	_	
+21-19	1905-1909	apps	_	
+21-20	1910-1913	are	_	
+21-21	1914-1922	designed	_	
+21-22	1923-1926	and	_	
+21-23	1927-1932	built	_	
+21-24	1933-1937	from	_	
+21-25	1938-1941	the	_	
+21-26	1942-1948	ground	_	
+21-27	1949-1951	up	_	
+21-28	1952-1956	This	_	
+21-29	1957-1963	person	_	
+21-30	1964-1969	won't	_	
+21-31	1970-1972	be	_	
+21-32	1973-1981	building	_	
+21-33	1982-1986	apps	_	
+21-34	1987-1997	themselves	_	
+21-35	1997-1998	,	_	
+21-36	1999-2002	but	_	
+21-37	2003-2007	that	_	
+21-38	2008-2013	level	_	
+21-39	2014-2016	of	_	
+21-40	2017-2030	understanding	_	
+21-41	2031-2034	and	_	
+21-42	2035-2045	experience	_	
+21-43	2046-2050	will	_	
+21-44	2051-2053	be	_	
+21-45	2054-2062	required	_	
+21-46	2063-2073	Experience	_	
+21-47	2074-2078	with	_	
+21-48	2079-2082	app	_	
+21-49	2083-2091	analysis	Hard Skill	
+21-50	2092-2104	technologies	_	
+21-51	2104-2105	/	_	
+21-52	2105-2113	research	_	
+21-53	2114-2119	would	_	
+21-54	2120-2122	be	_	
+21-55	2123-2124	a	_	
+21-56	2125-2129	home	_	
+21-57	2130-2133	run	_	
+21-58	2134-2135	5	_	
+21-59	2135-2136	+	_	
+21-60	2137-2142	years	_	
+21-61	2143-2145	of	_	
+21-62	2146-2149	iOS	_	
+21-63	2150-2161	development	_	
+21-64	2162-2172	experience	_	
+21-65	2173-2182	Objective	_	
+21-66	2183-2184	C	Hard Skill	
+21-67	2185-2195	experience	_	
+21-68	2196-2201	Solid	_	
+21-69	2202-2207	Swift	Hard Skill	
+21-70	2208-2218	experience	_	
+21-71	2219-2229	Experience	_	
+21-72	2230-2234	with	_	
+21-73	2235-2238	iOS	_	
+21-74	2239-2249	frameworks	_	
+21-75	2250-2251	-	_	
+21-76	2252-2255	iOS	_	
+21-77	2256-2266	Automation	_	
+21-78	2266-2267	,	_	
+21-79	2268-2274	Appium	_	
+21-80	2274-2275	,	_	
+21-81	2276-2285	WebDriver	_	
+21-82	2286-2293	Someone	_	
+21-83	2294-2298	that	_	
+21-84	2299-2304	knows	_	
+21-85	2305-2308	how	_	
+21-86	2309-2312	iOS	_	
+21-87	2313-2323	frameworks	_	
+21-88	2324-2328	work	_	
+21-89	2329-2330	-	_	
+21-90	2331-2334	How	_	
+21-91	2335-2339	apps	_	
+21-92	2340-2344	work	_	
+21-93	2345-2349	with	_	
+21-94	2350-2354	SDKs	_	
+21-95	2354-2355	,	_	
+21-96	2356-2367	development	_	
+21-97	2368-2374	cycles	_	
+21-98	2374-2375	,	_	
+21-99	2376-2379	app	_	
+21-100	2380-2388	approval	_	
+21-101	2389-2398	processes	_	
+21-102	2398-2399	,	_	
+21-103	2400-2403	etc	_	
+21-104	2404-2414	Experience	_	
+21-105	2415-2418	and	_	
+21-106	2418-2419	/	_	
+21-107	2419-2421	or	_	
+21-108	2422-2431	knowledge	_	
+21-109	2432-2434	of	_	
+21-110	2435-2438	how	_	
+21-111	2439-2441	to	_	
+21-112	2442-2449	analyze	_	
+21-113	2450-2454	apps	_	
+21-114	2455-2459	Look	_	
+21-115	2460-2462	at	_	
+21-116	2463-2467	SDKs	_	
+21-117	2467-2468	,	_	
+21-118	2469-2473	data	_	
+21-119	2474-2479	types	_	
+21-120	2479-2480	,	_	
+21-121	2481-2484	etc	_	
+21-122	2485-2492	Ability	_	
+21-123	2493-2495	to	_	
+21-124	2496-2506	understand	_	
+21-125	2507-2510	the	_	
+21-126	2511-2523	architecture	_	
+21-127	2524-2526	of	_	
+21-128	2527-2535	hundreds	_	
+21-129	2536-2538	of	_	
+21-130	2539-2543	apps	_	
+21-131	2544-2552	Building	_	
+21-132	2553-2556	app	_	
+21-133	2557-2565	analysis	Hard Skill	
+21-134	2566-2578	technologies	_	
+21-135	2579-2582	but	_	
+21-136	2583-2586	not	_	
+21-137	2587-2595	building	_	
+21-138	2596-2600	apps	_	
+21-139	2601-2611	themselves	_	

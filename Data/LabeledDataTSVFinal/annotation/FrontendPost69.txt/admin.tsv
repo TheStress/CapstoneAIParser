@@ -1,0 +1,1083 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Front End DeveloperOtterSoft is hiring, for a Front-End Developer, Mid Level, with a minimum of 3 years of professional work experience.
+1-1	0-5	Front	_	
+1-2	6-9	End	_	
+1-3	10-28	DeveloperOtterSoft	_	
+1-4	29-31	is	_	
+1-5	32-38	hiring	_	
+1-6	38-39	,	_	
+1-7	40-43	for	_	
+1-8	44-45	a	_	
+1-9	46-55	Front-End	_	
+1-10	56-65	Developer	_	
+1-11	65-66	,	_	
+1-12	67-70	Mid	_	
+1-13	71-76	Level	_	
+1-14	76-77	,	_	
+1-15	78-82	with	_	
+1-16	83-84	a	_	
+1-17	85-92	minimum	_	
+1-18	93-95	of	_	
+1-19	96-97	3	_	
+1-20	98-103	years	_	
+1-21	104-106	of	_	
+1-22	107-119	professional	_	
+1-23	120-124	work	_	
+1-24	125-135	experience	_	
+1-25	135-136	.	_	
+
+#Text=With the supervision of the Lead Software Developer, this position will be responsible for writing code to generate web pages, access databases, and business logic servers; Work with designers and content producers to test and document software for websites...
+2-1	137-141	With	_	
+2-2	142-145	the	_	
+2-3	146-157	supervision	_	
+2-4	158-160	of	_	
+2-5	161-164	the	_	
+2-6	165-169	Lead	_	
+2-7	170-178	Software	_	
+2-8	179-188	Developer	_	
+2-9	188-189	,	_	
+2-10	190-194	this	_	
+2-11	195-203	position	_	
+2-12	204-208	will	_	
+2-13	209-211	be	_	
+2-14	212-223	responsible	_	
+2-15	224-227	for	_	
+2-16	228-235	writing	_	
+2-17	236-240	code	_	
+2-18	241-243	to	_	
+2-19	244-252	generate	_	
+2-20	253-256	web	_	
+2-21	257-262	pages	_	
+2-22	262-263	,	_	
+2-23	264-270	access	_	
+2-24	271-280	databases	_	
+2-25	280-281	,	_	
+2-26	282-285	and	_	
+2-27	286-294	business	_	
+2-28	295-300	logic	_	
+2-29	301-308	servers	_	
+2-30	308-309	;	_	
+2-31	310-314	Work	_	
+2-32	315-319	with	_	
+2-33	320-329	designers	_	
+2-34	330-333	and	_	
+2-35	334-341	content	_	
+2-36	342-351	producers	_	
+2-37	352-354	to	_	
+2-38	355-359	test	_	
+2-39	360-363	and	_	
+2-40	364-372	document	_	
+2-41	373-381	software	_	
+2-42	382-385	for	_	
+2-43	386-394	websites	_	
+2-44	394-395	.	_	
+2-45	395-396	.	_	
+2-46	396-397	.	_	
+
+#Text=Write, modify, and debug software for websites; Contribute to the User Interface from inception to development and delivery, working closely with an agile team.Responsibilities Executes designing, coding, debugging, and unit testing of software products.
+3-1	398-403	Write	_	
+3-2	403-404	,	_	
+3-3	405-411	modify	_	
+3-4	411-412	,	_	
+3-5	413-416	and	_	
+3-6	417-422	debug	Hard Skill	
+3-7	423-431	software	_	
+3-8	432-435	for	_	
+3-9	436-444	websites	_	
+3-10	444-445	;	_	
+3-11	446-456	Contribute	_	
+3-12	457-459	to	_	
+3-13	460-463	the	_	
+3-14	464-468	User	_	
+3-15	469-478	Interface	_	
+3-16	479-483	from	_	
+3-17	484-493	inception	_	
+3-18	494-496	to	_	
+3-19	497-508	development	_	
+3-20	509-512	and	_	
+3-21	513-521	delivery	_	
+3-22	521-522	,	_	
+3-23	523-530	working	_	
+3-24	531-538	closely	_	
+3-25	539-543	with	_	
+3-26	544-546	an	_	
+3-27	547-552	agile	Hard Skill	
+3-28	553-574	team.Responsibilities	_	
+3-29	575-583	Executes	_	
+3-30	584-593	designing	_	
+3-31	593-594	,	_	
+3-32	595-601	coding	Hard Skill	
+3-33	601-602	,	_	
+3-34	603-612	debugging	Hard Skill	
+3-35	612-613	,	_	
+3-36	614-617	and	_	
+3-37	618-622	unit	_	
+3-38	623-630	testing	_	
+3-39	631-633	of	_	
+3-40	634-642	software	_	
+3-41	643-651	products	_	
+3-42	651-652	.	_	
+
+#Text=Participates in all Scrum ceremonies.
+4-1	653-665	Participates	_	
+4-2	666-668	in	_	
+4-3	669-672	all	_	
+4-4	673-678	Scrum	_	
+4-5	679-689	ceremonies	_	
+4-6	689-690	.	_	
+
+#Text=Works with other departments to participate in specification, design, code, and test reviews.
+5-1	691-696	Works	_	
+5-2	697-701	with	_	
+5-3	702-707	other	_	
+5-4	708-719	departments	_	
+5-5	720-722	to	_	
+5-6	723-734	participate	_	
+5-7	735-737	in	_	
+5-8	738-751	specification	_	
+5-9	751-752	,	_	
+5-10	753-759	design	Hard Skill	
+5-11	759-760	,	_	
+5-12	761-765	code	_	
+5-13	765-766	,	_	
+5-14	767-770	and	_	
+5-15	771-775	test	_	
+5-16	776-783	reviews	_	
+5-17	783-784	.	_	
+
+#Text=Evaluates problems to develop solutions relating to computer software.
+6-1	785-794	Evaluates	_	
+6-2	795-803	problems	_	
+6-3	804-806	to	_	
+6-4	807-814	develop	_	
+6-5	815-824	solutions	_	
+6-6	825-833	relating	_	
+6-7	834-836	to	_	
+6-8	837-845	computer	_	
+6-9	846-854	software	_	
+6-10	854-855	.	_	
+
+#Text=Contributes to the enhancement of software development procedure.
+7-1	856-867	Contributes	_	
+7-2	868-870	to	_	
+7-3	871-874	the	_	
+7-4	875-886	enhancement	_	
+7-5	887-889	of	_	
+7-6	890-898	software	_	
+7-7	899-910	development	_	
+7-8	911-920	procedure	_	
+7-9	920-921	.	_	
+
+#Text=Improves existing programs by analyzing and identifying areas for alteration.
+8-1	922-930	Improves	_	
+8-2	931-939	existing	_	
+8-3	940-948	programs	_	
+8-4	949-951	by	_	
+8-5	952-961	analyzing	_	
+8-6	962-965	and	_	
+8-7	966-977	identifying	_	
+8-8	978-983	areas	_	
+8-9	984-987	for	_	
+8-10	988-998	alteration	_	
+8-11	998-999	.	_	
+
+#Text=Creates and presents findings, solutions, and demos.
+9-1	1000-1007	Creates	_	
+9-2	1008-1011	and	_	
+9-3	1012-1020	presents	_	
+9-4	1021-1029	findings	_	
+9-5	1029-1030	,	_	
+9-6	1031-1040	solutions	_	
+9-7	1040-1041	,	_	
+9-8	1042-1045	and	_	
+9-9	1046-1051	demos	_	
+9-10	1051-1052	.	_	
+
+#Text=Adheres to all policies and procedures.
+10-1	1053-1060	Adheres	_	
+10-2	1061-1063	to	_	
+10-3	1064-1067	all	_	
+10-4	1068-1076	policies	_	
+10-5	1077-1080	and	_	
+10-6	1081-1091	procedures	_	
+10-7	1091-1092	.	_	
+
+#Text=Performs other duties as assigned.Qualifications Must be legally authorized to work in the U.S.
+11-1	1093-1101	Performs	_	
+11-2	1102-1107	other	_	
+11-3	1108-1114	duties	_	
+11-4	1115-1117	as	_	
+11-5	1118-1141	assigned.Qualifications	_	
+11-6	1142-1146	Must	_	
+11-7	1147-1149	be	_	
+11-8	1150-1157	legally	_	
+11-9	1158-1168	authorized	_	
+11-10	1169-1171	to	_	
+11-11	1172-1176	work	_	
+11-12	1177-1179	in	_	
+11-13	1180-1183	the	_	
+11-14	1184-1187	U.S	_	
+11-15	1187-1188	.	_	
+
+#Text=Must work within the U.S. 3 years of professional work experience in the listed requirementsRequirements Proficiency in HTML, CSS, and JavaScript, as well as experience with React and its ecosystem (Redux, React Router, etc.).
+12-1	1189-1193	Must	_	
+12-2	1194-1198	work	_	
+12-3	1199-1205	within	_	
+12-4	1206-1209	the	_	
+12-5	1210-1213	U.S	_	
+12-6	1213-1214	.	_	
+12-7	1215-1216	3	_	
+12-8	1217-1222	years	_	
+12-9	1223-1225	of	_	
+12-10	1226-1238	professional	_	
+12-11	1239-1243	work	_	
+12-12	1244-1254	experience	_	
+12-13	1255-1257	in	_	
+12-14	1258-1261	the	_	
+12-15	1262-1268	listed	_	
+12-16	1269-1293	requirementsRequirements	_	
+12-17	1294-1305	Proficiency	_	
+12-18	1306-1308	in	_	
+12-19	1309-1313	HTML	Hard Skill	
+12-20	1313-1314	,	_	
+12-21	1315-1318	CSS	Hard Skill	
+12-22	1318-1319	,	_	
+12-23	1320-1323	and	_	
+12-24	1324-1334	JavaScript	Hard Skill	
+12-25	1334-1335	,	_	
+12-26	1336-1338	as	_	
+12-27	1339-1343	well	_	
+12-28	1344-1346	as	_	
+12-29	1347-1357	experience	_	
+12-30	1358-1362	with	_	
+12-31	1363-1368	React	Hard Skill	
+12-32	1369-1372	and	_	
+12-33	1373-1376	its	_	
+12-34	1377-1386	ecosystem	_	
+12-35	1387-1388	(	_	
+12-36	1388-1393	Redux	_	
+12-37	1393-1394	,	_	
+12-38	1395-1400	React	Hard Skill	
+12-39	1401-1407	Router	_	
+12-40	1407-1408	,	_	
+12-41	1409-1412	etc	_	
+12-42	1412-1413	.	_	
+12-43	1413-1414	)	_	
+12-44	1414-1415	.	_	
+
+#Text=Experience working with .NET APIs using tools like Axios, Fetch, or the built-in fetch API to make HTTP requests and handle responses.
+13-1	1416-1426	Experience	_	
+13-2	1427-1434	working	_	
+13-3	1435-1439	with	_	
+13-4	1440-1441	.	_	
+13-5	1441-1444	NET	_	
+13-6	1445-1449	APIs	_	
+13-7	1450-1455	using	_	
+13-8	1456-1461	tools	_	
+13-9	1462-1466	like	_	
+13-10	1467-1472	Axios	_	
+13-11	1472-1473	,	_	
+13-12	1474-1479	Fetch	_	
+13-13	1479-1480	,	_	
+13-14	1481-1483	or	_	
+13-15	1484-1487	the	_	
+13-16	1488-1496	built-in	_	
+13-17	1497-1502	fetch	_	
+13-18	1503-1506	API	Hard Skill	
+13-19	1507-1509	to	_	
+13-20	1510-1514	make	_	
+13-21	1515-1519	HTTP	_	
+13-22	1520-1528	requests	_	
+13-23	1529-1532	and	_	
+13-24	1533-1539	handle	_	
+13-25	1540-1549	responses	_	
+13-26	1549-1550	.	_	
+
+#Text=Familiarity with the .NET ecosystem, including ASP.NET, C#, and Visual Studio.
+14-1	1551-1562	Familiarity	_	
+14-2	1563-1567	with	_	
+14-3	1568-1571	the	_	
+14-4	1572-1573	.	_	
+14-5	1573-1576	NET	_	
+14-6	1577-1586	ecosystem	_	
+14-7	1586-1587	,	_	
+14-8	1588-1597	including	_	
+14-9	1598-1605	ASP.NET	_	
+14-10	1605-1606	,	_	
+14-11	1607-1608	C	Hard Skill	
+14-12	1608-1609	#	_	
+14-13	1609-1610	,	_	
+14-14	1611-1614	and	_	
+14-15	1615-1621	Visual	_	
+14-16	1622-1628	Studio	_	
+14-17	1628-1629	.	_	
+
+#Text=UI - React 18, Material UI, File based routing Routing - React Router (Data APIs) Data Fetching - fetch, React Router's loader/action Authentication - oidc-client-ts Feature flags - Optimizely React SDK Testing - Vitest, Playwright Linting - ESLint, Prettier Understanding of RESTful API design and ability to work with JSON data structures.
+15-1	1630-1632	UI	_	
+15-2	1633-1634	-	_	
+15-3	1635-1640	React	Hard Skill	
+15-4	1641-1643	18	_	
+15-5	1643-1644	,	_	
+15-6	1645-1653	Material	_	
+15-7	1654-1656	UI	_	
+15-8	1656-1657	,	_	
+15-9	1658-1662	File	_	
+15-10	1663-1668	based	_	
+15-11	1669-1676	routing	_	
+15-12	1677-1684	Routing	_	
+15-13	1685-1686	-	_	
+15-14	1687-1692	React	Hard Skill	
+15-15	1693-1699	Router	_	
+15-16	1700-1701	(	_	
+15-17	1701-1705	Data	_	
+15-18	1706-1710	APIs	_	
+15-19	1710-1711	)	_	
+15-20	1712-1716	Data	_	
+15-21	1717-1725	Fetching	_	
+15-22	1726-1727	-	_	
+15-23	1728-1733	fetch	_	
+15-24	1733-1734	,	_	
+15-25	1735-1740	React	Hard Skill	
+15-26	1741-1749	Router's	_	
+15-27	1750-1756	loader	_	
+15-28	1756-1757	/	_	
+15-29	1757-1763	action	_	
+15-30	1764-1778	Authentication	_	
+15-31	1779-1780	-	_	
+15-32	1781-1795	oidc-client-ts	_	
+15-33	1796-1803	Feature	_	
+15-34	1804-1809	flags	_	
+15-35	1810-1811	-	_	
+15-36	1812-1822	Optimizely	_	
+15-37	1823-1828	React	Hard Skill	
+15-38	1829-1832	SDK	_	
+15-39	1833-1840	Testing	_	
+15-40	1841-1842	-	_	
+15-41	1843-1849	Vitest	_	
+15-42	1849-1850	,	_	
+15-43	1851-1861	Playwright	_	
+15-44	1862-1869	Linting	_	
+15-45	1870-1871	-	_	
+15-46	1872-1878	ESLint	_	
+15-47	1878-1879	,	_	
+15-48	1880-1888	Prettier	_	
+15-49	1889-1902	Understanding	_	
+15-50	1903-1905	of	_	
+15-51	1906-1913	RESTful	_	
+15-52	1914-1917	API	Hard Skill	
+15-53	1918-1924	design	Hard Skill	
+15-54	1925-1928	and	_	
+15-55	1929-1936	ability	_	
+15-56	1937-1939	to	_	
+15-57	1940-1944	work	_	
+15-58	1945-1949	with	_	
+15-59	1950-1954	JSON	Hard Skill	
+15-60	1955-1959	data	_	
+15-61	1960-1970	structures	_	
+15-62	1970-1971	.	_	
+
+#Text=Ability to create and implement responsive web designs using CSS frameworks like Bootstrap or Material UI.
+16-1	1972-1979	Ability	_	
+16-2	1980-1982	to	_	
+16-3	1983-1989	create	_	
+16-4	1990-1993	and	_	
+16-5	1994-2003	implement	_	
+16-6	2004-2014	responsive	_	
+16-7	2015-2018	web	_	
+16-8	2019-2026	designs	_	
+16-9	2027-2032	using	_	
+16-10	2033-2036	CSS	Hard Skill	
+16-11	2037-2047	frameworks	_	
+16-12	2048-2052	like	_	
+16-13	2053-2062	Bootstrap	Hard Skill	
+16-14	2063-2065	or	_	
+16-15	2066-2074	Material	_	
+16-16	2075-2077	UI	_	
+16-17	2077-2078	.	_	
+
+#Text=Understanding of Git version control and experience working with Git workflows (e.g. feature branching, pull requests).
+17-1	2079-2092	Understanding	_	
+17-2	2093-2095	of	_	
+17-3	2096-2099	Git	Hard Skill	
+17-4	2100-2107	version	_	
+17-5	2108-2115	control	_	
+17-6	2116-2119	and	_	
+17-7	2120-2130	experience	_	
+17-8	2131-2138	working	_	
+17-9	2139-2143	with	_	
+17-10	2144-2147	Git	Hard Skill	
+17-11	2148-2157	workflows	_	
+17-12	2158-2159	(	_	
+17-13	2159-2162	e.g	_	
+17-14	2162-2163	.	_	
+17-15	2164-2171	feature	_	
+17-16	2172-2181	branching	_	
+17-17	2181-2182	,	_	
+17-18	2183-2187	pull	_	
+17-19	2188-2196	requests	_	
+17-20	2196-2197	)	_	
+17-21	2197-2198	.	_	
+
+#Text=Ability to work with design tools like Sketch, Adobe XD, or Figma to create and implement designs.
+18-1	2199-2206	Ability	_	
+18-2	2207-2209	to	_	
+18-3	2210-2214	work	_	
+18-4	2215-2219	with	_	
+18-5	2220-2226	design	Hard Skill	
+18-6	2227-2232	tools	_	
+18-7	2233-2237	like	_	
+18-8	2238-2244	Sketch	_	
+18-9	2244-2245	,	_	
+18-10	2246-2251	Adobe	_	
+18-11	2252-2254	XD	_	
+18-12	2254-2255	,	_	
+18-13	2256-2258	or	_	
+18-14	2259-2264	Figma	Hard Skill	
+18-15	2265-2267	to	_	
+18-16	2268-2274	create	_	
+18-17	2275-2278	and	_	
+18-18	2279-2288	implement	_	
+18-19	2289-2296	designs	_	
+18-20	2296-2297	.	_	
+
+#Text=Knowledge of accessibility best practices and experience implementing accessible web interfaces.
+19-1	2298-2307	Knowledge	_	
+19-2	2308-2310	of	_	
+19-3	2311-2324	accessibility	_	
+19-4	2325-2329	best	_	
+19-5	2330-2339	practices	_	
+19-6	2340-2343	and	_	
+19-7	2344-2354	experience	_	
+19-8	2355-2367	implementing	_	
+19-9	2368-2378	accessible	_	
+19-10	2379-2382	web	_	
+19-11	2383-2393	interfaces	_	
+19-12	2393-2394	.	_	
+
+#Text=Strong problem-solving skills and ability to debug complex issues.
+20-1	2395-2401	Strong	_	
+20-2	2402-2417	problem-solving	_	
+20-3	2418-2424	skills	_	
+20-4	2425-2428	and	_	
+20-5	2429-2436	ability	_	
+20-6	2437-2439	to	_	
+20-7	2440-2445	debug	Hard Skill	
+20-8	2446-2453	complex	_	
+20-9	2454-2460	issues	_	
+20-10	2460-2461	.	_	
+
+#Text=Familiarity with Agile methodologies and ability to work in a collaborative team environment.Information Remote position within the U.S.
+21-1	2462-2473	Familiarity	_	
+21-2	2474-2478	with	_	
+21-3	2479-2484	Agile	Hard Skill	
+21-4	2485-2498	methodologies	_	
+21-5	2499-2502	and	_	
+21-6	2503-2510	ability	_	
+21-7	2511-2513	to	_	
+21-8	2514-2518	work	_	
+21-9	2519-2521	in	_	
+21-10	2522-2523	a	_	
+21-11	2524-2537	collaborative	Soft Skill	
+21-12	2538-2542	team	_	
+21-13	2543-2566	environment.Information	_	
+21-14	2567-2573	Remote	_	
+21-15	2574-2582	position	_	
+21-16	2583-2589	within	_	
+21-17	2590-2593	the	_	
+21-18	2594-2597	U.S	_	
+21-19	2597-2598	.	_	
+
+#Text=Project is based out of Modesto, CA OtterSoft does not provide sponsorship (H1B)Job Type: Full-timePay: $84,000.00 - $112,000.00 per yearBenefits: 401(k) Dental insurance Employee discount Flexible schedule Flexible spending account Health insurance Health savings account Life insurance Paid time off Professional development assistance Referral program Vision insuranceExperience level: 3 yearsSchedule: Monday to FridayApplication Question(s): Do you now, or in the future, require Visa sponsorship?
+22-1	2599-2606	Project	_	
+22-2	2607-2609	is	_	
+22-3	2610-2615	based	_	
+22-4	2616-2619	out	_	
+22-5	2620-2622	of	_	
+22-6	2623-2630	Modesto	_	
+22-7	2630-2631	,	_	
+22-8	2632-2634	CA	_	
+22-9	2635-2644	OtterSoft	_	
+22-10	2645-2649	does	_	
+22-11	2650-2653	not	_	
+22-12	2654-2661	provide	_	
+22-13	2662-2673	sponsorship	_	
+22-14	2674-2675	(	_	
+22-15	2675-2678	H1B	_	
+22-16	2678-2679	)	_	
+22-17	2679-2682	Job	_	
+22-18	2683-2687	Type	_	
+22-19	2687-2688	:	_	
+22-20	2689-2701	Full-timePay	_	
+22-21	2701-2702	:	_	
+22-22	2703-2713	$84,000.00	_	
+22-23	2714-2715	-	_	
+22-24	2716-2727	$112,000.00	_	
+22-25	2728-2731	per	_	
+22-26	2732-2744	yearBenefits	_	
+22-27	2744-2745	:	_	
+22-28	2746-2749	401	_	
+22-29	2749-2750	(	_	
+22-30	2750-2751	k	_	
+22-31	2751-2752	)	_	
+22-32	2753-2759	Dental	_	
+22-33	2760-2769	insurance	_	
+22-34	2770-2778	Employee	_	
+22-35	2779-2787	discount	_	
+22-36	2788-2796	Flexible	_	
+22-37	2797-2805	schedule	Soft Skill	
+22-38	2806-2814	Flexible	_	
+22-39	2815-2823	spending	_	
+22-40	2824-2831	account	_	
+22-41	2832-2838	Health	_	
+22-42	2839-2848	insurance	_	
+22-43	2849-2855	Health	_	
+22-44	2856-2863	savings	_	
+22-45	2864-2871	account	_	
+22-46	2872-2876	Life	_	
+22-47	2877-2886	insurance	_	
+22-48	2887-2891	Paid	_	
+22-49	2892-2896	time	_	
+22-50	2897-2900	off	_	
+22-51	2901-2913	Professional	_	
+22-52	2914-2925	development	_	
+22-53	2926-2936	assistance	_	
+22-54	2937-2945	Referral	_	
+22-55	2946-2953	program	_	
+22-56	2954-2960	Vision	_	
+22-57	2961-2980	insuranceExperience	_	
+22-58	2981-2986	level	_	
+22-59	2986-2987	:	_	
+22-60	2988-2989	3	_	
+22-61	2990-3003	yearsSchedule	_	
+22-62	3003-3004	:	_	
+22-63	3005-3011	Monday	_	
+22-64	3012-3014	to	_	
+22-65	3015-3032	FridayApplication	_	
+22-66	3033-3041	Question	_	
+22-67	3041-3042	(	_	
+22-68	3042-3043	s	_	
+22-69	3043-3044	)	_	
+22-70	3044-3045	:	_	
+22-71	3046-3048	Do	_	
+22-72	3049-3052	you	_	
+22-73	3053-3056	now	_	
+22-74	3056-3057	,	_	
+22-75	3058-3060	or	_	
+22-76	3061-3063	in	_	
+22-77	3064-3067	the	_	
+22-78	3068-3074	future	_	
+22-79	3074-3075	,	_	
+22-80	3076-3083	require	_	
+22-81	3084-3088	Visa	_	
+22-82	3089-3100	sponsorship	_	
+22-83	3100-3101	?	_	
+
+#Text=Are you currently working through an employer who is providing Visa sponsorship?
+23-1	3102-3105	Are	_	
+23-2	3106-3109	you	_	
+23-3	3110-3119	currently	_	
+23-4	3120-3127	working	_	
+23-5	3128-3135	through	_	
+23-6	3136-3138	an	_	
+23-7	3139-3147	employer	_	
+23-8	3148-3151	who	_	
+23-9	3152-3154	is	_	
+23-10	3155-3164	providing	_	
+23-11	3165-3169	Visa	_	
+23-12	3170-3181	sponsorship	_	
+23-13	3181-3182	?	_	
+
+#Text=Education: Bachelor's (Preferred)Experience: Front-end development: 3 years (Required) React: 3 years (Required) JavaScript: 3 years (Required) APIs: 3 years (Required)Work Location: Remote Must be legally authorized to work in the U.S Must work within the U.S 3 years of professional work experience in the listed requirements Proficiency in HTML, CSS, and JavaScript, as well as experience with React and its ecosystem (Redux, React Router, etc.)
+24-1	3182-3191	Education	_	
+24-2	3191-3192	:	_	
+24-3	3193-3203	Bachelor's	_	
+24-4	3204-3205	(	_	
+24-5	3205-3214	Preferred	_	
+24-6	3214-3215	)	_	
+24-7	3215-3225	Experience	_	
+24-8	3225-3226	:	_	
+24-9	3227-3236	Front-end	_	
+24-10	3237-3248	development	_	
+24-11	3248-3249	:	_	
+24-12	3250-3251	3	_	
+24-13	3252-3257	years	_	
+24-14	3258-3259	(	_	
+24-15	3259-3267	Required	_	
+24-16	3267-3268	)	_	
+24-17	3269-3274	React	Hard Skill	
+24-18	3274-3275	:	_	
+24-19	3276-3277	3	_	
+24-20	3278-3283	years	_	
+24-21	3284-3285	(	_	
+24-22	3285-3293	Required	_	
+24-23	3293-3294	)	_	
+24-24	3295-3305	JavaScript	Hard Skill	
+24-25	3305-3306	:	_	
+24-26	3307-3308	3	_	
+24-27	3309-3314	years	_	
+24-28	3315-3316	(	_	
+24-29	3316-3324	Required	_	
+24-30	3324-3325	)	_	
+24-31	3326-3330	APIs	_	
+24-32	3330-3331	:	_	
+24-33	3332-3333	3	_	
+24-34	3334-3339	years	_	
+24-35	3340-3341	(	_	
+24-36	3341-3349	Required	_	
+24-37	3349-3350	)	_	
+24-38	3350-3354	Work	_	
+24-39	3355-3363	Location	_	
+24-40	3363-3364	:	_	
+24-41	3365-3371	Remote	_	
+24-42	3372-3376	Must	_	
+24-43	3377-3379	be	_	
+24-44	3380-3387	legally	_	
+24-45	3388-3398	authorized	_	
+24-46	3399-3401	to	_	
+24-47	3402-3406	work	_	
+24-48	3407-3409	in	_	
+24-49	3410-3413	the	_	
+24-50	3414-3417	U.S	_	
+24-51	3418-3422	Must	_	
+24-52	3423-3427	work	_	
+24-53	3428-3434	within	_	
+24-54	3435-3438	the	_	
+24-55	3439-3442	U.S	_	
+24-56	3443-3444	3	_	
+24-57	3445-3450	years	_	
+24-58	3451-3453	of	_	
+24-59	3454-3466	professional	_	
+24-60	3467-3471	work	_	
+24-61	3472-3482	experience	_	
+24-62	3483-3485	in	_	
+24-63	3486-3489	the	_	
+24-64	3490-3496	listed	_	
+24-65	3497-3509	requirements	_	
+24-66	3510-3521	Proficiency	_	
+24-67	3522-3524	in	_	
+24-68	3525-3529	HTML	Hard Skill	
+24-69	3529-3530	,	_	
+24-70	3531-3534	CSS	Hard Skill	
+24-71	3534-3535	,	_	
+24-72	3536-3539	and	_	
+24-73	3540-3550	JavaScript	Hard Skill	
+24-74	3550-3551	,	_	
+24-75	3552-3554	as	_	
+24-76	3555-3559	well	_	
+24-77	3560-3562	as	_	
+24-78	3563-3573	experience	_	
+24-79	3574-3578	with	_	
+24-80	3579-3584	React	Hard Skill	
+24-81	3585-3588	and	_	
+24-82	3589-3592	its	_	
+24-83	3593-3602	ecosystem	_	
+24-84	3603-3604	(	_	
+24-85	3604-3609	Redux	_	
+24-86	3609-3610	,	_	
+24-87	3611-3616	React	Hard Skill	
+24-88	3617-3623	Router	_	
+24-89	3623-3624	,	_	
+24-90	3625-3628	etc	_	
+24-91	3628-3629	.	_	
+24-92	3629-3630	)	_	
+
+#Text=Experience working with .NET APIs using tools like Axios, Fetch, or the built-in fetch API to make HTTP requests and handle responses Familiarity with the .NET ecosystem, including ASP.NET, C#, and Visual Studio UI - React 18, Material UI, File based routing Routing - React Router (Data APIs) Feature flags - Optimizely React SDK Testing - Vitest, Playwright Linting - ESLint, Prettier Understanding of RESTful API design and ability to work with JSON data structures Ability to create and implement responsive web designs using CSS frameworks like Bootstrap or Material UI Understanding of Git version control and experience working with Git workflows (e.g. feature branching, pull requests) Ability to work with design tools like Sketch, Adobe XD, or Figma to create and implement designs Knowledge of accessibility best practices and experience implementing accessible web interfaces Strong problem-solving skills and ability to debug complex issues Familiarity with Agile methodologies and ability to work in a collaborative team environment Front-end development: 3 years (Required) React: 3 years (Required) JavaScript: 3 years (Required) APIs: 3 years (Required) With the supervision of the Lead Software Developer, this position will be responsible for writing code to generate web pages, access databases, and business logic servers; Work with designers and content producers to test and document software for websites; Write, modify, and debug software for websites; Contribute to the User Interface from inception to development and delivery, working closely with an agile team Executes designing, coding, debugging, and unit testing of software products Participates in all Scrum ceremonies Works with other departments to participate in specification, design, code, and test reviews Evaluates problems to develop solutions relating to computer software Contributes to the enhancement of software development procedure Improves existing programs by analyzing and identifying areas for alteration Creates and presents findings, solutions, and demos Adheres to all policies and procedures Performs other duties as assigned Pay: $84,000.00 - $112,000.00 per year 401(k) Dental insurance Employee discount Flexible schedule Flexible spending account Health insurance Health savings account Life insurance Paid time off Professional development assistance Referral program Vision insurance
+25-1	3631-3641	Experience	_	
+25-2	3642-3649	working	_	
+25-3	3650-3654	with	_	
+25-4	3655-3656	.	_	
+25-5	3656-3659	NET	_	
+25-6	3660-3664	APIs	_	
+25-7	3665-3670	using	_	
+25-8	3671-3676	tools	_	
+25-9	3677-3681	like	_	
+25-10	3682-3687	Axios	_	
+25-11	3687-3688	,	_	
+25-12	3689-3694	Fetch	_	
+25-13	3694-3695	,	_	
+25-14	3696-3698	or	_	
+25-15	3699-3702	the	_	
+25-16	3703-3711	built-in	_	
+25-17	3712-3717	fetch	_	
+25-18	3718-3721	API	Hard Skill	
+25-19	3722-3724	to	_	
+25-20	3725-3729	make	_	
+25-21	3730-3734	HTTP	_	
+25-22	3735-3743	requests	_	
+25-23	3744-3747	and	_	
+25-24	3748-3754	handle	_	
+25-25	3755-3764	responses	_	
+25-26	3765-3776	Familiarity	_	
+25-27	3777-3781	with	_	
+25-28	3782-3785	the	_	
+25-29	3786-3787	.	_	
+25-30	3787-3790	NET	_	
+25-31	3791-3800	ecosystem	_	
+25-32	3800-3801	,	_	
+25-33	3802-3811	including	_	
+25-34	3812-3819	ASP.NET	_	
+25-35	3819-3820	,	_	
+25-36	3821-3822	C	Hard Skill	
+25-37	3822-3823	#	_	
+25-38	3823-3824	,	_	
+25-39	3825-3828	and	_	
+25-40	3829-3835	Visual	_	
+25-41	3836-3842	Studio	_	
+25-42	3843-3845	UI	_	
+25-43	3846-3847	-	_	
+25-44	3848-3853	React	Hard Skill	
+25-45	3854-3856	18	_	
+25-46	3856-3857	,	_	
+25-47	3858-3866	Material	_	
+25-48	3867-3869	UI	_	
+25-49	3869-3870	,	_	
+25-50	3871-3875	File	_	
+25-51	3876-3881	based	_	
+25-52	3882-3889	routing	_	
+25-53	3890-3897	Routing	_	
+25-54	3898-3899	-	_	
+25-55	3900-3905	React	Hard Skill	
+25-56	3906-3912	Router	_	
+25-57	3913-3914	(	_	
+25-58	3914-3918	Data	_	
+25-59	3919-3923	APIs	_	
+25-60	3923-3924	)	_	
+25-61	3925-3932	Feature	_	
+25-62	3933-3938	flags	_	
+25-63	3939-3940	-	_	
+25-64	3941-3951	Optimizely	_	
+25-65	3952-3957	React	Hard Skill	
+25-66	3958-3961	SDK	_	
+25-67	3962-3969	Testing	_	
+25-68	3970-3971	-	_	
+25-69	3972-3978	Vitest	_	
+25-70	3978-3979	,	_	
+25-71	3980-3990	Playwright	_	
+25-72	3991-3998	Linting	_	
+25-73	3999-4000	-	_	
+25-74	4001-4007	ESLint	_	
+25-75	4007-4008	,	_	
+25-76	4009-4017	Prettier	_	
+25-77	4018-4031	Understanding	_	
+25-78	4032-4034	of	_	
+25-79	4035-4042	RESTful	_	
+25-80	4043-4046	API	Hard Skill	
+25-81	4047-4053	design	Hard Skill	
+25-82	4054-4057	and	_	
+25-83	4058-4065	ability	_	
+25-84	4066-4068	to	_	
+25-85	4069-4073	work	_	
+25-86	4074-4078	with	_	
+25-87	4079-4083	JSON	Hard Skill	
+25-88	4084-4088	data	_	
+25-89	4089-4099	structures	_	
+25-90	4100-4107	Ability	_	
+25-91	4108-4110	to	_	
+25-92	4111-4117	create	_	
+25-93	4118-4121	and	_	
+25-94	4122-4131	implement	_	
+25-95	4132-4142	responsive	_	
+25-96	4143-4146	web	_	
+25-97	4147-4154	designs	_	
+25-98	4155-4160	using	_	
+25-99	4161-4164	CSS	Hard Skill	
+25-100	4165-4175	frameworks	_	
+25-101	4176-4180	like	_	
+25-102	4181-4190	Bootstrap	Hard Skill	
+25-103	4191-4193	or	_	
+25-104	4194-4202	Material	_	
+25-105	4203-4205	UI	_	
+25-106	4206-4219	Understanding	_	
+25-107	4220-4222	of	_	
+25-108	4223-4226	Git	Hard Skill	
+25-109	4227-4234	version	_	
+25-110	4235-4242	control	_	
+25-111	4243-4246	and	_	
+25-112	4247-4257	experience	_	
+25-113	4258-4265	working	_	
+25-114	4266-4270	with	_	
+25-115	4271-4274	Git	Hard Skill	
+25-116	4275-4284	workflows	_	
+25-117	4285-4286	(	_	
+25-118	4286-4289	e.g	_	
+25-119	4289-4290	.	_	
+25-120	4291-4298	feature	_	
+25-121	4299-4308	branching	_	
+25-122	4308-4309	,	_	
+25-123	4310-4314	pull	_	
+25-124	4315-4323	requests	_	
+25-125	4323-4324	)	_	
+25-126	4325-4332	Ability	_	
+25-127	4333-4335	to	_	
+25-128	4336-4340	work	_	
+25-129	4341-4345	with	_	
+25-130	4346-4352	design	Hard Skill	
+25-131	4353-4358	tools	_	
+25-132	4359-4363	like	_	
+25-133	4364-4370	Sketch	_	
+25-134	4370-4371	,	_	
+25-135	4372-4377	Adobe	_	
+25-136	4378-4380	XD	_	
+25-137	4380-4381	,	_	
+25-138	4382-4384	or	_	
+25-139	4385-4390	Figma	Hard Skill	
+25-140	4391-4393	to	_	
+25-141	4394-4400	create	_	
+25-142	4401-4404	and	_	
+25-143	4405-4414	implement	_	
+25-144	4415-4422	designs	_	
+25-145	4423-4432	Knowledge	_	
+25-146	4433-4435	of	_	
+25-147	4436-4449	accessibility	_	
+25-148	4450-4454	best	_	
+25-149	4455-4464	practices	_	
+25-150	4465-4468	and	_	
+25-151	4469-4479	experience	_	
+25-152	4480-4492	implementing	_	
+25-153	4493-4503	accessible	_	
+25-154	4504-4507	web	_	
+25-155	4508-4518	interfaces	_	
+25-156	4519-4525	Strong	_	
+25-157	4526-4541	problem-solving	_	
+25-158	4542-4548	skills	_	
+25-159	4549-4552	and	_	
+25-160	4553-4560	ability	_	
+25-161	4561-4563	to	_	
+25-162	4564-4569	debug	Hard Skill	
+25-163	4570-4577	complex	_	
+25-164	4578-4584	issues	_	
+25-165	4585-4596	Familiarity	_	
+25-166	4597-4601	with	_	
+25-167	4602-4607	Agile	Hard Skill	
+25-168	4608-4621	methodologies	_	
+25-169	4622-4625	and	_	
+25-170	4626-4633	ability	_	
+25-171	4634-4636	to	_	
+25-172	4637-4641	work	_	
+25-173	4642-4644	in	_	
+25-174	4645-4646	a	_	
+25-175	4647-4660	collaborative	Soft Skill	
+25-176	4661-4665	team	_	
+25-177	4666-4677	environment	_	
+25-178	4678-4687	Front-end	_	
+25-179	4688-4699	development	_	
+25-180	4699-4700	:	_	
+25-181	4701-4702	3	_	
+25-182	4703-4708	years	_	
+25-183	4709-4710	(	_	
+25-184	4710-4718	Required	_	
+25-185	4718-4719	)	_	
+25-186	4720-4725	React	Hard Skill	
+25-187	4725-4726	:	_	
+25-188	4727-4728	3	_	
+25-189	4729-4734	years	_	
+25-190	4735-4736	(	_	
+25-191	4736-4744	Required	_	
+25-192	4744-4745	)	_	
+25-193	4746-4756	JavaScript	Hard Skill	
+25-194	4756-4757	:	_	
+25-195	4758-4759	3	_	
+25-196	4760-4765	years	_	
+25-197	4766-4767	(	_	
+25-198	4767-4775	Required	_	
+25-199	4775-4776	)	_	
+25-200	4777-4781	APIs	_	
+25-201	4781-4782	:	_	
+25-202	4783-4784	3	_	
+25-203	4785-4790	years	_	
+25-204	4791-4792	(	_	
+25-205	4792-4800	Required	_	
+25-206	4800-4801	)	_	
+25-207	4802-4806	With	_	
+25-208	4807-4810	the	_	
+25-209	4811-4822	supervision	_	
+25-210	4823-4825	of	_	
+25-211	4826-4829	the	_	
+25-212	4830-4834	Lead	_	
+25-213	4835-4843	Software	_	
+25-214	4844-4853	Developer	_	
+25-215	4853-4854	,	_	
+25-216	4855-4859	this	_	
+25-217	4860-4868	position	_	
+25-218	4869-4873	will	_	
+25-219	4874-4876	be	_	
+25-220	4877-4888	responsible	_	
+25-221	4889-4892	for	_	
+25-222	4893-4900	writing	_	
+25-223	4901-4905	code	_	
+25-224	4906-4908	to	_	
+25-225	4909-4917	generate	_	
+25-226	4918-4921	web	_	
+25-227	4922-4927	pages	_	
+25-228	4927-4928	,	_	
+25-229	4929-4935	access	_	
+25-230	4936-4945	databases	_	
+25-231	4945-4946	,	_	
+25-232	4947-4950	and	_	
+25-233	4951-4959	business	_	
+25-234	4960-4965	logic	_	
+25-235	4966-4973	servers	_	
+25-236	4973-4974	;	_	
+25-237	4975-4979	Work	_	
+25-238	4980-4984	with	_	
+25-239	4985-4994	designers	_	
+25-240	4995-4998	and	_	
+25-241	4999-5006	content	_	
+25-242	5007-5016	producers	_	
+25-243	5017-5019	to	_	
+25-244	5020-5024	test	_	
+25-245	5025-5028	and	_	
+25-246	5029-5037	document	_	
+25-247	5038-5046	software	_	
+25-248	5047-5050	for	_	
+25-249	5051-5059	websites	_	
+25-250	5059-5060	;	_	
+25-251	5061-5066	Write	_	
+25-252	5066-5067	,	_	
+25-253	5068-5074	modify	_	
+25-254	5074-5075	,	_	
+25-255	5076-5079	and	_	
+25-256	5080-5085	debug	Hard Skill	
+25-257	5086-5094	software	_	
+25-258	5095-5098	for	_	
+25-259	5099-5107	websites	_	
+25-260	5107-5108	;	_	
+25-261	5109-5119	Contribute	_	
+25-262	5120-5122	to	_	
+25-263	5123-5126	the	_	
+25-264	5127-5131	User	_	
+25-265	5132-5141	Interface	_	
+25-266	5142-5146	from	_	
+25-267	5147-5156	inception	_	
+25-268	5157-5159	to	_	
+25-269	5160-5171	development	_	
+25-270	5172-5175	and	_	
+25-271	5176-5184	delivery	_	
+25-272	5184-5185	,	_	
+25-273	5186-5193	working	_	
+25-274	5194-5201	closely	_	
+25-275	5202-5206	with	_	
+25-276	5207-5209	an	_	
+25-277	5210-5215	agile	Hard Skill	
+25-278	5216-5220	team	_	
+25-279	5221-5229	Executes	_	
+25-280	5230-5239	designing	_	
+25-281	5239-5240	,	_	
+25-282	5241-5247	coding	Hard Skill	
+25-283	5247-5248	,	_	
+25-284	5249-5258	debugging	Hard Skill	
+25-285	5258-5259	,	_	
+25-286	5260-5263	and	_	
+25-287	5264-5268	unit	_	
+25-288	5269-5276	testing	_	
+25-289	5277-5279	of	_	
+25-290	5280-5288	software	_	
+25-291	5289-5297	products	_	
+25-292	5298-5310	Participates	_	
+25-293	5311-5313	in	_	
+25-294	5314-5317	all	_	
+25-295	5318-5323	Scrum	_	
+25-296	5324-5334	ceremonies	_	
+25-297	5335-5340	Works	_	
+25-298	5341-5345	with	_	
+25-299	5346-5351	other	_	
+25-300	5352-5363	departments	_	
+25-301	5364-5366	to	_	
+25-302	5367-5378	participate	_	
+25-303	5379-5381	in	_	
+25-304	5382-5395	specification	_	
+25-305	5395-5396	,	_	
+25-306	5397-5403	design	Hard Skill	
+25-307	5403-5404	,	_	
+25-308	5405-5409	code	_	
+25-309	5409-5410	,	_	
+25-310	5411-5414	and	_	
+25-311	5415-5419	test	_	
+25-312	5420-5427	reviews	_	
+25-313	5428-5437	Evaluates	_	
+25-314	5438-5446	problems	_	
+25-315	5447-5449	to	_	
+25-316	5450-5457	develop	_	
+25-317	5458-5467	solutions	_	
+25-318	5468-5476	relating	_	
+25-319	5477-5479	to	_	
+25-320	5480-5488	computer	_	
+25-321	5489-5497	software	_	
+25-322	5498-5509	Contributes	_	
+25-323	5510-5512	to	_	
+25-324	5513-5516	the	_	
+25-325	5517-5528	enhancement	_	
+25-326	5529-5531	of	_	
+25-327	5532-5540	software	_	
+25-328	5541-5552	development	_	
+25-329	5553-5562	procedure	_	
+25-330	5563-5571	Improves	_	
+25-331	5572-5580	existing	_	
+25-332	5581-5589	programs	_	
+25-333	5590-5592	by	_	
+25-334	5593-5602	analyzing	_	
+25-335	5603-5606	and	_	
+25-336	5607-5618	identifying	_	
+25-337	5619-5624	areas	_	
+25-338	5625-5628	for	_	
+25-339	5629-5639	alteration	_	
+25-340	5640-5647	Creates	_	
+25-341	5648-5651	and	_	
+25-342	5652-5660	presents	_	
+25-343	5661-5669	findings	_	
+25-344	5669-5670	,	_	
+25-345	5671-5680	solutions	_	
+25-346	5680-5681	,	_	
+25-347	5682-5685	and	_	
+25-348	5686-5691	demos	_	
+25-349	5692-5699	Adheres	_	
+25-350	5700-5702	to	_	
+25-351	5703-5706	all	_	
+25-352	5707-5715	policies	_	
+25-353	5716-5719	and	_	
+25-354	5720-5730	procedures	_	
+25-355	5731-5739	Performs	_	
+25-356	5740-5745	other	_	
+25-357	5746-5752	duties	_	
+25-358	5753-5755	as	_	
+25-359	5756-5764	assigned	_	
+25-360	5765-5768	Pay	_	
+25-361	5768-5769	:	_	
+25-362	5770-5780	$84,000.00	_	
+25-363	5781-5782	-	_	
+25-364	5783-5794	$112,000.00	_	
+25-365	5795-5798	per	_	
+25-366	5799-5803	year	_	
+25-367	5804-5807	401	_	
+25-368	5807-5808	(	_	
+25-369	5808-5809	k	_	
+25-370	5809-5810	)	_	
+25-371	5811-5817	Dental	_	
+25-372	5818-5827	insurance	_	
+25-373	5828-5836	Employee	_	
+25-374	5837-5845	discount	_	
+25-375	5846-5854	Flexible	_	
+25-376	5855-5863	schedule	Soft Skill	
+25-377	5864-5872	Flexible	_	
+25-378	5873-5881	spending	_	
+25-379	5882-5889	account	_	
+25-380	5890-5896	Health	_	
+25-381	5897-5906	insurance	_	
+25-382	5907-5913	Health	_	
+25-383	5914-5921	savings	_	
+25-384	5922-5929	account	_	
+25-385	5930-5934	Life	_	
+25-386	5935-5944	insurance	_	
+25-387	5945-5949	Paid	_	
+25-388	5950-5954	time	_	
+25-389	5955-5958	off	_	
+25-390	5959-5971	Professional	_	
+25-391	5972-5983	development	_	
+25-392	5984-5994	assistance	_	
+25-393	5995-6003	Referral	_	
+25-394	6004-6011	program	_	
+25-395	6012-6018	Vision	_	
+25-396	6019-6028	insurance	_	

@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=We are building a portal for our customers to use for entry of information that will be sent to our backend.
+1-1	0-2	We	
+1-2	3-6	are	
+1-3	7-15	building	
+1-4	16-17	a	
+1-5	18-24	portal	
+1-6	25-28	for	
+1-7	29-32	our	
+1-8	33-42	customers	
+1-9	43-45	to	
+1-10	46-49	use	
+1-11	50-53	for	
+1-12	54-59	entry	
+1-13	60-62	of	
+1-14	63-74	information	
+1-15	75-79	that	
+1-16	80-84	will	
+1-17	85-87	be	
+1-18	88-92	sent	
+1-19	93-95	to	
+1-20	96-99	our	
+1-21	100-107	backend	
+1-22	107-108	.	
+
+#Text=We have a front-end developer but need someone to build the backend that will integrate with our Transportation Management System (TMS).
+2-1	109-111	We	
+2-2	112-116	have	
+2-3	117-118	a	
+2-4	119-128	front-end	
+2-5	129-138	developer	
+2-6	139-142	but	
+2-7	143-147	need	
+2-8	148-155	someone	
+2-9	156-158	to	
+2-10	159-164	build	
+2-11	165-168	the	
+2-12	169-176	backend	
+2-13	177-181	that	
+2-14	182-186	will	
+2-15	187-196	integrate	
+2-16	197-201	with	
+2-17	202-205	our	
+2-18	206-220	Transportation	
+2-19	221-231	Management	
+2-20	232-238	System	
+2-21	239-240	(	
+2-22	240-243	TMS	
+2-23	243-244	)	
+2-24	244-245	.	
+
+#Text=We are building a portal for our customers to use for entry of information that will be sent to our backend.
+3-1	246-248	We	
+3-2	249-252	are	
+3-3	253-261	building	
+3-4	262-263	a	
+3-5	264-270	portal	
+3-6	271-274	for	
+3-7	275-278	our	
+3-8	279-288	customers	
+3-9	289-291	to	
+3-10	292-295	use	
+3-11	296-299	for	
+3-12	300-305	entry	
+3-13	306-308	of	
+3-14	309-320	information	
+3-15	321-325	that	
+3-16	326-330	will	
+3-17	331-333	be	
+3-18	334-338	sent	
+3-19	339-341	to	
+3-20	342-345	our	
+3-21	346-353	backend	
+3-22	353-354	.	
+
+#Text=We have a front-end developer but need someone to build the backend that will integrate with our Transportation Management System (TMS).
+4-1	355-357	We	
+4-2	358-362	have	
+4-3	363-364	a	
+4-4	365-374	front-end	
+4-5	375-384	developer	
+4-6	385-388	but	
+4-7	389-393	need	
+4-8	394-401	someone	
+4-9	402-404	to	
+4-10	405-410	build	
+4-11	411-414	the	
+4-12	415-422	backend	
+4-13	423-427	that	
+4-14	428-432	will	
+4-15	433-442	integrate	
+4-16	443-447	with	
+4-17	448-451	our	
+4-18	452-466	Transportation	
+4-19	467-477	Management	
+4-20	478-484	System	
+4-21	485-486	(	
+4-22	486-489	TMS	
+4-23	489-490	)	
+4-24	490-491	.	

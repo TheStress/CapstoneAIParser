@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=I am seeking a solution to detect the occurrence of a user clicking the "OK" button within an AlertDialog.
+1-1	0-1	I	
+1-2	2-4	am	
+1-3	5-12	seeking	
+1-4	13-14	a	
+1-5	15-23	solution	
+1-6	24-26	to	
+1-7	27-33	detect	
+1-8	34-37	the	
+1-9	38-48	occurrence	
+1-10	49-51	of	
+1-11	52-53	a	
+1-12	54-58	user	
+1-13	59-67	clicking	
+1-14	68-71	the	
+1-15	72-73	"	
+1-16	73-75	OK	
+1-17	75-76	"	
+1-18	77-83	button	
+1-19	84-90	within	
+1-20	91-93	an	
+1-21	94-105	AlertDialog	
+1-22	105-106	.	
+
+#Text=To accomplish this, it is necessary to establish a listener for the positive button by employing the setPositiveButton method.
+2-1	107-109	To	
+2-2	110-120	accomplish	
+2-3	121-125	this	
+2-4	125-126	,	
+2-5	127-129	it	
+2-6	130-132	is	
+2-7	133-142	necessary	
+2-8	143-145	to	
+2-9	146-155	establish	
+2-10	156-157	a	
+2-11	158-166	listener	
+2-12	167-170	for	
+2-13	171-174	the	
+2-14	175-183	positive	
+2-15	184-190	button	
+2-16	191-193	by	
+2-17	194-203	employing	
+2-18	204-207	the	
+2-19	208-225	setPositiveButton	
+2-20	226-232	method	
+2-21	232-233	.	
+
+#Text=For reference, please find the attached C++ code, which demonstrates the implementation of an AlertDialog in the NDK C++ environment.
+3-1	234-237	For	
+3-2	238-247	reference	
+3-3	247-248	,	
+3-4	249-255	please	
+3-5	256-260	find	
+3-6	261-264	the	
+3-7	265-273	attached	
+3-8	274-275	C	
+3-9	275-276	+	
+3-10	276-277	+	
+3-11	278-282	code	
+3-12	282-283	,	
+3-13	284-289	which	
+3-14	290-302	demonstrates	
+3-15	303-306	the	
+3-16	307-321	implementation	
+3-17	322-324	of	
+3-18	325-327	an	
+3-19	328-339	AlertDialog	
+3-20	340-342	in	
+3-21	343-346	the	
+3-22	347-350	NDK	
+3-23	351-352	C	
+3-24	352-353	+	
+3-25	353-354	+	
+3-26	355-366	environment	
+3-27	366-367	.	
+
+#Text=To accomplish this, it is necessary to establish a listener for the positive button by employing the setPositiveButton method
+4-1	368-370	To	
+4-2	371-381	accomplish	
+4-3	382-386	this	
+4-4	386-387	,	
+4-5	388-390	it	
+4-6	391-393	is	
+4-7	394-403	necessary	
+4-8	404-406	to	
+4-9	407-416	establish	
+4-10	417-418	a	
+4-11	419-427	listener	
+4-12	428-431	for	
+4-13	432-435	the	
+4-14	436-444	positive	
+4-15	445-451	button	
+4-16	452-454	by	
+4-17	455-464	employing	
+4-18	465-468	the	
+4-19	469-486	setPositiveButton	
+4-20	487-493	method	

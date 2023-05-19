@@ -1,0 +1,200 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Evaluate user requirements to develop and maintain user interface for the platform.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-26	Evaluate	_	
+1-4	27-31	user	_	
+1-5	32-44	requirements	_	
+1-6	45-47	to	_	
+1-7	48-55	develop	_	
+1-8	56-59	and	_	
+1-9	60-68	maintain	_	
+1-10	69-73	user	_	
+1-11	74-83	interface	_	
+1-12	84-87	for	_	
+1-13	88-91	the	_	
+1-14	92-100	platform	_	
+1-15	100-101	.	_	
+
+#Text=Develop features that enhance user experience.
+2-1	102-109	Develop	_	
+2-2	110-118	features	_	
+2-3	119-123	that	_	
+2-4	124-131	enhance	_	
+2-5	132-136	user	_	
+2-6	137-147	experience	_	
+2-7	147-148	.	_	
+
+#Text=Optimize code to improve responsiveness.
+3-1	149-157	Optimize	_	
+3-2	158-162	code	_	
+3-3	163-165	to	_	
+3-4	166-173	improve	_	
+3-5	174-188	responsiveness	_	
+3-6	188-189	.	_	
+
+#Text=Participate in testing of completed components.
+4-1	190-201	Participate	_	
+4-2	202-204	in	_	
+4-3	205-212	testing	_	
+4-4	213-215	of	_	
+4-5	216-225	completed	_	
+4-6	226-236	components	_	
+4-7	236-237	.	_	
+
+#Text=Coordinate UI development with other team members.Requirements: Bachelors degree and/or equivalent experience. 3 years experience in UI development...
+5-1	238-248	Coordinate	_	
+5-2	249-251	UI	_	
+5-3	252-263	development	_	
+5-4	264-268	with	_	
+5-5	269-274	other	_	
+5-6	275-279	team	_	
+5-7	280-300	members.Requirements	_	
+5-8	300-301	:	_	
+5-9	302-311	Bachelors	_	
+5-10	312-318	degree	_	
+5-11	319-322	and	_	
+5-12	322-323	/	_	
+5-13	323-325	or	_	
+5-14	326-336	equivalent	_	
+5-15	337-347	experience	_	
+5-16	347-348	.	_	
+5-17	349-350	3	_	
+5-18	351-356	years	_	
+5-19	357-367	experience	_	
+5-20	368-370	in	_	
+5-21	371-373	UI	_	
+5-22	374-385	development	_	
+5-23	385-386	.	_	
+5-24	386-387	.	_	
+5-25	387-388	.	_	
+
+#Text=Experience using Angular, HTML, CSS and JavaScript.
+6-1	389-399	Experience	_	
+6-2	400-405	using	_	
+6-3	406-413	Angular	_	
+6-4	413-414	,	_	
+6-5	415-419	HTML	Hard Skill	
+6-6	419-420	,	_	
+6-7	421-424	CSS	Hard Skill	
+6-8	425-428	and	_	
+6-9	429-439	JavaScript	Hard Skill	
+6-10	439-440	.	_	
+
+#Text=Excellent communications oral and written skills.Key Skills: JavaScript/jQuery.
+7-1	441-450	Excellent	_	
+7-2	451-465	communications	_	
+7-3	466-470	oral	_	
+7-4	471-474	and	_	
+7-5	475-482	written	_	
+7-6	483-493	skills.Key	_	
+7-7	494-500	Skills	_	
+7-8	500-501	:	_	
+7-9	502-512	JavaScript	Hard Skill	
+7-10	512-513	/	_	
+7-11	513-519	jQuery	Hard Skill	
+7-12	519-520	.	_	
+
+#Text=Frameworks.
+8-1	521-531	Frameworks	_	
+8-2	531-532	.	_	
+
+#Text=Responsive Design.
+9-1	533-543	Responsive	_	
+9-2	544-550	Design	Hard Skill	
+9-3	550-551	.	_	
+
+#Text=Version Control/Git.
+10-1	552-559	Version	_	
+10-2	560-567	Control	_	
+10-3	567-568	/	_	
+10-4	568-571	Git	Hard Skill	
+10-5	571-572	.	_	
+
+#Text=Testing/Debugging.
+11-1	573-580	Testing	_	
+11-2	580-581	/	_	
+11-3	581-590	Debugging	_	
+11-4	590-591	.	_	
+
+#Text=Browser Developer Tool Requirements: Bachelors degree and/or equivalent experience 3 years experience in UI development Experience using Angular, HTML, CSS and JavaScript Excellent communications oral and written skills Key Skills: JavaScript/jQuery Responsibilities: Evaluate user requirements to develop and maintain user interface for the platform Develop features that enhance user experience Optimize code to improve responsiveness Participate in testing of completed components Coordinate UI development with other team members
+12-1	592-599	Browser	_	
+12-2	600-609	Developer	_	
+12-3	610-614	Tool	_	
+12-4	615-627	Requirements	_	
+12-5	627-628	:	_	
+12-6	629-638	Bachelors	_	
+12-7	639-645	degree	_	
+12-8	646-649	and	_	
+12-9	649-650	/	_	
+12-10	650-652	or	_	
+12-11	653-663	equivalent	_	
+12-12	664-674	experience	_	
+12-13	675-676	3	_	
+12-14	677-682	years	_	
+12-15	683-693	experience	_	
+12-16	694-696	in	_	
+12-17	697-699	UI	_	
+12-18	700-711	development	_	
+12-19	712-722	Experience	_	
+12-20	723-728	using	_	
+12-21	729-736	Angular	_	
+12-22	736-737	,	_	
+12-23	738-742	HTML	Hard Skill	
+12-24	742-743	,	_	
+12-25	744-747	CSS	Hard Skill	
+12-26	748-751	and	_	
+12-27	752-762	JavaScript	Hard Skill	
+12-28	763-772	Excellent	_	
+12-29	773-787	communications	_	
+12-30	788-792	oral	_	
+12-31	793-796	and	_	
+12-32	797-804	written	_	
+12-33	805-811	skills	_	
+12-34	812-815	Key	_	
+12-35	816-822	Skills	_	
+12-36	822-823	:	_	
+12-37	824-834	JavaScript	Hard Skill	
+12-38	834-835	/	_	
+12-39	835-841	jQuery	Hard Skill	
+12-40	842-858	Responsibilities	_	
+12-41	858-859	:	_	
+12-42	860-868	Evaluate	_	
+12-43	869-873	user	_	
+12-44	874-886	requirements	_	
+12-45	887-889	to	_	
+12-46	890-897	develop	_	
+12-47	898-901	and	_	
+12-48	902-910	maintain	_	
+12-49	911-915	user	_	
+12-50	916-925	interface	_	
+12-51	926-929	for	_	
+12-52	930-933	the	_	
+12-53	934-942	platform	_	
+12-54	943-950	Develop	_	
+12-55	951-959	features	_	
+12-56	960-964	that	_	
+12-57	965-972	enhance	_	
+12-58	973-977	user	_	
+12-59	978-988	experience	_	
+12-60	989-997	Optimize	_	
+12-61	998-1002	code	_	
+12-62	1003-1005	to	_	
+12-63	1006-1013	improve	_	
+12-64	1014-1028	responsiveness	_	
+12-65	1029-1040	Participate	_	
+12-66	1041-1043	in	_	
+12-67	1044-1051	testing	_	
+12-68	1052-1054	of	_	
+12-69	1055-1064	completed	_	
+12-70	1065-1075	components	_	
+12-71	1076-1086	Coordinate	_	
+12-72	1087-1089	UI	_	
+12-73	1090-1101	development	_	
+12-74	1102-1106	with	_	
+12-75	1107-1112	other	_	
+12-76	1113-1117	team	_	
+12-77	1118-1125	members	_	

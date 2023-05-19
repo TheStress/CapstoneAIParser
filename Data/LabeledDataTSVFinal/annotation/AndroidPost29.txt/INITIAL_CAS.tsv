@@ -1,0 +1,206 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsiblties: Design and build advanced applications for the Android platform.
+1-1	0-14	Responsiblties	
+1-2	14-15	:	
+1-3	16-22	Design	
+1-4	23-26	and	
+1-5	27-32	build	
+1-6	33-41	advanced	
+1-7	42-54	applications	
+1-8	55-58	for	
+1-9	59-62	the	
+1-10	63-70	Android	
+1-11	71-79	platform	
+1-12	79-80	.	
+
+#Text=Collaborate with cross-functional teams to define, design, and ship new features.
+2-1	81-92	Collaborate	
+2-2	93-97	with	
+2-3	98-114	cross-functional	
+2-4	115-120	teams	
+2-5	121-123	to	
+2-6	124-130	define	
+2-7	130-131	,	
+2-8	132-138	design	
+2-9	138-139	,	
+2-10	140-143	and	
+2-11	144-148	ship	
+2-12	149-152	new	
+2-13	153-161	features	
+2-14	161-162	.	
+
+#Text=Unit-test code for robustness, including edge cases, usability, and general reliability.
+3-1	163-172	Unit-test	
+3-2	173-177	code	
+3-3	178-181	for	
+3-4	182-192	robustness	
+3-5	192-193	,	
+3-6	194-203	including	
+3-7	204-208	edge	
+3-8	209-214	cases	
+3-9	214-215	,	
+3-10	216-225	usability	
+3-11	225-226	,	
+3-12	227-230	and	
+3-13	231-238	general	
+3-14	239-250	reliability	
+3-15	250-251	.	
+
+#Text=Work on bug fixing and improving application performance.
+4-1	252-256	Work	
+4-2	257-259	on	
+4-3	260-263	bug	
+4-4	264-270	fixing	
+4-5	271-274	and	
+4-6	275-284	improving	
+4-7	285-296	application	
+4-8	297-308	performance	
+4-9	308-309	.	
+
+#Text=Continuously discover, evaluate, and implement new technologies to maximize development... efficiency.
+5-1	310-322	Continuously	
+5-2	323-331	discover	
+5-3	331-332	,	
+5-4	333-341	evaluate	
+5-5	341-342	,	
+5-6	343-346	and	
+5-7	347-356	implement	
+5-8	357-360	new	
+5-9	361-373	technologies	
+5-10	374-376	to	
+5-11	377-385	maximize	
+5-12	386-397	development	
+5-13	397-398	.	
+5-14	398-399	.	
+5-15	399-400	.	
+5-16	401-411	efficiency	
+5-17	411-412	.	
+
+#Text=Manage and appropriately escalate delivery impediments, risks, issues, and changes associated with product development initiatives and deployments.Key Skills: Android interactivity.
+6-1	413-419	Manage	
+6-2	420-423	and	
+6-3	424-437	appropriately	
+6-4	438-446	escalate	
+6-5	447-455	delivery	
+6-6	456-467	impediments	
+6-7	467-468	,	
+6-8	469-474	risks	
+6-9	474-475	,	
+6-10	476-482	issues	
+6-11	482-483	,	
+6-12	484-487	and	
+6-13	488-495	changes	
+6-14	496-506	associated	
+6-15	507-511	with	
+6-16	512-519	product	
+6-17	520-531	development	
+6-18	532-543	initiatives	
+6-19	544-547	and	
+6-20	548-563	deployments.Key	
+6-21	564-570	Skills	
+6-22	570-571	:	
+6-23	572-579	Android	
+6-24	580-593	interactivity	
+6-25	593-594	.	
+
+#Text=Android UI.
+7-1	595-602	Android	
+7-2	603-605	UI	
+7-3	605-606	.	
+
+#Text=Implementing navigation.
+8-1	607-619	Implementing	
+8-2	620-630	navigation	
+8-3	630-631	.	
+
+#Text=Android testing.
+9-1	632-639	Android	
+9-2	640-647	testing	
+9-3	647-648	.	
+
+#Text=Working with data.
+10-1	649-656	Working	
+10-2	657-661	with	
+10-3	662-666	data	
+10-4	666-667	.	
+
+#Text=Notifications.
+11-1	668-681	Notifications	
+11-2	681-682	.	
+
+#Text=Firebase on Android Android testing Collaborate with cross-functional teams to define, design, and ship new features Unit-test code for robustness, including edge cases, usability, and general reliability Work on bug fixing and improving application performance Continuously discover, evaluate, and implement new technologies to maximize development efficiency Manage and appropriately escalate delivery impediments, risks, issues, and changes associated with product development initiatives and deployments
+12-1	683-691	Firebase	
+12-2	692-694	on	
+12-3	695-702	Android	
+12-4	703-710	Android	
+12-5	711-718	testing	
+12-6	719-730	Collaborate	
+12-7	731-735	with	
+12-8	736-752	cross-functional	
+12-9	753-758	teams	
+12-10	759-761	to	
+12-11	762-768	define	
+12-12	768-769	,	
+12-13	770-776	design	
+12-14	776-777	,	
+12-15	778-781	and	
+12-16	782-786	ship	
+12-17	787-790	new	
+12-18	791-799	features	
+12-19	800-809	Unit-test	
+12-20	810-814	code	
+12-21	815-818	for	
+12-22	819-829	robustness	
+12-23	829-830	,	
+12-24	831-840	including	
+12-25	841-845	edge	
+12-26	846-851	cases	
+12-27	851-852	,	
+12-28	853-862	usability	
+12-29	862-863	,	
+12-30	864-867	and	
+12-31	868-875	general	
+12-32	876-887	reliability	
+12-33	888-892	Work	
+12-34	893-895	on	
+12-35	896-899	bug	
+12-36	900-906	fixing	
+12-37	907-910	and	
+12-38	911-920	improving	
+12-39	921-932	application	
+12-40	933-944	performance	
+12-41	945-957	Continuously	
+12-42	958-966	discover	
+12-43	966-967	,	
+12-44	968-976	evaluate	
+12-45	976-977	,	
+12-46	978-981	and	
+12-47	982-991	implement	
+12-48	992-995	new	
+12-49	996-1008	technologies	
+12-50	1009-1011	to	
+12-51	1012-1020	maximize	
+12-52	1021-1032	development	
+12-53	1033-1043	efficiency	
+12-54	1044-1050	Manage	
+12-55	1051-1054	and	
+12-56	1055-1068	appropriately	
+12-57	1069-1077	escalate	
+12-58	1078-1086	delivery	
+12-59	1087-1098	impediments	
+12-60	1098-1099	,	
+12-61	1100-1105	risks	
+12-62	1105-1106	,	
+12-63	1107-1113	issues	
+12-64	1113-1114	,	
+12-65	1115-1118	and	
+12-66	1119-1126	changes	
+12-67	1127-1137	associated	
+12-68	1138-1142	with	
+12-69	1143-1150	product	
+12-70	1151-1162	development	
+12-71	1163-1174	initiatives	
+12-72	1175-1178	and	
+12-73	1179-1190	deployments	

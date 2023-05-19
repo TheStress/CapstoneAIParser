@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsibilities: Contribute in all phases of the development life cycle.
+1-1	0-16	Responsibilities	
+1-2	16-17	:	
+1-3	18-28	Contribute	
+1-4	29-31	in	
+1-5	32-35	all	
+1-6	36-42	phases	
+1-7	43-45	of	
+1-8	46-49	the	
+1-9	50-61	development	
+1-10	62-66	life	
+1-11	67-72	cycle	
+1-12	72-73	.	
+
+#Text=Write well designed, testable, efficient code.
+2-1	74-79	Write	
+2-2	80-84	well	
+2-3	85-93	designed	
+2-4	93-94	,	
+2-5	95-103	testable	
+2-6	103-104	,	
+2-7	105-114	efficient	
+2-8	115-119	code	
+2-9	119-120	.	
+
+#Text=Ensure designs are in compliance with specifications.
+3-1	121-127	Ensure	
+3-2	128-135	designs	
+3-3	136-139	are	
+3-4	140-142	in	
+3-5	143-153	compliance	
+3-6	154-158	with	
+3-7	159-173	specifications	
+3-8	173-174	.	
+
+#Text=Prepare and produce releases of software components.
+4-1	175-182	Prepare	
+4-2	183-186	and	
+4-3	187-194	produce	
+4-4	195-203	releases	
+4-5	204-206	of	
+4-6	207-215	software	
+4-7	216-226	components	
+4-8	226-227	.	
+
+#Text=Ensuring that the code is secure and optimized.
+5-1	228-236	Ensuring	
+5-2	237-241	that	
+5-3	242-245	the	
+5-4	246-250	code	
+5-5	251-253	is	
+5-6	254-260	secure	
+5-7	261-264	and	
+5-8	265-274	optimized	
+5-9	274-275	.	
+
+#Text=Participate in DevOps transformation using Agile and SCRUM methodologies.Key Skills: AJAX.
+6-1	276-287	Participate	
+6-2	288-290	in	
+6-3	291-297	DevOps	
+6-4	298-312	transformation	
+6-5	313-318	using	
+6-6	319-324	Agile	
+6-7	325-328	and	
+6-8	329-334	SCRUM	
+6-9	335-352	methodologies.Key	
+6-10	353-359	Skills	
+6-11	359-360	:	
+6-12	361-365	AJAX	
+6-13	365-366	.	
+
+#Text=Node.
+7-1	367-371	Node	
+7-2	371-372	.	
+
+#Text=MySQL.
+8-1	373-378	MySQL	
+8-2	378-379	.	
+
+#Text=React.
+9-1	380-385	React	
+9-2	385-386	.	
+
+#Text=Java...
+10-1	387-391	Java	
+10-2	391-392	.	
+10-3	392-393	.	
+10-4	393-394	.	
+
+#Text=Problem-Solving Java Responsibilities: Contribute in all phases of the development life cycle Write well designed, testable, efficient code Ensure designs are in compliance with specifications Prepare and produce releases of software components Ensuring that the code is secure and optimized Participate in DevOps transformation using Agile and SCRUM methodologies
+11-1	395-410	Problem-Solving	
+11-2	411-415	Java	
+11-3	416-432	Responsibilities	
+11-4	432-433	:	
+11-5	434-444	Contribute	
+11-6	445-447	in	
+11-7	448-451	all	
+11-8	452-458	phases	
+11-9	459-461	of	
+11-10	462-465	the	
+11-11	466-477	development	
+11-12	478-482	life	
+11-13	483-488	cycle	
+11-14	489-494	Write	
+11-15	495-499	well	
+11-16	500-508	designed	
+11-17	508-509	,	
+11-18	510-518	testable	
+11-19	518-519	,	
+11-20	520-529	efficient	
+11-21	530-534	code	
+11-22	535-541	Ensure	
+11-23	542-549	designs	
+11-24	550-553	are	
+11-25	554-556	in	
+11-26	557-567	compliance	
+11-27	568-572	with	
+11-28	573-587	specifications	
+11-29	588-595	Prepare	
+11-30	596-599	and	
+11-31	600-607	produce	
+11-32	608-616	releases	
+11-33	617-619	of	
+11-34	620-628	software	
+11-35	629-639	components	
+11-36	640-648	Ensuring	
+11-37	649-653	that	
+11-38	654-657	the	
+11-39	658-662	code	
+11-40	663-665	is	
+11-41	666-672	secure	
+11-42	673-676	and	
+11-43	677-686	optimized	
+11-44	687-698	Participate	
+11-45	699-701	in	
+11-46	702-708	DevOps	
+11-47	709-723	transformation	
+11-48	724-729	using	
+11-49	730-735	Agile	
+11-50	736-739	and	
+11-51	740-745	SCRUM	
+11-52	746-759	methodologies	

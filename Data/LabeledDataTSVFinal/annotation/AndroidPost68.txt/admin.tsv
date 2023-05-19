@@ -1,0 +1,884 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=At Digital Turbine, we make mobile advertising experiences more meaningful and rewarding for users, app publishers, and advertisers  intelligently connecting people in more ways, across more devices.
+1-1	0-2	At	_	
+1-2	3-10	Digital	_	
+1-3	11-18	Turbine	_	
+1-4	18-19	,	_	
+1-5	20-22	we	_	
+1-6	23-27	make	_	
+1-7	28-34	mobile	_	
+1-8	35-46	advertising	_	
+1-9	47-58	experiences	_	
+1-10	59-63	more	_	
+1-11	64-74	meaningful	_	
+1-12	75-78	and	_	
+1-13	79-88	rewarding	_	
+1-14	89-92	for	_	
+1-15	93-98	users	_	
+1-16	98-99	,	_	
+1-17	100-103	app	_	
+1-18	104-114	publishers	_	
+1-19	114-115	,	_	
+1-20	116-119	and	_	
+1-21	120-131	advertisers	_	
+1-22	133-146	intelligently	_	
+1-23	147-157	connecting	_	
+1-24	158-164	people	_	
+1-25	165-167	in	_	
+1-26	168-172	more	_	
+1-27	173-177	ways	_	
+1-28	177-178	,	_	
+1-29	179-185	across	_	
+1-30	186-190	more	_	
+1-31	191-198	devices	_	
+1-32	198-199	.	_	
+
+#Text=We provide app publishers and advertisers with powerful ads and experiences that captivate consumers and fuel performance, and help telecoms and OEMs to supercharge awareness, acquisition, and... monetization.
+2-1	200-202	We	_	
+2-2	203-210	provide	_	
+2-3	211-214	app	_	
+2-4	215-225	publishers	_	
+2-5	226-229	and	_	
+2-6	230-241	advertisers	_	
+2-7	242-246	with	_	
+2-8	247-255	powerful	_	
+2-9	256-259	ads	_	
+2-10	260-263	and	_	
+2-11	264-275	experiences	_	
+2-12	276-280	that	_	
+2-13	281-290	captivate	_	
+2-14	291-300	consumers	_	
+2-15	301-304	and	_	
+2-16	305-309	fuel	_	
+2-17	310-321	performance	_	
+2-18	321-322	,	_	
+2-19	323-326	and	_	
+2-20	327-331	help	_	
+2-21	332-340	telecoms	_	
+2-22	341-344	and	_	
+2-23	345-349	OEMs	_	
+2-24	350-352	to	_	
+2-25	353-364	supercharge	_	
+2-26	365-374	awareness	_	
+2-27	374-375	,	_	
+2-28	376-387	acquisition	_	
+2-29	387-388	,	_	
+2-30	389-392	and	_	
+2-31	392-393	.	_	
+2-32	393-394	.	_	
+2-33	394-395	.	_	
+2-34	396-408	monetization	_	
+2-35	408-409	.	_	
+
+#Text=In a rapidly evolving industry, we are constantly innovating to create better paths of discovery to connect consumers, publishers, and advertisers across the mobile ecosystem.Following the acquisition of AdColony and Fyber by Digital Turbine in 2021, everyone who joins the DT community does so as a full Digital Turbine employee.
+3-1	410-412	In	_	
+3-2	413-414	a	_	
+3-3	415-422	rapidly	_	
+3-4	423-431	evolving	_	
+3-5	432-440	industry	_	
+3-6	440-441	,	_	
+3-7	442-444	we	_	
+3-8	445-448	are	_	
+3-9	449-459	constantly	_	
+3-10	460-470	innovating	_	
+3-11	471-473	to	_	
+3-12	474-480	create	_	
+3-13	481-487	better	_	
+3-14	488-493	paths	_	
+3-15	494-496	of	_	
+3-16	497-506	discovery	_	
+3-17	507-509	to	_	
+3-18	510-517	connect	_	
+3-19	518-527	consumers	_	
+3-20	527-528	,	_	
+3-21	529-539	publishers	_	
+3-22	539-540	,	_	
+3-23	541-544	and	_	
+3-24	545-556	advertisers	_	
+3-25	557-563	across	_	
+3-26	564-567	the	_	
+3-27	568-574	mobile	_	
+3-28	575-594	ecosystem.Following	_	
+3-29	595-598	the	_	
+3-30	599-610	acquisition	_	
+3-31	611-613	of	_	
+3-32	614-622	AdColony	_	
+3-33	623-626	and	_	
+3-34	627-632	Fyber	_	
+3-35	633-635	by	_	
+3-36	636-643	Digital	_	
+3-37	644-651	Turbine	_	
+3-38	652-654	in	_	
+3-39	655-659	2021	_	
+3-40	659-660	,	_	
+3-41	661-669	everyone	_	
+3-42	670-673	who	_	
+3-43	674-679	joins	_	
+3-44	680-683	the	_	
+3-45	684-686	DT	_	
+3-46	687-696	community	_	
+3-47	697-701	does	_	
+3-48	702-704	so	_	
+3-49	705-707	as	_	
+3-50	708-709	a	_	
+3-51	710-714	full	_	
+3-52	715-722	Digital	_	
+3-53	723-730	Turbine	_	
+3-54	731-739	employee	_	
+3-55	739-740	.	_	
+
+#Text=Some career opportunities still may be listed under Fyber or AdColony, due to local available entity requirements, but dont worry, were all one family at DT.Digital Turbine is looking for an exceptional Sr.
+4-1	741-745	Some	_	
+4-2	746-752	career	_	
+4-3	753-766	opportunities	_	
+4-4	767-772	still	_	
+4-5	773-776	may	_	
+4-6	777-779	be	_	
+4-7	780-786	listed	_	
+4-8	787-792	under	_	
+4-9	793-798	Fyber	_	
+4-10	799-801	or	_	
+4-11	802-810	AdColony	_	
+4-12	810-811	,	_	
+4-13	812-815	due	_	
+4-14	816-818	to	_	
+4-15	819-824	local	_	
+4-16	825-834	available	_	
+4-17	835-841	entity	_	
+4-18	842-854	requirements	_	
+4-19	854-855	,	_	
+4-20	856-859	but	_	
+4-21	860-864	dont	_	
+4-22	865-870	worry	_	
+4-23	870-871	,	_	
+4-24	872-876	were	_	
+4-25	877-880	all	_	
+4-26	881-884	one	_	
+4-27	885-891	family	_	
+4-28	892-894	at	_	
+4-29	895-905	DT.Digital	_	
+4-30	906-913	Turbine	_	
+4-31	914-916	is	_	
+4-32	917-924	looking	_	
+4-33	925-928	for	_	
+4-34	929-931	an	_	
+4-35	932-943	exceptional	_	
+4-36	944-946	Sr	_	
+4-37	946-947	.	_	
+
+#Text=Android Developer to be part of our growing family.
+5-1	948-955	Android	Hard Skill	
+5-2	956-965	Developer	_	
+5-3	966-968	to	_	
+5-4	969-971	be	_	
+5-5	972-976	part	_	
+5-6	977-979	of	_	
+5-7	980-983	our	_	
+5-8	984-991	growing	_	
+5-9	992-998	family	_	
+5-10	998-999	.	_	
+
+#Text=Come join us in pushing the limits of advertising technology within the scope of compelling news and information apps.
+6-1	1000-1004	Come	_	
+6-2	1005-1009	join	_	
+6-3	1010-1012	us	_	
+6-4	1013-1015	in	_	
+6-5	1016-1023	pushing	_	
+6-6	1024-1027	the	_	
+6-7	1028-1034	limits	_	
+6-8	1035-1037	of	_	
+6-9	1038-1049	advertising	_	
+6-10	1050-1060	technology	_	
+6-11	1061-1067	within	_	
+6-12	1068-1071	the	_	
+6-13	1072-1077	scope	_	
+6-14	1078-1080	of	_	
+6-15	1081-1091	compelling	_	
+6-16	1092-1096	news	_	
+6-17	1097-1100	and	_	
+6-18	1101-1112	information	_	
+6-19	1113-1117	apps	_	
+6-20	1117-1118	.	_	
+
+#Text=This position requires a proven ability to understand and implement business requirements for new systems and enhancements to existing systems in an Agile environment.Responsibilities of the Lead Android Developer: Work with a team of several other Android engineers.
+7-1	1119-1123	This	_	
+7-2	1124-1132	position	_	
+7-3	1133-1141	requires	_	
+7-4	1142-1143	a	_	
+7-5	1144-1150	proven	_	
+7-6	1151-1158	ability	_	
+7-7	1159-1161	to	_	
+7-8	1162-1172	understand	_	
+7-9	1173-1176	and	_	
+7-10	1177-1186	implement	_	
+7-11	1187-1195	business	_	
+7-12	1196-1208	requirements	_	
+7-13	1209-1212	for	_	
+7-14	1213-1216	new	_	
+7-15	1217-1224	systems	_	
+7-16	1225-1228	and	_	
+7-17	1229-1241	enhancements	_	
+7-18	1242-1244	to	_	
+7-19	1245-1253	existing	_	
+7-20	1254-1261	systems	_	
+7-21	1262-1264	in	_	
+7-22	1265-1267	an	_	
+7-23	1268-1273	Agile	_	
+7-24	1274-1302	environment.Responsibilities	_	
+7-25	1303-1305	of	_	
+7-26	1306-1309	the	_	
+7-27	1310-1314	Lead	_	
+7-28	1315-1322	Android	Hard Skill	
+7-29	1323-1332	Developer	_	
+7-30	1332-1333	:	_	
+7-31	1334-1338	Work	_	
+7-32	1339-1343	with	_	
+7-33	1344-1345	a	_	
+7-34	1346-1350	team	_	
+7-35	1351-1353	of	_	
+7-36	1354-1361	several	_	
+7-37	1362-1367	other	_	
+7-38	1368-1375	Android	Hard Skill	
+7-39	1376-1385	engineers	_	
+7-40	1385-1386	.	_	
+
+#Text=Review architecture, designs, code changes, and ensure overall app quality.
+8-1	1387-1393	Review	_	
+8-2	1394-1406	architecture	_	
+8-3	1406-1407	,	_	
+8-4	1408-1415	designs	_	
+8-5	1415-1416	,	_	
+8-6	1417-1421	code	_	
+8-7	1422-1429	changes	_	
+8-8	1429-1430	,	_	
+8-9	1431-1434	and	_	
+8-10	1435-1441	ensure	_	
+8-11	1442-1449	overall	_	
+8-12	1450-1453	app	_	
+8-13	1454-1461	quality	_	
+8-14	1461-1462	.	_	
+
+#Text=Act as subject matter expert for various Android versions and SDKs.
+9-1	1463-1466	Act	_	
+9-2	1467-1469	as	_	
+9-3	1470-1477	subject	_	
+9-4	1478-1484	matter	_	
+9-5	1485-1491	expert	_	
+9-6	1492-1495	for	_	
+9-7	1496-1503	various	_	
+9-8	1504-1511	Android	Hard Skill	
+9-9	1512-1520	versions	_	
+9-10	1521-1524	and	_	
+9-11	1525-1529	SDKs	_	
+9-12	1529-1530	.	_	
+
+#Text=Help to solve the most difficult or complex problems of the team.
+10-1	1531-1535	Help	_	
+10-2	1536-1538	to	_	
+10-3	1539-1544	solve	_	
+10-4	1545-1548	the	_	
+10-5	1549-1553	most	_	
+10-6	1554-1563	difficult	_	
+10-7	1564-1566	or	_	
+10-8	1567-1574	complex	_	
+10-9	1575-1583	problems	_	
+10-10	1584-1586	of	_	
+10-11	1587-1590	the	_	
+10-12	1591-1595	team	_	
+10-13	1595-1596	.	_	
+
+#Text=Collaborate with cross-functional teams to conceptualize new software products and features.
+11-1	1597-1608	Collaborate	_	
+11-2	1609-1613	with	_	
+11-3	1614-1630	cross-functional	_	
+11-4	1631-1636	teams	_	
+11-5	1637-1639	to	_	
+11-6	1640-1653	conceptualize	_	
+11-7	1654-1657	new	_	
+11-8	1658-1666	software	_	
+11-9	1667-1675	products	_	
+11-10	1676-1679	and	_	
+11-11	1680-1688	features	_	
+11-12	1688-1689	.	_	
+
+#Text=Develop scalable and cost-effective software systems that utilize best practices and meet business requirements.Desired Skills of the Lead Android Developer: 5+ years of Android development experience.
+12-1	1690-1697	Develop	_	
+12-2	1698-1706	scalable	_	
+12-3	1707-1710	and	_	
+12-4	1711-1725	cost-effective	_	
+12-5	1726-1734	software	_	
+12-6	1735-1742	systems	_	
+12-7	1743-1747	that	_	
+12-8	1748-1755	utilize	_	
+12-9	1756-1760	best	_	
+12-10	1761-1770	practices	_	
+12-11	1771-1774	and	_	
+12-12	1775-1779	meet	_	
+12-13	1780-1788	business	_	
+12-14	1789-1809	requirements.Desired	_	
+12-15	1810-1816	Skills	_	
+12-16	1817-1819	of	_	
+12-17	1820-1823	the	_	
+12-18	1824-1828	Lead	_	
+12-19	1829-1836	Android	Hard Skill	
+12-20	1837-1846	Developer	_	
+12-21	1846-1847	:	_	
+12-22	1848-1849	5	_	
+12-23	1849-1850	+	_	
+12-24	1851-1856	years	_	
+12-25	1857-1859	of	_	
+12-26	1860-1867	Android	Hard Skill	
+12-27	1868-1879	development	_	
+12-28	1880-1890	experience	_	
+12-29	1890-1891	.	_	
+
+#Text=Experience with OOP, Kotlin, Java, and Git.
+13-1	1892-1902	Experience	_	
+13-2	1903-1907	with	_	
+13-3	1908-1911	OOP	_	
+13-4	1911-1912	,	_	
+13-5	1913-1919	Kotlin	Hard Skill	
+13-6	1919-1920	,	_	
+13-7	1921-1925	Java	Hard Skill	
+13-8	1925-1926	,	_	
+13-9	1927-1930	and	_	
+13-10	1931-1934	Git	Hard Skill	
+13-11	1934-1935	.	_	
+
+#Text=Experience with Firebase Cloud Messaging, Analytics, Crashlytics.
+14-1	1936-1946	Experience	_	
+14-2	1947-1951	with	_	
+14-3	1952-1960	Firebase	Hard Skill	
+14-4	1961-1966	Cloud	_	
+14-5	1967-1976	Messaging	_	
+14-6	1976-1977	,	_	
+14-7	1978-1987	Analytics	_	
+14-8	1987-1988	,	_	
+14-9	1989-2000	Crashlytics	_	
+14-10	2000-2001	.	_	
+
+#Text=Familiar with consuming web services and using RESTful APIs.
+15-1	2002-2010	Familiar	_	
+15-2	2011-2015	with	_	
+15-3	2016-2025	consuming	_	
+15-4	2026-2029	web	_	
+15-5	2030-2038	services	_	
+15-6	2039-2042	and	_	
+15-7	2043-2048	using	_	
+15-8	2049-2056	RESTful	_	
+15-9	2057-2061	APIs	_	
+15-10	2061-2062	.	_	
+
+#Text=Excellent written and verbal communication.
+16-1	2063-2072	Excellent	_	
+16-2	2073-2080	written	_	
+16-3	2081-2084	and	_	
+16-4	2085-2091	verbal	_	
+16-5	2092-2105	communication	Soft Skill	
+16-6	2105-2106	.	_	
+
+#Text=BS in Computer Science or equivalent work experience.
+17-1	2107-2109	BS	_	
+17-2	2110-2112	in	_	
+17-3	2113-2121	Computer	_	
+17-4	2122-2129	Science	_	
+17-5	2130-2132	or	_	
+17-6	2133-2143	equivalent	_	
+17-7	2144-2148	work	_	
+17-8	2149-2159	experience	_	
+17-9	2159-2160	.	_	
+
+#Text=Familiar with agile software practices.
+18-1	2161-2169	Familiar	_	
+18-2	2170-2174	with	_	
+18-3	2175-2180	agile	Hard Skill	
+18-4	2181-2189	software	_	
+18-5	2190-2199	practices	_	
+18-6	2199-2200	.	_	
+
+#Text=Familiar with computer networking concepts.Experience with TDD and Junit.
+19-1	2201-2209	Familiar	_	
+19-2	2210-2214	with	_	
+19-3	2215-2223	computer	_	
+19-4	2224-2234	networking	_	
+19-5	2235-2254	concepts.Experience	_	
+19-6	2255-2259	with	_	
+19-7	2260-2263	TDD	_	
+19-8	2264-2267	and	_	
+19-9	2268-2273	Junit	_	
+19-10	2273-2274	.	_	
+
+#Text=Strong knowledge of memory management, process lifecycle, threads, and thread handlers in Android.
+20-1	2275-2281	Strong	_	
+20-2	2282-2291	knowledge	_	
+20-3	2292-2294	of	_	
+20-4	2295-2301	memory	_	
+20-5	2302-2312	management	_	
+20-6	2312-2313	,	_	
+20-7	2314-2321	process	_	
+20-8	2322-2331	lifecycle	_	
+20-9	2331-2332	,	_	
+20-10	2333-2340	threads	_	
+20-11	2340-2341	,	_	
+20-12	2342-2345	and	_	
+20-13	2346-2352	thread	_	
+20-14	2353-2361	handlers	_	
+20-15	2362-2364	in	_	
+20-16	2365-2372	Android	Hard Skill	
+20-17	2372-2373	.	_	
+
+#Text=Experience working with product flavors that target a wide variety of Android devices (e.g., Android versions, device sizes, manufacturers).Ability to thrive in a distributed, collaborative, and team-oriented environment.
+21-1	2374-2384	Experience	_	
+21-2	2385-2392	working	_	
+21-3	2393-2397	with	_	
+21-4	2398-2405	product	_	
+21-5	2406-2413	flavors	_	
+21-6	2414-2418	that	_	
+21-7	2419-2425	target	_	
+21-8	2426-2427	a	_	
+21-9	2428-2432	wide	_	
+21-10	2433-2440	variety	_	
+21-11	2441-2443	of	_	
+21-12	2444-2451	Android	Hard Skill	
+21-13	2452-2459	devices	_	
+21-14	2460-2461	(	_	
+21-15	2461-2464	e.g	_	
+21-16	2464-2465	.	_	
+21-17	2465-2466	,	_	
+21-18	2467-2474	Android	Hard Skill	
+21-19	2475-2483	versions	_	
+21-20	2483-2484	,	_	
+21-21	2485-2491	device	_	
+21-22	2492-2497	sizes	_	
+21-23	2497-2498	,	_	
+21-24	2499-2512	manufacturers	_	
+21-25	2512-2513	)	_	
+21-26	2513-2514	.	_	
+21-27	2514-2521	Ability	_	
+21-28	2522-2524	to	_	
+21-29	2525-2531	thrive	_	
+21-30	2532-2534	in	_	
+21-31	2535-2536	a	_	
+21-32	2537-2548	distributed	_	
+21-33	2548-2549	,	_	
+21-34	2550-2563	collaborative	Soft Skill	
+21-35	2563-2564	,	_	
+21-36	2565-2568	and	_	
+21-37	2569-2582	team-oriented	_	
+21-38	2583-2594	environment	_	
+21-39	2594-2595	.	_	
+
+#Text=Background with server application development and cloud platforms such as AWS.
+22-1	2596-2606	Background	_	
+22-2	2607-2611	with	_	
+22-3	2612-2618	server	_	
+22-4	2619-2630	application	_	
+22-5	2631-2642	development	_	
+22-6	2643-2646	and	_	
+22-7	2647-2652	cloud	_	
+22-8	2653-2662	platforms	_	
+22-9	2663-2667	such	_	
+22-10	2668-2670	as	_	
+22-11	2671-2674	AWS	Hard Skill	
+22-12	2674-2675	.	_	
+
+#Text=Knowledge of web technologies: HTML, CSS, Javascript.
+23-1	2676-2685	Knowledge	_	
+23-2	2686-2688	of	_	
+23-3	2689-2692	web	_	
+23-4	2693-2705	technologies	_	
+23-5	2705-2706	:	_	
+23-6	2707-2711	HTML	Hard Skill	
+23-7	2711-2712	,	_	
+23-8	2713-2716	CSS	Hard Skill	
+23-9	2716-2717	,	_	
+23-10	2718-2728	Javascript	Hard Skill	
+23-11	2728-2729	.	_	
+
+#Text=Familiar with hybrid mobile apps.
+24-1	2730-2738	Familiar	_	
+24-2	2739-2743	with	_	
+24-3	2744-2750	hybrid	_	
+24-4	2751-2757	mobile	_	
+24-5	2758-2762	apps	_	
+24-6	2762-2763	.	_	
+
+#Text=Experience leading a small team.
+25-1	2764-2774	Experience	_	
+25-2	2775-2782	leading	_	
+25-3	2783-2784	a	_	
+25-4	2785-2790	small	_	
+25-5	2791-2795	team	_	
+25-6	2795-2796	.	_	
+
+#Text=#LI-RJ1 #LI-Hybrid #LI-OnsiteAbout Digital Turbine:Digital Turbine (NASDAQ: APPS) powers superior mobile consumer experiences and results for the worlds leading telcos, advertisers and publishers.
+26-1	2796-2797	#	_	
+26-2	2797-2803	LI-RJ1	_	
+26-3	2804-2805	#	_	
+26-4	2805-2814	LI-Hybrid	_	
+26-5	2815-2816	#	_	
+26-6	2816-2830	LI-OnsiteAbout	_	
+26-7	2831-2838	Digital	_	
+26-8	2839-2846	Turbine	_	
+26-9	2846-2847	:	_	
+26-10	2847-2854	Digital	_	
+26-11	2855-2862	Turbine	_	
+26-12	2863-2864	(	_	
+26-13	2864-2870	NASDAQ	_	
+26-14	2870-2871	:	_	
+26-15	2872-2876	APPS	_	
+26-16	2876-2877	)	_	
+26-17	2878-2884	powers	_	
+26-18	2885-2893	superior	_	
+26-19	2894-2900	mobile	_	
+26-20	2901-2909	consumer	_	
+26-21	2910-2921	experiences	_	
+26-22	2922-2925	and	_	
+26-23	2926-2933	results	_	
+26-24	2934-2937	for	_	
+26-25	2938-2941	the	_	
+26-26	2942-2948	worlds	_	
+26-27	2949-2956	leading	_	
+26-28	2957-2963	telcos	_	
+26-29	2963-2964	,	_	
+26-30	2965-2976	advertisers	_	
+26-31	2977-2980	and	_	
+26-32	2981-2991	publishers	_	
+26-33	2991-2992	.	_	
+
+#Text=Our end-to-end platform uniquely simplifies the ability to supercharge awareness, acquisition and monetization  connecting our partners to more consumers, in more ways, across more devices.The company is headquartered in Austin, Texas, with global offices in New York, Los Angeles, San Francisco, London, Berlin, Singapore, Tel Aviv, and other cities serving top agency, app developer, and advertising markets.
+27-1	2993-2996	Our	_	
+27-2	2997-3007	end-to-end	_	
+27-3	3008-3016	platform	_	
+27-4	3017-3025	uniquely	_	
+27-5	3026-3036	simplifies	_	
+27-6	3037-3040	the	_	
+27-7	3041-3048	ability	_	
+27-8	3049-3051	to	_	
+27-9	3052-3063	supercharge	_	
+27-10	3064-3073	awareness	_	
+27-11	3073-3074	,	_	
+27-12	3075-3086	acquisition	_	
+27-13	3087-3090	and	_	
+27-14	3091-3103	monetization	_	
+27-15	3105-3115	connecting	_	
+27-16	3116-3119	our	_	
+27-17	3120-3128	partners	_	
+27-18	3129-3131	to	_	
+27-19	3132-3136	more	_	
+27-20	3137-3146	consumers	_	
+27-21	3146-3147	,	_	
+27-22	3148-3150	in	_	
+27-23	3151-3155	more	_	
+27-24	3156-3160	ways	_	
+27-25	3160-3161	,	_	
+27-26	3162-3168	across	_	
+27-27	3169-3173	more	_	
+27-28	3174-3185	devices.The	_	
+27-29	3186-3193	company	_	
+27-30	3194-3196	is	_	
+27-31	3197-3210	headquartered	_	
+27-32	3211-3213	in	_	
+27-33	3214-3220	Austin	_	
+27-34	3220-3221	,	_	
+27-35	3222-3227	Texas	_	
+27-36	3227-3228	,	_	
+27-37	3229-3233	with	_	
+27-38	3234-3240	global	_	
+27-39	3241-3248	offices	_	
+27-40	3249-3251	in	_	
+27-41	3252-3255	New	_	
+27-42	3256-3260	York	_	
+27-43	3260-3261	,	_	
+27-44	3262-3265	Los	_	
+27-45	3266-3273	Angeles	_	
+27-46	3273-3274	,	_	
+27-47	3275-3278	San	_	
+27-48	3279-3288	Francisco	_	
+27-49	3288-3289	,	_	
+27-50	3290-3296	London	_	
+27-51	3296-3297	,	_	
+27-52	3298-3304	Berlin	_	
+27-53	3304-3305	,	_	
+27-54	3306-3315	Singapore	_	
+27-55	3315-3316	,	_	
+27-56	3317-3320	Tel	_	
+27-57	3321-3325	Aviv	_	
+27-58	3325-3326	,	_	
+27-59	3327-3330	and	_	
+27-60	3331-3336	other	_	
+27-61	3337-3343	cities	_	
+27-62	3344-3351	serving	_	
+27-63	3352-3355	top	_	
+27-64	3356-3362	agency	_	
+27-65	3362-3363	,	_	
+27-66	3364-3367	app	_	
+27-67	3368-3377	developer	_	
+27-68	3377-3378	,	_	
+27-69	3379-3382	and	_	
+27-70	3383-3394	advertising	_	
+27-71	3395-3402	markets	_	
+27-72	3402-3403	.	_	
+
+#Text=Listed on Deloitte Technology Fast 500 for six consecutive years since 2015 and winner of Austin Chamber of Commerces Company Culture in 2020.Digital Turbine is an equal opportunity employer committed to building a diverse and inclusive team.
+28-1	3404-3410	Listed	_	
+28-2	3411-3413	on	_	
+28-3	3414-3422	Deloitte	_	
+28-4	3423-3433	Technology	_	
+28-5	3434-3438	Fast	_	
+28-6	3439-3442	500	_	
+28-7	3443-3446	for	_	
+28-8	3447-3450	six	_	
+28-9	3451-3462	consecutive	_	
+28-10	3463-3468	years	_	
+28-11	3469-3474	since	_	
+28-12	3475-3479	2015	_	
+28-13	3480-3483	and	_	
+28-14	3484-3490	winner	_	
+28-15	3491-3493	of	_	
+28-16	3494-3500	Austin	_	
+28-17	3501-3508	Chamber	_	
+28-18	3509-3511	of	_	
+28-19	3512-3521	Commerces	_	
+28-20	3522-3529	Company	_	
+28-21	3530-3537	Culture	_	
+28-22	3538-3540	in	_	
+28-23	3541-3545	2020	_	
+28-24	3545-3546	.	_	
+28-25	3546-3553	Digital	_	
+28-26	3554-3561	Turbine	_	
+28-27	3562-3564	is	_	
+28-28	3565-3567	an	_	
+28-29	3568-3573	equal	_	
+28-30	3574-3585	opportunity	_	
+28-31	3586-3594	employer	_	
+28-32	3595-3604	committed	_	
+28-33	3605-3607	to	_	
+28-34	3608-3616	building	_	
+28-35	3617-3618	a	_	
+28-36	3619-3626	diverse	_	
+28-37	3627-3630	and	_	
+28-38	3631-3640	inclusive	_	
+28-39	3641-3645	team	_	
+28-40	3645-3646	.	_	
+
+#Text=We welcome people of different backgrounds, experiences, abilities, and perspectives.
+29-1	3647-3649	We	_	
+29-2	3650-3657	welcome	_	
+29-3	3658-3664	people	_	
+29-4	3665-3667	of	_	
+29-5	3668-3677	different	_	
+29-6	3678-3689	backgrounds	_	
+29-7	3689-3690	,	_	
+29-8	3691-3702	experiences	_	
+29-9	3702-3703	,	_	
+29-10	3704-3713	abilities	_	
+29-11	3713-3714	,	_	
+29-12	3715-3718	and	_	
+29-13	3719-3731	perspectives	_	
+29-14	3731-3732	.	_	
+
+#Text=We embed diversity in our mindset, products, and teams to empower an inclusive, equitable, and culturally fluent environment.
+30-1	3733-3735	We	_	
+30-2	3736-3741	embed	_	
+30-3	3742-3751	diversity	_	
+30-4	3752-3754	in	_	
+30-5	3755-3758	our	_	
+30-6	3759-3766	mindset	_	
+30-7	3766-3767	,	_	
+30-8	3768-3776	products	_	
+30-9	3776-3777	,	_	
+30-10	3778-3781	and	_	
+30-11	3782-3787	teams	_	
+30-12	3788-3790	to	_	
+30-13	3791-3798	empower	_	
+30-14	3799-3801	an	_	
+30-15	3802-3811	inclusive	_	
+30-16	3811-3812	,	_	
+30-17	3813-3822	equitable	_	
+30-18	3822-3823	,	_	
+30-19	3824-3827	and	_	
+30-20	3828-3838	culturally	_	
+30-21	3839-3845	fluent	_	
+30-22	3846-3857	environment	_	
+30-23	3857-3858	.	_	
+
+#Text=Building this culture within our teams makes us better collaborators and partners, driving better outcomes Experience with TDD and Junit Strong knowledge of memory management, process lifecycle, threads, and thread handlers in Android Experience working with product flavors that target a wide variety of Android devices (e.g., Android versions, device sizes, manufacturers) Ability to thrive in a distributed, collaborative, and team-oriented environment Background with server application development and cloud platforms such as AWS Knowledge of web technologies: HTML, CSS, Javascript Familiar with hybrid mobile apps Experience leading a small team Work with a team of several other Android engineers Review architecture, designs, code changes, and ensure overall app quality Act as subject matter expert for various Android versions and SDKs Help to solve the most difficult or complex problems of the team Collaborate with cross-functional teams to conceptualize new software products and features Develop scalable and cost-effective software systems that utilize best practices and meet business requirements
+31-1	3859-3867	Building	_	
+31-2	3868-3872	this	_	
+31-3	3873-3880	culture	_	
+31-4	3881-3887	within	_	
+31-5	3888-3891	our	_	
+31-6	3892-3897	teams	_	
+31-7	3898-3903	makes	_	
+31-8	3904-3906	us	_	
+31-9	3907-3913	better	_	
+31-10	3914-3927	collaborators	_	
+31-11	3928-3931	and	_	
+31-12	3932-3940	partners	_	
+31-13	3940-3941	,	_	
+31-14	3942-3949	driving	_	
+31-15	3950-3956	better	_	
+31-16	3957-3965	outcomes	_	
+31-17	3966-3976	Experience	_	
+31-18	3977-3981	with	_	
+31-19	3982-3985	TDD	_	
+31-20	3986-3989	and	_	
+31-21	3990-3995	Junit	_	
+31-22	3996-4002	Strong	_	
+31-23	4003-4012	knowledge	_	
+31-24	4013-4015	of	_	
+31-25	4016-4022	memory	_	
+31-26	4023-4033	management	_	
+31-27	4033-4034	,	_	
+31-28	4035-4042	process	_	
+31-29	4043-4052	lifecycle	_	
+31-30	4052-4053	,	_	
+31-31	4054-4061	threads	_	
+31-32	4061-4062	,	_	
+31-33	4063-4066	and	_	
+31-34	4067-4073	thread	_	
+31-35	4074-4082	handlers	_	
+31-36	4083-4085	in	_	
+31-37	4086-4093	Android	Hard Skill	
+31-38	4094-4104	Experience	_	
+31-39	4105-4112	working	_	
+31-40	4113-4117	with	_	
+31-41	4118-4125	product	_	
+31-42	4126-4133	flavors	_	
+31-43	4134-4138	that	_	
+31-44	4139-4145	target	_	
+31-45	4146-4147	a	_	
+31-46	4148-4152	wide	_	
+31-47	4153-4160	variety	_	
+31-48	4161-4163	of	_	
+31-49	4164-4171	Android	Hard Skill	
+31-50	4172-4179	devices	_	
+31-51	4180-4181	(	_	
+31-52	4181-4184	e.g	_	
+31-53	4184-4185	.	_	
+31-54	4185-4186	,	_	
+31-55	4187-4194	Android	Hard Skill	
+31-56	4195-4203	versions	_	
+31-57	4203-4204	,	_	
+31-58	4205-4211	device	_	
+31-59	4212-4217	sizes	_	
+31-60	4217-4218	,	_	
+31-61	4219-4232	manufacturers	_	
+31-62	4232-4233	)	_	
+31-63	4234-4241	Ability	_	
+31-64	4242-4244	to	_	
+31-65	4245-4251	thrive	_	
+31-66	4252-4254	in	_	
+31-67	4255-4256	a	_	
+31-68	4257-4268	distributed	_	
+31-69	4268-4269	,	_	
+31-70	4270-4283	collaborative	Soft Skill	
+31-71	4283-4284	,	_	
+31-72	4285-4288	and	_	
+31-73	4289-4302	team-oriented	_	
+31-74	4303-4314	environment	_	
+31-75	4315-4325	Background	_	
+31-76	4326-4330	with	_	
+31-77	4331-4337	server	_	
+31-78	4338-4349	application	_	
+31-79	4350-4361	development	_	
+31-80	4362-4365	and	_	
+31-81	4366-4371	cloud	_	
+31-82	4372-4381	platforms	_	
+31-83	4382-4386	such	_	
+31-84	4387-4389	as	_	
+31-85	4390-4393	AWS	Hard Skill	
+31-86	4394-4403	Knowledge	_	
+31-87	4404-4406	of	_	
+31-88	4407-4410	web	_	
+31-89	4411-4423	technologies	_	
+31-90	4423-4424	:	_	
+31-91	4425-4429	HTML	Hard Skill	
+31-92	4429-4430	,	_	
+31-93	4431-4434	CSS	Hard Skill	
+31-94	4434-4435	,	_	
+31-95	4436-4446	Javascript	Hard Skill	
+31-96	4447-4455	Familiar	_	
+31-97	4456-4460	with	_	
+31-98	4461-4467	hybrid	_	
+31-99	4468-4474	mobile	_	
+31-100	4475-4479	apps	_	
+31-101	4480-4490	Experience	_	
+31-102	4491-4498	leading	_	
+31-103	4499-4500	a	_	
+31-104	4501-4506	small	_	
+31-105	4507-4511	team	_	
+31-106	4512-4516	Work	_	
+31-107	4517-4521	with	_	
+31-108	4522-4523	a	_	
+31-109	4524-4528	team	_	
+31-110	4529-4531	of	_	
+31-111	4532-4539	several	_	
+31-112	4540-4545	other	_	
+31-113	4546-4553	Android	Hard Skill	
+31-114	4554-4563	engineers	_	
+31-115	4564-4570	Review	_	
+31-116	4571-4583	architecture	_	
+31-117	4583-4584	,	_	
+31-118	4585-4592	designs	_	
+31-119	4592-4593	,	_	
+31-120	4594-4598	code	_	
+31-121	4599-4606	changes	_	
+31-122	4606-4607	,	_	
+31-123	4608-4611	and	_	
+31-124	4612-4618	ensure	_	
+31-125	4619-4626	overall	_	
+31-126	4627-4630	app	_	
+31-127	4631-4638	quality	_	
+31-128	4639-4642	Act	_	
+31-129	4643-4645	as	_	
+31-130	4646-4653	subject	_	
+31-131	4654-4660	matter	_	
+31-132	4661-4667	expert	_	
+31-133	4668-4671	for	_	
+31-134	4672-4679	various	_	
+31-135	4680-4687	Android	Hard Skill	
+31-136	4688-4696	versions	_	
+31-137	4697-4700	and	_	
+31-138	4701-4705	SDKs	_	
+31-139	4706-4710	Help	_	
+31-140	4711-4713	to	_	
+31-141	4714-4719	solve	_	
+31-142	4720-4723	the	_	
+31-143	4724-4728	most	_	
+31-144	4729-4738	difficult	_	
+31-145	4739-4741	or	_	
+31-146	4742-4749	complex	_	
+31-147	4750-4758	problems	_	
+31-148	4759-4761	of	_	
+31-149	4762-4765	the	_	
+31-150	4766-4770	team	_	
+31-151	4771-4782	Collaborate	_	
+31-152	4783-4787	with	_	
+31-153	4788-4804	cross-functional	_	
+31-154	4805-4810	teams	_	
+31-155	4811-4813	to	_	
+31-156	4814-4827	conceptualize	_	
+31-157	4828-4831	new	_	
+31-158	4832-4840	software	_	
+31-159	4841-4849	products	_	
+31-160	4850-4853	and	_	
+31-161	4854-4862	features	_	
+31-162	4863-4870	Develop	_	
+31-163	4871-4879	scalable	_	
+31-164	4880-4883	and	_	
+31-165	4884-4898	cost-effective	_	
+31-166	4899-4907	software	_	
+31-167	4908-4915	systems	_	
+31-168	4916-4920	that	_	
+31-169	4921-4928	utilize	_	
+31-170	4929-4933	best	_	
+31-171	4934-4943	practices	_	
+31-172	4944-4947	and	_	
+31-173	4948-4952	meet	_	
+31-174	4953-4961	business	_	
+31-175	4962-4974	requirements	_	

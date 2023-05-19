@@ -1,0 +1,1084 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=UWorld is a leader in online test prep for college entrance, undergraduate, graduate, and professional licensing exams throughout the United States.
+1-1	0-6	UWorld	_	
+1-2	7-9	is	_	
+1-3	10-11	a	_	
+1-4	12-18	leader	_	
+1-5	19-21	in	_	
+1-6	22-28	online	_	
+1-7	29-33	test	_	
+1-8	34-38	prep	_	
+1-9	39-42	for	_	
+1-10	43-50	college	_	
+1-11	51-59	entrance	_	
+1-12	59-60	,	_	
+1-13	61-74	undergraduate	_	
+1-14	74-75	,	_	
+1-15	76-84	graduate	_	
+1-16	84-85	,	_	
+1-17	86-89	and	_	
+1-18	90-102	professional	_	
+1-19	103-112	licensing	_	
+1-20	113-118	exams	_	
+1-21	119-129	throughout	_	
+1-22	130-133	the	_	
+1-23	134-140	United	_	
+1-24	141-147	States	_	
+1-25	147-148	.	_	
+
+#Text=Since 2003, over a million students have trusted us to help them prepare for high-stakes examinations.UWorld is seeking a Android Developer who is passionate about building great Android apps and enjoys taking on new challenges.
+2-1	149-154	Since	_	
+2-2	155-159	2003	_	
+2-3	159-160	,	_	
+2-4	161-165	over	_	
+2-5	166-167	a	_	
+2-6	168-175	million	_	
+2-7	176-184	students	_	
+2-8	185-189	have	_	
+2-9	190-197	trusted	_	
+2-10	198-200	us	_	
+2-11	201-203	to	_	
+2-12	204-208	help	_	
+2-13	209-213	them	_	
+2-14	214-221	prepare	_	
+2-15	222-225	for	_	
+2-16	226-237	high-stakes	_	
+2-17	238-257	examinations.UWorld	_	
+2-18	258-260	is	_	
+2-19	261-268	seeking	_	
+2-20	269-270	a	_	
+2-21	271-278	Android	Hard Skill	
+2-22	279-288	Developer	_	
+2-23	289-292	who	_	
+2-24	293-295	is	_	
+2-25	296-306	passionate	_	
+2-26	307-312	about	_	
+2-27	313-321	building	_	
+2-28	322-327	great	_	
+2-29	328-335	Android	Hard Skill	
+2-30	336-340	apps	_	
+2-31	341-344	and	_	
+2-32	345-351	enjoys	_	
+2-33	352-358	taking	_	
+2-34	359-361	on	_	
+2-35	362-365	new	_	
+2-36	366-376	challenges	_	
+2-37	376-377	.	_	
+
+#Text=The Android...
+3-1	378-381	The	_	
+3-2	382-389	Android	Hard Skill	
+3-3	389-390	.	_	
+3-4	390-391	.	_	
+3-5	391-392	.	_	
+
+#Text=Developer will be responsible for collaborating with a team of mobile app developers and end-to-end development of native Android apps for our online test delivery platform.Your Role Design and develop features for our Android application(s) that target our key customer segments.
+4-1	393-402	Developer	_	
+4-2	403-407	will	_	
+4-3	408-410	be	_	
+4-4	411-422	responsible	_	
+4-5	423-426	for	_	
+4-6	427-440	collaborating	Soft Skill	
+4-7	441-445	with	_	
+4-8	446-447	a	_	
+4-9	448-452	team	_	
+4-10	453-455	of	_	
+4-11	456-462	mobile	_	
+4-12	463-466	app	_	
+4-13	467-477	developers	_	
+4-14	478-481	and	_	
+4-15	482-492	end-to-end	_	
+4-16	493-504	development	_	
+4-17	505-507	of	_	
+4-18	508-514	native	_	
+4-19	515-522	Android	Hard Skill	
+4-20	523-527	apps	_	
+4-21	528-531	for	_	
+4-22	532-535	our	_	
+4-23	536-542	online	_	
+4-24	543-547	test	_	
+4-25	548-556	delivery	_	
+4-26	557-570	platform.Your	_	
+4-27	571-575	Role	_	
+4-28	576-582	Design	Hard Skill	
+4-29	583-586	and	_	
+4-30	587-594	develop	_	
+4-31	595-603	features	_	
+4-32	604-607	for	_	
+4-33	608-611	our	_	
+4-34	612-619	Android	Hard Skill	
+4-35	620-631	application	_	
+4-36	631-632	(	_	
+4-37	632-633	s	_	
+4-38	633-634	)	_	
+4-39	635-639	that	_	
+4-40	640-646	target	_	
+4-41	647-650	our	_	
+4-42	651-654	key	_	
+4-43	655-663	customer	_	
+4-44	664-672	segments	_	
+4-45	672-673	.	_	
+
+#Text=Collaborate with the team lead in setting up application architecture to improve scalability, performance, and usability.
+5-1	674-685	Collaborate	Soft Skill	
+5-2	686-690	with	_	
+5-3	691-694	the	_	
+5-4	695-699	team	_	
+5-5	700-704	lead	_	
+5-6	705-707	in	_	
+5-7	708-715	setting	_	
+5-8	716-718	up	_	
+5-9	719-730	application	_	
+5-10	731-743	architecture	_	
+5-11	744-746	to	_	
+5-12	747-754	improve	_	
+5-13	755-766	scalability	_	
+5-14	766-767	,	_	
+5-15	768-779	performance	_	
+5-16	779-780	,	_	
+5-17	781-784	and	_	
+5-18	785-794	usability	_	
+5-19	794-795	.	_	
+
+#Text=Learn from user feedback and market research to provide cutting-edge features to users.
+6-1	796-801	Learn	_	
+6-2	802-806	from	_	
+6-3	807-811	user	_	
+6-4	812-820	feedback	_	
+6-5	821-824	and	_	
+6-6	825-831	market	_	
+6-7	832-840	research	_	
+6-8	841-843	to	_	
+6-9	844-851	provide	_	
+6-10	852-864	cutting-edge	_	
+6-11	865-873	features	_	
+6-12	874-876	to	_	
+6-13	877-882	users	_	
+6-14	882-883	.	_	
+
+#Text=Design and develop app-based analytics that may guide future UI improvements, business strategy, or subject matter changes.
+7-1	884-890	Design	Hard Skill	
+7-2	891-894	and	_	
+7-3	895-902	develop	_	
+7-4	903-912	app-based	_	
+7-5	913-922	analytics	_	
+7-6	923-927	that	_	
+7-7	928-931	may	_	
+7-8	932-937	guide	_	
+7-9	938-944	future	_	
+7-10	945-947	UI	_	
+7-11	948-960	improvements	_	
+7-12	960-961	,	_	
+7-13	962-970	business	_	
+7-14	971-979	strategy	_	
+7-15	979-980	,	_	
+7-16	981-983	or	_	
+7-17	984-991	subject	_	
+7-18	992-998	matter	_	
+7-19	999-1006	changes	_	
+7-20	1006-1007	.	_	
+
+#Text=Collaborate with other software developers, product designers, and UX designers in building application prototypes and proofs-of-concepts.
+8-1	1008-1019	Collaborate	Soft Skill	
+8-2	1020-1024	with	_	
+8-3	1025-1030	other	_	
+8-4	1031-1039	software	_	
+8-5	1040-1050	developers	_	
+8-6	1050-1051	,	_	
+8-7	1052-1059	product	_	
+8-8	1060-1069	designers	_	
+8-9	1069-1070	,	_	
+8-10	1071-1074	and	_	
+8-11	1075-1077	UX	_	
+8-12	1078-1087	designers	_	
+8-13	1088-1090	in	_	
+8-14	1091-1099	building	_	
+8-15	1100-1111	application	_	
+8-16	1112-1122	prototypes	_	
+8-17	1123-1126	and	_	
+8-18	1127-1145	proofs-of-concepts	_	
+8-19	1145-1146	.	_	
+
+#Text=Work with QA engineers to ensure quality and reliability of all apps by process of continuous improvement.
+9-1	1147-1151	Work	_	
+9-2	1152-1156	with	_	
+9-3	1157-1159	QA	_	
+9-4	1160-1169	engineers	_	
+9-5	1170-1172	to	_	
+9-6	1173-1179	ensure	_	
+9-7	1180-1187	quality	_	
+9-8	1188-1191	and	_	
+9-9	1192-1203	reliability	_	
+9-10	1204-1206	of	_	
+9-11	1207-1210	all	_	
+9-12	1211-1215	apps	_	
+9-13	1216-1218	by	_	
+9-14	1219-1226	process	_	
+9-15	1227-1229	of	_	
+9-16	1230-1240	continuous	_	
+9-17	1241-1252	improvement	_	
+9-18	1252-1253	.	_	
+
+#Text=Continuously review other platform-specific features so all apps provide a consistent user experience.
+10-1	1254-1266	Continuously	_	
+10-2	1267-1273	review	_	
+10-3	1274-1279	other	_	
+10-4	1280-1297	platform-specific	_	
+10-5	1298-1306	features	_	
+10-6	1307-1309	so	_	
+10-7	1310-1313	all	_	
+10-8	1314-1318	apps	_	
+10-9	1319-1326	provide	_	
+10-10	1327-1328	a	_	
+10-11	1329-1339	consistent	_	
+10-12	1340-1344	user	_	
+10-13	1345-1355	experience	_	
+10-14	1355-1356	.	_	
+
+#Text=Conduct code reviews with the team to ensure the team is employing best programming practices and meeting standards for code documentation.
+11-1	1357-1364	Conduct	_	
+11-2	1365-1369	code	_	
+11-3	1370-1377	reviews	_	
+11-4	1378-1382	with	_	
+11-5	1383-1386	the	_	
+11-6	1387-1391	team	_	
+11-7	1392-1394	to	_	
+11-8	1395-1401	ensure	_	
+11-9	1402-1405	the	_	
+11-10	1406-1410	team	_	
+11-11	1411-1413	is	_	
+11-12	1414-1423	employing	_	
+11-13	1424-1428	best	_	
+11-14	1429-1440	programming	Hard Skill	
+11-15	1441-1450	practices	_	
+11-16	1451-1454	and	_	
+11-17	1455-1462	meeting	_	
+11-18	1463-1472	standards	_	
+11-19	1473-1476	for	_	
+11-20	1477-1481	code	_	
+11-21	1482-1495	documentation	Hard Skill	
+11-22	1495-1496	.	_	
+
+#Text=Function as a subject matter expert for all things - coding, tools usage, processes, and procedures to help guide others to create and maintain a healthy codebase.Environment: Java, Kotlin, Android SDK, Relational Databases (MS-SQL, MySQL, etc), NoSQL (MongoDB, CosmosDB, etc), HTML, CSS, JavaScript, jQuery, TypeScript, Bootstrap, Material Design principles.
+12-1	1497-1505	Function	_	
+12-2	1506-1508	as	_	
+12-3	1509-1510	a	_	
+12-4	1511-1518	subject	_	
+12-5	1519-1525	matter	_	
+12-6	1526-1532	expert	_	
+12-7	1533-1536	for	_	
+12-8	1537-1540	all	_	
+12-9	1541-1547	things	_	
+12-10	1548-1549	-	_	
+12-11	1550-1556	coding	Hard Skill	
+12-12	1556-1557	,	_	
+12-13	1558-1563	tools	_	
+12-14	1564-1569	usage	_	
+12-15	1569-1570	,	_	
+12-16	1571-1580	processes	_	
+12-17	1580-1581	,	_	
+12-18	1582-1585	and	_	
+12-19	1586-1596	procedures	_	
+12-20	1597-1599	to	_	
+12-21	1600-1604	help	_	
+12-22	1605-1610	guide	_	
+12-23	1611-1617	others	_	
+12-24	1618-1620	to	_	
+12-25	1621-1627	create	_	
+12-26	1628-1631	and	_	
+12-27	1632-1640	maintain	_	
+12-28	1641-1642	a	_	
+12-29	1643-1650	healthy	_	
+12-30	1651-1671	codebase.Environment	_	
+12-31	1671-1672	:	_	
+12-32	1673-1677	Java	Hard Skill	
+12-33	1677-1678	,	_	
+12-34	1679-1685	Kotlin	Hard Skill	
+12-35	1685-1686	,	_	
+12-36	1687-1694	Android	Hard Skill	
+12-37	1695-1698	SDK	_	
+12-38	1698-1699	,	_	
+12-39	1700-1710	Relational	_	
+12-40	1711-1720	Databases	_	
+12-41	1721-1722	(	_	
+12-42	1722-1728	MS-SQL	_	
+12-43	1728-1729	,	_	
+12-44	1730-1735	MySQL	Hard Skill	
+12-45	1735-1736	,	_	
+12-46	1737-1740	etc	_	
+12-47	1740-1741	)	_	
+12-48	1741-1742	,	_	
+12-49	1743-1748	NoSQL	Hard Skill	
+12-50	1749-1750	(	_	
+12-51	1750-1757	MongoDB	Hard Skill	
+12-52	1757-1758	,	_	
+12-53	1759-1767	CosmosDB	_	
+12-54	1767-1768	,	_	
+12-55	1769-1772	etc	_	
+12-56	1772-1773	)	_	
+12-57	1773-1774	,	_	
+12-58	1775-1779	HTML	Hard Skill	
+12-59	1779-1780	,	_	
+12-60	1781-1784	CSS	Hard Skill	
+12-61	1784-1785	,	_	
+12-62	1786-1796	JavaScript	Hard Skill	
+12-63	1796-1797	,	_	
+12-64	1798-1804	jQuery	Hard Skill	
+12-65	1804-1805	,	_	
+12-66	1806-1816	TypeScript	Hard Skill	
+12-67	1816-1817	,	_	
+12-68	1818-1827	Bootstrap	Hard Skill	
+12-69	1827-1828	,	_	
+12-70	1829-1837	Material	_	
+12-71	1838-1844	Design	Hard Skill	
+12-72	1845-1855	principles	_	
+12-73	1855-1856	.	_	
+
+#Text=Minimum Bachelor's Degree in Computer Science or related field 2+ years of experience in mobile applications development 2+ years of experience in Android app development using Java or Kotlin.
+13-1	1857-1864	Minimum	_	
+13-2	1865-1875	Bachelor's	_	
+13-3	1876-1882	Degree	_	
+13-4	1883-1885	in	_	
+13-5	1886-1894	Computer	_	
+13-6	1895-1902	Science	_	
+13-7	1903-1905	or	_	
+13-8	1906-1913	related	_	
+13-9	1914-1919	field	_	
+13-10	1920-1921	2	_	
+13-11	1921-1922	+	_	
+13-12	1923-1928	years	_	
+13-13	1929-1931	of	_	
+13-14	1932-1942	experience	_	
+13-15	1943-1945	in	_	
+13-16	1946-1952	mobile	_	
+13-17	1953-1965	applications	_	
+13-18	1966-1977	development	_	
+13-19	1978-1979	2	_	
+13-20	1979-1980	+	_	
+13-21	1981-1986	years	_	
+13-22	1987-1989	of	_	
+13-23	1990-2000	experience	_	
+13-24	2001-2003	in	_	
+13-25	2004-2011	Android	Hard Skill	
+13-26	2012-2015	app	_	
+13-27	2016-2027	development	_	
+13-28	2028-2033	using	_	
+13-29	2034-2038	Java	Hard Skill	
+13-30	2039-2041	or	_	
+13-31	2042-2048	Kotlin	Hard Skill	
+13-32	2048-2049	.	_	
+
+#Text=Experience in launching and supporting several commercially deployed applications.
+14-1	2050-2060	Experience	_	
+14-2	2061-2063	in	_	
+14-3	2064-2073	launching	_	
+14-4	2074-2077	and	_	
+14-5	2078-2088	supporting	_	
+14-6	2089-2096	several	_	
+14-7	2097-2109	commercially	_	
+14-8	2110-2118	deployed	_	
+14-9	2119-2131	applications	_	
+14-10	2131-2132	.	_	
+
+#Text=Experience with third-party tools integrations using APIs and REST services Experience in Mobile Application Development Frameworks, Design Guidelines, design patterns and cross-platform tools Exposure towards creating custom UI controls.
+15-1	2133-2143	Experience	_	
+15-2	2144-2148	with	_	
+15-3	2149-2160	third-party	_	
+15-4	2161-2166	tools	_	
+15-5	2167-2179	integrations	_	
+15-6	2180-2185	using	_	
+15-7	2186-2190	APIs	_	
+15-8	2191-2194	and	_	
+15-9	2195-2199	REST	_	
+15-10	2200-2208	services	_	
+15-11	2209-2219	Experience	_	
+15-12	2220-2222	in	_	
+15-13	2223-2229	Mobile	_	
+15-14	2230-2241	Application	_	
+15-15	2242-2253	Development	_	
+15-16	2254-2264	Frameworks	_	
+15-17	2264-2265	,	_	
+15-18	2266-2272	Design	Hard Skill	
+15-19	2273-2283	Guidelines	_	
+15-20	2283-2284	,	_	
+15-21	2285-2291	design	Hard Skill	
+15-22	2292-2300	patterns	_	
+15-23	2301-2304	and	_	
+15-24	2305-2319	cross-platform	_	
+15-25	2320-2325	tools	_	
+15-26	2326-2334	Exposure	_	
+15-27	2335-2342	towards	_	
+15-28	2343-2351	creating	_	
+15-29	2352-2358	custom	_	
+15-30	2359-2361	UI	_	
+15-31	2362-2370	controls	_	
+15-32	2370-2371	.	_	
+
+#Text=Experience in developing multimedia-based applications or ed-tech applications (preferred not a must)Soft Skills Working proficiency and communication skills in verbal and written English Excellent interpersonal skills demonstrating the ability to articulate ideas clearly, concisely, and persuasively.
+16-1	2372-2382	Experience	_	
+16-2	2383-2385	in	_	
+16-3	2386-2396	developing	_	
+16-4	2397-2413	multimedia-based	_	
+16-5	2414-2426	applications	_	
+16-6	2427-2429	or	_	
+16-7	2430-2437	ed-tech	_	
+16-8	2438-2450	applications	_	
+16-9	2451-2452	(	_	
+16-10	2452-2461	preferred	_	
+16-11	2462-2465	not	_	
+16-12	2466-2467	a	_	
+16-13	2468-2472	must	_	
+16-14	2472-2473	)	_	
+16-15	2473-2477	Soft	_	
+16-16	2478-2484	Skills	_	
+16-17	2485-2492	Working	_	
+16-18	2493-2504	proficiency	_	
+16-19	2505-2508	and	_	
+16-20	2509-2522	communication	Soft Skill	
+16-21	2523-2529	skills	_	
+16-22	2530-2532	in	_	
+16-23	2533-2539	verbal	_	
+16-24	2540-2543	and	_	
+16-25	2544-2551	written	_	
+16-26	2552-2559	English	_	
+16-27	2560-2569	Excellent	_	
+16-28	2570-2583	interpersonal	Soft Skill	
+16-29	2584-2590	skills	_	
+16-30	2591-2604	demonstrating	_	
+16-31	2605-2608	the	_	
+16-32	2609-2616	ability	_	
+16-33	2617-2619	to	_	
+16-34	2620-2630	articulate	_	
+16-35	2631-2636	ideas	_	
+16-36	2637-2644	clearly	_	
+16-37	2644-2645	,	_	
+16-38	2646-2655	concisely	_	
+16-39	2655-2656	,	_	
+16-40	2657-2660	and	_	
+16-41	2661-2673	persuasively	_	
+16-42	2673-2674	.	_	
+
+#Text=Excellent attention to detail and organization skills and ability to understand direction and feedback.
+17-1	2675-2684	Excellent	_	
+17-2	2685-2694	attention	_	
+17-3	2695-2697	to	_	
+17-4	2698-2704	detail	_	
+17-5	2705-2708	and	_	
+17-6	2709-2721	organization	_	
+17-7	2722-2728	skills	_	
+17-8	2729-2732	and	_	
+17-9	2733-2740	ability	_	
+17-10	2741-2743	to	_	
+17-11	2744-2754	understand	_	
+17-12	2755-2764	direction	_	
+17-13	2765-2768	and	_	
+17-14	2769-2777	feedback	_	
+17-15	2777-2778	.	_	
+
+#Text=Ability to adapt, switch gears, and thrive in a fast-paced environment.
+18-1	2779-2786	Ability	_	
+18-2	2787-2789	to	_	
+18-3	2790-2795	adapt	Soft Skill	
+18-4	2795-2796	,	_	
+18-5	2797-2803	switch	_	
+18-6	2804-2809	gears	_	
+18-7	2809-2810	,	_	
+18-8	2811-2814	and	_	
+18-9	2815-2821	thrive	_	
+18-10	2822-2824	in	_	
+18-11	2825-2826	a	_	
+18-12	2827-2837	fast-paced	_	
+18-13	2838-2849	environment	_	
+18-14	2849-2850	.	_	
+
+#Text=Exceptional follow-through, personal drive, and the desire to make a difference.
+19-1	2851-2862	Exceptional	_	
+19-2	2863-2877	follow-through	_	
+19-3	2877-2878	,	_	
+19-4	2879-2887	personal	_	
+19-5	2888-2893	drive	_	
+19-6	2893-2894	,	_	
+19-7	2895-2898	and	_	
+19-8	2899-2902	the	_	
+19-9	2903-2909	desire	_	
+19-10	2910-2912	to	_	
+19-11	2913-2917	make	_	
+19-12	2918-2919	a	_	
+19-13	2920-2930	difference	_	
+19-14	2930-2931	.	_	
+
+#Text=Competitive compensation (contingent on experience).
+20-1	2932-2943	Competitive	_	
+20-2	2944-2956	compensation	_	
+20-3	2957-2958	(	_	
+20-4	2958-2968	contingent	_	
+20-5	2969-2971	on	_	
+20-6	2972-2982	experience	_	
+20-7	2982-2983	)	_	
+20-8	2983-2984	.	_	
+
+#Text=Paid time off (based on sliding scale according to hire date and work hours).
+21-1	2985-2989	Paid	_	
+21-2	2990-2994	time	_	
+21-3	2995-2998	off	_	
+21-4	2999-3000	(	_	
+21-5	3000-3005	based	_	
+21-6	3006-3008	on	_	
+21-7	3009-3016	sliding	_	
+21-8	3017-3022	scale	_	
+21-9	3023-3032	according	_	
+21-10	3033-3035	to	_	
+21-11	3036-3040	hire	_	
+21-12	3041-3045	date	_	
+21-13	3046-3049	and	_	
+21-14	3050-3054	work	_	
+21-15	3055-3060	hours	_	
+21-16	3060-3061	)	_	
+21-17	3061-3062	.	_	
+
+#Text=Comprehensive benefits package (medical, vision, dental, life, disability).
+22-1	3063-3076	Comprehensive	_	
+22-2	3077-3085	benefits	_	
+22-3	3086-3093	package	_	
+22-4	3094-3095	(	_	
+22-5	3095-3102	medical	_	
+22-6	3102-3103	,	_	
+22-7	3104-3110	vision	_	
+22-8	3110-3111	,	_	
+22-9	3112-3118	dental	_	
+22-10	3118-3119	,	_	
+22-11	3120-3124	life	_	
+22-12	3124-3125	,	_	
+22-13	3126-3136	disability	_	
+22-14	3136-3137	)	_	
+22-15	3137-3138	.	_	
+
+#Text=Onsite work environment, 4 days with 1 day remotely each week. 401(k) plan for retirement with 5% employer matching (eligibility after 90 days of employment).
+23-1	3139-3145	Onsite	_	
+23-2	3146-3150	work	_	
+23-3	3151-3162	environment	_	
+23-4	3162-3163	,	_	
+23-5	3164-3165	4	_	
+23-6	3166-3170	days	_	
+23-7	3171-3175	with	_	
+23-8	3176-3177	1	_	
+23-9	3178-3181	day	_	
+23-10	3182-3190	remotely	_	
+23-11	3191-3195	each	_	
+23-12	3196-3200	week	_	
+23-13	3200-3201	.	_	
+23-14	3202-3205	401	_	
+23-15	3205-3206	(	_	
+23-16	3206-3207	k	_	
+23-17	3207-3208	)	_	
+23-18	3209-3213	plan	Soft Skill	
+23-19	3214-3217	for	_	
+23-20	3218-3228	retirement	_	
+23-21	3229-3233	with	_	
+23-22	3234-3236	5%	_	
+23-23	3237-3245	employer	_	
+23-24	3246-3254	matching	_	
+23-25	3255-3256	(	_	
+23-26	3256-3267	eligibility	_	
+23-27	3268-3273	after	_	
+23-28	3274-3276	90	_	
+23-29	3277-3281	days	_	
+23-30	3282-3284	of	_	
+23-31	3285-3295	employment	_	
+23-32	3295-3296	)	_	
+23-33	3296-3297	.	_	
+
+#Text=On-site group fitness classes and relaxed work environment.At UWorld, we believe strength is derived from the talents, ideas, and experiences of a diverse workforce.
+24-1	3298-3305	On-site	_	
+24-2	3306-3311	group	_	
+24-3	3312-3319	fitness	_	
+24-4	3320-3327	classes	_	
+24-5	3328-3331	and	_	
+24-6	3332-3339	relaxed	_	
+24-7	3340-3344	work	_	
+24-8	3345-3359	environment.At	_	
+24-9	3360-3366	UWorld	_	
+24-10	3366-3367	,	_	
+24-11	3368-3370	we	_	
+24-12	3371-3378	believe	_	
+24-13	3379-3387	strength	_	
+24-14	3388-3390	is	_	
+24-15	3391-3398	derived	_	
+24-16	3399-3403	from	_	
+24-17	3404-3407	the	_	
+24-18	3408-3415	talents	_	
+24-19	3415-3416	,	_	
+24-20	3417-3422	ideas	_	
+24-21	3422-3423	,	_	
+24-22	3424-3427	and	_	
+24-23	3428-3439	experiences	_	
+24-24	3440-3442	of	_	
+24-25	3443-3444	a	_	
+24-26	3445-3452	diverse	_	
+24-27	3453-3462	workforce	_	
+24-28	3462-3463	.	_	
+
+#Text=We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or any other protected class.
+25-1	3464-3466	We	_	
+25-2	3467-3470	are	_	
+25-3	3471-3480	committed	_	
+25-4	3481-3483	to	_	
+25-5	3484-3489	equal	_	
+25-6	3490-3500	employment	_	
+25-7	3501-3512	opportunity	_	
+25-8	3513-3523	regardless	_	
+25-9	3524-3526	of	_	
+25-10	3527-3531	race	_	
+25-11	3531-3532	,	_	
+25-12	3533-3538	color	_	
+25-13	3538-3539	,	_	
+25-14	3540-3548	ancestry	_	
+25-15	3548-3549	,	_	
+25-16	3550-3558	religion	_	
+25-17	3558-3559	,	_	
+25-18	3560-3563	sex	_	
+25-19	3563-3564	,	_	
+25-20	3565-3573	national	_	
+25-21	3574-3580	origin	_	
+25-22	3580-3581	,	_	
+25-23	3582-3588	sexual	_	
+25-24	3589-3600	orientation	_	
+25-25	3600-3601	,	_	
+25-26	3602-3605	age	_	
+25-27	3605-3606	,	_	
+25-28	3607-3618	citizenship	_	
+25-29	3618-3619	,	_	
+25-30	3620-3627	marital	_	
+25-31	3628-3634	status	_	
+25-32	3634-3635	,	_	
+25-33	3636-3646	disability	_	
+25-34	3646-3647	,	_	
+25-35	3648-3654	gender	_	
+25-36	3655-3663	identity	_	
+25-37	3663-3664	,	_	
+25-38	3665-3672	veteran	_	
+25-39	3673-3679	status	_	
+25-40	3679-3680	,	_	
+25-41	3681-3683	or	_	
+25-42	3684-3687	any	_	
+25-43	3688-3693	other	_	
+25-44	3694-3703	protected	_	
+25-45	3704-3709	class	_	
+25-46	3709-3710	.	_	
+
+#Text=UWorld is proud to be an equal opportunity employer providing a drug-free workplace.
+26-1	3711-3717	UWorld	_	
+26-2	3718-3720	is	_	
+26-3	3721-3726	proud	_	
+26-4	3727-3729	to	_	
+26-5	3730-3732	be	_	
+26-6	3733-3735	an	_	
+26-7	3736-3741	equal	_	
+26-8	3742-3753	opportunity	_	
+26-9	3754-3762	employer	_	
+26-10	3763-3772	providing	_	
+26-11	3773-3774	a	_	
+26-12	3775-3784	drug-free	_	
+26-13	3785-3794	workplace	_	
+26-14	3794-3795	.	_	
+
+#Text=If you have a disability or special need that requires accommodation, please let us know Minimum Bachelor's Degree in Computer Science or related field 2+ years of experience in mobile applications development 2+ years of experience in Android app development using Java or Kotlin Experience in launching and supporting several commercially deployed applications Experience with third-party tools integrations using APIs and REST services Experience in Mobile Application Development Frameworks, Design Guidelines, design patterns and cross-platform tools Exposure towards creating custom UI controls Working proficiency and communication skills in verbal and written English Excellent interpersonal skills demonstrating the ability to articulate ideas clearly, concisely, and persuasively Excellent attention to detail and organization skills and ability to understand direction and feedback Ability to adapt, switch gears, and thrive in a fast-paced environment Exceptional follow-through, personal drive, and the desire to make a difference On-site group fitness classes and relaxed work environment The Android Developer will be responsible for collaborating with a team of mobile app developers and end-to-end development of native Android apps for our online test delivery platform Design and develop features for our Android application(s) that target our key customer segments Collaborate with the team lead in setting up application architecture to improve scalability, performance, and usability Learn from user feedback and market research to provide cutting-edge features to users Design and develop app-based analytics that may guide future UI improvements, business strategy, or subject matter changes Collaborate with other software developers, product designers, and UX designers in building application prototypes and proofs-of-concepts Work with QA engineers to ensure quality and reliability of all apps by process of continuous improvement Continuously review other platform-specific features so all apps provide a consistent user experience Conduct code reviews with the team to ensure the team is employing best programming practices and meeting standards for code documentation Function as a subject matter expert for all things - coding, tools usage, processes, and procedures to help guide others to create and maintain a healthy codebase Paid time off (based on sliding scale according to hire date and work hours) Comprehensive benefits package (medical, vision, dental, life, disability) Onsite work environment, 4 days with 1 day remotely each week
+27-1	3796-3798	If	_	
+27-2	3799-3802	you	_	
+27-3	3803-3807	have	_	
+27-4	3808-3809	a	_	
+27-5	3810-3820	disability	_	
+27-6	3821-3823	or	_	
+27-7	3824-3831	special	_	
+27-8	3832-3836	need	_	
+27-9	3837-3841	that	_	
+27-10	3842-3850	requires	_	
+27-11	3851-3864	accommodation	_	
+27-12	3864-3865	,	_	
+27-13	3866-3872	please	_	
+27-14	3873-3876	let	_	
+27-15	3877-3879	us	_	
+27-16	3880-3884	know	_	
+27-17	3885-3892	Minimum	_	
+27-18	3893-3903	Bachelor's	_	
+27-19	3904-3910	Degree	_	
+27-20	3911-3913	in	_	
+27-21	3914-3922	Computer	_	
+27-22	3923-3930	Science	_	
+27-23	3931-3933	or	_	
+27-24	3934-3941	related	_	
+27-25	3942-3947	field	_	
+27-26	3948-3949	2	_	
+27-27	3949-3950	+	_	
+27-28	3951-3956	years	_	
+27-29	3957-3959	of	_	
+27-30	3960-3970	experience	_	
+27-31	3971-3973	in	_	
+27-32	3974-3980	mobile	_	
+27-33	3981-3993	applications	_	
+27-34	3994-4005	development	_	
+27-35	4006-4007	2	_	
+27-36	4007-4008	+	_	
+27-37	4009-4014	years	_	
+27-38	4015-4017	of	_	
+27-39	4018-4028	experience	_	
+27-40	4029-4031	in	_	
+27-41	4032-4039	Android	Hard Skill	
+27-42	4040-4043	app	_	
+27-43	4044-4055	development	_	
+27-44	4056-4061	using	_	
+27-45	4062-4066	Java	Hard Skill	
+27-46	4067-4069	or	_	
+27-47	4070-4076	Kotlin	Hard Skill	
+27-48	4077-4087	Experience	_	
+27-49	4088-4090	in	_	
+27-50	4091-4100	launching	_	
+27-51	4101-4104	and	_	
+27-52	4105-4115	supporting	_	
+27-53	4116-4123	several	_	
+27-54	4124-4136	commercially	_	
+27-55	4137-4145	deployed	_	
+27-56	4146-4158	applications	_	
+27-57	4159-4169	Experience	_	
+27-58	4170-4174	with	_	
+27-59	4175-4186	third-party	_	
+27-60	4187-4192	tools	_	
+27-61	4193-4205	integrations	_	
+27-62	4206-4211	using	_	
+27-63	4212-4216	APIs	_	
+27-64	4217-4220	and	_	
+27-65	4221-4225	REST	_	
+27-66	4226-4234	services	_	
+27-67	4235-4245	Experience	_	
+27-68	4246-4248	in	_	
+27-69	4249-4255	Mobile	_	
+27-70	4256-4267	Application	_	
+27-71	4268-4279	Development	_	
+27-72	4280-4290	Frameworks	_	
+27-73	4290-4291	,	_	
+27-74	4292-4298	Design	Hard Skill	
+27-75	4299-4309	Guidelines	_	
+27-76	4309-4310	,	_	
+27-77	4311-4317	design	Hard Skill	
+27-78	4318-4326	patterns	_	
+27-79	4327-4330	and	_	
+27-80	4331-4345	cross-platform	_	
+27-81	4346-4351	tools	_	
+27-82	4352-4360	Exposure	_	
+27-83	4361-4368	towards	_	
+27-84	4369-4377	creating	_	
+27-85	4378-4384	custom	_	
+27-86	4385-4387	UI	_	
+27-87	4388-4396	controls	_	
+27-88	4397-4404	Working	_	
+27-89	4405-4416	proficiency	_	
+27-90	4417-4420	and	_	
+27-91	4421-4434	communication	Soft Skill	
+27-92	4435-4441	skills	_	
+27-93	4442-4444	in	_	
+27-94	4445-4451	verbal	_	
+27-95	4452-4455	and	_	
+27-96	4456-4463	written	_	
+27-97	4464-4471	English	_	
+27-98	4472-4481	Excellent	_	
+27-99	4482-4495	interpersonal	Soft Skill	
+27-100	4496-4502	skills	_	
+27-101	4503-4516	demonstrating	_	
+27-102	4517-4520	the	_	
+27-103	4521-4528	ability	_	
+27-104	4529-4531	to	_	
+27-105	4532-4542	articulate	_	
+27-106	4543-4548	ideas	_	
+27-107	4549-4556	clearly	_	
+27-108	4556-4557	,	_	
+27-109	4558-4567	concisely	_	
+27-110	4567-4568	,	_	
+27-111	4569-4572	and	_	
+27-112	4573-4585	persuasively	_	
+27-113	4586-4595	Excellent	_	
+27-114	4596-4605	attention	_	
+27-115	4606-4608	to	_	
+27-116	4609-4615	detail	_	
+27-117	4616-4619	and	_	
+27-118	4620-4632	organization	_	
+27-119	4633-4639	skills	_	
+27-120	4640-4643	and	_	
+27-121	4644-4651	ability	_	
+27-122	4652-4654	to	_	
+27-123	4655-4665	understand	_	
+27-124	4666-4675	direction	_	
+27-125	4676-4679	and	_	
+27-126	4680-4688	feedback	_	
+27-127	4689-4696	Ability	_	
+27-128	4697-4699	to	_	
+27-129	4700-4705	adapt	Soft Skill	
+27-130	4705-4706	,	_	
+27-131	4707-4713	switch	_	
+27-132	4714-4719	gears	_	
+27-133	4719-4720	,	_	
+27-134	4721-4724	and	_	
+27-135	4725-4731	thrive	_	
+27-136	4732-4734	in	_	
+27-137	4735-4736	a	_	
+27-138	4737-4747	fast-paced	_	
+27-139	4748-4759	environment	_	
+27-140	4760-4771	Exceptional	_	
+27-141	4772-4786	follow-through	_	
+27-142	4786-4787	,	_	
+27-143	4788-4796	personal	_	
+27-144	4797-4802	drive	_	
+27-145	4802-4803	,	_	
+27-146	4804-4807	and	_	
+27-147	4808-4811	the	_	
+27-148	4812-4818	desire	_	
+27-149	4819-4821	to	_	
+27-150	4822-4826	make	_	
+27-151	4827-4828	a	_	
+27-152	4829-4839	difference	_	
+27-153	4840-4847	On-site	_	
+27-154	4848-4853	group	_	
+27-155	4854-4861	fitness	_	
+27-156	4862-4869	classes	_	
+27-157	4870-4873	and	_	
+27-158	4874-4881	relaxed	_	
+27-159	4882-4886	work	_	
+27-160	4887-4898	environment	_	
+27-161	4899-4902	The	_	
+27-162	4903-4910	Android	Hard Skill	
+27-163	4911-4920	Developer	_	
+27-164	4921-4925	will	_	
+27-165	4926-4928	be	_	
+27-166	4929-4940	responsible	_	
+27-167	4941-4944	for	_	
+27-168	4945-4958	collaborating	Soft Skill	
+27-169	4959-4963	with	_	
+27-170	4964-4965	a	_	
+27-171	4966-4970	team	_	
+27-172	4971-4973	of	_	
+27-173	4974-4980	mobile	_	
+27-174	4981-4984	app	_	
+27-175	4985-4995	developers	_	
+27-176	4996-4999	and	_	
+27-177	5000-5010	end-to-end	_	
+27-178	5011-5022	development	_	
+27-179	5023-5025	of	_	
+27-180	5026-5032	native	_	
+27-181	5033-5040	Android	Hard Skill	
+27-182	5041-5045	apps	_	
+27-183	5046-5049	for	_	
+27-184	5050-5053	our	_	
+27-185	5054-5060	online	_	
+27-186	5061-5065	test	_	
+27-187	5066-5074	delivery	_	
+27-188	5075-5083	platform	_	
+27-189	5084-5090	Design	Hard Skill	
+27-190	5091-5094	and	_	
+27-191	5095-5102	develop	_	
+27-192	5103-5111	features	_	
+27-193	5112-5115	for	_	
+27-194	5116-5119	our	_	
+27-195	5120-5127	Android	Hard Skill	
+27-196	5128-5139	application	_	
+27-197	5139-5140	(	_	
+27-198	5140-5141	s	_	
+27-199	5141-5142	)	_	
+27-200	5143-5147	that	_	
+27-201	5148-5154	target	_	
+27-202	5155-5158	our	_	
+27-203	5159-5162	key	_	
+27-204	5163-5171	customer	_	
+27-205	5172-5180	segments	_	
+27-206	5181-5192	Collaborate	Soft Skill	
+27-207	5193-5197	with	_	
+27-208	5198-5201	the	_	
+27-209	5202-5206	team	_	
+27-210	5207-5211	lead	_	
+27-211	5212-5214	in	_	
+27-212	5215-5222	setting	_	
+27-213	5223-5225	up	_	
+27-214	5226-5237	application	_	
+27-215	5238-5250	architecture	_	
+27-216	5251-5253	to	_	
+27-217	5254-5261	improve	_	
+27-218	5262-5273	scalability	_	
+27-219	5273-5274	,	_	
+27-220	5275-5286	performance	_	
+27-221	5286-5287	,	_	
+27-222	5288-5291	and	_	
+27-223	5292-5301	usability	_	
+27-224	5302-5307	Learn	_	
+27-225	5308-5312	from	_	
+27-226	5313-5317	user	_	
+27-227	5318-5326	feedback	_	
+27-228	5327-5330	and	_	
+27-229	5331-5337	market	_	
+27-230	5338-5346	research	_	
+27-231	5347-5349	to	_	
+27-232	5350-5357	provide	_	
+27-233	5358-5370	cutting-edge	_	
+27-234	5371-5379	features	_	
+27-235	5380-5382	to	_	
+27-236	5383-5388	users	_	
+27-237	5389-5395	Design	Hard Skill	
+27-238	5396-5399	and	_	
+27-239	5400-5407	develop	_	
+27-240	5408-5417	app-based	_	
+27-241	5418-5427	analytics	_	
+27-242	5428-5432	that	_	
+27-243	5433-5436	may	_	
+27-244	5437-5442	guide	_	
+27-245	5443-5449	future	_	
+27-246	5450-5452	UI	_	
+27-247	5453-5465	improvements	_	
+27-248	5465-5466	,	_	
+27-249	5467-5475	business	_	
+27-250	5476-5484	strategy	_	
+27-251	5484-5485	,	_	
+27-252	5486-5488	or	_	
+27-253	5489-5496	subject	_	
+27-254	5497-5503	matter	_	
+27-255	5504-5511	changes	_	
+27-256	5512-5523	Collaborate	Soft Skill	
+27-257	5524-5528	with	_	
+27-258	5529-5534	other	_	
+27-259	5535-5543	software	_	
+27-260	5544-5554	developers	_	
+27-261	5554-5555	,	_	
+27-262	5556-5563	product	_	
+27-263	5564-5573	designers	_	
+27-264	5573-5574	,	_	
+27-265	5575-5578	and	_	
+27-266	5579-5581	UX	_	
+27-267	5582-5591	designers	_	
+27-268	5592-5594	in	_	
+27-269	5595-5603	building	_	
+27-270	5604-5615	application	_	
+27-271	5616-5626	prototypes	_	
+27-272	5627-5630	and	_	
+27-273	5631-5649	proofs-of-concepts	_	
+27-274	5650-5654	Work	_	
+27-275	5655-5659	with	_	
+27-276	5660-5662	QA	_	
+27-277	5663-5672	engineers	_	
+27-278	5673-5675	to	_	
+27-279	5676-5682	ensure	_	
+27-280	5683-5690	quality	_	
+27-281	5691-5694	and	_	
+27-282	5695-5706	reliability	_	
+27-283	5707-5709	of	_	
+27-284	5710-5713	all	_	
+27-285	5714-5718	apps	_	
+27-286	5719-5721	by	_	
+27-287	5722-5729	process	_	
+27-288	5730-5732	of	_	
+27-289	5733-5743	continuous	_	
+27-290	5744-5755	improvement	_	
+27-291	5756-5768	Continuously	_	
+27-292	5769-5775	review	_	
+27-293	5776-5781	other	_	
+27-294	5782-5799	platform-specific	_	
+27-295	5800-5808	features	_	
+27-296	5809-5811	so	_	
+27-297	5812-5815	all	_	
+27-298	5816-5820	apps	_	
+27-299	5821-5828	provide	_	
+27-300	5829-5830	a	_	
+27-301	5831-5841	consistent	_	
+27-302	5842-5846	user	_	
+27-303	5847-5857	experience	_	
+27-304	5858-5865	Conduct	_	
+27-305	5866-5870	code	_	
+27-306	5871-5878	reviews	_	
+27-307	5879-5883	with	_	
+27-308	5884-5887	the	_	
+27-309	5888-5892	team	_	
+27-310	5893-5895	to	_	
+27-311	5896-5902	ensure	_	
+27-312	5903-5906	the	_	
+27-313	5907-5911	team	_	
+27-314	5912-5914	is	_	
+27-315	5915-5924	employing	_	
+27-316	5925-5929	best	_	
+27-317	5930-5941	programming	Hard Skill	
+27-318	5942-5951	practices	_	
+27-319	5952-5955	and	_	
+27-320	5956-5963	meeting	_	
+27-321	5964-5973	standards	_	
+27-322	5974-5977	for	_	
+27-323	5978-5982	code	_	
+27-324	5983-5996	documentation	Hard Skill	
+27-325	5997-6005	Function	_	
+27-326	6006-6008	as	_	
+27-327	6009-6010	a	_	
+27-328	6011-6018	subject	_	
+27-329	6019-6025	matter	_	
+27-330	6026-6032	expert	_	
+27-331	6033-6036	for	_	
+27-332	6037-6040	all	_	
+27-333	6041-6047	things	_	
+27-334	6048-6049	-	_	
+27-335	6050-6056	coding	Hard Skill	
+27-336	6056-6057	,	_	
+27-337	6058-6063	tools	_	
+27-338	6064-6069	usage	_	
+27-339	6069-6070	,	_	
+27-340	6071-6080	processes	_	
+27-341	6080-6081	,	_	
+27-342	6082-6085	and	_	
+27-343	6086-6096	procedures	_	
+27-344	6097-6099	to	_	
+27-345	6100-6104	help	_	
+27-346	6105-6110	guide	_	
+27-347	6111-6117	others	_	
+27-348	6118-6120	to	_	
+27-349	6121-6127	create	_	
+27-350	6128-6131	and	_	
+27-351	6132-6140	maintain	_	
+27-352	6141-6142	a	_	
+27-353	6143-6150	healthy	_	
+27-354	6151-6159	codebase	_	
+27-355	6160-6164	Paid	_	
+27-356	6165-6169	time	_	
+27-357	6170-6173	off	_	
+27-358	6174-6175	(	_	
+27-359	6175-6180	based	_	
+27-360	6181-6183	on	_	
+27-361	6184-6191	sliding	_	
+27-362	6192-6197	scale	_	
+27-363	6198-6207	according	_	
+27-364	6208-6210	to	_	
+27-365	6211-6215	hire	_	
+27-366	6216-6220	date	_	
+27-367	6221-6224	and	_	
+27-368	6225-6229	work	_	
+27-369	6230-6235	hours	_	
+27-370	6235-6236	)	_	
+27-371	6237-6250	Comprehensive	_	
+27-372	6251-6259	benefits	_	
+27-373	6260-6267	package	_	
+27-374	6268-6269	(	_	
+27-375	6269-6276	medical	_	
+27-376	6276-6277	,	_	
+27-377	6278-6284	vision	_	
+27-378	6284-6285	,	_	
+27-379	6286-6292	dental	_	
+27-380	6292-6293	,	_	
+27-381	6294-6298	life	_	
+27-382	6298-6299	,	_	
+27-383	6300-6310	disability	_	
+27-384	6310-6311	)	_	
+27-385	6312-6318	Onsite	_	
+27-386	6319-6323	work	_	
+27-387	6324-6335	environment	_	
+27-388	6335-6336	,	_	
+27-389	6337-6338	4	_	
+27-390	6339-6343	days	_	
+27-391	6344-6348	with	_	
+27-392	6349-6350	1	_	
+27-393	6351-6354	day	_	
+27-394	6355-6363	remotely	_	
+27-395	6364-6368	each	_	
+27-396	6369-6373	week	_	

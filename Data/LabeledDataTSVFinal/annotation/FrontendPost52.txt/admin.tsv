@@ -1,0 +1,331 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=POSITION TITLE: Front-End Developer YEARS OF EXPERIENCE: 3-5 Years LOCATON: Remote ****Please Note: Aretec, Inc. does not offer Corp - 2 - Corp (C2C) employment. ...REQUIRED SKILLS: Ability to work with the inner components of the document object model.
+1-1	0-8	POSITION	_	
+1-2	9-14	TITLE	_	
+1-3	14-15	:	_	
+1-4	16-25	Front-End	_	
+1-5	26-35	Developer	_	
+1-6	36-41	YEARS	_	
+1-7	42-44	OF	_	
+1-8	45-55	EXPERIENCE	_	
+1-9	55-56	:	_	
+1-10	57-58	3	_	
+1-11	58-59	-	_	
+1-12	59-60	5	_	
+1-13	61-66	Years	_	
+1-14	67-74	LOCATON	_	
+1-15	74-75	:	_	
+1-16	76-82	Remote	_	
+1-17	83-84	*	_	
+1-18	84-85	*	_	
+1-19	85-86	*	_	
+1-20	86-87	*	_	
+1-21	87-93	Please	_	
+1-22	94-98	Note	_	
+1-23	98-99	:	_	
+1-24	100-106	Aretec	_	
+1-25	106-107	,	_	
+1-26	108-111	Inc	_	
+1-27	111-112	.	_	
+1-28	113-117	does	_	
+1-29	118-121	not	_	
+1-30	122-127	offer	_	
+1-31	128-132	Corp	_	
+1-32	133-134	-	_	
+1-33	135-136	2	_	
+1-34	137-138	-	_	
+1-35	139-143	Corp	_	
+1-36	144-145	(	_	
+1-37	145-148	C2C	_	
+1-38	148-149	)	_	
+1-39	150-160	employment	_	
+1-40	160-161	.	_	
+1-41	162-163	.	_	
+1-42	163-164	.	_	
+1-43	164-165	.	_	
+1-44	165-173	REQUIRED	_	
+1-45	174-180	SKILLS	_	
+1-46	180-181	:	_	
+1-47	182-189	Ability	_	
+1-48	190-192	to	_	
+1-49	193-197	work	_	
+1-50	198-202	with	_	
+1-51	203-206	the	_	
+1-52	207-212	inner	_	
+1-53	213-223	components	_	
+1-54	224-226	of	_	
+1-55	227-230	the	_	
+1-56	231-239	document	_	
+1-57	240-246	object	_	
+1-58	247-252	model	_	
+1-59	252-253	.	_	
+
+#Text=Ability to create custom interactive, graphical components.
+2-1	254-261	Ability	_	
+2-2	262-264	to	_	
+2-3	265-271	create	_	
+2-4	272-278	custom	_	
+2-5	279-290	interactive	_	
+2-6	290-291	,	_	
+2-7	292-301	graphical	_	
+2-8	302-312	components	_	
+2-9	312-313	.	_	
+
+#Text=Ability to handle large data sets in cache.
+3-1	314-321	Ability	_	
+3-2	322-324	to	_	
+3-3	325-331	handle	_	
+3-4	332-337	large	_	
+3-5	338-342	data	_	
+3-6	343-347	sets	_	
+3-7	348-350	in	_	
+3-8	351-356	cache	_	
+3-9	356-357	.	_	
+
+#Text=Ability to discover requirements and new features through continual iteration and discussion with end-users. 3 years as a professional web developer. 3 years of UX/UI responsive and adaptive design experience with a strong portfolio of design projects.
+4-1	358-365	Ability	_	
+4-2	366-368	to	_	
+4-3	369-377	discover	_	
+4-4	378-390	requirements	_	
+4-5	391-394	and	_	
+4-6	395-398	new	_	
+4-7	399-407	features	_	
+4-8	408-415	through	_	
+4-9	416-425	continual	_	
+4-10	426-435	iteration	_	
+4-11	436-439	and	_	
+4-12	440-450	discussion	_	
+4-13	451-455	with	_	
+4-14	456-465	end-users	_	
+4-15	465-466	.	_	
+4-16	467-468	3	_	
+4-17	469-474	years	_	
+4-18	475-477	as	_	
+4-19	478-479	a	_	
+4-20	480-492	professional	_	
+4-21	493-496	web	_	
+4-22	497-506	developer	_	
+4-23	506-507	.	_	
+4-24	508-509	3	_	
+4-25	510-515	years	_	
+4-26	516-518	of	_	
+4-27	519-521	UX	_	
+4-28	521-522	/	_	
+4-29	522-524	UI	_	
+4-30	525-535	responsive	_	
+4-31	536-539	and	_	
+4-32	540-548	adaptive	_	
+4-33	549-555	design	Hard Skill	
+4-34	556-566	experience	_	
+4-35	567-571	with	_	
+4-36	572-573	a	_	
+4-37	574-580	strong	_	
+4-38	581-590	portfolio	_	
+4-39	591-593	of	_	
+4-40	594-600	design	Hard Skill	
+4-41	601-609	projects	_	
+4-42	609-610	.	_	
+
+#Text=Proficiency with HTML, CSS, JavaScript.
+5-1	611-622	Proficiency	_	
+5-2	623-627	with	_	
+5-3	628-632	HTML	Hard Skill	
+5-4	632-633	,	_	
+5-5	634-637	CSS	Hard Skill	
+5-6	637-638	,	_	
+5-7	639-649	JavaScript	Hard Skill	
+5-8	649-650	.	_	
+
+#Text=Experience with modern MVC or MVVM type web frameworks (Angular, React, Vue, etc.)
+6-1	651-661	Experience	_	
+6-2	662-666	with	_	
+6-3	667-673	modern	_	
+6-4	674-677	MVC	_	
+6-5	678-680	or	_	
+6-6	681-685	MVVM	Hard Skill	
+6-7	686-690	type	_	
+6-8	691-694	web	_	
+6-9	695-705	frameworks	_	
+6-10	706-707	(	_	
+6-11	707-714	Angular	_	
+6-12	714-715	,	_	
+6-13	716-721	React	Hard Skill	
+6-14	721-722	,	_	
+6-15	723-726	Vue	_	
+6-16	726-727	,	_	
+6-17	728-731	etc	_	
+6-18	731-732	.	_	
+6-19	732-733	)	_	
+
+#Text=Experience with version control and collaboration platform Github/GitLab.Passion for designing high-level and unique user interfaces to meet customer needs.EDUCATION: Bachelor's degree in Computer Science, Information Technology, Engineering, or related field Ability to work with the inner components of the document object model Ability to create custom interactive, graphical components Ability to handle large data sets in cache Ability to discover requirements and new features through continual iteration and discussion with end-users 3 years as a professional web developer 3 years of UX/UI responsive and adaptive design experience with a strong portfolio of design projects Proficiency with HTML, CSS, JavaScript Experience with modern MVC or MVVM type web frameworks (Angular, React, Vue, etc.)
+7-1	734-744	Experience	_	
+7-2	745-749	with	_	
+7-3	750-757	version	_	
+7-4	758-765	control	_	
+7-5	766-769	and	_	
+7-6	770-783	collaboration	_	
+7-7	784-792	platform	_	
+7-8	793-799	Github	Hard Skill	
+7-9	799-800	/	_	
+7-10	800-814	GitLab.Passion	_	
+7-11	815-818	for	_	
+7-12	819-828	designing	_	
+7-13	829-839	high-level	_	
+7-14	840-843	and	_	
+7-15	844-850	unique	_	
+7-16	851-855	user	_	
+7-17	856-866	interfaces	_	
+7-18	867-869	to	_	
+7-19	870-874	meet	_	
+7-20	875-883	customer	_	
+7-21	884-899	needs.EDUCATION	_	
+7-22	899-900	:	_	
+7-23	901-911	Bachelor's	_	
+7-24	912-918	degree	_	
+7-25	919-921	in	_	
+7-26	922-930	Computer	_	
+7-27	931-938	Science	_	
+7-28	938-939	,	_	
+7-29	940-951	Information	_	
+7-30	952-962	Technology	_	
+7-31	962-963	,	_	
+7-32	964-975	Engineering	_	
+7-33	975-976	,	_	
+7-34	977-979	or	_	
+7-35	980-987	related	_	
+7-36	988-993	field	_	
+7-37	994-1001	Ability	_	
+7-38	1002-1004	to	_	
+7-39	1005-1009	work	_	
+7-40	1010-1014	with	_	
+7-41	1015-1018	the	_	
+7-42	1019-1024	inner	_	
+7-43	1025-1035	components	_	
+7-44	1036-1038	of	_	
+7-45	1039-1042	the	_	
+7-46	1043-1051	document	_	
+7-47	1052-1058	object	_	
+7-48	1059-1064	model	_	
+7-49	1065-1072	Ability	_	
+7-50	1073-1075	to	_	
+7-51	1076-1082	create	_	
+7-52	1083-1089	custom	_	
+7-53	1090-1101	interactive	_	
+7-54	1101-1102	,	_	
+7-55	1103-1112	graphical	_	
+7-56	1113-1123	components	_	
+7-57	1124-1131	Ability	_	
+7-58	1132-1134	to	_	
+7-59	1135-1141	handle	_	
+7-60	1142-1147	large	_	
+7-61	1148-1152	data	_	
+7-62	1153-1157	sets	_	
+7-63	1158-1160	in	_	
+7-64	1161-1166	cache	_	
+7-65	1167-1174	Ability	_	
+7-66	1175-1177	to	_	
+7-67	1178-1186	discover	_	
+7-68	1187-1199	requirements	_	
+7-69	1200-1203	and	_	
+7-70	1204-1207	new	_	
+7-71	1208-1216	features	_	
+7-72	1217-1224	through	_	
+7-73	1225-1234	continual	_	
+7-74	1235-1244	iteration	_	
+7-75	1245-1248	and	_	
+7-76	1249-1259	discussion	_	
+7-77	1260-1264	with	_	
+7-78	1265-1274	end-users	_	
+7-79	1275-1276	3	_	
+7-80	1277-1282	years	_	
+7-81	1283-1285	as	_	
+7-82	1286-1287	a	_	
+7-83	1288-1300	professional	_	
+7-84	1301-1304	web	_	
+7-85	1305-1314	developer	_	
+7-86	1315-1316	3	_	
+7-87	1317-1322	years	_	
+7-88	1323-1325	of	_	
+7-89	1326-1328	UX	_	
+7-90	1328-1329	/	_	
+7-91	1329-1331	UI	_	
+7-92	1332-1342	responsive	_	
+7-93	1343-1346	and	_	
+7-94	1347-1355	adaptive	_	
+7-95	1356-1362	design	Hard Skill	
+7-96	1363-1373	experience	_	
+7-97	1374-1378	with	_	
+7-98	1379-1380	a	_	
+7-99	1381-1387	strong	_	
+7-100	1388-1397	portfolio	_	
+7-101	1398-1400	of	_	
+7-102	1401-1407	design	Hard Skill	
+7-103	1408-1416	projects	_	
+7-104	1417-1428	Proficiency	_	
+7-105	1429-1433	with	_	
+7-106	1434-1438	HTML	Hard Skill	
+7-107	1438-1439	,	_	
+7-108	1440-1443	CSS	Hard Skill	
+7-109	1443-1444	,	_	
+7-110	1445-1455	JavaScript	Hard Skill	
+7-111	1456-1466	Experience	_	
+7-112	1467-1471	with	_	
+7-113	1472-1478	modern	_	
+7-114	1479-1482	MVC	_	
+7-115	1483-1485	or	_	
+7-116	1486-1490	MVVM	Hard Skill	
+7-117	1491-1495	type	_	
+7-118	1496-1499	web	_	
+7-119	1500-1510	frameworks	_	
+7-120	1511-1512	(	_	
+7-121	1512-1519	Angular	_	
+7-122	1519-1520	,	_	
+7-123	1521-1526	React	Hard Skill	
+7-124	1526-1527	,	_	
+7-125	1528-1531	Vue	_	
+7-126	1531-1532	,	_	
+7-127	1533-1536	etc	_	
+7-128	1536-1537	.	_	
+7-129	1537-1538	)	_	
+
+#Text=Experience with version control and collaboration platform Github/GitLab.Passion for designing high-level and unique user interfaces to meet customer needs EDUCATION: Bachelor's degree in Computer Science, Information Technology, Engineering, or related field
+8-1	1539-1549	Experience	_	
+8-2	1550-1554	with	_	
+8-3	1555-1562	version	_	
+8-4	1563-1570	control	_	
+8-5	1571-1574	and	_	
+8-6	1575-1588	collaboration	_	
+8-7	1589-1597	platform	_	
+8-8	1598-1604	Github	Hard Skill	
+8-9	1604-1605	/	_	
+8-10	1605-1619	GitLab.Passion	_	
+8-11	1620-1623	for	_	
+8-12	1624-1633	designing	_	
+8-13	1634-1644	high-level	_	
+8-14	1645-1648	and	_	
+8-15	1649-1655	unique	_	
+8-16	1656-1660	user	_	
+8-17	1661-1671	interfaces	_	
+8-18	1672-1674	to	_	
+8-19	1675-1679	meet	_	
+8-20	1680-1688	customer	_	
+8-21	1689-1694	needs	_	
+8-22	1695-1704	EDUCATION	_	
+8-23	1704-1705	:	_	
+8-24	1706-1716	Bachelor's	_	
+8-25	1717-1723	degree	_	
+8-26	1724-1726	in	_	
+8-27	1727-1735	Computer	_	
+8-28	1736-1743	Science	_	
+8-29	1743-1744	,	_	
+8-30	1745-1756	Information	_	
+8-31	1757-1767	Technology	_	
+8-32	1767-1768	,	_	
+8-33	1769-1780	Engineering	_	
+8-34	1780-1781	,	_	
+8-35	1782-1784	or	_	
+8-36	1785-1792	related	_	
+8-37	1793-1798	field	_	

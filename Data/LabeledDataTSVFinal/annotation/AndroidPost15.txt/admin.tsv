@@ -1,0 +1,383 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=THE TEAM YOU WILL BE JOINING: Fortune 100 Financial Services Company 100-year history of dedication to customer satisfaction, success and growth...
+1-1	0-3	THE	_	
+1-2	4-8	TEAM	_	
+1-3	9-12	YOU	_	
+1-4	13-17	WILL	_	
+1-5	18-20	BE	_	
+1-6	21-28	JOINING	_	
+1-7	28-29	:	_	
+1-8	30-37	Fortune	_	
+1-9	38-41	100	_	
+1-10	42-51	Financial	_	
+1-11	52-60	Services	_	
+1-12	61-68	Company	_	
+1-13	69-72	100	_	
+1-14	72-73	-	_	
+1-15	73-77	year	_	
+1-16	78-85	history	_	
+1-17	86-88	of	_	
+1-18	89-99	dedication	_	
+1-19	100-102	to	_	
+1-20	103-111	customer	_	
+1-21	112-124	satisfaction	_	
+1-22	124-125	,	_	
+1-23	126-133	success	_	
+1-24	134-137	and	_	
+1-25	138-144	growth	_	
+1-26	144-145	.	_	
+1-27	145-146	.	_	
+1-28	146-147	.	_	
+
+#Text=Tremendous growth and new business strategy leading to the need for new talent Significant investments in cutting-edge technologyWHAT THEY OFFER YOU: Culture: Excellent work environment that fosters collaboration Growth: Ability to make an impact on the direction of the organization Opportunity: Gain hands-on experience working with cutting-edge technology Stability: Recent financial performance of the company has reported record profitsWHY THIS ROLE IS IMPORTANT: Performs architecture requirements analysis to convert end user needs into technical solutions.
+2-1	148-158	Tremendous	_	
+2-2	159-165	growth	_	
+2-3	166-169	and	_	
+2-4	170-173	new	_	
+2-5	174-182	business	_	
+2-6	183-191	strategy	_	
+2-7	192-199	leading	_	
+2-8	200-202	to	_	
+2-9	203-206	the	_	
+2-10	207-211	need	_	
+2-11	212-215	for	_	
+2-12	216-219	new	_	
+2-13	220-226	talent	_	
+2-14	227-238	Significant	_	
+2-15	239-250	investments	_	
+2-16	251-253	in	_	
+2-17	254-266	cutting-edge	_	
+2-18	267-281	technologyWHAT	_	
+2-19	282-286	THEY	_	
+2-20	287-292	OFFER	_	
+2-21	293-296	YOU	_	
+2-22	296-297	:	_	
+2-23	298-305	Culture	_	
+2-24	305-306	:	_	
+2-25	307-316	Excellent	_	
+2-26	317-321	work	_	
+2-27	322-333	environment	_	
+2-28	334-338	that	_	
+2-29	339-346	fosters	_	
+2-30	347-360	collaboration	_	
+2-31	361-367	Growth	_	
+2-32	367-368	:	_	
+2-33	369-376	Ability	_	
+2-34	377-379	to	_	
+2-35	380-384	make	_	
+2-36	385-387	an	_	
+2-37	388-394	impact	_	
+2-38	395-397	on	_	
+2-39	398-401	the	_	
+2-40	402-411	direction	_	
+2-41	412-414	of	_	
+2-42	415-418	the	_	
+2-43	419-431	organization	_	
+2-44	432-443	Opportunity	_	
+2-45	443-444	:	_	
+2-46	445-449	Gain	_	
+2-47	450-458	hands-on	_	
+2-48	459-469	experience	_	
+2-49	470-477	working	_	
+2-50	478-482	with	_	
+2-51	483-495	cutting-edge	_	
+2-52	496-506	technology	_	
+2-53	507-516	Stability	_	
+2-54	516-517	:	_	
+2-55	518-524	Recent	_	
+2-56	525-534	financial	_	
+2-57	535-546	performance	_	
+2-58	547-549	of	_	
+2-59	550-553	the	_	
+2-60	554-561	company	_	
+2-61	562-565	has	_	
+2-62	566-574	reported	_	
+2-63	575-581	record	_	
+2-64	582-592	profitsWHY	_	
+2-65	593-597	THIS	_	
+2-66	598-602	ROLE	_	
+2-67	603-605	IS	_	
+2-68	606-615	IMPORTANT	_	
+2-69	615-616	:	_	
+2-70	617-625	Performs	_	
+2-71	626-638	architecture	_	
+2-72	639-651	requirements	_	
+2-73	652-660	analysis	Hard Skill	
+2-74	661-663	to	_	
+2-75	664-671	convert	_	
+2-76	672-675	end	_	
+2-77	676-680	user	_	
+2-78	681-686	needs	_	
+2-79	687-691	into	_	
+2-80	692-701	technical	_	
+2-81	702-711	solutions	_	
+2-82	711-712	.	_	
+
+#Text=Harmonizes systems design and technology constraints in accordance with compliance requirements.
+3-1	713-723	Harmonizes	_	
+3-2	724-731	systems	_	
+3-3	732-738	design	Hard Skill	
+3-4	739-742	and	_	
+3-5	743-753	technology	_	
+3-6	754-765	constraints	_	
+3-7	766-768	in	_	
+3-8	769-779	accordance	_	
+3-9	780-784	with	_	
+3-10	785-795	compliance	_	
+3-11	796-808	requirements	_	
+3-12	808-809	.	_	
+
+#Text=Follows key capabilities and performance requirements when developing system architectures.
+4-1	810-817	Follows	_	
+4-2	818-821	key	_	
+4-3	822-834	capabilities	_	
+4-4	835-838	and	_	
+4-5	839-850	performance	_	
+4-6	851-863	requirements	_	
+4-7	864-868	when	_	
+4-8	869-879	developing	_	
+4-9	880-886	system	_	
+4-10	887-900	architectures	_	
+4-11	900-901	.	_	
+
+#Text=Creates models and architectural guidelines for current and future system development.
+5-1	902-909	Creates	_	
+5-2	910-916	models	_	
+5-3	917-920	and	_	
+5-4	921-934	architectural	_	
+5-5	935-945	guidelines	_	
+5-6	946-949	for	_	
+5-7	950-957	current	_	
+5-8	958-961	and	_	
+5-9	962-968	future	_	
+5-10	969-975	system	_	
+5-11	976-987	development	_	
+5-12	987-988	.	_	
+
+#Text=Develops definitions for system element architecture, design and interface for lower level professionals to follow.
+6-1	989-997	Develops	_	
+6-2	998-1009	definitions	_	
+6-3	1010-1013	for	_	
+6-4	1014-1020	system	_	
+6-5	1021-1028	element	_	
+6-6	1029-1041	architecture	_	
+6-7	1041-1042	,	_	
+6-8	1043-1049	design	Hard Skill	
+6-9	1050-1053	and	_	
+6-10	1054-1063	interface	_	
+6-11	1064-1067	for	_	
+6-12	1068-1073	lower	_	
+6-13	1074-1079	level	_	
+6-14	1080-1093	professionals	_	
+6-15	1094-1096	to	_	
+6-16	1097-1103	follow	_	
+6-17	1103-1104	.	_	
+
+#Text=Communicates the design of the software architecture to all stakeholders.
+7-1	1105-1117	Communicates	_	
+7-2	1118-1121	the	_	
+7-3	1122-1128	design	Hard Skill	
+7-4	1129-1131	of	_	
+7-5	1132-1135	the	_	
+7-6	1136-1144	software	_	
+7-7	1145-1157	architecture	_	
+7-8	1158-1160	to	_	
+7-9	1161-1164	all	_	
+7-10	1165-1177	stakeholders	_	
+7-11	1177-1178	.	_	
+
+#Text=Assists in complex data modeling and advanced project development.THE BACKGROUND THAT FITSRequired Skills: 3+ years of Android Development experience Java or Kotlin experience Previous experience with Agile Experience working with Jira Experience with CI/CD tools such as Jenkins Android UI components and library's experience Knowledge and understanding of Firebase preferred.
+8-1	1179-1186	Assists	_	
+8-2	1187-1189	in	_	
+8-3	1190-1197	complex	_	
+8-4	1198-1202	data	_	
+8-5	1203-1211	modeling	_	
+8-6	1212-1215	and	_	
+8-7	1216-1224	advanced	_	
+8-8	1225-1232	project	_	
+8-9	1233-1248	development.THE	_	
+8-10	1249-1259	BACKGROUND	_	
+8-11	1260-1264	THAT	_	
+8-12	1265-1277	FITSRequired	_	
+8-13	1278-1284	Skills	_	
+8-14	1284-1285	:	_	
+8-15	1286-1287	3	_	
+8-16	1287-1288	+	_	
+8-17	1289-1294	years	_	
+8-18	1295-1297	of	_	
+8-19	1298-1305	Android	Hard Skill	
+8-20	1306-1317	Development	_	
+8-21	1318-1328	experience	_	
+8-22	1329-1333	Java	Hard Skill	
+8-23	1334-1336	or	_	
+8-24	1337-1343	Kotlin	Hard Skill	
+8-25	1344-1354	experience	_	
+8-26	1355-1363	Previous	_	
+8-27	1364-1374	experience	_	
+8-28	1375-1379	with	_	
+8-29	1380-1385	Agile	Hard Skill	
+8-30	1386-1396	Experience	_	
+8-31	1397-1404	working	_	
+8-32	1405-1409	with	_	
+8-33	1410-1414	Jira	Hard Skill	
+8-34	1415-1425	Experience	_	
+8-35	1426-1430	with	_	
+8-36	1431-1433	CI	_	
+8-37	1433-1434	/	_	
+8-38	1434-1436	CD	_	
+8-39	1437-1442	tools	_	
+8-40	1443-1447	such	_	
+8-41	1448-1450	as	_	
+8-42	1451-1458	Jenkins	Hard Skill	
+8-43	1459-1466	Android	Hard Skill	
+8-44	1467-1469	UI	_	
+8-45	1470-1480	components	_	
+8-46	1481-1484	and	_	
+8-47	1485-1494	library's	_	
+8-48	1495-1505	experience	_	
+8-49	1506-1515	Knowledge	_	
+8-50	1516-1519	and	_	
+8-51	1520-1533	understanding	_	
+8-52	1534-1536	of	_	
+8-53	1537-1545	Firebase	Hard Skill	
+8-54	1546-1555	preferred	_	
+8-55	1555-1556	.	_	
+
+#Text=#LI-PO1 Opportunity: Gain hands-on experience working with cutting-edge technology 3+ years of Android Development experience Java or Kotlin experience Previous experience with Agile Experience working with Jira Experience with CI/CD tools such as Jenkins Android UI components and library's experience Performs architecture requirements analysis to convert end user needs into technical solutions Follows key capabilities and performance requirements when developing system architectures Creates models and architectural guidelines for current and future system development Develops definitions for system element architecture, design and interface for lower level professionals to follow Communicates the design of the software architecture to all stakeholders Assists in complex data modeling and advanced project development Culture: Excellent work environment that fosters collaboration Growth: Ability to make an impact on the direction of the organization
+9-1	1556-1557	#	_	
+9-2	1557-1563	LI-PO1	_	
+9-3	1564-1575	Opportunity	_	
+9-4	1575-1576	:	_	
+9-5	1577-1581	Gain	_	
+9-6	1582-1590	hands-on	_	
+9-7	1591-1601	experience	_	
+9-8	1602-1609	working	_	
+9-9	1610-1614	with	_	
+9-10	1615-1627	cutting-edge	_	
+9-11	1628-1638	technology	_	
+9-12	1639-1640	3	_	
+9-13	1640-1641	+	_	
+9-14	1642-1647	years	_	
+9-15	1648-1650	of	_	
+9-16	1651-1658	Android	Hard Skill	
+9-17	1659-1670	Development	_	
+9-18	1671-1681	experience	_	
+9-19	1682-1686	Java	Hard Skill	
+9-20	1687-1689	or	_	
+9-21	1690-1696	Kotlin	Hard Skill	
+9-22	1697-1707	experience	_	
+9-23	1708-1716	Previous	_	
+9-24	1717-1727	experience	_	
+9-25	1728-1732	with	_	
+9-26	1733-1738	Agile	Hard Skill	
+9-27	1739-1749	Experience	_	
+9-28	1750-1757	working	_	
+9-29	1758-1762	with	_	
+9-30	1763-1767	Jira	Hard Skill	
+9-31	1768-1778	Experience	_	
+9-32	1779-1783	with	_	
+9-33	1784-1786	CI	_	
+9-34	1786-1787	/	_	
+9-35	1787-1789	CD	_	
+9-36	1790-1795	tools	_	
+9-37	1796-1800	such	_	
+9-38	1801-1803	as	_	
+9-39	1804-1811	Jenkins	Hard Skill	
+9-40	1812-1819	Android	Hard Skill	
+9-41	1820-1822	UI	_	
+9-42	1823-1833	components	_	
+9-43	1834-1837	and	_	
+9-44	1838-1847	library's	_	
+9-45	1848-1858	experience	_	
+9-46	1859-1867	Performs	_	
+9-47	1868-1880	architecture	_	
+9-48	1881-1893	requirements	_	
+9-49	1894-1902	analysis	Hard Skill	
+9-50	1903-1905	to	_	
+9-51	1906-1913	convert	_	
+9-52	1914-1917	end	_	
+9-53	1918-1922	user	_	
+9-54	1923-1928	needs	_	
+9-55	1929-1933	into	_	
+9-56	1934-1943	technical	_	
+9-57	1944-1953	solutions	_	
+9-58	1954-1961	Follows	_	
+9-59	1962-1965	key	_	
+9-60	1966-1978	capabilities	_	
+9-61	1979-1982	and	_	
+9-62	1983-1994	performance	_	
+9-63	1995-2007	requirements	_	
+9-64	2008-2012	when	_	
+9-65	2013-2023	developing	_	
+9-66	2024-2030	system	_	
+9-67	2031-2044	architectures	_	
+9-68	2045-2052	Creates	_	
+9-69	2053-2059	models	_	
+9-70	2060-2063	and	_	
+9-71	2064-2077	architectural	_	
+9-72	2078-2088	guidelines	_	
+9-73	2089-2092	for	_	
+9-74	2093-2100	current	_	
+9-75	2101-2104	and	_	
+9-76	2105-2111	future	_	
+9-77	2112-2118	system	_	
+9-78	2119-2130	development	_	
+9-79	2131-2139	Develops	_	
+9-80	2140-2151	definitions	_	
+9-81	2152-2155	for	_	
+9-82	2156-2162	system	_	
+9-83	2163-2170	element	_	
+9-84	2171-2183	architecture	_	
+9-85	2183-2184	,	_	
+9-86	2185-2191	design	Hard Skill	
+9-87	2192-2195	and	_	
+9-88	2196-2205	interface	_	
+9-89	2206-2209	for	_	
+9-90	2210-2215	lower	_	
+9-91	2216-2221	level	_	
+9-92	2222-2235	professionals	_	
+9-93	2236-2238	to	_	
+9-94	2239-2245	follow	_	
+9-95	2246-2258	Communicates	_	
+9-96	2259-2262	the	_	
+9-97	2263-2269	design	Hard Skill	
+9-98	2270-2272	of	_	
+9-99	2273-2276	the	_	
+9-100	2277-2285	software	_	
+9-101	2286-2298	architecture	_	
+9-102	2299-2301	to	_	
+9-103	2302-2305	all	_	
+9-104	2306-2318	stakeholders	_	
+9-105	2319-2326	Assists	_	
+9-106	2327-2329	in	_	
+9-107	2330-2337	complex	_	
+9-108	2338-2342	data	_	
+9-109	2343-2351	modeling	_	
+9-110	2352-2355	and	_	
+9-111	2356-2364	advanced	_	
+9-112	2365-2372	project	_	
+9-113	2373-2384	development	_	
+9-114	2385-2392	Culture	_	
+9-115	2392-2393	:	_	
+9-116	2394-2403	Excellent	_	
+9-117	2404-2408	work	_	
+9-118	2409-2420	environment	_	
+9-119	2421-2425	that	_	
+9-120	2426-2433	fosters	_	
+9-121	2434-2447	collaboration	_	
+9-122	2448-2454	Growth	_	
+9-123	2454-2455	:	_	
+9-124	2456-2463	Ability	_	
+9-125	2464-2466	to	_	
+9-126	2467-2471	make	_	
+9-127	2472-2474	an	_	
+9-128	2475-2481	impact	_	
+9-129	2482-2484	on	_	
+9-130	2485-2488	the	_	
+9-131	2489-2498	direction	_	
+9-132	2499-2501	of	_	
+9-133	2502-2505	the	_	
+9-134	2506-2518	organization	_	

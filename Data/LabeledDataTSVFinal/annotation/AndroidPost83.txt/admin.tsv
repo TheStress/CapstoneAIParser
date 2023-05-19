@@ -1,0 +1,278 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=We are looking for an experienced website and Android developer to fix an existing app.
+1-1	0-2	We	_	
+1-2	3-6	are	_	
+1-3	7-14	looking	_	
+1-4	15-18	for	_	
+1-5	19-21	an	_	
+1-6	22-33	experienced	_	
+1-7	34-41	website	_	
+1-8	42-45	and	_	
+1-9	46-53	Android	Hard Skill	
+1-10	54-63	developer	_	
+1-11	64-66	to	_	
+1-12	67-70	fix	_	
+1-13	71-73	an	_	
+1-14	74-82	existing	_	
+1-15	83-86	app	_	
+1-16	86-87	.	_	
+
+#Text=The main task is to add a VPS and payment system to the app.
+2-1	88-91	The	_	
+2-2	92-96	main	_	
+2-3	97-101	task	_	
+2-4	102-104	is	_	
+2-5	105-107	to	_	
+2-6	108-111	add	_	
+2-7	112-113	a	_	
+2-8	114-117	VPS	_	
+2-9	118-121	and	_	
+2-10	122-129	payment	_	
+2-11	130-136	system	_	
+2-12	137-139	to	_	
+2-13	140-143	the	_	
+2-14	144-147	app	_	
+2-15	147-148	.	_	
+
+#Text=The ideal candidate should have experience in Smartphone, Android, Android App Development, HTML, Java, JavaScript, PHP, Web Development, and WordPress.The project is expected to take 1 to 3 months to complete, depending on the complexity of the... issues.
+3-1	149-152	The	_	
+3-2	153-158	ideal	_	
+3-3	159-168	candidate	_	
+3-4	169-175	should	_	
+3-5	176-180	have	_	
+3-6	181-191	experience	_	
+3-7	192-194	in	_	
+3-8	195-205	Smartphone	_	
+3-9	205-206	,	_	
+3-10	207-214	Android	Hard Skill	
+3-11	214-215	,	_	
+3-12	216-223	Android	Hard Skill	
+3-13	224-227	App	_	
+3-14	228-239	Development	_	
+3-15	239-240	,	_	
+3-16	241-245	HTML	Hard Skill	
+3-17	245-246	,	_	
+3-18	247-251	Java	Hard Skill	
+3-19	251-252	,	_	
+3-20	253-263	JavaScript	Hard Skill	
+3-21	263-264	,	_	
+3-22	265-268	PHP	Hard Skill	
+3-23	268-269	,	_	
+3-24	270-273	Web	_	
+3-25	274-285	Development	_	
+3-26	285-286	,	_	
+3-27	287-290	and	_	
+3-28	291-304	WordPress.The	_	
+3-29	305-312	project	_	
+3-30	313-315	is	_	
+3-31	316-324	expected	_	
+3-32	325-327	to	_	
+3-33	328-332	take	_	
+3-34	333-334	1	_	
+3-35	335-337	to	_	
+3-36	338-339	3	_	
+3-37	340-346	months	_	
+3-38	347-349	to	_	
+3-39	350-358	complete	_	
+3-40	358-359	,	_	
+3-41	360-369	depending	_	
+3-42	370-372	on	_	
+3-43	373-376	the	_	
+3-44	377-387	complexity	_	
+3-45	388-390	of	_	
+3-46	391-394	the	_	
+3-47	394-395	.	_	
+3-48	395-396	.	_	
+3-49	396-397	.	_	
+3-50	398-404	issues	_	
+3-51	404-405	.	_	
+
+#Text=We need a candidate who is detail-oriented, has excellent communication skills, and can work independently.To apply, please submit a proposal detailing how you can help with the project, your relevant experience, and links to past completed projects.
+4-1	406-408	We	_	
+4-2	409-413	need	_	
+4-3	414-415	a	_	
+4-4	416-425	candidate	_	
+4-5	426-429	who	_	
+4-6	430-432	is	_	
+4-7	433-448	detail-oriented	_	
+4-8	448-449	,	_	
+4-9	450-453	has	_	
+4-10	454-463	excellent	_	
+4-11	464-477	communication	Soft Skill	
+4-12	478-484	skills	_	
+4-13	484-485	,	_	
+4-14	486-489	and	_	
+4-15	490-493	can	_	
+4-16	494-498	work	_	
+4-17	499-515	independently.To	_	
+4-18	516-521	apply	_	
+4-19	521-522	,	_	
+4-20	523-529	please	_	
+4-21	530-536	submit	_	
+4-22	537-538	a	_	
+4-23	539-547	proposal	_	
+4-24	548-557	detailing	_	
+4-25	558-561	how	_	
+4-26	562-565	you	_	
+4-27	566-569	can	_	
+4-28	570-574	help	_	
+4-29	575-579	with	_	
+4-30	580-583	the	_	
+4-31	584-591	project	_	
+4-32	591-592	,	_	
+4-33	593-597	your	_	
+4-34	598-606	relevant	_	
+4-35	607-617	experience	_	
+4-36	617-618	,	_	
+4-37	619-622	and	_	
+4-38	623-628	links	_	
+4-39	629-631	to	_	
+4-40	632-636	past	_	
+4-41	637-646	completed	_	
+4-42	647-655	projects	_	
+4-43	655-656	.	_	
+
+#Text=We will review all proposals and contact shortlisted candidates for further discussion.Please note that we are looking for a candidate who can start immediately and can commit to the project's timeline.
+5-1	657-659	We	_	
+5-2	660-664	will	_	
+5-3	665-671	review	_	
+5-4	672-675	all	_	
+5-5	676-685	proposals	_	
+5-6	686-689	and	_	
+5-7	690-697	contact	_	
+5-8	698-709	shortlisted	_	
+5-9	710-720	candidates	_	
+5-10	721-724	for	_	
+5-11	725-732	further	_	
+5-12	733-750	discussion.Please	_	
+5-13	751-755	note	_	
+5-14	756-760	that	_	
+5-15	761-763	we	_	
+5-16	764-767	are	_	
+5-17	768-775	looking	_	
+5-18	776-779	for	_	
+5-19	780-781	a	_	
+5-20	782-791	candidate	_	
+5-21	792-795	who	_	
+5-22	796-799	can	_	
+5-23	800-805	start	_	
+5-24	806-817	immediately	_	
+5-25	818-821	and	_	
+5-26	822-825	can	_	
+5-27	826-832	commit	_	
+5-28	833-835	to	_	
+5-29	836-839	the	_	
+5-30	840-849	project's	_	
+5-31	850-858	timeline	_	
+5-32	858-859	.	_	
+
+#Text=We look forward to hearing from you and working with you.Note: Some of the content in this job post may have been auto-generated using advanced AI The ideal candidate should have experience in Smartphone, Android, Android App Development, HTML, Java, JavaScript, PHP, Web Development, and WordPress The project is expected to take 1 to 3 months to complete, depending on the complexity of the issues We need a candidate who is detail-oriented, has excellent communication skills, and can work independently The main task is to add a VPS and payment system to the app
+6-1	860-862	We	_	
+6-2	863-867	look	_	
+6-3	868-875	forward	_	
+6-4	876-878	to	_	
+6-5	879-886	hearing	_	
+6-6	887-891	from	_	
+6-7	892-895	you	_	
+6-8	896-899	and	_	
+6-9	900-907	working	_	
+6-10	908-912	with	_	
+6-11	913-921	you.Note	_	
+6-12	921-922	:	_	
+6-13	923-927	Some	_	
+6-14	928-930	of	_	
+6-15	931-934	the	_	
+6-16	935-942	content	_	
+6-17	943-945	in	_	
+6-18	946-950	this	_	
+6-19	951-954	job	_	
+6-20	955-959	post	_	
+6-21	960-963	may	_	
+6-22	964-968	have	_	
+6-23	969-973	been	_	
+6-24	974-988	auto-generated	_	
+6-25	989-994	using	_	
+6-26	995-1003	advanced	_	
+6-27	1004-1006	AI	_	
+6-28	1007-1010	The	_	
+6-29	1011-1016	ideal	_	
+6-30	1017-1026	candidate	_	
+6-31	1027-1033	should	_	
+6-32	1034-1038	have	_	
+6-33	1039-1049	experience	_	
+6-34	1050-1052	in	_	
+6-35	1053-1063	Smartphone	_	
+6-36	1063-1064	,	_	
+6-37	1065-1072	Android	Hard Skill	
+6-38	1072-1073	,	_	
+6-39	1074-1081	Android	Hard Skill	
+6-40	1082-1085	App	_	
+6-41	1086-1097	Development	_	
+6-42	1097-1098	,	_	
+6-43	1099-1103	HTML	Hard Skill	
+6-44	1103-1104	,	_	
+6-45	1105-1109	Java	Hard Skill	
+6-46	1109-1110	,	_	
+6-47	1111-1121	JavaScript	Hard Skill	
+6-48	1121-1122	,	_	
+6-49	1123-1126	PHP	Hard Skill	
+6-50	1126-1127	,	_	
+6-51	1128-1131	Web	_	
+6-52	1132-1143	Development	_	
+6-53	1143-1144	,	_	
+6-54	1145-1148	and	_	
+6-55	1149-1158	WordPress	Hard Skill	
+6-56	1159-1162	The	_	
+6-57	1163-1170	project	_	
+6-58	1171-1173	is	_	
+6-59	1174-1182	expected	_	
+6-60	1183-1185	to	_	
+6-61	1186-1190	take	_	
+6-62	1191-1192	1	_	
+6-63	1193-1195	to	_	
+6-64	1196-1197	3	_	
+6-65	1198-1204	months	_	
+6-66	1205-1207	to	_	
+6-67	1208-1216	complete	_	
+6-68	1216-1217	,	_	
+6-69	1218-1227	depending	_	
+6-70	1228-1230	on	_	
+6-71	1231-1234	the	_	
+6-72	1235-1245	complexity	_	
+6-73	1246-1248	of	_	
+6-74	1249-1252	the	_	
+6-75	1253-1259	issues	_	
+6-76	1260-1262	We	_	
+6-77	1263-1267	need	_	
+6-78	1268-1269	a	_	
+6-79	1270-1279	candidate	_	
+6-80	1280-1283	who	_	
+6-81	1284-1286	is	_	
+6-82	1287-1302	detail-oriented	_	
+6-83	1302-1303	,	_	
+6-84	1304-1307	has	_	
+6-85	1308-1317	excellent	_	
+6-86	1318-1331	communication	Soft Skill	
+6-87	1332-1338	skills	_	
+6-88	1338-1339	,	_	
+6-89	1340-1343	and	_	
+6-90	1344-1347	can	_	
+6-91	1348-1352	work	_	
+6-92	1353-1366	independently	_	
+6-93	1367-1370	The	_	
+6-94	1371-1375	main	_	
+6-95	1376-1380	task	_	
+6-96	1381-1383	is	_	
+6-97	1384-1386	to	_	
+6-98	1387-1390	add	_	
+6-99	1391-1392	a	_	
+6-100	1393-1396	VPS	_	
+6-101	1397-1400	and	_	
+6-102	1401-1408	payment	_	
+6-103	1409-1415	system	_	
+6-104	1416-1418	to	_	
+6-105	1419-1422	the	_	
+6-106	1423-1426	app	_	

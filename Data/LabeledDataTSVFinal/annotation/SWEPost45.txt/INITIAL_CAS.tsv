@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Tenets mission is to empower people to live more sustainably by making renewable technology affordable.
+1-1	0-6	Tenets	
+1-2	7-14	mission	
+1-3	15-17	is	
+1-4	18-20	to	
+1-5	21-28	empower	
+1-6	29-35	people	
+1-7	36-38	to	
+1-8	39-43	live	
+1-9	44-48	more	
+1-10	49-60	sustainably	
+1-11	61-63	by	
+1-12	64-70	making	
+1-13	71-80	renewable	
+1-14	81-91	technology	
+1-15	92-102	affordable	
+1-16	102-103	.	
+
+#Text=Tenets mission is to empower people to live more sustainably by making renewable technology affordable.
+2-1	104-110	Tenets	
+2-2	111-118	mission	
+2-3	119-121	is	
+2-4	122-124	to	
+2-5	125-132	empower	
+2-6	133-139	people	
+2-7	140-142	to	
+2-8	143-147	live	
+2-9	148-152	more	
+2-10	153-164	sustainably	
+2-11	165-167	by	
+2-12	168-174	making	
+2-13	175-184	renewable	
+2-14	185-195	technology	
+2-15	196-206	affordable	
+2-16	206-207	.	

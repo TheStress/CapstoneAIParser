@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Meet on zoom and understand the requirements which are shared using Figma.
+1-1	0-4	Meet	_	
+1-2	5-7	on	_	
+1-3	8-12	zoom	_	
+1-4	13-16	and	_	
+1-5	17-27	understand	_	
+1-6	28-31	the	_	
+1-7	32-44	requirements	_	
+1-8	45-50	which	_	
+1-9	51-54	are	_	
+1-10	55-61	shared	_	
+1-11	62-67	using	_	
+1-12	68-73	Figma	Hard Skill	
+1-13	73-74	.	_	
+
+#Text=Develop the required Web pages, modals and animations.
+2-1	75-82	Develop	_	
+2-2	83-86	the	_	
+2-3	87-95	required	_	
+2-4	96-99	Web	_	
+2-5	100-105	pages	_	
+2-6	105-106	,	_	
+2-7	107-113	modals	_	
+2-8	114-117	and	_	
+2-9	118-128	animations	_	
+2-10	128-129	.	_	
+
+#Text=Ensure that the styling meets the requirements.
+3-1	130-136	Ensure	_	
+3-2	137-141	that	_	
+3-3	142-145	the	_	
+3-4	146-153	styling	_	
+3-5	154-159	meets	_	
+3-6	160-163	the	_	
+3-7	164-176	requirements	_	
+3-8	176-177	.	_	
+
+#Text=Animations are smooth.
+4-1	178-188	Animations	_	
+4-2	189-192	are	_	
+4-3	193-199	smooth	_	
+4-4	199-200	.	_	
+
+#Text=Presentation is modern.
+5-1	201-213	Presentation	_	
+5-2	214-216	is	_	
+5-3	217-223	modern	_	
+5-4	223-224	.	_	
+
+#Text=Allow the back end team to tune the code for data that will be loaded through SQL from a backend DB.
+6-1	225-230	Allow	_	
+6-2	231-234	the	_	
+6-3	235-239	back	_	
+6-4	240-243	end	_	
+6-5	244-248	team	_	
+6-6	249-251	to	_	
+6-7	252-256	tune	_	
+6-8	257-260	the	_	
+6-9	261-265	code	_	
+6-10	266-269	for	_	
+6-11	270-274	data	_	
+6-12	275-279	that	_	
+6-13	280-284	will	_	
+6-14	285-287	be	_	
+6-15	288-294	loaded	_	
+6-16	295-302	through	_	
+6-17	303-306	SQL	Hard Skill	
+6-18	307-311	from	_	
+6-19	312-313	a	_	
+6-20	314-321	backend	_	
+6-21	322-324	DB	_	
+6-22	324-325	.	_	
+
+#Text=Meet on zoom and understand the requirements which are shared using Figma Develop the required Web pages, modals and animations Ensure that the styling meets the requirements Allow the back end team to tune the code for data that will be loaded through SQL from a backend DB
+7-1	326-330	Meet	_	
+7-2	331-333	on	_	
+7-3	334-338	zoom	_	
+7-4	339-342	and	_	
+7-5	343-353	understand	_	
+7-6	354-357	the	_	
+7-7	358-370	requirements	_	
+7-8	371-376	which	_	
+7-9	377-380	are	_	
+7-10	381-387	shared	_	
+7-11	388-393	using	_	
+7-12	394-399	Figma	Hard Skill	
+7-13	400-407	Develop	_	
+7-14	408-411	the	_	
+7-15	412-420	required	_	
+7-16	421-424	Web	_	
+7-17	425-430	pages	_	
+7-18	430-431	,	_	
+7-19	432-438	modals	_	
+7-20	439-442	and	_	
+7-21	443-453	animations	_	
+7-22	454-460	Ensure	_	
+7-23	461-465	that	_	
+7-24	466-469	the	_	
+7-25	470-477	styling	_	
+7-26	478-483	meets	_	
+7-27	484-487	the	_	
+7-28	488-500	requirements	_	
+7-29	501-506	Allow	_	
+7-30	507-510	the	_	
+7-31	511-515	back	_	
+7-32	516-519	end	_	
+7-33	520-524	team	_	
+7-34	525-527	to	_	
+7-35	528-532	tune	_	
+7-36	533-536	the	_	
+7-37	537-541	code	_	
+7-38	542-545	for	_	
+7-39	546-550	data	_	
+7-40	551-555	that	_	
+7-41	556-560	will	_	
+7-42	561-563	be	_	
+7-43	564-570	loaded	_	
+7-44	571-578	through	_	
+7-45	579-582	SQL	Hard Skill	
+7-46	583-587	from	_	
+7-47	588-589	a	_	
+7-48	590-597	backend	_	
+7-49	598-600	DB	_	

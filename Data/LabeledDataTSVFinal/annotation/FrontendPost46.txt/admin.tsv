@@ -1,0 +1,168 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsiblities: Design mobile-based features.
+1-1	0-15	Responsiblities	_	
+1-2	15-16	:	_	
+1-3	17-23	Design	Hard Skill	
+1-4	24-36	mobile-based	_	
+1-5	37-45	features	_	
+1-6	45-46	.	_	
+
+#Text=Collaborate with back-end developers and web designers to improve usability.
+2-1	47-58	Collaborate	_	
+2-2	59-63	with	_	
+2-3	64-72	back-end	_	
+2-4	73-83	developers	_	
+2-5	84-87	and	_	
+2-6	88-91	web	_	
+2-7	92-101	designers	_	
+2-8	102-104	to	_	
+2-9	105-112	improve	_	
+2-10	113-122	usability	_	
+2-11	122-123	.	_	
+
+#Text=Get feedback from, and build solutions for, users and customers.
+3-1	124-127	Get	_	
+3-2	128-136	feedback	_	
+3-3	137-141	from	_	
+3-4	141-142	,	_	
+3-5	143-146	and	_	
+3-6	147-152	build	_	
+3-7	153-162	solutions	_	
+3-8	163-166	for	_	
+3-9	166-167	,	_	
+3-10	168-173	users	_	
+3-11	174-177	and	_	
+3-12	178-187	customers	_	
+3-13	187-188	.	_	
+
+#Text=Write functional requirement documents and guides.
+4-1	189-194	Write	_	
+4-2	195-205	functional	_	
+4-3	206-217	requirement	_	
+4-4	218-227	documents	_	
+4-5	228-231	and	_	
+4-6	232-238	guides	_	
+4-7	238-239	.	_	
+
+#Text=Create quality mockups and prototypes.
+5-1	240-246	Create	_	
+5-2	247-254	quality	_	
+5-3	255-262	mockups	_	
+5-4	263-266	and	_	
+5-5	267-277	prototypes	_	
+5-6	277-278	.	_	
+
+#Text=Help back-end developers with coding and troubleshooting.
+6-1	279-283	Help	_	
+6-2	284-292	back-end	_	
+6-3	293-303	developers	_	
+6-4	304-308	with	_	
+6-5	309-315	coding	Hard Skill	
+6-6	316-319	and	_	
+6-7	320-335	troubleshooting	Hard Skill	
+6-8	335-336	.	_	
+
+#Text=Ensure high quality graphic standards and brand... consistency.Key Skills: JavaScript.
+7-1	337-343	Ensure	_	
+7-2	344-348	high	_	
+7-3	349-356	quality	_	
+7-4	357-364	graphic	_	
+7-5	365-374	standards	_	
+7-6	375-378	and	_	
+7-7	379-384	brand	_	
+7-8	384-385	.	_	
+7-9	385-386	.	_	
+7-10	386-387	.	_	
+7-11	388-403	consistency.Key	_	
+7-12	404-410	Skills	_	
+7-13	410-411	:	_	
+7-14	412-422	JavaScript	Hard Skill	
+7-15	422-423	.	_	
+
+#Text=Frameworks and Libraries.
+8-1	424-434	Frameworks	_	
+8-2	435-438	and	_	
+8-3	439-448	Libraries	_	
+8-4	448-449	.	_	
+
+#Text=Version control.
+9-1	450-457	Version	_	
+9-2	458-465	control	_	
+9-3	465-466	.	_	
+
+#Text=Cross-browser and device testing.
+10-1	467-480	Cross-browser	_	
+10-2	481-484	and	_	
+10-3	485-491	device	_	
+10-4	492-499	testing	_	
+10-5	499-500	.	_	
+
+#Text=Web performance optimization.
+11-1	501-504	Web	_	
+11-2	505-516	performance	_	
+11-3	517-529	optimization	_	
+11-4	529-530	.	_	
+
+#Text=Search engine optimization Key Skills: JavaScript Cross-browser and device testing Collaborate with back-end developers and web designers to improve usability Get feedback from, and build solutions for, users and customers Write functional requirement documents and guides Create quality mockups and prototypes Help back-end developers with coding and troubleshooting Ensure high quality graphic standards and brand consistency
+12-1	531-537	Search	_	
+12-2	538-544	engine	_	
+12-3	545-557	optimization	_	
+12-4	558-561	Key	_	
+12-5	562-568	Skills	_	
+12-6	568-569	:	_	
+12-7	570-580	JavaScript	Hard Skill	
+12-8	581-594	Cross-browser	_	
+12-9	595-598	and	_	
+12-10	599-605	device	_	
+12-11	606-613	testing	_	
+12-12	614-625	Collaborate	_	
+12-13	626-630	with	_	
+12-14	631-639	back-end	_	
+12-15	640-650	developers	_	
+12-16	651-654	and	_	
+12-17	655-658	web	_	
+12-18	659-668	designers	_	
+12-19	669-671	to	_	
+12-20	672-679	improve	_	
+12-21	680-689	usability	_	
+12-22	690-693	Get	_	
+12-23	694-702	feedback	_	
+12-24	703-707	from	_	
+12-25	707-708	,	_	
+12-26	709-712	and	_	
+12-27	713-718	build	_	
+12-28	719-728	solutions	_	
+12-29	729-732	for	_	
+12-30	732-733	,	_	
+12-31	734-739	users	_	
+12-32	740-743	and	_	
+12-33	744-753	customers	_	
+12-34	754-759	Write	_	
+12-35	760-770	functional	_	
+12-36	771-782	requirement	_	
+12-37	783-792	documents	_	
+12-38	793-796	and	_	
+12-39	797-803	guides	_	
+12-40	804-810	Create	_	
+12-41	811-818	quality	_	
+12-42	819-826	mockups	_	
+12-43	827-830	and	_	
+12-44	831-841	prototypes	_	
+12-45	842-846	Help	_	
+12-46	847-855	back-end	_	
+12-47	856-866	developers	_	
+12-48	867-871	with	_	
+12-49	872-878	coding	Hard Skill	
+12-50	879-882	and	_	
+12-51	883-898	troubleshooting	Hard Skill	
+12-52	899-905	Ensure	_	
+12-53	906-910	high	_	
+12-54	911-918	quality	_	
+12-55	919-926	graphic	_	
+12-56	927-936	standards	_	
+12-57	937-940	and	_	
+12-58	941-946	brand	_	
+12-59	947-958	consistency	_	

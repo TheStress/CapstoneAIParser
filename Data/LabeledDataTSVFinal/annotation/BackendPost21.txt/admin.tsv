@@ -1,0 +1,187 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Requirment: At least 3 years of PHP experience.
+1-1	0-10	Requirment	_	
+1-2	10-11	:	_	
+1-3	12-14	At	_	
+1-4	15-20	least	_	
+1-5	21-22	3	_	
+1-6	23-28	years	_	
+1-7	29-31	of	_	
+1-8	32-35	PHP	Hard Skill	
+1-9	36-46	experience	_	
+1-10	46-47	.	_	
+
+#Text=At least 2 years of experience in the Laravel framework.
+2-1	48-50	At	_	
+2-2	51-56	least	_	
+2-3	57-58	2	_	
+2-4	59-64	years	_	
+2-5	65-67	of	_	
+2-6	68-78	experience	_	
+2-7	79-81	in	_	
+2-8	82-85	the	_	
+2-9	86-93	Laravel	Hard Skill	
+2-10	94-103	framework	_	
+2-11	103-104	.	_	
+
+#Text=Experience developing REST APIs, and the standards of practice surrounding authentication, requests, and responses.
+3-1	105-115	Experience	_	
+3-2	116-126	developing	_	
+3-3	127-131	REST	_	
+3-4	132-136	APIs	_	
+3-5	136-137	,	_	
+3-6	138-141	and	_	
+3-7	142-145	the	_	
+3-8	146-155	standards	_	
+3-9	156-158	of	_	
+3-10	159-167	practice	_	
+3-11	168-179	surrounding	_	
+3-12	180-194	authentication	_	
+3-13	194-195	,	_	
+3-14	196-204	requests	_	
+3-15	204-205	,	_	
+3-16	206-209	and	_	
+3-17	210-219	responses	_	
+3-18	219-220	.	_	
+
+#Text=Experience my large MySQL relational database.
+4-1	221-231	Experience	_	
+4-2	232-234	my	_	
+4-3	235-240	large	_	
+4-4	241-246	MySQL	Hard Skill	
+4-5	247-257	relational	_	
+4-6	258-266	database	_	
+4-7	266-267	.	_	
+
+#Text=Familiarity with the ElasticSearch/OpenSearch framework.
+5-1	268-279	Familiarity	_	
+5-2	280-284	with	_	
+5-3	285-288	the	_	
+5-4	289-302	ElasticSearch	_	
+5-5	302-303	/	_	
+5-6	303-313	OpenSearch	_	
+5-7	314-323	framework	_	
+5-8	323-324	.	_	
+
+#Text=Strong understanding of modern machine learning methods and technologies...
+6-1	325-331	Strong	_	
+6-2	332-345	understanding	_	
+6-3	346-348	of	_	
+6-4	349-355	modern	_	
+6-5	356-363	machine	_	
+6-6	364-372	learning	_	
+6-7	373-380	methods	_	
+6-8	381-384	and	_	
+6-9	385-397	technologies	_	
+6-10	397-398	.	_	
+6-11	398-399	.	_	
+6-12	399-400	.	_	
+
+#Text=Strong oral and written communication skills and the ability to communicate effectively with non-technical staff would be preferred.Key Skills: Python.
+7-1	401-407	Strong	_	
+7-2	408-412	oral	_	
+7-3	413-416	and	_	
+7-4	417-424	written	_	
+7-5	425-438	communication	Soft Skill	
+7-6	439-445	skills	_	
+7-7	446-449	and	_	
+7-8	450-453	the	_	
+7-9	454-461	ability	_	
+7-10	462-464	to	_	
+7-11	465-476	communicate	_	
+7-12	477-488	effectively	_	
+7-13	489-493	with	_	
+7-14	494-507	non-technical	_	
+7-15	508-513	staff	_	
+7-16	514-519	would	_	
+7-17	520-522	be	_	
+7-18	523-536	preferred.Key	_	
+7-19	537-543	Skills	_	
+7-20	543-544	:	_	
+7-21	545-551	Python	Hard Skill	
+7-22	551-552	.	_	
+
+#Text=Java.
+8-1	553-557	Java	Hard Skill	
+8-2	557-558	.	_	
+
+#Text=PHP.
+9-1	559-562	PHP	Hard Skill	
+9-2	562-563	.	_	
+
+#Text=SQL.
+10-1	564-567	SQL	Hard Skill	
+10-2	567-568	.	_	
+
+#Text=HTML.
+11-1	569-573	HTML	Hard Skill	
+11-2	573-574	.	_	
+
+#Text=CSS.
+12-1	575-578	CSS	Hard Skill	
+12-2	578-579	.	_	
+
+#Text=JavaScript Requirment: At least 3 years of PHP experience At least 2 years of experience in the Laravel framework Experience developing REST APIs, and the standards of practice surrounding authentication, requests, and responses Experience my large MySQL relational database Familiarity with the ElasticSearch/OpenSearch framework Strong understanding of modern machine learning methods and technologies Java
+13-1	580-590	JavaScript	Hard Skill	
+13-2	591-601	Requirment	_	
+13-3	601-602	:	_	
+13-4	603-605	At	_	
+13-5	606-611	least	_	
+13-6	612-613	3	_	
+13-7	614-619	years	_	
+13-8	620-622	of	_	
+13-9	623-626	PHP	Hard Skill	
+13-10	627-637	experience	_	
+13-11	638-640	At	_	
+13-12	641-646	least	_	
+13-13	647-648	2	_	
+13-14	649-654	years	_	
+13-15	655-657	of	_	
+13-16	658-668	experience	_	
+13-17	669-671	in	_	
+13-18	672-675	the	_	
+13-19	676-683	Laravel	Hard Skill	
+13-20	684-693	framework	_	
+13-21	694-704	Experience	_	
+13-22	705-715	developing	_	
+13-23	716-720	REST	_	
+13-24	721-725	APIs	_	
+13-25	725-726	,	_	
+13-26	727-730	and	_	
+13-27	731-734	the	_	
+13-28	735-744	standards	_	
+13-29	745-747	of	_	
+13-30	748-756	practice	_	
+13-31	757-768	surrounding	_	
+13-32	769-783	authentication	_	
+13-33	783-784	,	_	
+13-34	785-793	requests	_	
+13-35	793-794	,	_	
+13-36	795-798	and	_	
+13-37	799-808	responses	_	
+13-38	809-819	Experience	_	
+13-39	820-822	my	_	
+13-40	823-828	large	_	
+13-41	829-834	MySQL	Hard Skill	
+13-42	835-845	relational	_	
+13-43	846-854	database	_	
+13-44	855-866	Familiarity	_	
+13-45	867-871	with	_	
+13-46	872-875	the	_	
+13-47	876-889	ElasticSearch	_	
+13-48	889-890	/	_	
+13-49	890-900	OpenSearch	_	
+13-50	901-910	framework	_	
+13-51	911-917	Strong	_	
+13-52	918-931	understanding	_	
+13-53	932-934	of	_	
+13-54	935-941	modern	_	
+13-55	942-949	machine	_	
+13-56	950-958	learning	_	
+13-57	959-966	methods	_	
+13-58	967-970	and	_	
+13-59	971-983	technologies	_	
+13-60	984-988	Java	Hard Skill	

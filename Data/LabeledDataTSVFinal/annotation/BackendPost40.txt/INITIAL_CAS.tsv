@@ -1,0 +1,187 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=We are looking for a Sr.
+1-1	0-2	We	
+1-2	3-6	are	
+1-3	7-14	looking	
+1-4	15-18	for	
+1-5	19-20	a	
+1-6	21-23	Sr	
+1-7	23-24	.	
+
+#Text=Software Engineer to join our Health & Wellness team.
+2-1	25-33	Software	
+2-2	34-42	Engineer	
+2-3	43-45	to	
+2-4	46-50	join	
+2-5	51-54	our	
+2-6	55-61	Health	
+2-7	62-63	&	
+2-8	64-72	Wellness	
+2-9	73-77	team	
+2-10	77-78	.	
+
+#Text=This individual will be responsible for working with the pharmacy facing applications and websites used to schedule immunizations and other appointments.
+3-1	79-83	This	
+3-2	84-94	individual	
+3-3	95-99	will	
+3-4	100-102	be	
+3-5	103-114	responsible	
+3-6	115-118	for	
+3-7	119-126	working	
+3-8	127-131	with	
+3-9	132-135	the	
+3-10	136-144	pharmacy	
+3-11	145-151	facing	
+3-12	152-164	applications	
+3-13	165-168	and	
+3-14	169-177	websites	
+3-15	178-182	used	
+3-16	183-185	to	
+3-17	186-194	schedule	
+3-18	195-208	immunizations	
+3-19	209-212	and	
+3-20	213-218	other	
+3-21	219-231	appointments	
+3-22	231-232	.	
+
+#Text=The team is made up of roughly 5 front-end developers and 8 back end developers.
+4-1	233-236	The	
+4-2	237-241	team	
+4-3	242-244	is	
+4-4	245-249	made	
+4-5	250-252	up	
+4-6	253-255	of	
+4-7	256-263	roughly	
+4-8	264-265	5	
+4-9	266-275	front-end	
+4-10	276-286	developers	
+4-11	287-290	and	
+4-12	291-292	8	
+4-13	293-297	back	
+4-14	298-301	end	
+4-15	302-312	developers	
+4-16	312-313	.	
+
+#Text=This individual will be a core contributor to the team and will be responsible for... critical parts of the application.
+5-1	314-318	This	
+5-2	319-329	individual	
+5-3	330-334	will	
+5-4	335-337	be	
+5-5	338-339	a	
+5-6	340-344	core	
+5-7	345-356	contributor	
+5-8	357-359	to	
+5-9	360-363	the	
+5-10	364-368	team	
+5-11	369-372	and	
+5-12	373-377	will	
+5-13	378-380	be	
+5-14	381-392	responsible	
+5-15	393-396	for	
+5-16	396-397	.	
+5-17	397-398	.	
+5-18	398-399	.	
+5-19	400-408	critical	
+5-20	409-414	parts	
+5-21	415-417	of	
+5-22	418-421	the	
+5-23	422-433	application	
+5-24	433-434	.	
+
+#Text=This Sr.
+6-1	435-439	This	
+6-2	440-442	Sr	
+6-3	442-443	.	
+
+#Text=Engineer can expect 50% of their day involving hands on development and the other 50% will be helping/mentoring jr. engineers.
+7-1	444-452	Engineer	
+7-2	453-456	can	
+7-3	457-463	expect	
+7-4	464-467	50%	
+7-5	468-470	of	
+7-6	471-476	their	
+7-7	477-480	day	
+7-8	481-490	involving	
+7-9	491-496	hands	
+7-10	497-499	on	
+7-11	500-511	development	
+7-12	512-515	and	
+7-13	516-519	the	
+7-14	520-525	other	
+7-15	526-529	50%	
+7-16	530-534	will	
+7-17	535-537	be	
+7-18	538-545	helping	
+7-19	545-546	/	
+7-20	546-555	mentoring	
+7-21	556-558	jr	
+7-22	558-559	.	
+7-23	560-569	engineers	
+7-24	569-570	.	
+
+#Text=This person will be talking to product owners to understand the requirements and create the design and assist with building the framework This individual will be responsible for working with the pharmacy facing applications and websites used to schedule immunizations and other appointments This individual will be a core contributor to the team and will be responsible for critical parts of the application
+8-1	571-575	This	
+8-2	576-582	person	
+8-3	583-587	will	
+8-4	588-590	be	
+8-5	591-598	talking	
+8-6	599-601	to	
+8-7	602-609	product	
+8-8	610-616	owners	
+8-9	617-619	to	
+8-10	620-630	understand	
+8-11	631-634	the	
+8-12	635-647	requirements	
+8-13	648-651	and	
+8-14	652-658	create	
+8-15	659-662	the	
+8-16	663-669	design	
+8-17	670-673	and	
+8-18	674-680	assist	
+8-19	681-685	with	
+8-20	686-694	building	
+8-21	695-698	the	
+8-22	699-708	framework	
+8-23	709-713	This	
+8-24	714-724	individual	
+8-25	725-729	will	
+8-26	730-732	be	
+8-27	733-744	responsible	
+8-28	745-748	for	
+8-29	749-756	working	
+8-30	757-761	with	
+8-31	762-765	the	
+8-32	766-774	pharmacy	
+8-33	775-781	facing	
+8-34	782-794	applications	
+8-35	795-798	and	
+8-36	799-807	websites	
+8-37	808-812	used	
+8-38	813-815	to	
+8-39	816-824	schedule	
+8-40	825-838	immunizations	
+8-41	839-842	and	
+8-42	843-848	other	
+8-43	849-861	appointments	
+8-44	862-866	This	
+8-45	867-877	individual	
+8-46	878-882	will	
+8-47	883-885	be	
+8-48	886-887	a	
+8-49	888-892	core	
+8-50	893-904	contributor	
+8-51	905-907	to	
+8-52	908-911	the	
+8-53	912-916	team	
+8-54	917-920	and	
+8-55	921-925	will	
+8-56	926-928	be	
+8-57	929-940	responsible	
+8-58	941-944	for	
+8-59	945-953	critical	
+8-60	954-959	parts	
+8-61	960-962	of	
+8-62	963-966	the	
+8-63	967-978	application	

@@ -1,0 +1,592 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=1099 or Corp to Corp 6 month contractMust be USC, GC, or Perm Res willing to work onsite in Deerfield (Chicago...We are looking for an Android Developer who possesses a passion for pushing mobile technologies to the limits.
+1-1	0-4	1099	_	
+1-2	5-7	or	_	
+1-3	8-12	Corp	_	
+1-4	13-15	to	_	
+1-5	16-20	Corp	_	
+1-6	21-22	6	_	
+1-7	23-28	month	_	
+1-8	29-41	contractMust	_	
+1-9	42-44	be	_	
+1-10	45-48	USC	_	
+1-11	48-49	,	_	
+1-12	50-52	GC	_	
+1-13	52-53	,	_	
+1-14	54-56	or	_	
+1-15	57-61	Perm	_	
+1-16	62-65	Res	_	
+1-17	66-73	willing	_	
+1-18	74-76	to	_	
+1-19	77-81	work	_	
+1-20	82-88	onsite	_	
+1-21	89-91	in	_	
+1-22	92-101	Deerfield	_	
+1-23	102-103	(	_	
+1-24	103-110	Chicago	_	
+1-25	110-111	.	_	
+1-26	111-112	.	_	
+1-27	112-113	.	_	
+1-28	113-115	We	_	
+1-29	116-119	are	_	
+1-30	120-127	looking	_	
+1-31	128-131	for	_	
+1-32	132-134	an	_	
+1-33	135-142	Android	Hard Skill	
+1-34	143-152	Developer	_	
+1-35	153-156	who	_	
+1-36	157-166	possesses	_	
+1-37	167-168	a	_	
+1-38	169-176	passion	Soft Skill	
+1-39	177-180	for	_	
+1-40	181-188	pushing	_	
+1-41	189-195	mobile	_	
+1-42	196-208	technologies	_	
+1-43	209-211	to	_	
+1-44	212-215	the	_	
+1-45	216-222	limits	_	
+1-46	222-223	.	_	
+
+#Text=This Android app developer will work with our team of talented engineers to design and build the next generation of our mobile applications.
+2-1	224-228	This	_	
+2-2	229-236	Android	Hard Skill	
+2-3	237-240	app	_	
+2-4	241-250	developer	_	
+2-5	251-255	will	_	
+2-6	256-260	work	_	
+2-7	261-265	with	_	
+2-8	266-269	our	_	
+2-9	270-274	team	_	
+2-10	275-277	of	_	
+2-11	278-286	talented	_	
+2-12	287-296	engineers	_	
+2-13	297-299	to	_	
+2-14	300-306	design	Hard Skill	
+2-15	307-310	and	_	
+2-16	311-316	build	_	
+2-17	317-320	the	_	
+2-18	321-325	next	_	
+2-19	326-336	generation	_	
+2-20	337-339	of	_	
+2-21	340-343	our	_	
+2-22	344-350	mobile	_	
+2-23	351-363	applications	_	
+2-24	363-364	.	_	
+
+#Text=Android programming works closely with other app development and technical teams.Responsibilities Design and build advanced applications for the Android platform Work with outside data sources and APIs Work on bug fixing and improving application performance Collaborate with cross-functional teams to define, design, and ship new features Unit-test code for robustness, including edge cases, usability, and general reliability Designing and developing modern, secure, and feature-rich android applications using Kotlin from scratch.
+3-1	365-372	Android	Hard Skill	
+3-2	373-384	programming	Hard Skill	
+3-3	385-390	works	_	
+3-4	391-398	closely	_	
+3-5	399-403	with	_	
+3-6	404-409	other	_	
+3-7	410-413	app	_	
+3-8	414-425	development	_	
+3-9	426-429	and	_	
+3-10	430-439	technical	_	
+3-11	440-462	teams.Responsibilities	_	
+3-12	463-469	Design	Hard Skill	
+3-13	470-473	and	_	
+3-14	474-479	build	_	
+3-15	480-488	advanced	_	
+3-16	489-501	applications	_	
+3-17	502-505	for	_	
+3-18	506-509	the	_	
+3-19	510-517	Android	Hard Skill	
+3-20	518-526	platform	_	
+3-21	527-531	Work	_	
+3-22	532-536	with	_	
+3-23	537-544	outside	_	
+3-24	545-549	data	_	
+3-25	550-557	sources	_	
+3-26	558-561	and	_	
+3-27	562-566	APIs	_	
+3-28	567-571	Work	_	
+3-29	572-574	on	_	
+3-30	575-578	bug	_	
+3-31	579-585	fixing	_	
+3-32	586-589	and	_	
+3-33	590-599	improving	_	
+3-34	600-611	application	_	
+3-35	612-623	performance	_	
+3-36	624-635	Collaborate	Soft Skill	
+3-37	636-640	with	_	
+3-38	641-657	cross-functional	_	
+3-39	658-663	teams	_	
+3-40	664-666	to	_	
+3-41	667-673	define	_	
+3-42	673-674	,	_	
+3-43	675-681	design	Hard Skill	
+3-44	681-682	,	_	
+3-45	683-686	and	_	
+3-46	687-691	ship	_	
+3-47	692-695	new	_	
+3-48	696-704	features	_	
+3-49	705-714	Unit-test	_	
+3-50	715-719	code	_	
+3-51	720-723	for	_	
+3-52	724-734	robustness	_	
+3-53	734-735	,	_	
+3-54	736-745	including	_	
+3-55	746-750	edge	_	
+3-56	751-756	cases	_	
+3-57	756-757	,	_	
+3-58	758-767	usability	_	
+3-59	767-768	,	_	
+3-60	769-772	and	_	
+3-61	773-780	general	_	
+3-62	781-792	reliability	_	
+3-63	793-802	Designing	_	
+3-64	803-806	and	_	
+3-65	807-817	developing	_	
+3-66	818-824	modern	_	
+3-67	824-825	,	_	
+3-68	826-832	secure	_	
+3-69	832-833	,	_	
+3-70	834-837	and	_	
+3-71	838-850	feature-rich	_	
+3-72	851-858	android	Hard Skill	
+3-73	859-871	applications	_	
+3-74	872-877	using	_	
+3-75	878-884	Kotlin	Hard Skill	
+3-76	885-889	from	_	
+3-77	890-897	scratch	_	
+3-78	897-898	.	_	
+
+#Text=Understand requirements and translate designs and wireframes into code.
+4-1	899-909	Understand	_	
+4-2	910-922	requirements	_	
+4-3	923-926	and	_	
+4-4	927-936	translate	_	
+4-5	937-944	designs	_	
+4-6	945-948	and	_	
+4-7	949-959	wireframes	_	
+4-8	960-964	into	_	
+4-9	965-969	code	_	
+4-10	969-970	.	_	
+
+#Text=Identify and fix bugs to improve performance.
+5-1	971-979	Identify	_	
+5-2	980-983	and	_	
+5-3	984-987	fix	_	
+5-4	988-992	bugs	_	
+5-5	993-995	to	_	
+5-6	996-1003	improve	_	
+5-7	1004-1015	performance	_	
+5-8	1015-1016	.	_	
+
+#Text=Coordinating with the design and test teams to create apps with high performance.
+6-1	1017-1029	Coordinating	_	
+6-2	1030-1034	with	_	
+6-3	1035-1038	the	_	
+6-4	1039-1045	design	Hard Skill	
+6-5	1046-1049	and	_	
+6-6	1050-1054	test	_	
+6-7	1055-1060	teams	_	
+6-8	1061-1063	to	_	
+6-9	1064-1070	create	_	
+6-10	1071-1075	apps	_	
+6-11	1076-1080	with	_	
+6-12	1081-1085	high	_	
+6-13	1086-1097	performance	_	
+6-14	1097-1098	.	_	
+
+#Text=Work with APIs and data sources as per the requirements.
+7-1	1099-1103	Work	_	
+7-2	1104-1108	with	_	
+7-3	1109-1113	APIs	_	
+7-4	1114-1117	and	_	
+7-5	1118-1122	data	_	
+7-6	1123-1130	sources	_	
+7-7	1131-1133	as	_	
+7-8	1134-1137	per	_	
+7-9	1138-1141	the	_	
+7-10	1142-1154	requirements	_	
+7-11	1154-1155	.	_	
+
+#Text=Help maintain code quality, reusability, and continuous code evaluation.
+8-1	1156-1160	Help	_	
+8-2	1161-1169	maintain	_	
+8-3	1170-1174	code	_	
+8-4	1175-1182	quality	_	
+8-5	1182-1183	,	_	
+8-6	1184-1195	reusability	_	
+8-7	1195-1196	,	_	
+8-8	1197-1200	and	_	
+8-9	1201-1211	continuous	_	
+8-10	1212-1216	code	_	
+8-11	1217-1227	evaluation	_	
+8-12	1227-1228	.	_	
+
+#Text=Discover and implement new technologies to improve the developer experience.
+9-1	1229-1237	Discover	_	
+9-2	1238-1241	and	_	
+9-3	1242-1251	implement	_	
+9-4	1252-1255	new	_	
+9-5	1256-1268	technologies	_	
+9-6	1269-1271	to	_	
+9-7	1272-1279	improve	_	
+9-8	1280-1283	the	_	
+9-9	1284-1293	developer	_	
+9-10	1294-1304	experience	_	
+9-11	1304-1305	.	_	
+
+#Text=Unit-testing of code to ensure bug-free, reliable, and best user experience.
+10-1	1306-1318	Unit-testing	_	
+10-2	1319-1321	of	_	
+10-3	1322-1326	code	_	
+10-4	1327-1329	to	_	
+10-5	1330-1336	ensure	_	
+10-6	1337-1345	bug-free	_	
+10-7	1345-1346	,	_	
+10-8	1347-1355	reliable	_	
+10-9	1355-1356	,	_	
+10-10	1357-1360	and	_	
+10-11	1361-1365	best	_	
+10-12	1366-1370	user	_	
+10-13	1371-1381	experience	_	
+10-14	1381-1382	.	_	
+
+#Text=Collaborate with the team members to plan, develop, and ship new features.
+11-1	1383-1394	Collaborate	Soft Skill	
+11-2	1395-1399	with	_	
+11-3	1400-1403	the	_	
+11-4	1404-1408	team	_	
+11-5	1409-1416	members	_	
+11-6	1417-1419	to	_	
+11-7	1420-1424	plan	Soft Skill	
+11-8	1424-1425	,	_	
+11-9	1426-1433	develop	_	
+11-10	1433-1434	,	_	
+11-11	1435-1438	and	_	
+11-12	1439-1443	ship	_	
+11-13	1444-1447	new	_	
+11-14	1448-1456	features	_	
+11-15	1456-1457	.	_	
+
+#Text=Implement security measures in line with overall security objectives.
+12-1	1458-1467	Implement	_	
+12-2	1468-1476	security	_	
+12-3	1477-1485	measures	_	
+12-4	1486-1488	in	_	
+12-5	1489-1493	line	_	
+12-6	1494-1498	with	_	
+12-7	1499-1506	overall	_	
+12-8	1507-1515	security	_	
+12-9	1516-1526	objectives	_	
+12-10	1526-1527	.	_	
+
+#Text=Plan, develop, build, and release end-to-end Android mobile app using Kotlin Educate staff members through training and individual support.
+13-1	1528-1532	Plan	Soft Skill	
+13-2	1532-1533	,	_	
+13-3	1534-1541	develop	_	
+13-4	1541-1542	,	_	
+13-5	1543-1548	build	_	
+13-6	1548-1549	,	_	
+13-7	1550-1553	and	_	
+13-8	1554-1561	release	_	
+13-9	1562-1572	end-to-end	_	
+13-10	1573-1580	Android	Hard Skill	
+13-11	1581-1587	mobile	_	
+13-12	1588-1591	app	_	
+13-13	1592-1597	using	_	
+13-14	1598-1604	Kotlin	Hard Skill	
+13-15	1605-1612	Educate	_	
+13-16	1613-1618	staff	_	
+13-17	1619-1626	members	_	
+13-18	1627-1634	through	_	
+13-19	1635-1643	training	_	
+13-20	1644-1647	and	_	
+13-21	1648-1658	individual	_	
+13-22	1659-1666	support	_	
+13-23	1666-1667	.	_	
+
+#Text=Offer support by responding to system problems in a timely manner.
+14-1	1668-1673	Offer	_	
+14-2	1674-1681	support	_	
+14-3	1682-1684	by	_	
+14-4	1685-1695	responding	_	
+14-5	1696-1698	to	_	
+14-6	1699-1705	system	_	
+14-7	1706-1714	problems	_	
+14-8	1715-1717	in	_	
+14-9	1718-1719	a	_	
+14-10	1720-1726	timely	_	
+14-11	1727-1733	manner	_	
+14-12	1733-1734	.	_	
+
+#Text=Understand and document data flows in and between different systems/applications Guidance to developers in preparing functional/technical specs to define reporting requirement and ETL process Proven working experience in Android app development and Solid understanding of the full mobile development life cycle Proven working experience in Android app development and Solid understanding of the full mobile development life cycle Design and build advanced applications for the Android platform Work on bug fixing and improving application performance Collaborate with cross-functional teams to define, design, and ship new features Unit-test code for robustness, including edge cases, usability, and general reliability Designing and developing modern, secure, and feature-rich android applications using Kotlin from scratch Understand requirements and translate designs and wireframes into code Coordinating with the design and test teams to create apps with high performance Work with APIs and data sources as per the requirements Help maintain code quality, reusability, and continuous code evaluation Discover and implement new technologies to improve the developer experience Unit-testing of code to ensure bug-free, reliable, and best user experience Collaborate with the team members to plan, develop, and ship new features Implement security measures in line with overall security objectives Plan, develop, build, and release end-to-end Android mobile app using Kotlin Educate staff members through training and individual support Offer support by responding to system problems in a timely manner Understand and document data flows in and between different systems/applications Guidance to developers in preparing functional/technical specs to define reporting requirement and ETL process
+15-1	1735-1745	Understand	_	
+15-2	1746-1749	and	_	
+15-3	1750-1758	document	_	
+15-4	1759-1763	data	_	
+15-5	1764-1769	flows	_	
+15-6	1770-1772	in	_	
+15-7	1773-1776	and	_	
+15-8	1777-1784	between	_	
+15-9	1785-1794	different	_	
+15-10	1795-1802	systems	_	
+15-11	1802-1803	/	_	
+15-12	1803-1815	applications	_	
+15-13	1816-1824	Guidance	_	
+15-14	1825-1827	to	_	
+15-15	1828-1838	developers	_	
+15-16	1839-1841	in	_	
+15-17	1842-1851	preparing	_	
+15-18	1852-1862	functional	_	
+15-19	1862-1863	/	_	
+15-20	1863-1872	technical	_	
+15-21	1873-1878	specs	_	
+15-22	1879-1881	to	_	
+15-23	1882-1888	define	_	
+15-24	1889-1898	reporting	_	
+15-25	1899-1910	requirement	_	
+15-26	1911-1914	and	_	
+15-27	1915-1918	ETL	_	
+15-28	1919-1926	process	_	
+15-29	1927-1933	Proven	_	
+15-30	1934-1941	working	_	
+15-31	1942-1952	experience	_	
+15-32	1953-1955	in	_	
+15-33	1956-1963	Android	Hard Skill	
+15-34	1964-1967	app	_	
+15-35	1968-1979	development	_	
+15-36	1980-1983	and	_	
+15-37	1984-1989	Solid	_	
+15-38	1990-2003	understanding	_	
+15-39	2004-2006	of	_	
+15-40	2007-2010	the	_	
+15-41	2011-2015	full	_	
+15-42	2016-2022	mobile	_	
+15-43	2023-2034	development	_	
+15-44	2035-2039	life	_	
+15-45	2040-2045	cycle	_	
+15-46	2046-2052	Proven	_	
+15-47	2053-2060	working	_	
+15-48	2061-2071	experience	_	
+15-49	2072-2074	in	_	
+15-50	2075-2082	Android	Hard Skill	
+15-51	2083-2086	app	_	
+15-52	2087-2098	development	_	
+15-53	2099-2102	and	_	
+15-54	2103-2108	Solid	_	
+15-55	2109-2122	understanding	_	
+15-56	2123-2125	of	_	
+15-57	2126-2129	the	_	
+15-58	2130-2134	full	_	
+15-59	2135-2141	mobile	_	
+15-60	2142-2153	development	_	
+15-61	2154-2158	life	_	
+15-62	2159-2164	cycle	_	
+15-63	2165-2171	Design	Hard Skill	
+15-64	2172-2175	and	_	
+15-65	2176-2181	build	_	
+15-66	2182-2190	advanced	_	
+15-67	2191-2203	applications	_	
+15-68	2204-2207	for	_	
+15-69	2208-2211	the	_	
+15-70	2212-2219	Android	Hard Skill	
+15-71	2220-2228	platform	_	
+15-72	2229-2233	Work	_	
+15-73	2234-2236	on	_	
+15-74	2237-2240	bug	_	
+15-75	2241-2247	fixing	_	
+15-76	2248-2251	and	_	
+15-77	2252-2261	improving	_	
+15-78	2262-2273	application	_	
+15-79	2274-2285	performance	_	
+15-80	2286-2297	Collaborate	Soft Skill	
+15-81	2298-2302	with	_	
+15-82	2303-2319	cross-functional	_	
+15-83	2320-2325	teams	_	
+15-84	2326-2328	to	_	
+15-85	2329-2335	define	_	
+15-86	2335-2336	,	_	
+15-87	2337-2343	design	Hard Skill	
+15-88	2343-2344	,	_	
+15-89	2345-2348	and	_	
+15-90	2349-2353	ship	_	
+15-91	2354-2357	new	_	
+15-92	2358-2366	features	_	
+15-93	2367-2376	Unit-test	_	
+15-94	2377-2381	code	_	
+15-95	2382-2385	for	_	
+15-96	2386-2396	robustness	_	
+15-97	2396-2397	,	_	
+15-98	2398-2407	including	_	
+15-99	2408-2412	edge	_	
+15-100	2413-2418	cases	_	
+15-101	2418-2419	,	_	
+15-102	2420-2429	usability	_	
+15-103	2429-2430	,	_	
+15-104	2431-2434	and	_	
+15-105	2435-2442	general	_	
+15-106	2443-2454	reliability	_	
+15-107	2455-2464	Designing	_	
+15-108	2465-2468	and	_	
+15-109	2469-2479	developing	_	
+15-110	2480-2486	modern	_	
+15-111	2486-2487	,	_	
+15-112	2488-2494	secure	_	
+15-113	2494-2495	,	_	
+15-114	2496-2499	and	_	
+15-115	2500-2512	feature-rich	_	
+15-116	2513-2520	android	Hard Skill	
+15-117	2521-2533	applications	_	
+15-118	2534-2539	using	_	
+15-119	2540-2546	Kotlin	Hard Skill	
+15-120	2547-2551	from	_	
+15-121	2552-2559	scratch	_	
+15-122	2560-2570	Understand	_	
+15-123	2571-2583	requirements	_	
+15-124	2584-2587	and	_	
+15-125	2588-2597	translate	_	
+15-126	2598-2605	designs	_	
+15-127	2606-2609	and	_	
+15-128	2610-2620	wireframes	_	
+15-129	2621-2625	into	_	
+15-130	2626-2630	code	_	
+15-131	2631-2643	Coordinating	_	
+15-132	2644-2648	with	_	
+15-133	2649-2652	the	_	
+15-134	2653-2659	design	Hard Skill	
+15-135	2660-2663	and	_	
+15-136	2664-2668	test	_	
+15-137	2669-2674	teams	_	
+15-138	2675-2677	to	_	
+15-139	2678-2684	create	_	
+15-140	2685-2689	apps	_	
+15-141	2690-2694	with	_	
+15-142	2695-2699	high	_	
+15-143	2700-2711	performance	_	
+15-144	2712-2716	Work	_	
+15-145	2717-2721	with	_	
+15-146	2722-2726	APIs	_	
+15-147	2727-2730	and	_	
+15-148	2731-2735	data	_	
+15-149	2736-2743	sources	_	
+15-150	2744-2746	as	_	
+15-151	2747-2750	per	_	
+15-152	2751-2754	the	_	
+15-153	2755-2767	requirements	_	
+15-154	2768-2772	Help	_	
+15-155	2773-2781	maintain	_	
+15-156	2782-2786	code	_	
+15-157	2787-2794	quality	_	
+15-158	2794-2795	,	_	
+15-159	2796-2807	reusability	_	
+15-160	2807-2808	,	_	
+15-161	2809-2812	and	_	
+15-162	2813-2823	continuous	_	
+15-163	2824-2828	code	_	
+15-164	2829-2839	evaluation	_	
+15-165	2840-2848	Discover	_	
+15-166	2849-2852	and	_	
+15-167	2853-2862	implement	_	
+15-168	2863-2866	new	_	
+15-169	2867-2879	technologies	_	
+15-170	2880-2882	to	_	
+15-171	2883-2890	improve	_	
+15-172	2891-2894	the	_	
+15-173	2895-2904	developer	_	
+15-174	2905-2915	experience	_	
+15-175	2916-2928	Unit-testing	_	
+15-176	2929-2931	of	_	
+15-177	2932-2936	code	_	
+15-178	2937-2939	to	_	
+15-179	2940-2946	ensure	_	
+15-180	2947-2955	bug-free	_	
+15-181	2955-2956	,	_	
+15-182	2957-2965	reliable	_	
+15-183	2965-2966	,	_	
+15-184	2967-2970	and	_	
+15-185	2971-2975	best	_	
+15-186	2976-2980	user	_	
+15-187	2981-2991	experience	_	
+15-188	2992-3003	Collaborate	Soft Skill	
+15-189	3004-3008	with	_	
+15-190	3009-3012	the	_	
+15-191	3013-3017	team	_	
+15-192	3018-3025	members	_	
+15-193	3026-3028	to	_	
+15-194	3029-3033	plan	Soft Skill	
+15-195	3033-3034	,	_	
+15-196	3035-3042	develop	_	
+15-197	3042-3043	,	_	
+15-198	3044-3047	and	_	
+15-199	3048-3052	ship	_	
+15-200	3053-3056	new	_	
+15-201	3057-3065	features	_	
+15-202	3066-3075	Implement	_	
+15-203	3076-3084	security	_	
+15-204	3085-3093	measures	_	
+15-205	3094-3096	in	_	
+15-206	3097-3101	line	_	
+15-207	3102-3106	with	_	
+15-208	3107-3114	overall	_	
+15-209	3115-3123	security	_	
+15-210	3124-3134	objectives	_	
+15-211	3135-3139	Plan	Soft Skill	
+15-212	3139-3140	,	_	
+15-213	3141-3148	develop	_	
+15-214	3148-3149	,	_	
+15-215	3150-3155	build	_	
+15-216	3155-3156	,	_	
+15-217	3157-3160	and	_	
+15-218	3161-3168	release	_	
+15-219	3169-3179	end-to-end	_	
+15-220	3180-3187	Android	Hard Skill	
+15-221	3188-3194	mobile	_	
+15-222	3195-3198	app	_	
+15-223	3199-3204	using	_	
+15-224	3205-3211	Kotlin	Hard Skill	
+15-225	3212-3219	Educate	_	
+15-226	3220-3225	staff	_	
+15-227	3226-3233	members	_	
+15-228	3234-3241	through	_	
+15-229	3242-3250	training	_	
+15-230	3251-3254	and	_	
+15-231	3255-3265	individual	_	
+15-232	3266-3273	support	_	
+15-233	3274-3279	Offer	_	
+15-234	3280-3287	support	_	
+15-235	3288-3290	by	_	
+15-236	3291-3301	responding	_	
+15-237	3302-3304	to	_	
+15-238	3305-3311	system	_	
+15-239	3312-3320	problems	_	
+15-240	3321-3323	in	_	
+15-241	3324-3325	a	_	
+15-242	3326-3332	timely	_	
+15-243	3333-3339	manner	_	
+15-244	3340-3350	Understand	_	
+15-245	3351-3354	and	_	
+15-246	3355-3363	document	_	
+15-247	3364-3368	data	_	
+15-248	3369-3374	flows	_	
+15-249	3375-3377	in	_	
+15-250	3378-3381	and	_	
+15-251	3382-3389	between	_	
+15-252	3390-3399	different	_	
+15-253	3400-3407	systems	_	
+15-254	3407-3408	/	_	
+15-255	3408-3420	applications	_	
+15-256	3421-3429	Guidance	_	
+15-257	3430-3432	to	_	
+15-258	3433-3443	developers	_	
+15-259	3444-3446	in	_	
+15-260	3447-3456	preparing	_	
+15-261	3457-3467	functional	_	
+15-262	3467-3468	/	_	
+15-263	3468-3477	technical	_	
+15-264	3478-3483	specs	_	
+15-265	3484-3486	to	_	
+15-266	3487-3493	define	_	
+15-267	3494-3503	reporting	_	
+15-268	3504-3515	requirement	_	
+15-269	3516-3519	and	_	
+15-270	3520-3523	ETL	_	
+15-271	3524-3531	process	_	

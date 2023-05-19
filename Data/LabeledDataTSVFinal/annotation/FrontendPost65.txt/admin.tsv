@@ -1,0 +1,203 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Insight Global is seeking a Front End Developer to work remotely for a client out of the Kansas City area.
+1-1	0-7	Insight	_	
+1-2	8-14	Global	_	
+1-3	15-17	is	_	
+1-4	18-25	seeking	_	
+1-5	26-27	a	_	
+1-6	28-33	Front	_	
+1-7	34-37	End	_	
+1-8	38-47	Developer	_	
+1-9	48-50	to	_	
+1-10	51-55	work	_	
+1-11	56-64	remotely	_	
+1-12	65-68	for	_	
+1-13	69-70	a	_	
+1-14	71-77	client	_	
+1-15	78-81	out	_	
+1-16	82-84	of	_	
+1-17	85-88	the	_	
+1-18	89-95	Kansas	_	
+1-19	96-100	City	_	
+1-20	101-105	area	_	
+1-21	105-106	.	_	
+
+#Text=Early on in this role this person will be looking at existing code and processes in order to take autonomy of the front end development down the road.
+2-1	107-112	Early	_	
+2-2	113-115	on	_	
+2-3	116-118	in	_	
+2-4	119-123	this	_	
+2-5	124-128	role	_	
+2-6	129-133	this	_	
+2-7	134-140	person	_	
+2-8	141-145	will	_	
+2-9	146-148	be	_	
+2-10	149-156	looking	_	
+2-11	157-159	at	_	
+2-12	160-168	existing	_	
+2-13	169-173	code	_	
+2-14	174-177	and	_	
+2-15	178-187	processes	_	
+2-16	188-190	in	_	
+2-17	191-196	order	_	
+2-18	197-199	to	_	
+2-19	200-204	take	_	
+2-20	205-213	autonomy	_	
+2-21	214-216	of	_	
+2-22	217-220	the	_	
+2-23	221-226	front	_	
+2-24	227-230	end	_	
+2-25	231-242	development	_	
+2-26	243-247	down	_	
+2-27	248-251	the	_	
+2-28	252-256	road	_	
+2-29	256-257	.	_	
+
+#Text=The ideal candidate will have experience with React, NodeJS, Python, SQL and ETL experience.Experience with ReactNative 5+ years of... experience as a front end developer 5+ years of experience with Python 5+ years of experience with NodeJS 5+ years of experience with MySQL or Microsoft SQL Server Experience with ETLProcessing files The ideal candidate will have experience with React, NodeJS, Python, SQL and ETL experience Experience with ReactNative 5+ years of experience as a front end developer 5+ years of experience with Python 5+ years of experience with NodeJS 5+ years of experience with MySQL or Microsoft SQL Server Early on in this role this person will be looking at existing code and processes in order to take autonomy of the front end development down the road
+3-1	258-261	The	_	
+3-2	262-267	ideal	_	
+3-3	268-277	candidate	_	
+3-4	278-282	will	_	
+3-5	283-287	have	_	
+3-6	288-298	experience	_	
+3-7	299-303	with	_	
+3-8	304-309	React	Hard Skill	
+3-9	309-310	,	_	
+3-10	311-317	NodeJS	_	
+3-11	317-318	,	_	
+3-12	319-325	Python	Hard Skill	
+3-13	325-326	,	_	
+3-14	327-330	SQL	Hard Skill	
+3-15	331-334	and	_	
+3-16	335-338	ETL	_	
+3-17	339-360	experience.Experience	_	
+3-18	361-365	with	_	
+3-19	366-377	ReactNative	_	
+3-20	378-379	5	_	
+3-21	379-380	+	_	
+3-22	381-386	years	_	
+3-23	387-389	of	_	
+3-24	389-390	.	_	
+3-25	390-391	.	_	
+3-26	391-392	.	_	
+3-27	393-403	experience	_	
+3-28	404-406	as	_	
+3-29	407-408	a	_	
+3-30	409-414	front	_	
+3-31	415-418	end	_	
+3-32	419-428	developer	_	
+3-33	429-430	5	_	
+3-34	430-431	+	_	
+3-35	432-437	years	_	
+3-36	438-440	of	_	
+3-37	441-451	experience	_	
+3-38	452-456	with	_	
+3-39	457-463	Python	Hard Skill	
+3-40	464-465	5	_	
+3-41	465-466	+	_	
+3-42	467-472	years	_	
+3-43	473-475	of	_	
+3-44	476-486	experience	_	
+3-45	487-491	with	_	
+3-46	492-498	NodeJS	_	
+3-47	499-500	5	_	
+3-48	500-501	+	_	
+3-49	502-507	years	_	
+3-50	508-510	of	_	
+3-51	511-521	experience	_	
+3-52	522-526	with	_	
+3-53	527-532	MySQL	Hard Skill	
+3-54	533-535	or	_	
+3-55	536-545	Microsoft	_	
+3-56	546-549	SQL	Hard Skill	
+3-57	550-556	Server	_	
+3-58	557-567	Experience	_	
+3-59	568-572	with	_	
+3-60	573-586	ETLProcessing	_	
+3-61	587-592	files	_	
+3-62	593-596	The	_	
+3-63	597-602	ideal	_	
+3-64	603-612	candidate	_	
+3-65	613-617	will	_	
+3-66	618-622	have	_	
+3-67	623-633	experience	_	
+3-68	634-638	with	_	
+3-69	639-644	React	Hard Skill	
+3-70	644-645	,	_	
+3-71	646-652	NodeJS	_	
+3-72	652-653	,	_	
+3-73	654-660	Python	Hard Skill	
+3-74	660-661	,	_	
+3-75	662-665	SQL	Hard Skill	
+3-76	666-669	and	_	
+3-77	670-673	ETL	_	
+3-78	674-684	experience	_	
+3-79	685-695	Experience	_	
+3-80	696-700	with	_	
+3-81	701-712	ReactNative	_	
+3-82	713-714	5	_	
+3-83	714-715	+	_	
+3-84	716-721	years	_	
+3-85	722-724	of	_	
+3-86	725-735	experience	_	
+3-87	736-738	as	_	
+3-88	739-740	a	_	
+3-89	741-746	front	_	
+3-90	747-750	end	_	
+3-91	751-760	developer	_	
+3-92	761-762	5	_	
+3-93	762-763	+	_	
+3-94	764-769	years	_	
+3-95	770-772	of	_	
+3-96	773-783	experience	_	
+3-97	784-788	with	_	
+3-98	789-795	Python	Hard Skill	
+3-99	796-797	5	_	
+3-100	797-798	+	_	
+3-101	799-804	years	_	
+3-102	805-807	of	_	
+3-103	808-818	experience	_	
+3-104	819-823	with	_	
+3-105	824-830	NodeJS	_	
+3-106	831-832	5	_	
+3-107	832-833	+	_	
+3-108	834-839	years	_	
+3-109	840-842	of	_	
+3-110	843-853	experience	_	
+3-111	854-858	with	_	
+3-112	859-864	MySQL	Hard Skill	
+3-113	865-867	or	_	
+3-114	868-877	Microsoft	_	
+3-115	878-881	SQL	Hard Skill	
+3-116	882-888	Server	_	
+3-117	889-894	Early	_	
+3-118	895-897	on	_	
+3-119	898-900	in	_	
+3-120	901-905	this	_	
+3-121	906-910	role	_	
+3-122	911-915	this	_	
+3-123	916-922	person	_	
+3-124	923-927	will	_	
+3-125	928-930	be	_	
+3-126	931-938	looking	_	
+3-127	939-941	at	_	
+3-128	942-950	existing	_	
+3-129	951-955	code	_	
+3-130	956-959	and	_	
+3-131	960-969	processes	_	
+3-132	970-972	in	_	
+3-133	973-978	order	_	
+3-134	979-981	to	_	
+3-135	982-986	take	_	
+3-136	987-995	autonomy	_	
+3-137	996-998	of	_	
+3-138	999-1002	the	_	
+3-139	1003-1008	front	_	
+3-140	1009-1012	end	_	
+3-141	1013-1024	development	_	
+3-142	1025-1029	down	_	
+3-143	1030-1033	the	_	
+3-144	1034-1038	road	_	

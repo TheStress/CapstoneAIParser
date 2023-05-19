@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Role: Android DeveloperLocation: Houston TX (Onsite from Day 1st...Benefits:401(k)Dental insuranceHealth insuranceLife insurancePaid time offReferral programVision insuranceOvertime (If the timesheet allows for overtime.)Required Skills:- Java / Kotlin mostly Java moving components to use jetpack compose XML understanding Android Studio familiarityThanks & Regards, Pankaj SinghPhone  Java / Kotlin mostly Java moving components to use jetpack compose XML understanding Android Studio familiarity 401(k) Dental insurance Health insurance Life insurance Paid time off Referral program Vision insurance Overtime (If the timesheet allows for overtime.)
+1-1	0-4	Role	_	
+1-2	4-5	:	_	
+1-3	6-13	Android	Hard Skill	
+1-4	14-31	DeveloperLocation	_	
+1-5	31-32	:	_	
+1-6	33-40	Houston	_	
+1-7	41-43	TX	_	
+1-8	44-45	(	_	
+1-9	45-51	Onsite	_	
+1-10	52-56	from	_	
+1-11	57-60	Day	_	
+1-12	61-64	1st	_	
+1-13	64-65	.	_	
+1-14	65-66	.	_	
+1-15	66-67	.	_	
+1-16	67-75	Benefits	_	
+1-17	75-76	:	_	
+1-18	76-79	401	_	
+1-19	79-80	(	_	
+1-20	80-81	k	_	
+1-21	81-82	)	_	
+1-22	82-88	Dental	_	
+1-23	89-104	insuranceHealth	_	
+1-24	105-118	insuranceLife	_	
+1-25	119-132	insurancePaid	_	
+1-26	133-137	time	_	
+1-27	138-149	offReferral	_	
+1-28	150-163	programVision	_	
+1-29	164-181	insuranceOvertime	_	
+1-30	182-183	(	_	
+1-31	183-185	If	_	
+1-32	186-189	the	_	
+1-33	190-199	timesheet	_	
+1-34	200-206	allows	_	
+1-35	207-210	for	_	
+1-36	211-219	overtime	_	
+1-37	219-220	.	_	
+1-38	220-221	)	_	
+1-39	221-229	Required	_	
+1-40	230-236	Skills	_	
+1-41	236-237	:	_	
+1-42	237-238	-	_	
+1-43	239-243	Java	Hard Skill	
+1-44	244-245	/	_	
+1-45	246-252	Kotlin	Hard Skill	
+1-46	253-259	mostly	_	
+1-47	260-264	Java	Hard Skill	
+1-48	265-271	moving	_	
+1-49	272-282	components	_	
+1-50	283-285	to	_	
+1-51	286-289	use	_	
+1-52	290-297	jetpack	_	
+1-53	298-305	compose	_	
+1-54	306-309	XML	_	
+1-55	310-323	understanding	_	
+1-56	324-331	Android	Hard Skill	
+1-57	332-338	Studio	_	
+1-58	339-356	familiarityThanks	_	
+1-59	357-358	&	_	
+1-60	359-366	Regards	_	
+1-61	366-367	,	_	
+1-62	368-374	Pankaj	_	
+1-63	375-385	SinghPhone	_	
+1-64	387-391	Java	Hard Skill	
+1-65	392-393	/	_	
+1-66	394-400	Kotlin	Hard Skill	
+1-67	401-407	mostly	_	
+1-68	408-412	Java	Hard Skill	
+1-69	413-419	moving	_	
+1-70	420-430	components	_	
+1-71	431-433	to	_	
+1-72	434-437	use	_	
+1-73	438-445	jetpack	_	
+1-74	446-453	compose	_	
+1-75	454-457	XML	_	
+1-76	458-471	understanding	_	
+1-77	472-479	Android	Hard Skill	
+1-78	480-486	Studio	_	
+1-79	487-498	familiarity	_	
+1-80	499-502	401	_	
+1-81	502-503	(	_	
+1-82	503-504	k	_	
+1-83	504-505	)	_	
+1-84	506-512	Dental	_	
+1-85	513-522	insurance	_	
+1-86	523-529	Health	_	
+1-87	530-539	insurance	_	
+1-88	540-544	Life	_	
+1-89	545-554	insurance	_	
+1-90	555-559	Paid	_	
+1-91	560-564	time	_	
+1-92	565-568	off	_	
+1-93	569-577	Referral	_	
+1-94	578-585	program	_	
+1-95	586-592	Vision	_	
+1-96	593-602	insurance	_	
+1-97	603-611	Overtime	_	
+1-98	612-613	(	_	
+1-99	613-615	If	_	
+1-100	616-619	the	_	
+1-101	620-629	timesheet	_	
+1-102	630-636	allows	_	
+1-103	637-640	for	_	
+1-104	641-649	overtime	_	
+1-105	649-650	.	_	
+1-106	650-651	)	_	

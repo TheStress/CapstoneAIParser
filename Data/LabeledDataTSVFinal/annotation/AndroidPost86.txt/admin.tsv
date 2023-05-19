@@ -1,0 +1,906 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Cobble is an app that ends decision fatigue.
+1-1	0-6	Cobble	_	
+1-2	7-9	is	_	
+1-3	10-12	an	_	
+1-4	13-16	app	_	
+1-5	17-21	that	_	
+1-6	22-26	ends	_	
+1-7	27-35	decision	_	
+1-8	36-43	fatigue	_	
+1-9	43-44	.	_	
+
+#Text=Our mission is to get people back out into the world doing the things they love with the people they care about.
+2-1	45-48	Our	_	
+2-2	49-56	mission	_	
+2-3	57-59	is	_	
+2-4	60-62	to	_	
+2-5	63-66	get	_	
+2-6	67-73	people	_	
+2-7	74-78	back	_	
+2-8	79-82	out	_	
+2-9	83-87	into	_	
+2-10	88-91	the	_	
+2-11	92-97	world	_	
+2-12	98-103	doing	_	
+2-13	104-107	the	_	
+2-14	108-114	things	_	
+2-15	115-119	they	_	
+2-16	120-124	love	_	
+2-17	125-129	with	_	
+2-18	130-133	the	_	
+2-19	134-140	people	_	
+2-20	141-145	they	_	
+2-21	146-150	care	_	
+2-22	151-156	about	_	
+2-23	156-157	.	_	
+
+#Text=No more "What do you want to do?"
+3-1	158-160	No	_	
+3-2	161-165	more	_	
+3-3	166-167	"	_	
+3-4	167-171	What	_	
+3-5	172-174	do	_	
+3-6	175-178	you	_	
+3-7	179-183	want	_	
+3-8	184-186	to	_	
+3-9	187-189	do	_	
+3-10	189-190	?	_	
+3-11	190-191	"	_	
+
+#Text="I don't know...what do you want to do?"
+4-1	192-193	"	_	
+4-2	193-194	I	_	
+4-3	195-200	don't	_	
+4-4	201-205	know	_	
+4-5	205-206	.	_	
+4-6	206-207	.	_	
+4-7	207-208	.	_	
+4-8	208-212	what	_	
+4-9	213-215	do	_	
+4-10	216-219	you	_	
+4-11	220-224	want	_	
+4-12	225-227	to	_	
+4-13	228-230	do	_	
+4-14	230-231	?	_	
+4-15	231-232	"	_	
+
+#Text=With Cobble, everything we build is for getting people to a collaborative agreementfaster, easier, and way more fun than texting back and forth with no end in... sight.We do this through a combination of excellent curated content, and a suite of social decision-making tools.
+5-1	233-237	With	_	
+5-2	238-244	Cobble	_	
+5-3	244-245	,	_	
+5-4	246-256	everything	_	
+5-5	257-259	we	_	
+5-6	260-265	build	_	
+5-7	266-268	is	_	
+5-8	269-272	for	_	
+5-9	273-280	getting	_	
+5-10	281-287	people	_	
+5-11	288-290	to	_	
+5-12	291-292	a	_	
+5-13	293-306	collaborative	Soft Skill	
+5-14	307-322	agreementfaster	_	
+5-15	322-323	,	_	
+5-16	324-330	easier	_	
+5-17	330-331	,	_	
+5-18	332-335	and	_	
+5-19	336-339	way	_	
+5-20	340-344	more	_	
+5-21	345-348	fun	_	
+5-22	349-353	than	_	
+5-23	354-361	texting	_	
+5-24	362-366	back	_	
+5-25	367-370	and	_	
+5-26	371-376	forth	_	
+5-27	377-381	with	_	
+5-28	382-384	no	_	
+5-29	385-388	end	_	
+5-30	389-391	in	_	
+5-31	391-392	.	_	
+5-32	392-393	.	_	
+5-33	393-394	.	_	
+5-34	395-403	sight.We	_	
+5-35	404-406	do	_	
+5-36	407-411	this	_	
+5-37	412-419	through	_	
+5-38	420-421	a	_	
+5-39	422-433	combination	_	
+5-40	434-436	of	_	
+5-41	437-446	excellent	_	
+5-42	447-454	curated	_	
+5-43	455-462	content	_	
+5-44	462-463	,	_	
+5-45	464-467	and	_	
+5-46	468-469	a	_	
+5-47	470-475	suite	_	
+5-48	476-478	of	_	
+5-49	479-485	social	_	
+5-50	486-501	decision-making	_	
+5-51	502-507	tools	_	
+5-52	507-508	.	_	
+
+#Text=You might discover...your new favorite restaurant, a TV show everyone can't stop talking about, a one-time-only event, and so much more.
+6-1	509-512	You	_	
+6-2	513-518	might	_	
+6-3	519-527	discover	_	
+6-4	527-528	.	_	
+6-5	528-529	.	_	
+6-6	529-530	.	_	
+6-7	530-534	your	_	
+6-8	535-538	new	_	
+6-9	539-547	favorite	_	
+6-10	548-558	restaurant	_	
+6-11	558-559	,	_	
+6-12	560-561	a	_	
+6-13	562-564	TV	_	
+6-14	565-569	show	_	
+6-15	570-578	everyone	_	
+6-16	579-584	can't	_	
+6-17	585-589	stop	_	
+6-18	590-597	talking	_	
+6-19	598-603	about	_	
+6-20	603-604	,	_	
+6-21	605-606	a	_	
+6-22	607-620	one-time-only	_	
+6-23	621-626	event	_	
+6-24	626-627	,	_	
+6-25	628-631	and	_	
+6-26	632-634	so	_	
+6-27	635-639	much	_	
+6-28	640-644	more	_	
+6-29	644-645	.	_	
+
+#Text=Best of all?
+7-1	646-650	Best	_	
+7-2	651-653	of	_	
+7-3	654-657	all	_	
+7-4	657-658	?	_	
+
+#Text=You'll actually do it because that's what Cobble is made for.
+8-1	659-665	You'll	_	
+8-2	666-674	actually	_	
+8-3	675-677	do	_	
+8-4	678-680	it	_	
+8-5	681-688	because	_	
+8-6	689-695	that's	_	
+8-7	696-700	what	_	
+8-8	701-707	Cobble	_	
+8-9	708-710	is	_	
+8-10	711-715	made	_	
+8-11	716-719	for	_	
+8-12	719-720	.	_	
+
+#Text=Not another list app.
+9-1	721-724	Not	_	
+9-2	725-732	another	_	
+9-3	733-737	list	_	
+9-4	738-741	app	_	
+9-5	741-742	.	_	
+
+#Text=A do it app.We are an early stage company growing at the speed of light.
+10-1	743-744	A	_	
+10-2	745-747	do	_	
+10-3	748-750	it	_	
+10-4	751-757	app.We	_	
+10-5	758-761	are	_	
+10-6	762-764	an	_	
+10-7	765-770	early	_	
+10-8	771-776	stage	_	
+10-9	777-784	company	_	
+10-10	785-792	growing	_	
+10-11	793-795	at	_	
+10-12	796-799	the	_	
+10-13	800-805	speed	_	
+10-14	806-808	of	_	
+10-15	809-814	light	_	
+10-16	814-815	.	_	
+
+#Text=We launched in June of 2020 in a fear-filled pandemic that had many people questioning if we'd ever be out in the world together again.
+11-1	816-818	We	_	
+11-2	819-827	launched	_	
+11-3	828-830	in	_	
+11-4	831-835	June	_	
+11-5	836-838	of	_	
+11-6	839-843	2020	_	
+11-7	844-846	in	_	
+11-8	847-848	a	_	
+11-9	849-860	fear-filled	_	
+11-10	861-869	pandemic	_	
+11-11	870-874	that	_	
+11-12	875-878	had	_	
+11-13	879-883	many	_	
+11-14	884-890	people	_	
+11-15	891-902	questioning	_	
+11-16	903-905	if	_	
+11-17	906-910	we'd	_	
+11-18	911-915	ever	_	
+11-19	916-918	be	_	
+11-20	919-922	out	_	
+11-21	923-925	in	_	
+11-22	926-929	the	_	
+11-23	930-935	world	_	
+11-24	936-944	together	_	
+11-25	945-950	again	_	
+11-26	950-951	.	_	
+
+#Text=Cobble always had that vision to say yes, and we're going to be a part of making it happen.That's how our solo, first-time, female founder raised $3.3M in the middle of the pandemic.
+12-1	952-958	Cobble	_	
+12-2	959-965	always	_	
+12-3	966-969	had	_	
+12-4	970-974	that	_	
+12-5	975-981	vision	_	
+12-6	982-984	to	_	
+12-7	985-988	say	_	
+12-8	989-992	yes	_	
+12-9	992-993	,	_	
+12-10	994-997	and	_	
+12-11	998-1003	we're	_	
+12-12	1004-1009	going	_	
+12-13	1010-1012	to	_	
+12-14	1013-1015	be	_	
+12-15	1016-1017	a	_	
+12-16	1018-1022	part	_	
+12-17	1023-1025	of	_	
+12-18	1026-1032	making	_	
+12-19	1033-1035	it	_	
+12-20	1036-1049	happen.That's	_	
+12-21	1050-1053	how	_	
+12-22	1054-1057	our	_	
+12-23	1058-1062	solo	_	
+12-24	1062-1063	,	_	
+12-25	1064-1074	first-time	_	
+12-26	1074-1075	,	_	
+12-27	1076-1082	female	_	
+12-28	1083-1090	founder	_	
+12-29	1091-1097	raised	_	
+12-30	1098-1103	$3.3M	_	
+12-31	1104-1106	in	_	
+12-32	1107-1110	the	_	
+12-33	1111-1117	middle	_	
+12-34	1118-1120	of	_	
+12-35	1121-1124	the	_	
+12-36	1125-1133	pandemic	_	
+12-37	1133-1134	.	_	
+
+#Text=Now, we're finding out footing in the world and looking for brilliant people to join our teamhelp us grow, help us continue nailing our product, and making Cobble a household name.
+13-1	1135-1138	Now	_	
+13-2	1138-1139	,	_	
+13-3	1140-1145	we're	_	
+13-4	1146-1153	finding	_	
+13-5	1154-1157	out	_	
+13-6	1158-1165	footing	_	
+13-7	1166-1168	in	_	
+13-8	1169-1172	the	_	
+13-9	1173-1178	world	_	
+13-10	1179-1182	and	_	
+13-11	1183-1190	looking	_	
+13-12	1191-1194	for	_	
+13-13	1195-1204	brilliant	_	
+13-14	1205-1211	people	_	
+13-15	1212-1214	to	_	
+13-16	1215-1219	join	_	
+13-17	1220-1223	our	_	
+13-18	1224-1232	teamhelp	_	
+13-19	1233-1235	us	_	
+13-20	1236-1240	grow	_	
+13-21	1240-1241	,	_	
+13-22	1242-1246	help	_	
+13-23	1247-1249	us	_	
+13-24	1250-1258	continue	_	
+13-25	1259-1266	nailing	_	
+13-26	1267-1270	our	_	
+13-27	1271-1278	product	_	
+13-28	1278-1279	,	_	
+13-29	1280-1283	and	_	
+13-30	1284-1290	making	_	
+13-31	1291-1297	Cobble	_	
+13-32	1298-1299	a	_	
+13-33	1300-1309	household	_	
+13-34	1310-1314	name	_	
+13-35	1314-1315	.	_	
+
+#Text=Our team is distributed across the world, across cultures and backgrounds, and our leadership team is 80% female.
+14-1	1316-1319	Our	_	
+14-2	1320-1324	team	_	
+14-3	1325-1327	is	_	
+14-4	1328-1339	distributed	_	
+14-5	1340-1346	across	_	
+14-6	1347-1350	the	_	
+14-7	1351-1356	world	_	
+14-8	1356-1357	,	_	
+14-9	1358-1364	across	_	
+14-10	1365-1373	cultures	_	
+14-11	1374-1377	and	_	
+14-12	1378-1389	backgrounds	_	
+14-13	1389-1390	,	_	
+14-14	1391-1394	and	_	
+14-15	1395-1398	our	_	
+14-16	1399-1409	leadership	_	
+14-17	1410-1414	team	_	
+14-18	1415-1417	is	_	
+14-19	1418-1421	80%	_	
+14-20	1422-1428	female	_	
+14-21	1428-1429	.	_	
+
+#Text=Cobble was built with a spirit of inclusion and we're proud to keep up that reputation.
+15-1	1430-1436	Cobble	_	
+15-2	1437-1440	was	_	
+15-3	1441-1446	built	_	
+15-4	1447-1451	with	_	
+15-5	1452-1453	a	_	
+15-6	1454-1460	spirit	_	
+15-7	1461-1463	of	_	
+15-8	1464-1473	inclusion	_	
+15-9	1474-1477	and	_	
+15-10	1478-1483	we're	_	
+15-11	1484-1489	proud	_	
+15-12	1490-1492	to	_	
+15-13	1493-1497	keep	_	
+15-14	1498-1500	up	_	
+15-15	1501-1505	that	_	
+15-16	1506-1516	reputation	_	
+15-17	1516-1517	.	_	
+
+#Text=Being remote isn't always easy, but we're pros at this point.
+16-1	1518-1523	Being	_	
+16-2	1524-1530	remote	_	
+16-3	1531-1536	isn't	_	
+16-4	1537-1543	always	_	
+16-5	1544-1548	easy	_	
+16-6	1548-1549	,	_	
+16-7	1550-1553	but	_	
+16-8	1554-1559	we're	_	
+16-9	1560-1564	pros	_	
+16-10	1565-1567	at	_	
+16-11	1568-1572	this	_	
+16-12	1573-1578	point	_	
+16-13	1578-1579	.	_	
+
+#Text=Every year, we host Camp Cobble where all of our people come to New York for one epic week (you bet we use Cobble to make the best plans of all time).
+17-1	1580-1585	Every	_	
+17-2	1586-1590	year	_	
+17-3	1590-1591	,	_	
+17-4	1592-1594	we	_	
+17-5	1595-1599	host	_	
+17-6	1600-1604	Camp	_	
+17-7	1605-1611	Cobble	_	
+17-8	1612-1617	where	_	
+17-9	1618-1621	all	_	
+17-10	1622-1624	of	_	
+17-11	1625-1628	our	_	
+17-12	1629-1635	people	_	
+17-13	1636-1640	come	_	
+17-14	1641-1643	to	_	
+17-15	1644-1647	New	_	
+17-16	1648-1652	York	_	
+17-17	1653-1656	for	_	
+17-18	1657-1660	one	_	
+17-19	1661-1665	epic	_	
+17-20	1666-1670	week	_	
+17-21	1671-1672	(	_	
+17-22	1672-1675	you	_	
+17-23	1676-1679	bet	_	
+17-24	1680-1682	we	_	
+17-25	1683-1686	use	_	
+17-26	1687-1693	Cobble	_	
+17-27	1694-1696	to	_	
+17-28	1697-1701	make	_	
+17-29	1702-1705	the	_	
+17-30	1706-1710	best	_	
+17-31	1711-1716	plans	_	
+17-32	1717-1719	of	_	
+17-33	1720-1723	all	_	
+17-34	1724-1728	time	_	
+17-35	1728-1729	)	_	
+17-36	1729-1730	.	_	
+
+#Text=*Requirements**- BS or MS degree in Computer Science or equivalent experience- 4+ years of relevant full-time Android development experience- Interest in the consumer space, willingness to roll-up sleeves and do hands-on development on day one- Experience with quick prototyping and working through ambiguities.
+18-1	1731-1732	*	_	
+18-2	1732-1744	Requirements	_	
+18-3	1744-1745	*	_	
+18-4	1745-1746	*	_	
+18-5	1746-1747	-	_	
+18-6	1748-1750	BS	_	
+18-7	1751-1753	or	_	
+18-8	1754-1756	MS	_	
+18-9	1757-1763	degree	_	
+18-10	1764-1766	in	_	
+18-11	1767-1775	Computer	_	
+18-12	1776-1783	Science	_	
+18-13	1784-1786	or	_	
+18-14	1787-1797	equivalent	_	
+18-15	1798-1808	experience	_	
+18-16	1808-1809	-	_	
+18-17	1810-1811	4	_	
+18-18	1811-1812	+	_	
+18-19	1813-1818	years	_	
+18-20	1819-1821	of	_	
+18-21	1822-1830	relevant	_	
+18-22	1831-1840	full-time	_	
+18-23	1841-1848	Android	Hard Skill	
+18-24	1849-1860	development	_	
+18-25	1861-1871	experience	_	
+18-26	1871-1872	-	_	
+18-27	1873-1881	Interest	_	
+18-28	1882-1884	in	_	
+18-29	1885-1888	the	_	
+18-30	1889-1897	consumer	_	
+18-31	1898-1903	space	_	
+18-32	1903-1904	,	_	
+18-33	1905-1916	willingness	_	
+18-34	1917-1919	to	_	
+18-35	1920-1927	roll-up	_	
+18-36	1928-1935	sleeves	_	
+18-37	1936-1939	and	_	
+18-38	1940-1942	do	_	
+18-39	1943-1951	hands-on	_	
+18-40	1952-1963	development	_	
+18-41	1964-1966	on	_	
+18-42	1967-1970	day	_	
+18-43	1971-1974	one	_	
+18-44	1974-1975	-	_	
+18-45	1976-1986	Experience	_	
+18-46	1987-1991	with	_	
+18-47	1992-1997	quick	_	
+18-48	1998-2009	prototyping	_	
+18-49	2010-2013	and	_	
+18-50	2014-2021	working	_	
+18-51	2022-2029	through	_	
+18-52	2030-2041	ambiguities	_	
+18-53	2041-2042	.	_	
+
+#Text=We are defining our product specs through innovation and improvisation from every member of team- Solid understanding of object-oriented programming and familiarity with various design and architectural patterns- Ability to think critically about products and to shape technical and product strategy *Additional skillsets:**1.
+19-1	2043-2045	We	_	
+19-2	2046-2049	are	_	
+19-3	2050-2058	defining	_	
+19-4	2059-2062	our	_	
+19-5	2063-2070	product	_	
+19-6	2071-2076	specs	_	
+19-7	2077-2084	through	_	
+19-8	2085-2095	innovation	_	
+19-9	2096-2099	and	_	
+19-10	2100-2113	improvisation	_	
+19-11	2114-2118	from	_	
+19-12	2119-2124	every	_	
+19-13	2125-2131	member	_	
+19-14	2132-2134	of	_	
+19-15	2135-2139	team	_	
+19-16	2139-2140	-	_	
+19-17	2141-2146	Solid	_	
+19-18	2147-2160	understanding	_	
+19-19	2161-2163	of	_	
+19-20	2164-2179	object-oriented	_	
+19-21	2180-2191	programming	Hard Skill	
+19-22	2192-2195	and	_	
+19-23	2196-2207	familiarity	_	
+19-24	2208-2212	with	_	
+19-25	2213-2220	various	_	
+19-26	2221-2227	design	Hard Skill	
+19-27	2228-2231	and	_	
+19-28	2232-2245	architectural	_	
+19-29	2246-2254	patterns	_	
+19-30	2254-2255	-	_	
+19-31	2256-2263	Ability	_	
+19-32	2264-2266	to	_	
+19-33	2267-2272	think	_	
+19-34	2273-2283	critically	_	
+19-35	2284-2289	about	_	
+19-36	2290-2298	products	_	
+19-37	2299-2302	and	_	
+19-38	2303-2305	to	_	
+19-39	2306-2311	shape	_	
+19-40	2312-2321	technical	_	
+19-41	2322-2325	and	_	
+19-42	2326-2333	product	_	
+19-43	2334-2342	strategy	_	
+19-44	2343-2344	*	_	
+19-45	2344-2354	Additional	_	
+19-46	2355-2364	skillsets	_	
+19-47	2364-2365	:	_	
+19-48	2365-2366	*	_	
+19-49	2366-2367	*	_	
+19-50	2367-2368	1	_	
+19-51	2368-2369	.	_	
+
+#Text=Proficient in Kotlin2.
+20-1	2370-2380	Proficient	_	
+20-2	2381-2383	in	_	
+20-3	2384-2391	Kotlin2	_	
+20-4	2391-2392	.	_	
+
+#Text=Proficient with MVVM architecture3.
+21-1	2393-2403	Proficient	_	
+21-2	2404-2408	with	_	
+21-3	2409-2413	MVVM	Hard Skill	
+21-4	2414-2427	architecture3	_	
+21-5	2427-2428	.	_	
+
+#Text=Familiarity with REST based API, Firebase, and Amplitude.4.
+22-1	2429-2440	Familiarity	_	
+22-2	2441-2445	with	_	
+22-3	2446-2450	REST	_	
+22-4	2451-2456	based	_	
+22-5	2457-2460	API	Hard Skill	
+22-6	2460-2461	,	_	
+22-7	2462-2470	Firebase	Hard Skill	
+22-8	2470-2471	,	_	
+22-9	2472-2475	and	_	
+22-10	2476-2485	Amplitude	_	
+22-11	2485-2487	.4	_	
+22-12	2487-2488	.	_	
+
+#Text=Experience working with animations.5.
+23-1	2489-2499	Experience	_	
+23-2	2500-2507	working	_	
+23-3	2508-2512	with	_	
+23-4	2513-2523	animations	_	
+23-5	2523-2525	.5	_	
+23-6	2525-2526	.	_	
+
+#Text=Excellent debugging and optimization skill.6.
+24-1	2527-2536	Excellent	_	
+24-2	2537-2546	debugging	Hard Skill	
+24-3	2547-2550	and	_	
+24-4	2551-2563	optimization	_	
+24-5	2564-2569	skill	_	
+24-6	2569-2571	.6	_	
+24-7	2571-2572	.	_	
+
+#Text=Well versed in with building UI using XML and custom UI components.7.
+25-1	2573-2577	Well	_	
+25-2	2578-2584	versed	_	
+25-3	2585-2587	in	_	
+25-4	2588-2592	with	_	
+25-5	2593-2601	building	_	
+25-6	2602-2604	UI	_	
+25-7	2605-2610	using	_	
+25-8	2611-2614	XML	_	
+25-9	2615-2618	and	_	
+25-10	2619-2625	custom	_	
+25-11	2626-2628	UI	_	
+25-12	2629-2639	components	_	
+25-13	2639-2641	.7	_	
+25-14	2641-2642	.	_	
+
+#Text=Knowledge in Unit Testing.8.
+26-1	2643-2652	Knowledge	_	
+26-2	2653-2655	in	_	
+26-3	2656-2660	Unit	_	
+26-4	2661-2668	Testing	_	
+26-5	2668-2670	.8	_	
+26-6	2670-2671	.	_	
+
+#Text=Good written and spoken communication skills *Company Values**- Be curious.- Be a self-starter.
+27-1	2672-2676	Good	_	
+27-2	2677-2684	written	_	
+27-3	2685-2688	and	_	
+27-4	2689-2695	spoken	_	
+27-5	2696-2709	communication	Soft Skill	
+27-6	2710-2716	skills	_	
+27-7	2717-2718	*	_	
+27-8	2718-2725	Company	_	
+27-9	2726-2732	Values	_	
+27-10	2732-2733	*	_	
+27-11	2733-2734	*	_	
+27-12	2734-2735	-	_	
+27-13	2736-2738	Be	_	
+27-14	2739-2746	curious	_	
+27-15	2746-2747	.	_	
+27-16	2747-2748	-	_	
+27-17	2749-2751	Be	_	
+27-18	2752-2753	a	_	
+27-19	2754-2766	self-starter	_	
+27-20	2766-2767	.	_	
+
+#Text=Make it happen.
+28-1	2768-2772	Make	_	
+28-2	2773-2775	it	_	
+28-3	2776-2782	happen	_	
+28-4	2782-2783	.	_	
+
+#Text=Be thrilled to go the extra mile.- Be kind.
+29-1	2784-2786	Be	_	
+29-2	2787-2795	thrilled	_	
+29-3	2796-2798	to	_	
+29-4	2799-2801	go	_	
+29-5	2802-2805	the	_	
+29-6	2806-2811	extra	_	
+29-7	2812-2816	mile	_	
+29-8	2816-2817	.	_	
+29-9	2817-2818	-	_	
+29-10	2819-2821	Be	_	
+29-11	2822-2826	kind	_	
+29-12	2826-2827	.	_	
+
+#Text=Follow the golden ruletreat others how you would like to be treated.- Practice spontaneity.
+30-1	2828-2834	Follow	_	
+30-2	2835-2838	the	_	
+30-3	2839-2845	golden	_	
+30-4	2846-2855	ruletreat	_	
+30-5	2856-2862	others	_	
+30-6	2863-2866	how	_	
+30-7	2867-2870	you	_	
+30-8	2871-2876	would	_	
+30-9	2877-2881	like	_	
+30-10	2882-2884	to	_	
+30-11	2885-2887	be	_	
+30-12	2888-2895	treated	_	
+30-13	2895-2896	.	_	
+30-14	2896-2897	-	_	
+30-15	2898-2906	Practice	_	
+30-16	2907-2918	spontaneity	_	
+30-17	2918-2919	.	_	
+
+#Text=New growth stems from excitement, experimentation, and brainstorming.
+31-1	2920-2923	New	_	
+31-2	2924-2930	growth	_	
+31-3	2931-2936	stems	_	
+31-4	2937-2941	from	_	
+31-5	2942-2952	excitement	_	
+31-6	2952-2953	,	_	
+31-7	2954-2969	experimentation	_	
+31-8	2969-2970	,	_	
+31-9	2971-2974	and	_	
+31-10	2975-2988	brainstorming	_	
+31-11	2988-2989	.	_	
+
+#Text=Look for spontaneous collaboration.- Be vocalin and out of the office.
+32-1	2990-2994	Look	_	
+32-2	2995-2998	for	_	
+32-3	2999-3010	spontaneous	_	
+32-4	3011-3024	collaboration	_	
+32-5	3024-3025	.	_	
+32-6	3025-3026	-	_	
+32-7	3027-3029	Be	_	
+32-8	3030-3037	vocalin	_	
+32-9	3038-3041	and	_	
+32-10	3042-3045	out	_	
+32-11	3046-3048	of	_	
+32-12	3049-3052	the	_	
+32-13	3053-3059	office	_	
+32-14	3059-3060	.	_	
+
+#Text=Be an advocate for Cobble wherever you go.- Dont bury mistakes.
+33-1	3061-3063	Be	_	
+33-2	3064-3066	an	_	
+33-3	3067-3075	advocate	_	
+33-4	3076-3079	for	_	
+33-5	3080-3086	Cobble	_	
+33-6	3087-3095	wherever	_	
+33-7	3096-3099	you	_	
+33-8	3100-3102	go	_	
+33-9	3102-3103	.	_	
+33-10	3103-3104	-	_	
+33-11	3105-3109	Dont	_	
+33-12	3110-3114	bury	_	
+33-13	3115-3123	mistakes	_	
+33-14	3123-3124	.	_	
+
+#Text=Its only a problem if only you know its a problem.- Diversity is paramount.
+34-1	3125-3128	Its	_	
+34-2	3129-3133	only	_	
+34-3	3134-3135	a	_	
+34-4	3136-3143	problem	_	
+34-5	3144-3146	if	_	
+34-6	3147-3151	only	_	
+34-7	3152-3155	you	_	
+34-8	3156-3160	know	_	
+34-9	3161-3164	its	_	
+34-10	3165-3166	a	_	
+34-11	3167-3174	problem	_	
+34-12	3174-3175	.	_	
+34-13	3175-3176	-	_	
+34-14	3177-3186	Diversity	_	
+34-15	3187-3189	is	_	
+34-16	3190-3199	paramount	_	
+34-17	3199-3200	.	_	
+
+#Text=Were as inclusive as the couples who use Cobble, and the experiences we recommend.- Act with integrity.
+35-1	3201-3205	Were	_	
+35-2	3206-3208	as	_	
+35-3	3209-3218	inclusive	_	
+35-4	3219-3221	as	_	
+35-5	3222-3225	the	_	
+35-6	3226-3233	couples	_	
+35-7	3234-3237	who	_	
+35-8	3238-3241	use	_	
+35-9	3242-3248	Cobble	_	
+35-10	3248-3249	,	_	
+35-11	3250-3253	and	_	
+35-12	3254-3257	the	_	
+35-13	3258-3269	experiences	_	
+35-14	3270-3272	we	_	
+35-15	3273-3282	recommend	_	
+35-16	3282-3283	.	_	
+35-17	3283-3284	-	_	
+35-18	3285-3288	Act	_	
+35-19	3289-3293	with	_	
+35-20	3294-3303	integrity	_	
+35-21	3303-3304	.	_	
+
+#Text=What do you do when no one is looking?
+36-1	3305-3309	What	_	
+36-2	3310-3312	do	_	
+36-3	3313-3316	you	_	
+36-4	3317-3319	do	_	
+36-5	3320-3324	when	_	
+36-6	3325-3327	no	_	
+36-7	3328-3331	one	_	
+36-8	3332-3334	is	_	
+36-9	3335-3342	looking	_	
+36-10	3342-3343	?	_	
+
+#Text=- Act like an owner.
+37-1	3343-3344	-	_	
+37-2	3345-3348	Act	_	
+37-3	3349-3353	like	_	
+37-4	3354-3356	an	_	
+37-5	3357-3362	owner	_	
+37-6	3362-3363	.	_	
+
+#Text=When you graduate from Cobble in 5, 10, 15 yearshow is this place different because you were here?
+38-1	3364-3368	When	_	
+38-2	3369-3372	you	_	
+38-3	3373-3381	graduate	_	
+38-4	3382-3386	from	_	
+38-5	3387-3393	Cobble	_	
+38-6	3394-3396	in	_	
+38-7	3397-3398	5	_	
+38-8	3398-3399	,	_	
+38-9	3400-3402	10	_	
+38-10	3402-3403	,	_	
+38-11	3404-3406	15	_	
+38-12	3407-3415	yearshow	_	
+38-13	3416-3418	is	_	
+38-14	3419-3423	this	_	
+38-15	3424-3429	place	_	
+38-16	3430-3439	different	_	
+38-17	3440-3447	because	_	
+38-18	3448-3451	you	_	
+38-19	3452-3456	were	_	
+38-20	3457-3461	here	_	
+38-21	3461-3462	?	_	
+
+#Text=- Engage in fearless conversation.
+39-1	3462-3463	-	_	
+39-2	3464-3470	Engage	_	
+39-3	3471-3473	in	_	
+39-4	3474-3482	fearless	_	
+39-5	3483-3495	conversation	_	
+39-6	3495-3496	.	_	
+
+#Text=Something on your mind?
+40-1	3497-3506	Something	_	
+40-2	3507-3509	on	_	
+40-3	3510-3514	your	_	
+40-4	3515-3519	mind	_	
+40-5	3519-3520	?	_	
+
+#Text=Go to the source.
+41-1	3521-3523	Go	Hard Skill	
+41-2	3524-3526	to	_	
+41-3	3527-3530	the	_	
+41-4	3531-3537	source	_	
+41-5	3537-3538	.	_	
+
+#Text=Unsure of something?
+42-1	3539-3545	Unsure	_	
+42-2	3546-3548	of	_	
+42-3	3549-3558	something	_	
+42-4	3558-3559	?	_	
+
+#Text=Be willing to ask for help.- Quality content is queen.
+43-1	3560-3562	Be	_	
+43-2	3563-3570	willing	_	
+43-3	3571-3573	to	_	
+43-4	3574-3577	ask	_	
+43-5	3578-3581	for	_	
+43-6	3582-3586	help	_	
+43-7	3586-3587	.	_	
+43-8	3587-3588	-	_	
+43-9	3589-3596	Quality	_	
+43-10	3597-3604	content	_	
+43-11	3605-3607	is	_	
+43-12	3608-3613	queen	_	
+43-13	3613-3614	.	_	
+
+#Text=What we do, we do well BS or MS degree in Computer Science or equivalent experience 4+ years of relevant full-time Android development experience Interest in the consumer space, willingness to roll-up sleeves and do hands-on development on day one Solid understanding of object-oriented programming and familiarity with various design and architectural patterns Ability to think critically about products and to shape technical and product strategy Experience working with animations Excellent debugging and optimization skill Knowledge in Unit Testing Good written and spoken communication skills Engage in fearless conversation Act like an owner
+44-1	3615-3619	What	_	
+44-2	3620-3622	we	_	
+44-3	3623-3625	do	_	
+44-4	3625-3626	,	_	
+44-5	3627-3629	we	_	
+44-6	3630-3632	do	_	
+44-7	3633-3637	well	_	
+44-8	3638-3640	BS	_	
+44-9	3641-3643	or	_	
+44-10	3644-3646	MS	_	
+44-11	3647-3653	degree	_	
+44-12	3654-3656	in	_	
+44-13	3657-3665	Computer	_	
+44-14	3666-3673	Science	_	
+44-15	3674-3676	or	_	
+44-16	3677-3687	equivalent	_	
+44-17	3688-3698	experience	_	
+44-18	3699-3700	4	_	
+44-19	3700-3701	+	_	
+44-20	3702-3707	years	_	
+44-21	3708-3710	of	_	
+44-22	3711-3719	relevant	_	
+44-23	3720-3729	full-time	_	
+44-24	3730-3737	Android	Hard Skill	
+44-25	3738-3749	development	_	
+44-26	3750-3760	experience	_	
+44-27	3761-3769	Interest	_	
+44-28	3770-3772	in	_	
+44-29	3773-3776	the	_	
+44-30	3777-3785	consumer	_	
+44-31	3786-3791	space	_	
+44-32	3791-3792	,	_	
+44-33	3793-3804	willingness	_	
+44-34	3805-3807	to	_	
+44-35	3808-3815	roll-up	_	
+44-36	3816-3823	sleeves	_	
+44-37	3824-3827	and	_	
+44-38	3828-3830	do	_	
+44-39	3831-3839	hands-on	_	
+44-40	3840-3851	development	_	
+44-41	3852-3854	on	_	
+44-42	3855-3858	day	_	
+44-43	3859-3862	one	_	
+44-44	3863-3868	Solid	_	
+44-45	3869-3882	understanding	_	
+44-46	3883-3885	of	_	
+44-47	3886-3901	object-oriented	_	
+44-48	3902-3913	programming	Hard Skill	
+44-49	3914-3917	and	_	
+44-50	3918-3929	familiarity	_	
+44-51	3930-3934	with	_	
+44-52	3935-3942	various	_	
+44-53	3943-3949	design	Hard Skill	
+44-54	3950-3953	and	_	
+44-55	3954-3967	architectural	_	
+44-56	3968-3976	patterns	_	
+44-57	3977-3984	Ability	_	
+44-58	3985-3987	to	_	
+44-59	3988-3993	think	_	
+44-60	3994-4004	critically	_	
+44-61	4005-4010	about	_	
+44-62	4011-4019	products	_	
+44-63	4020-4023	and	_	
+44-64	4024-4026	to	_	
+44-65	4027-4032	shape	_	
+44-66	4033-4042	technical	_	
+44-67	4043-4046	and	_	
+44-68	4047-4054	product	_	
+44-69	4055-4063	strategy	_	
+44-70	4064-4074	Experience	_	
+44-71	4075-4082	working	_	
+44-72	4083-4087	with	_	
+44-73	4088-4098	animations	_	
+44-74	4099-4108	Excellent	_	
+44-75	4109-4118	debugging	Hard Skill	
+44-76	4119-4122	and	_	
+44-77	4123-4135	optimization	_	
+44-78	4136-4141	skill	_	
+44-79	4142-4151	Knowledge	_	
+44-80	4152-4154	in	_	
+44-81	4155-4159	Unit	_	
+44-82	4160-4167	Testing	_	
+44-83	4168-4172	Good	_	
+44-84	4173-4180	written	_	
+44-85	4181-4184	and	_	
+44-86	4185-4191	spoken	_	
+44-87	4192-4205	communication	Soft Skill	
+44-88	4206-4212	skills	_	
+44-89	4213-4219	Engage	_	
+44-90	4220-4222	in	_	
+44-91	4223-4231	fearless	_	
+44-92	4232-4244	conversation	_	
+44-93	4245-4248	Act	_	
+44-94	4249-4253	like	_	
+44-95	4254-4256	an	_	
+44-96	4257-4262	owner	_	

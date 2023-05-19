@@ -1,0 +1,428 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Early-stage startup seeking Senior back-end developer for creating a new mobile application as a social network.
+1-1	0-11	Early-stage	_	
+1-2	12-19	startup	_	
+1-3	20-27	seeking	_	
+1-4	28-34	Senior	_	
+1-5	35-43	back-end	_	
+1-6	44-53	developer	_	
+1-7	54-57	for	_	
+1-8	58-66	creating	_	
+1-9	67-68	a	_	
+1-10	69-72	new	_	
+1-11	73-79	mobile	_	
+1-12	80-91	application	_	
+1-13	92-94	as	_	
+1-14	95-96	a	_	
+1-15	97-103	social	_	
+1-16	104-111	network	_	
+1-17	111-112	.	_	
+
+#Text=Must be an excellent work ethic, able to work remotely independently.
+2-1	113-117	Must	_	
+2-2	118-120	be	_	
+2-3	121-123	an	_	
+2-4	124-133	excellent	_	
+2-5	134-138	work	_	
+2-6	139-144	ethic	_	
+2-7	144-145	,	_	
+2-8	146-150	able	_	
+2-9	151-153	to	_	
+2-10	154-158	work	_	
+2-11	159-167	remotely	_	
+2-12	168-181	independently	_	
+2-13	181-182	.	_	
+
+#Text=Demonstrate strategic thinking skills.
+3-1	183-194	Demonstrate	_	
+3-2	195-204	strategic	_	
+3-3	205-213	thinking	_	
+3-4	214-220	skills	_	
+3-5	220-221	.	_	
+
+#Text=Excellent problem-solving and highly effective communication, interpersonal, and critical thinking skills.It's a great opportunity to work as part of a cross-functional... global team and start applications from scratch.
+4-1	222-231	Excellent	_	
+4-2	232-247	problem-solving	_	
+4-3	248-251	and	_	
+4-4	252-258	highly	_	
+4-5	259-268	effective	_	
+4-6	269-282	communication	Soft Skill	
+4-7	282-283	,	_	
+4-8	284-297	interpersonal	Soft Skill	
+4-9	297-298	,	_	
+4-10	299-302	and	_	
+4-11	303-311	critical	_	
+4-12	312-320	thinking	_	
+4-13	321-332	skills.It's	_	
+4-14	333-334	a	_	
+4-15	335-340	great	_	
+4-16	341-352	opportunity	_	
+4-17	353-355	to	_	
+4-18	356-360	work	_	
+4-19	361-363	as	_	
+4-20	364-368	part	_	
+4-21	369-371	of	_	
+4-22	372-373	a	_	
+4-23	374-390	cross-functional	_	
+4-24	390-391	.	_	
+4-25	391-392	.	_	
+4-26	392-393	.	_	
+4-27	394-400	global	_	
+4-28	401-405	team	_	
+4-29	406-409	and	_	
+4-30	410-415	start	_	
+4-31	416-428	applications	_	
+4-32	429-433	from	_	
+4-33	434-441	scratch	_	
+4-34	441-442	.	_	
+
+#Text=We are looking for very long-term relationships and hope that you will be a part of our team.Tech Requirements:1. 5+ years back-end and unit tests developing on one of the languages: Elixir, Python, NodeJS2.
+5-1	443-445	We	_	
+5-2	446-449	are	_	
+5-3	450-457	looking	_	
+5-4	458-461	for	_	
+5-5	462-466	very	_	
+5-6	467-476	long-term	_	
+5-7	477-490	relationships	_	
+5-8	491-494	and	_	
+5-9	495-499	hope	_	
+5-10	500-504	that	_	
+5-11	505-508	you	_	
+5-12	509-513	will	_	
+5-13	514-516	be	_	
+5-14	517-518	a	_	
+5-15	519-523	part	_	
+5-16	524-526	of	_	
+5-17	527-530	our	_	
+5-18	531-540	team.Tech	_	
+5-19	541-553	Requirements	_	
+5-20	553-554	:	_	
+5-21	554-555	1	_	
+5-22	555-556	.	_	
+5-23	557-558	5	_	
+5-24	558-559	+	_	
+5-25	560-565	years	_	
+5-26	566-574	back-end	_	
+5-27	575-578	and	_	
+5-28	579-583	unit	_	
+5-29	584-589	tests	_	
+5-30	590-600	developing	_	
+5-31	601-603	on	_	
+5-32	604-607	one	_	
+5-33	608-610	of	_	
+5-34	611-614	the	_	
+5-35	615-624	languages	_	
+5-36	624-625	:	_	
+5-37	626-632	Elixir	_	
+5-38	632-633	,	_	
+5-39	634-640	Python	Hard Skill	
+5-40	640-641	,	_	
+5-41	642-649	NodeJS2	_	
+5-42	649-650	.	_	
+
+#Text=Designing SQL databases, in particular, PostgreSQL3.
+6-1	651-660	Designing	_	
+6-2	661-664	SQL	Hard Skill	
+6-3	665-674	databases	_	
+6-4	674-675	,	_	
+6-5	676-678	in	_	
+6-6	679-689	particular	_	
+6-7	689-690	,	_	
+6-8	691-702	PostgreSQL3	_	
+6-9	702-703	.	_	
+
+#Text=GraphQL API development (including subscription) in one of the languages: Elixir, Python, NodeJS4.
+7-1	704-711	GraphQL	Hard Skill	
+7-2	712-715	API	Hard Skill	
+7-3	716-727	development	_	
+7-4	728-729	(	_	
+7-5	729-738	including	_	
+7-6	739-751	subscription	_	
+7-7	751-752	)	_	
+7-8	753-755	in	_	
+7-9	756-759	one	_	
+7-10	760-762	of	_	
+7-11	763-766	the	_	
+7-12	767-776	languages	_	
+7-13	776-777	:	_	
+7-14	778-784	Elixir	_	
+7-15	784-785	,	_	
+7-16	786-792	Python	Hard Skill	
+7-17	792-793	,	_	
+7-18	794-801	NodeJS4	_	
+7-19	801-802	.	_	
+
+#Text=Creating Dockerfile and using Docker containers5.
+8-1	803-811	Creating	_	
+8-2	812-822	Dockerfile	_	
+8-3	823-826	and	_	
+8-4	827-832	using	_	
+8-5	833-839	Docker	Hard Skill	
+8-6	840-851	containers5	_	
+8-7	851-852	.	_	
+
+#Text=Integrations between API and web services (Google, Facebook, Amazon, etc.)6.
+9-1	853-865	Integrations	_	
+9-2	866-873	between	_	
+9-3	874-877	API	Hard Skill	
+9-4	878-881	and	_	
+9-5	882-885	web	_	
+9-6	886-894	services	_	
+9-7	895-896	(	_	
+9-8	896-902	Google	_	
+9-9	902-903	,	_	
+9-10	904-912	Facebook	Hard Skill	
+9-11	912-913	,	_	
+9-12	914-920	Amazon	_	
+9-13	920-921	,	_	
+9-14	922-925	etc	_	
+9-15	925-926	.	_	
+9-16	926-927	)	_	
+9-17	927-928	6	_	
+9-18	928-929	.	_	
+
+#Text=Developing microservices, background jobs, and working with queues (for example, RabbitMQ/Kafka)7.
+10-1	930-940	Developing	_	
+10-2	941-954	microservices	_	
+10-3	954-955	,	_	
+10-4	956-966	background	_	
+10-5	967-971	jobs	_	
+10-6	971-972	,	_	
+10-7	973-976	and	_	
+10-8	977-984	working	_	
+10-9	985-989	with	_	
+10-10	990-996	queues	_	
+10-11	997-998	(	_	
+10-12	998-1001	for	_	
+10-13	1002-1009	example	_	
+10-14	1009-1010	,	_	
+10-15	1011-1019	RabbitMQ	Hard Skill	
+10-16	1019-1020	/	_	
+10-17	1020-1025	Kafka	_	
+10-18	1025-1026	)	_	
+10-19	1026-1027	7	_	
+10-20	1027-1028	.	_	
+
+#Text=Knowledge of Amazon web services: Aurora/RDS, Cognito, SES, S3Must be:1.
+11-1	1029-1038	Knowledge	_	
+11-2	1039-1041	of	_	
+11-3	1042-1048	Amazon	_	
+11-4	1049-1052	web	_	
+11-5	1053-1061	services	_	
+11-6	1061-1062	:	_	
+11-7	1063-1069	Aurora	_	
+11-8	1069-1070	/	_	
+11-9	1070-1073	RDS	_	
+11-10	1073-1074	,	_	
+11-11	1075-1082	Cognito	_	
+11-12	1082-1083	,	_	
+11-13	1084-1087	SES	_	
+11-14	1087-1088	,	_	
+11-15	1089-1095	S3Must	_	
+11-16	1096-1098	be	_	
+11-17	1098-1099	:	_	
+11-18	1099-1100	1	_	
+11-19	1100-1101	.	_	
+
+#Text=Fluent in two languages (Russian and English)2.
+12-1	1102-1108	Fluent	_	
+12-2	1109-1111	in	_	
+12-3	1112-1115	two	_	
+12-4	1116-1125	languages	_	
+12-5	1126-1127	(	_	
+12-6	1127-1134	Russian	_	
+12-7	1135-1138	and	_	
+12-8	1139-1146	English	_	
+12-9	1146-1147	)	_	
+12-10	1147-1148	2	_	
+12-11	1148-1149	.	_	
+
+#Text=Punctual, responsible, and result oriented3.
+13-1	1150-1158	Punctual	_	
+13-2	1158-1159	,	_	
+13-3	1160-1171	responsible	_	
+13-4	1171-1172	,	_	
+13-5	1173-1176	and	_	
+13-6	1177-1183	result	_	
+13-7	1184-1193	oriented3	_	
+13-8	1193-1194	.	_	
+
+#Text=Ability to work in a team and be a team-leadPlease start your proposal with the phrase: HEYDAY Must be an excellent work ethic, able to work remotely independently Demonstrate strategic thinking skills Excellent problem-solving and highly effective communication, interpersonal, and critical thinking skills 5+ years back-end and unit tests developing on one of the languages: Elixir, Python, NodeJS Designing SQL databases, in particular, PostgreSQL GraphQL API development (including subscription) in one of the languages: Elixir, Python, NodeJS Creating Dockerfile and using Docker containers Integrations between API and web services (Google, Facebook, Amazon, etc.)
+14-1	1195-1202	Ability	_	
+14-2	1203-1205	to	_	
+14-3	1206-1210	work	_	
+14-4	1211-1213	in	_	
+14-5	1214-1215	a	_	
+14-6	1216-1220	team	_	
+14-7	1221-1224	and	_	
+14-8	1225-1227	be	_	
+14-9	1228-1229	a	_	
+14-10	1230-1245	team-leadPlease	_	
+14-11	1246-1251	start	_	
+14-12	1252-1256	your	_	
+14-13	1257-1265	proposal	_	
+14-14	1266-1270	with	_	
+14-15	1271-1274	the	_	
+14-16	1275-1281	phrase	_	
+14-17	1281-1282	:	_	
+14-18	1283-1289	HEYDAY	_	
+14-19	1290-1294	Must	_	
+14-20	1295-1297	be	_	
+14-21	1298-1300	an	_	
+14-22	1301-1310	excellent	_	
+14-23	1311-1315	work	_	
+14-24	1316-1321	ethic	_	
+14-25	1321-1322	,	_	
+14-26	1323-1327	able	_	
+14-27	1328-1330	to	_	
+14-28	1331-1335	work	_	
+14-29	1336-1344	remotely	_	
+14-30	1345-1358	independently	_	
+14-31	1359-1370	Demonstrate	_	
+14-32	1371-1380	strategic	_	
+14-33	1381-1389	thinking	_	
+14-34	1390-1396	skills	_	
+14-35	1397-1406	Excellent	_	
+14-36	1407-1422	problem-solving	_	
+14-37	1423-1426	and	_	
+14-38	1427-1433	highly	_	
+14-39	1434-1443	effective	_	
+14-40	1444-1457	communication	Soft Skill	
+14-41	1457-1458	,	_	
+14-42	1459-1472	interpersonal	Soft Skill	
+14-43	1472-1473	,	_	
+14-44	1474-1477	and	_	
+14-45	1478-1486	critical	_	
+14-46	1487-1495	thinking	_	
+14-47	1496-1502	skills	_	
+14-48	1503-1504	5	_	
+14-49	1504-1505	+	_	
+14-50	1506-1511	years	_	
+14-51	1512-1520	back-end	_	
+14-52	1521-1524	and	_	
+14-53	1525-1529	unit	_	
+14-54	1530-1535	tests	_	
+14-55	1536-1546	developing	_	
+14-56	1547-1549	on	_	
+14-57	1550-1553	one	_	
+14-58	1554-1556	of	_	
+14-59	1557-1560	the	_	
+14-60	1561-1570	languages	_	
+14-61	1570-1571	:	_	
+14-62	1572-1578	Elixir	_	
+14-63	1578-1579	,	_	
+14-64	1580-1586	Python	Hard Skill	
+14-65	1586-1587	,	_	
+14-66	1588-1594	NodeJS	_	
+14-67	1595-1604	Designing	_	
+14-68	1605-1608	SQL	Hard Skill	
+14-69	1609-1618	databases	_	
+14-70	1618-1619	,	_	
+14-71	1620-1622	in	_	
+14-72	1623-1633	particular	_	
+14-73	1633-1634	,	_	
+14-74	1635-1645	PostgreSQL	Hard Skill	
+14-75	1646-1653	GraphQL	Hard Skill	
+14-76	1654-1657	API	Hard Skill	
+14-77	1658-1669	development	_	
+14-78	1670-1671	(	_	
+14-79	1671-1680	including	_	
+14-80	1681-1693	subscription	_	
+14-81	1693-1694	)	_	
+14-82	1695-1697	in	_	
+14-83	1698-1701	one	_	
+14-84	1702-1704	of	_	
+14-85	1705-1708	the	_	
+14-86	1709-1718	languages	_	
+14-87	1718-1719	:	_	
+14-88	1720-1726	Elixir	_	
+14-89	1726-1727	,	_	
+14-90	1728-1734	Python	Hard Skill	
+14-91	1734-1735	,	_	
+14-92	1736-1742	NodeJS	_	
+14-93	1743-1751	Creating	_	
+14-94	1752-1762	Dockerfile	_	
+14-95	1763-1766	and	_	
+14-96	1767-1772	using	_	
+14-97	1773-1779	Docker	Hard Skill	
+14-98	1780-1790	containers	_	
+14-99	1791-1803	Integrations	_	
+14-100	1804-1811	between	_	
+14-101	1812-1815	API	Hard Skill	
+14-102	1816-1819	and	_	
+14-103	1820-1823	web	_	
+14-104	1824-1832	services	_	
+14-105	1833-1834	(	_	
+14-106	1834-1840	Google	_	
+14-107	1840-1841	,	_	
+14-108	1842-1850	Facebook	Hard Skill	
+14-109	1850-1851	,	_	
+14-110	1852-1858	Amazon	_	
+14-111	1858-1859	,	_	
+14-112	1860-1863	etc	_	
+14-113	1863-1864	.	_	
+14-114	1864-1865	)	_	
+
+#Text=Developing microservices, background jobs, and working with queues (for example, RabbitMQ/Kafka) Knowledge of Amazon web services: Aurora/RDS, Cognito, SES, S3 Fluent in two languages (Russian and English) Punctual, responsible, and result oriented Ability to work in a team and be a team-lead
+15-1	1866-1876	Developing	_	
+15-2	1877-1890	microservices	_	
+15-3	1890-1891	,	_	
+15-4	1892-1902	background	_	
+15-5	1903-1907	jobs	_	
+15-6	1907-1908	,	_	
+15-7	1909-1912	and	_	
+15-8	1913-1920	working	_	
+15-9	1921-1925	with	_	
+15-10	1926-1932	queues	_	
+15-11	1933-1934	(	_	
+15-12	1934-1937	for	_	
+15-13	1938-1945	example	_	
+15-14	1945-1946	,	_	
+15-15	1947-1955	RabbitMQ	Hard Skill	
+15-16	1955-1956	/	_	
+15-17	1956-1961	Kafka	_	
+15-18	1961-1962	)	_	
+15-19	1963-1972	Knowledge	_	
+15-20	1973-1975	of	_	
+15-21	1976-1982	Amazon	_	
+15-22	1983-1986	web	_	
+15-23	1987-1995	services	_	
+15-24	1995-1996	:	_	
+15-25	1997-2003	Aurora	_	
+15-26	2003-2004	/	_	
+15-27	2004-2007	RDS	_	
+15-28	2007-2008	,	_	
+15-29	2009-2016	Cognito	_	
+15-30	2016-2017	,	_	
+15-31	2018-2021	SES	_	
+15-32	2021-2022	,	_	
+15-33	2023-2025	S3	_	
+15-34	2026-2032	Fluent	_	
+15-35	2033-2035	in	_	
+15-36	2036-2039	two	_	
+15-37	2040-2049	languages	_	
+15-38	2050-2051	(	_	
+15-39	2051-2058	Russian	_	
+15-40	2059-2062	and	_	
+15-41	2063-2070	English	_	
+15-42	2070-2071	)	_	
+15-43	2072-2080	Punctual	_	
+15-44	2080-2081	,	_	
+15-45	2082-2093	responsible	_	
+15-46	2093-2094	,	_	
+15-47	2095-2098	and	_	
+15-48	2099-2105	result	_	
+15-49	2106-2114	oriented	_	
+15-50	2115-2122	Ability	_	
+15-51	2123-2125	to	_	
+15-52	2126-2130	work	_	
+15-53	2131-2133	in	_	
+15-54	2134-2135	a	_	
+15-55	2136-2140	team	_	
+15-56	2141-2144	and	_	
+15-57	2145-2147	be	_	
+15-58	2148-2149	a	_	
+15-59	2150-2159	team-lead	_	

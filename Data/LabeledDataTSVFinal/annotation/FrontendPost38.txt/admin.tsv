@@ -1,0 +1,296 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job Title: Front End DeveloperSalary Range: $90000 - $115000 / year...Address: Dallas, TX 75202Job Description: We are seeking a Front End Developer to join our tight-knit team as we continue to grow!
+1-1	0-3	Job	_	
+1-2	4-9	Title	_	
+1-3	9-10	:	_	
+1-4	11-16	Front	_	
+1-5	17-20	End	_	
+1-6	21-36	DeveloperSalary	_	
+1-7	37-42	Range	_	
+1-8	42-43	:	_	
+1-9	44-50	$90000	_	
+1-10	51-52	-	_	
+1-11	53-60	$115000	_	
+1-12	61-62	/	_	
+1-13	63-67	year	_	
+1-14	67-68	.	_	
+1-15	68-69	.	_	
+1-16	69-70	.	_	
+1-17	70-77	Address	_	
+1-18	77-78	:	_	
+1-19	79-85	Dallas	_	
+1-20	85-86	,	_	
+1-21	87-89	TX	_	
+1-22	90-98	75202Job	_	
+1-23	99-110	Description	_	
+1-24	110-111	:	_	
+1-25	112-114	We	_	
+1-26	115-118	are	_	
+1-27	119-126	seeking	_	
+1-28	127-128	a	_	
+1-29	129-134	Front	_	
+1-30	135-138	End	_	
+1-31	139-148	Developer	_	
+1-32	149-151	to	_	
+1-33	152-156	join	_	
+1-34	157-160	our	_	
+1-35	161-171	tight-knit	_	
+1-36	172-176	team	_	
+1-37	177-179	as	_	
+1-38	180-182	we	_	
+1-39	183-191	continue	_	
+1-40	192-194	to	_	
+1-41	195-199	grow	_	
+1-42	199-200	!	_	
+
+#Text=This is an exciting opportunity for someone to work on both existing and greenfield projects where you will get to see their impact on the business while working with a variety of technologies.
+2-1	201-205	This	_	
+2-2	206-208	is	_	
+2-3	209-211	an	_	
+2-4	212-220	exciting	_	
+2-5	221-232	opportunity	_	
+2-6	233-236	for	_	
+2-7	237-244	someone	_	
+2-8	245-247	to	_	
+2-9	248-252	work	_	
+2-10	253-255	on	_	
+2-11	256-260	both	_	
+2-12	261-269	existing	_	
+2-13	270-273	and	_	
+2-14	274-284	greenfield	_	
+2-15	285-293	projects	_	
+2-16	294-299	where	_	
+2-17	300-303	you	_	
+2-18	304-308	will	_	
+2-19	309-312	get	_	
+2-20	313-315	to	_	
+2-21	316-319	see	_	
+2-22	320-325	their	_	
+2-23	326-332	impact	_	
+2-24	333-335	on	_	
+2-25	336-339	the	_	
+2-26	340-348	business	_	
+2-27	349-354	while	_	
+2-28	355-362	working	_	
+2-29	363-367	with	_	
+2-30	368-369	a	_	
+2-31	370-377	variety	_	
+2-32	378-380	of	_	
+2-33	381-393	technologies	_	
+2-34	393-394	.	_	
+
+#Text=We are looking for a 4-6 year developer who has strong experience with Angular (v.8+), Reactive Programming Paradigm (RxJS or Redux), and responsive UI/UX design in an Agile environment.
+3-1	395-397	We	_	
+3-2	398-401	are	_	
+3-3	402-409	looking	_	
+3-4	410-413	for	_	
+3-5	414-415	a	_	
+3-6	416-417	4	_	
+3-7	417-418	-	_	
+3-8	418-419	6	_	
+3-9	420-424	year	_	
+3-10	425-434	developer	_	
+3-11	435-438	who	_	
+3-12	439-442	has	_	
+3-13	443-449	strong	_	
+3-14	450-460	experience	_	
+3-15	461-465	with	_	
+3-16	466-473	Angular	Hard Skill	
+3-17	474-475	(	_	
+3-18	475-476	v	_	
+3-19	476-478	.8	_	
+3-20	478-479	+	_	
+3-21	479-480	)	_	
+3-22	480-481	,	_	
+3-23	482-490	Reactive	_	
+3-24	491-502	Programming	Hard Skill	
+3-25	503-511	Paradigm	_	
+3-26	512-513	(	_	
+3-27	513-517	RxJS	_	
+3-28	518-520	or	_	
+3-29	521-526	Redux	_	
+3-30	526-527	)	_	
+3-31	527-528	,	_	
+3-32	529-532	and	_	
+3-33	533-543	responsive	_	
+3-34	544-546	UI	_	
+3-35	546-547	/	_	
+3-36	547-549	UX	_	
+3-37	550-556	design	Hard Skill	
+3-38	557-559	in	_	
+3-39	560-562	an	_	
+3-40	563-568	Agile	Hard Skill	
+3-41	569-580	environment	_	
+3-42	580-581	.	_	
+
+#Text=Any full-stack experience with a .Net backend and experience building APIs is a plus!
+4-1	582-585	Any	_	
+4-2	586-596	full-stack	_	
+4-3	597-607	experience	_	
+4-4	608-612	with	_	
+4-5	613-614	a	_	
+4-6	615-616	.	_	
+4-7	616-619	Net	_	
+4-8	620-627	backend	_	
+4-9	628-631	and	_	
+4-10	632-642	experience	_	
+4-11	643-651	building	_	
+4-12	652-656	APIs	_	
+4-13	657-659	is	_	
+4-14	660-661	a	_	
+4-15	662-666	plus	_	
+4-16	666-667	!	_	
+
+#Text=The most successful individual for this role is someone who is highly collaborative, naturally curious, engaged, and adaptive.Top Skills Angular Reactive Paradigm: Redux or RxJS Responsive UI/UX design Experience in an Agile environmentPluses Cloud experience Understanding of DevOps processes Net backend experience???????
+5-1	668-671	The	_	
+5-2	672-676	most	_	
+5-3	677-687	successful	_	
+5-4	688-698	individual	_	
+5-5	699-702	for	_	
+5-6	703-707	this	_	
+5-7	708-712	role	_	
+5-8	713-715	is	_	
+5-9	716-723	someone	_	
+5-10	724-727	who	_	
+5-11	728-730	is	_	
+5-12	731-737	highly	_	
+5-13	738-751	collaborative	Soft Skill	
+5-14	751-752	,	_	
+5-15	753-762	naturally	_	
+5-16	763-770	curious	_	
+5-17	770-771	,	_	
+5-18	772-779	engaged	_	
+5-19	779-780	,	_	
+5-20	781-784	and	_	
+5-21	785-797	adaptive.Top	_	
+5-22	798-804	Skills	_	
+5-23	805-812	Angular	Hard Skill	
+5-24	813-821	Reactive	_	
+5-25	822-830	Paradigm	_	
+5-26	830-831	:	_	
+5-27	832-837	Redux	_	
+5-28	838-840	or	_	
+5-29	841-845	RxJS	_	
+5-30	846-856	Responsive	_	
+5-31	857-859	UI	_	
+5-32	859-860	/	_	
+5-33	860-862	UX	_	
+5-34	863-869	design	Hard Skill	
+5-35	870-880	Experience	_	
+5-36	881-883	in	_	
+5-37	884-886	an	_	
+5-38	887-892	Agile	Hard Skill	
+5-39	893-910	environmentPluses	_	
+5-40	911-916	Cloud	_	
+5-41	917-927	experience	_	
+5-42	928-941	Understanding	_	
+5-43	942-944	of	_	
+5-44	945-951	DevOps	_	
+5-45	952-961	processes	_	
+5-46	962-965	Net	_	
+5-47	966-973	backend	_	
+5-48	974-984	experience	_	
+5-49	984-985	?	_	
+5-50	985-986	?	_	
+5-51	986-987	?	_	
+5-52	987-988	?	_	
+5-53	988-989	?	_	
+5-54	989-990	?	_	
+5-55	990-991	?	_	
+
+#Text=IND 005-009 We are looking for a 4-6 year developer who has strong experience with Angular (v.8+), Reactive Programming Paradigm (RxJS or Redux), and responsive UI/UX design in an Agile environment The most successful individual for this role is someone who is highly collaborative, naturally curious, engaged, and adaptive Cloud experience Understanding of DevOps processes Net backend experience???????
+6-1	991-994	IND	_	
+6-2	995-998	005	_	
+6-3	998-999	-	_	
+6-4	999-1002	009	_	
+6-5	1003-1005	We	_	
+6-6	1006-1009	are	_	
+6-7	1010-1017	looking	_	
+6-8	1018-1021	for	_	
+6-9	1022-1023	a	_	
+6-10	1024-1025	4	_	
+6-11	1025-1026	-	_	
+6-12	1026-1027	6	_	
+6-13	1028-1032	year	_	
+6-14	1033-1042	developer	_	
+6-15	1043-1046	who	_	
+6-16	1047-1050	has	_	
+6-17	1051-1057	strong	_	
+6-18	1058-1068	experience	_	
+6-19	1069-1073	with	_	
+6-20	1074-1081	Angular	Hard Skill	
+6-21	1082-1083	(	_	
+6-22	1083-1084	v	_	
+6-23	1084-1086	.8	_	
+6-24	1086-1087	+	_	
+6-25	1087-1088	)	_	
+6-26	1088-1089	,	_	
+6-27	1090-1098	Reactive	_	
+6-28	1099-1110	Programming	Hard Skill	
+6-29	1111-1119	Paradigm	_	
+6-30	1120-1121	(	_	
+6-31	1121-1125	RxJS	_	
+6-32	1126-1128	or	_	
+6-33	1129-1134	Redux	_	
+6-34	1134-1135	)	_	
+6-35	1135-1136	,	_	
+6-36	1137-1140	and	_	
+6-37	1141-1151	responsive	_	
+6-38	1152-1154	UI	_	
+6-39	1154-1155	/	_	
+6-40	1155-1157	UX	_	
+6-41	1158-1164	design	Hard Skill	
+6-42	1165-1167	in	_	
+6-43	1168-1170	an	_	
+6-44	1171-1176	Agile	Hard Skill	
+6-45	1177-1188	environment	_	
+6-46	1189-1192	The	_	
+6-47	1193-1197	most	_	
+6-48	1198-1208	successful	_	
+6-49	1209-1219	individual	_	
+6-50	1220-1223	for	_	
+6-51	1224-1228	this	_	
+6-52	1229-1233	role	_	
+6-53	1234-1236	is	_	
+6-54	1237-1244	someone	_	
+6-55	1245-1248	who	_	
+6-56	1249-1251	is	_	
+6-57	1252-1258	highly	_	
+6-58	1259-1272	collaborative	Soft Skill	
+6-59	1272-1273	,	_	
+6-60	1274-1283	naturally	_	
+6-61	1284-1291	curious	_	
+6-62	1291-1292	,	_	
+6-63	1293-1300	engaged	_	
+6-64	1300-1301	,	_	
+6-65	1302-1305	and	_	
+6-66	1306-1314	adaptive	_	
+6-67	1315-1320	Cloud	_	
+6-68	1321-1331	experience	_	
+6-69	1332-1345	Understanding	_	
+6-70	1346-1348	of	_	
+6-71	1349-1355	DevOps	_	
+6-72	1356-1365	processes	_	
+6-73	1366-1369	Net	_	
+6-74	1370-1377	backend	_	
+6-75	1378-1388	experience	_	
+6-76	1388-1389	?	_	
+6-77	1389-1390	?	_	
+6-78	1390-1391	?	_	
+6-79	1391-1392	?	_	
+6-80	1392-1393	?	_	
+6-81	1393-1394	?	_	
+6-82	1394-1395	?	_	
+
+#Text=Salary Range: $90000 - $115000 / year
+7-1	1396-1402	Salary	_	
+7-2	1403-1408	Range	_	
+7-3	1408-1409	:	_	
+7-4	1410-1416	$90000	_	
+7-5	1417-1418	-	_	
+7-6	1419-1426	$115000	_	
+7-7	1427-1428	/	_	
+7-8	1429-1433	year	_	

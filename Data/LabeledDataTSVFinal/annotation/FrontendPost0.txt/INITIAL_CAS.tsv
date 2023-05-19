@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Meet on zoom and understand the requirements which are shared using Figma.
+1-1	0-4	Meet	
+1-2	5-7	on	
+1-3	8-12	zoom	
+1-4	13-16	and	
+1-5	17-27	understand	
+1-6	28-31	the	
+1-7	32-44	requirements	
+1-8	45-50	which	
+1-9	51-54	are	
+1-10	55-61	shared	
+1-11	62-67	using	
+1-12	68-73	Figma	
+1-13	73-74	.	
+
+#Text=Develop the required Web pages, modals and animations.
+2-1	75-82	Develop	
+2-2	83-86	the	
+2-3	87-95	required	
+2-4	96-99	Web	
+2-5	100-105	pages	
+2-6	105-106	,	
+2-7	107-113	modals	
+2-8	114-117	and	
+2-9	118-128	animations	
+2-10	128-129	.	
+
+#Text=Ensure that the styling meets the requirements.
+3-1	130-136	Ensure	
+3-2	137-141	that	
+3-3	142-145	the	
+3-4	146-153	styling	
+3-5	154-159	meets	
+3-6	160-163	the	
+3-7	164-176	requirements	
+3-8	176-177	.	
+
+#Text=Animations are smooth.
+4-1	178-188	Animations	
+4-2	189-192	are	
+4-3	193-199	smooth	
+4-4	199-200	.	
+
+#Text=Presentation is modern.
+5-1	201-213	Presentation	
+5-2	214-216	is	
+5-3	217-223	modern	
+5-4	223-224	.	
+
+#Text=Allow the back end team to tune the code for data that will be loaded through SQL from a backend DB.
+6-1	225-230	Allow	
+6-2	231-234	the	
+6-3	235-239	back	
+6-4	240-243	end	
+6-5	244-248	team	
+6-6	249-251	to	
+6-7	252-256	tune	
+6-8	257-260	the	
+6-9	261-265	code	
+6-10	266-269	for	
+6-11	270-274	data	
+6-12	275-279	that	
+6-13	280-284	will	
+6-14	285-287	be	
+6-15	288-294	loaded	
+6-16	295-302	through	
+6-17	303-306	SQL	
+6-18	307-311	from	
+6-19	312-313	a	
+6-20	314-321	backend	
+6-21	322-324	DB	
+6-22	324-325	.	
+
+#Text=Meet on zoom and understand the requirements which are shared using Figma Develop the required Web pages, modals and animations Ensure that the styling meets the requirements Allow the back end team to tune the code for data that will be loaded through SQL from a backend DB
+7-1	326-330	Meet	
+7-2	331-333	on	
+7-3	334-338	zoom	
+7-4	339-342	and	
+7-5	343-353	understand	
+7-6	354-357	the	
+7-7	358-370	requirements	
+7-8	371-376	which	
+7-9	377-380	are	
+7-10	381-387	shared	
+7-11	388-393	using	
+7-12	394-399	Figma	
+7-13	400-407	Develop	
+7-14	408-411	the	
+7-15	412-420	required	
+7-16	421-424	Web	
+7-17	425-430	pages	
+7-18	430-431	,	
+7-19	432-438	modals	
+7-20	439-442	and	
+7-21	443-453	animations	
+7-22	454-460	Ensure	
+7-23	461-465	that	
+7-24	466-469	the	
+7-25	470-477	styling	
+7-26	478-483	meets	
+7-27	484-487	the	
+7-28	488-500	requirements	
+7-29	501-506	Allow	
+7-30	507-510	the	
+7-31	511-515	back	
+7-32	516-519	end	
+7-33	520-524	team	
+7-34	525-527	to	
+7-35	528-532	tune	
+7-36	533-536	the	
+7-37	537-541	code	
+7-38	542-545	for	
+7-39	546-550	data	
+7-40	551-555	that	
+7-41	556-560	will	
+7-42	561-563	be	
+7-43	564-570	loaded	
+7-44	571-578	through	
+7-45	579-582	SQL	
+7-46	583-587	from	
+7-47	588-589	a	
+7-48	590-597	backend	
+7-49	598-600	DB	

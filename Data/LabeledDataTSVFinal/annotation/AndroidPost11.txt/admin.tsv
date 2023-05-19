@@ -1,0 +1,692 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Why LogistiVIEW?
+1-1	0-3	Why	_	
+1-2	4-15	LogistiVIEW	_	
+1-3	15-16	?	_	
+
+#Text=Imagine this...Youre taking todays most cutting-edge technologies, and applying them to solve multi-$B challenges by thinking differently, and innovating to find answers.
+2-1	16-23	Imagine	_	
+2-2	24-28	this	_	
+2-3	28-29	.	_	
+2-4	29-30	.	_	
+2-5	30-31	.	_	
+2-6	31-36	Youre	_	
+2-7	37-43	taking	_	
+2-8	44-50	todays	_	
+2-9	51-55	most	_	
+2-10	56-68	cutting-edge	_	
+2-11	69-81	technologies	_	
+2-12	81-82	,	_	
+2-13	83-86	and	_	
+2-14	87-95	applying	_	
+2-15	96-100	them	_	
+2-16	101-103	to	_	
+2-17	104-109	solve	_	
+2-18	110-115	multi	_	
+2-19	115-116	-	_	
+2-20	116-117	$	_	
+2-21	117-118	B	_	
+2-22	119-129	challenges	_	
+2-23	130-132	by	_	
+2-24	133-141	thinking	_	
+2-25	142-153	differently	_	
+2-26	153-154	,	_	
+2-27	155-158	and	_	
+2-28	159-169	innovating	_	
+2-29	170-172	to	_	
+2-30	173-177	find	_	
+2-31	178-185	answers	_	
+2-32	185-186	.	_	
+
+#Text=Youre working for a startup that Gartner named a Cool Vendor and the industry has awarded for innovation, our products, and our impact.
+3-1	187-192	Youre	_	
+3-2	193-200	working	_	
+3-3	201-204	for	_	
+3-4	205-206	a	_	
+3-5	207-214	startup	_	
+3-6	215-219	that	_	
+3-7	220-227	Gartner	_	
+3-8	228-233	named	_	
+3-9	234-235	a	_	
+3-10	236-240	Cool	_	
+3-11	241-247	Vendor	_	
+3-12	248-251	and	_	
+3-13	252-255	the	_	
+3-14	256-264	industry	_	
+3-15	265-268	has	_	
+3-16	269-276	awarded	_	
+3-17	277-280	for	_	
+3-18	281-291	innovation	_	
+3-19	291-292	,	_	
+3-20	293-296	our	_	
+3-21	297-305	products	_	
+3-22	305-306	,	_	
+3-23	307-310	and	_	
+3-24	311-314	our	_	
+3-25	315-321	impact	_	
+3-26	321-322	.	_	
+
+#Text=Youre test-driving your code on wearable technology  the kind that most people only see in the movies.At LogistiVIEW youll be doing this and more - all in a days work.
+4-1	323-328	Youre	_	
+4-2	329-341	test-driving	_	
+4-3	342-346	your	_	
+4-4	347-351	code	_	
+4-5	352-354	on	_	
+4-6	355-363	wearable	_	
+4-7	364-374	technology	_	
+4-8	376-379	the	_	
+4-9	380-384	kind	_	
+4-10	385-389	that	_	
+4-11	390-394	most	_	
+4-12	395-401	people	_	
+4-13	402-406	only	_	
+4-14	407-410	see	_	
+4-15	411-413	in	_	
+4-16	414-417	the	_	
+4-17	418-427	movies.At	_	
+4-18	428-439	LogistiVIEW	_	
+4-19	440-445	youll	_	
+4-20	446-448	be	_	
+4-21	449-454	doing	_	
+4-22	455-459	this	_	
+4-23	460-463	and	_	
+4-24	464-468	more	_	
+4-25	469-470	-	_	
+4-26	471-474	all	_	
+4-27	475-477	in	_	
+4-28	478-479	a	_	
+4-29	480-484	days	_	
+4-30	485-489	work	_	
+4-31	489-490	.	_	
+
+#Text=Join us to get hands on with Augmented Reality, Artificial Intelligence, and Computer Vision to engineer change.We are searching for a brilliant, flexible android developer to create mission critical enterprise software.
+5-1	491-495	Join	_	
+5-2	496-498	us	_	
+5-3	499-501	to	_	
+5-4	502-505	get	_	
+5-5	506-511	hands	_	
+5-6	512-514	on	_	
+5-7	515-519	with	_	
+5-8	520-529	Augmented	_	
+5-9	530-537	Reality	_	
+5-10	537-538	,	_	
+5-11	539-549	Artificial	_	
+5-12	550-562	Intelligence	_	
+5-13	562-563	,	_	
+5-14	564-567	and	_	
+5-15	568-576	Computer	_	
+5-16	577-583	Vision	_	
+5-17	584-586	to	_	
+5-18	587-595	engineer	_	
+5-19	596-605	change.We	_	
+5-20	606-609	are	_	
+5-21	610-619	searching	_	
+5-22	620-623	for	_	
+5-23	624-625	a	_	
+5-24	626-635	brilliant	_	
+5-25	635-636	,	_	
+5-26	637-645	flexible	_	
+5-27	646-653	android	Hard Skill	
+5-28	654-663	developer	_	
+5-29	664-666	to	_	
+5-30	667-673	create	_	
+5-31	674-681	mission	_	
+5-32	682-690	critical	_	
+5-33	691-701	enterprise	_	
+5-34	702-710	software	_	
+5-35	710-711	.	_	
+
+#Text=To this end, the android developer's responsibilities include writing and proofreading code, liaising with coworkers within and outside of their department, and monitoring customers' feedback.To ensure success as an android developer, you should demonstrate proficiency in Java, working in an Agile development team .Android Developer Responsibilities: Conceptualizing and formulating mission critical enterprise software that is suitable for use on all types of Android devices.
+6-1	712-714	To	_	
+6-2	715-719	this	_	
+6-3	720-723	end	_	
+6-4	723-724	,	_	
+6-5	725-728	the	_	
+6-6	729-736	android	Hard Skill	
+6-7	737-748	developer's	_	
+6-8	749-765	responsibilities	_	
+6-9	766-773	include	_	
+6-10	774-781	writing	_	
+6-11	782-785	and	_	
+6-12	786-798	proofreading	_	
+6-13	799-803	code	_	
+6-14	803-804	,	_	
+6-15	805-813	liaising	_	
+6-16	814-818	with	_	
+6-17	819-828	coworkers	_	
+6-18	829-835	within	_	
+6-19	836-839	and	_	
+6-20	840-847	outside	_	
+6-21	848-850	of	_	
+6-22	851-856	their	_	
+6-23	857-867	department	_	
+6-24	867-868	,	_	
+6-25	869-872	and	_	
+6-26	873-883	monitoring	_	
+6-27	884-893	customers	_	
+6-28	893-894	'	_	
+6-29	895-906	feedback.To	_	
+6-30	907-913	ensure	_	
+6-31	914-921	success	_	
+6-32	922-924	as	_	
+6-33	925-927	an	_	
+6-34	928-935	android	Hard Skill	
+6-35	936-945	developer	_	
+6-36	945-946	,	_	
+6-37	947-950	you	_	
+6-38	951-957	should	_	
+6-39	958-969	demonstrate	_	
+6-40	970-981	proficiency	_	
+6-41	982-984	in	_	
+6-42	985-989	Java	Hard Skill	
+6-43	989-990	,	_	
+6-44	991-998	working	_	
+6-45	999-1001	in	_	
+6-46	1002-1004	an	_	
+6-47	1005-1010	Agile	Hard Skill	
+6-48	1011-1022	development	_	
+6-49	1023-1027	team	_	
+6-50	1028-1029	.	_	
+6-51	1029-1036	Android	Hard Skill	
+6-52	1037-1046	Developer	_	
+6-53	1047-1063	Responsibilities	_	
+6-54	1063-1064	:	_	
+6-55	1065-1080	Conceptualizing	_	
+6-56	1081-1084	and	_	
+6-57	1085-1096	formulating	_	
+6-58	1097-1104	mission	_	
+6-59	1105-1113	critical	_	
+6-60	1114-1124	enterprise	_	
+6-61	1125-1133	software	_	
+6-62	1134-1138	that	_	
+6-63	1139-1141	is	_	
+6-64	1142-1150	suitable	_	
+6-65	1151-1154	for	_	
+6-66	1155-1158	use	_	
+6-67	1159-1161	on	_	
+6-68	1162-1165	all	_	
+6-69	1166-1171	types	_	
+6-70	1172-1174	of	_	
+6-71	1175-1182	Android	Hard Skill	
+6-72	1183-1190	devices	_	
+6-73	1190-1191	.	_	
+
+#Text=Implementing measures to safeguard users' data.
+7-1	1192-1204	Implementing	_	
+7-2	1205-1213	measures	_	
+7-3	1214-1216	to	_	
+7-4	1217-1226	safeguard	_	
+7-5	1227-1232	users	_	
+7-6	1232-1233	'	_	
+7-7	1234-1238	data	_	
+7-8	1238-1239	.	_	
+
+#Text=Ensuring that the construction and presentation are congruent with the company's standards.
+8-1	1240-1248	Ensuring	_	
+8-2	1249-1253	that	_	
+8-3	1254-1257	the	_	
+8-4	1258-1270	construction	_	
+8-5	1271-1274	and	_	
+8-6	1275-1287	presentation	_	
+8-7	1288-1291	are	_	
+8-8	1292-1301	congruent	_	
+8-9	1302-1306	with	_	
+8-10	1307-1310	the	_	
+8-11	1311-1320	company's	_	
+8-12	1321-1330	standards	_	
+8-13	1330-1331	.	_	
+
+#Text=Collaborating with UI and UX Designers, as well as Software Testers, to ensure that the software is presentable and in perfect working order.
+9-1	1332-1345	Collaborating	Soft Skill	
+9-2	1346-1350	with	_	
+9-3	1351-1353	UI	_	
+9-4	1354-1357	and	_	
+9-5	1358-1360	UX	_	
+9-6	1361-1370	Designers	_	
+9-7	1370-1371	,	_	
+9-8	1372-1374	as	_	
+9-9	1375-1379	well	_	
+9-10	1380-1382	as	_	
+9-11	1383-1391	Software	_	
+9-12	1392-1399	Testers	_	
+9-13	1399-1400	,	_	
+9-14	1401-1403	to	_	
+9-15	1404-1410	ensure	_	
+9-16	1411-1415	that	_	
+9-17	1416-1419	the	_	
+9-18	1420-1428	software	_	
+9-19	1429-1431	is	_	
+9-20	1432-1443	presentable	_	
+9-21	1444-1447	and	_	
+9-22	1448-1450	in	_	
+9-23	1451-1458	perfect	_	
+9-24	1459-1466	working	_	
+9-25	1467-1472	order	_	
+9-26	1472-1473	.	_	
+
+#Text=Liaising with the marketing department to ensure consistency in our company's 'voice' across the board.
+10-1	1474-1482	Liaising	_	
+10-2	1483-1487	with	_	
+10-3	1488-1491	the	_	
+10-4	1492-1501	marketing	_	
+10-5	1502-1512	department	_	
+10-6	1513-1515	to	_	
+10-7	1516-1522	ensure	_	
+10-8	1523-1534	consistency	_	
+10-9	1535-1537	in	_	
+10-10	1538-1541	our	_	
+10-11	1542-1551	company's	_	
+10-12	1552-1553	'	_	
+10-13	1553-1558	voice	_	
+10-14	1558-1559	'	_	
+10-15	1560-1566	across	_	
+10-16	1567-1570	the	_	
+10-17	1571-1576	board	_	
+10-18	1576-1577	.	_	
+
+#Text=Creating updates, including bug fixes and additional features, for release.
+11-1	1578-1586	Creating	_	
+11-2	1587-1594	updates	_	
+11-3	1594-1595	,	_	
+11-4	1596-1605	including	_	
+11-5	1606-1609	bug	_	
+11-6	1610-1615	fixes	_	
+11-7	1616-1619	and	_	
+11-8	1620-1630	additional	_	
+11-9	1631-1639	features	_	
+11-10	1639-1640	,	_	
+11-11	1641-1644	for	_	
+11-12	1645-1652	release	_	
+11-13	1652-1653	.	_	
+
+#Text=Providing tier 2 support for problem resolution as needed.Android Developer Requirements: Degree in software development, computer science, or similar.
+12-1	1654-1663	Providing	_	
+12-2	1664-1668	tier	_	
+12-3	1669-1670	2	_	
+12-4	1671-1678	support	_	
+12-5	1679-1682	for	_	
+12-6	1683-1690	problem	_	
+12-7	1691-1701	resolution	_	
+12-8	1702-1704	as	_	
+12-9	1705-1719	needed.Android	_	
+12-10	1720-1729	Developer	_	
+12-11	1730-1742	Requirements	_	
+12-12	1742-1743	:	_	
+12-13	1744-1750	Degree	_	
+12-14	1751-1753	in	_	
+12-15	1754-1762	software	_	
+12-16	1763-1774	development	_	
+12-17	1774-1775	,	_	
+12-18	1776-1784	computer	_	
+12-19	1785-1792	science	_	
+12-20	1792-1793	,	_	
+12-21	1794-1796	or	_	
+12-22	1797-1804	similar	_	
+12-23	1804-1805	.	_	
+
+#Text=This job requires realavant experience of 5-7 years Proficiency in Java and Kotlin.
+13-1	1806-1810	This	_	
+13-2	1811-1814	job	_	
+13-3	1815-1823	requires	_	
+13-4	1824-1833	realavant	_	
+13-5	1834-1844	experience	_	
+13-6	1845-1847	of	_	
+13-7	1848-1849	5	_	
+13-8	1849-1850	-	_	
+13-9	1850-1851	7	_	
+13-10	1852-1857	years	_	
+13-11	1858-1869	Proficiency	_	
+13-12	1870-1872	in	_	
+13-13	1873-1877	Java	Hard Skill	
+13-14	1878-1881	and	_	
+13-15	1882-1888	Kotlin	Hard Skill	
+13-16	1888-1889	.	_	
+
+#Text=Ability to use the Android Studio, including the Android SDK, with ease.
+14-1	1890-1897	Ability	_	
+14-2	1898-1900	to	_	
+14-3	1901-1904	use	_	
+14-4	1905-1908	the	_	
+14-5	1909-1916	Android	Hard Skill	
+14-6	1917-1923	Studio	_	
+14-7	1923-1924	,	_	
+14-8	1925-1934	including	_	
+14-9	1935-1938	the	_	
+14-10	1939-1946	Android	Hard Skill	
+14-11	1947-1950	SDK	_	
+14-12	1950-1951	,	_	
+14-13	1952-1956	with	_	
+14-14	1957-1961	ease	_	
+14-15	1961-1962	.	_	
+
+#Text=Prior experience as an android developer is required.
+15-1	1963-1968	Prior	_	
+15-2	1969-1979	experience	_	
+15-3	1980-1982	as	_	
+15-4	1983-1985	an	_	
+15-5	1986-1993	android	Hard Skill	
+15-6	1994-2003	developer	_	
+15-7	2004-2006	is	_	
+15-8	2007-2015	required	_	
+15-9	2015-2016	.	_	
+
+#Text=Excellent coding and proofreading skills.
+16-1	2017-2026	Excellent	_	
+16-2	2027-2033	coding	Hard Skill	
+16-3	2034-2037	and	_	
+16-4	2038-2050	proofreading	_	
+16-5	2051-2057	skills	_	
+16-6	2057-2058	.	_	
+
+#Text=Top-notch teamwork and communication skills.
+17-1	2059-2068	Top-notch	_	
+17-2	2069-2077	teamwork	Soft Skill	
+17-3	2078-2081	and	_	
+17-4	2082-2095	communication	Soft Skill	
+17-5	2096-2102	skills	_	
+17-6	2102-2103	.	_	
+
+#Text=Ability to manage your workload with minimal supervision.
+18-1	2104-2111	Ability	_	
+18-2	2112-2114	to	_	
+18-3	2115-2121	manage	_	
+18-4	2122-2126	your	_	
+18-5	2127-2135	workload	_	
+18-6	2136-2140	with	_	
+18-7	2141-2148	minimal	_	
+18-8	2149-2160	supervision	_	
+18-9	2160-2161	.	_	
+
+#Text=Availability to travel to corporate and customer sites (<10%) Unwavering curiosity.This is a remote work from home role based in the Phoenix area.
+19-1	2162-2174	Availability	_	
+19-2	2175-2177	to	_	
+19-3	2178-2184	travel	_	
+19-4	2185-2187	to	_	
+19-5	2188-2197	corporate	_	
+19-6	2198-2201	and	_	
+19-7	2202-2210	customer	_	
+19-8	2211-2216	sites	_	
+19-9	2217-2218	(	_	
+19-10	2218-2219	<	_	
+19-11	2219-2222	10%	_	
+19-12	2222-2223	)	_	
+19-13	2224-2234	Unwavering	_	
+19-14	2235-2249	curiosity.This	_	
+19-15	2250-2252	is	_	
+19-16	2253-2254	a	_	
+19-17	2255-2261	remote	_	
+19-18	2262-2266	work	_	
+19-19	2267-2271	from	_	
+19-20	2272-2276	home	_	
+19-21	2277-2281	role	_	
+19-22	2282-2287	based	_	
+19-23	2288-2290	in	_	
+19-24	2291-2294	the	_	
+19-25	2295-2302	Phoenix	_	
+19-26	2303-2307	area	_	
+19-27	2307-2308	.	_	
+
+#Text=Must be able to work EST, CST Time- Zones.We will not be able to provide Visa Sponsorship for this role.This is a Direct Hire role, we will not be working with any outside recrutiers to fill.Powered by JazzHRYyXzt2Q8RR Degree in software development, computer science, or similar This job requires realavant experience of 5-7 years Proficiency in Java and Kotlin Ability to use the Android Studio, including the Android SDK, with ease Prior experience as an android developer is required Excellent coding and proofreading skills Top-notch teamwork and communication skills Ability to manage your workload with minimal supervision Availability to travel to corporate and customer sites (<10%) Unwavering curiosity Must be able to work EST, CST Time- Zones To this end, the android developer's responsibilities include writing and proofreading code, liaising with coworkers within and outside of their department, and monitoring customers' feedback Conceptualizing and formulating mission critical enterprise software that is suitable for use on all types of Android devices Implementing measures to safeguard users' data Ensuring that the construction and presentation are congruent with the company's standards Collaborating with UI and UX Designers, as well as Software Testers, to ensure that the software is presentable and in perfect working order Liaising with the marketing department to ensure consistency in our company's 'voice' across the board Creating updates, including bug fixes and additional features, for release Providing tier 2 support for problem resolution as needed
+20-1	2309-2313	Must	_	
+20-2	2314-2316	be	_	
+20-3	2317-2321	able	_	
+20-4	2322-2324	to	_	
+20-5	2325-2329	work	_	
+20-6	2330-2333	EST	_	
+20-7	2333-2334	,	_	
+20-8	2335-2338	CST	_	
+20-9	2339-2343	Time	_	
+20-10	2343-2344	-	_	
+20-11	2345-2353	Zones.We	_	
+20-12	2354-2358	will	_	
+20-13	2359-2362	not	_	
+20-14	2363-2365	be	_	
+20-15	2366-2370	able	_	
+20-16	2371-2373	to	_	
+20-17	2374-2381	provide	_	
+20-18	2382-2386	Visa	_	
+20-19	2387-2398	Sponsorship	_	
+20-20	2399-2402	for	_	
+20-21	2403-2407	this	_	
+20-22	2408-2417	role.This	_	
+20-23	2418-2420	is	_	
+20-24	2421-2422	a	_	
+20-25	2423-2429	Direct	_	
+20-26	2430-2434	Hire	_	
+20-27	2435-2439	role	_	
+20-28	2439-2440	,	_	
+20-29	2441-2443	we	_	
+20-30	2444-2448	will	_	
+20-31	2449-2452	not	_	
+20-32	2453-2455	be	_	
+20-33	2456-2463	working	_	
+20-34	2464-2468	with	_	
+20-35	2469-2472	any	_	
+20-36	2473-2480	outside	_	
+20-37	2481-2491	recrutiers	_	
+20-38	2492-2494	to	_	
+20-39	2495-2507	fill.Powered	_	
+20-40	2508-2510	by	_	
+20-41	2511-2527	JazzHRYyXzt2Q8RR	_	
+20-42	2528-2534	Degree	_	
+20-43	2535-2537	in	_	
+20-44	2538-2546	software	_	
+20-45	2547-2558	development	_	
+20-46	2558-2559	,	_	
+20-47	2560-2568	computer	_	
+20-48	2569-2576	science	_	
+20-49	2576-2577	,	_	
+20-50	2578-2580	or	_	
+20-51	2581-2588	similar	_	
+20-52	2589-2593	This	_	
+20-53	2594-2597	job	_	
+20-54	2598-2606	requires	_	
+20-55	2607-2616	realavant	_	
+20-56	2617-2627	experience	_	
+20-57	2628-2630	of	_	
+20-58	2631-2632	5	_	
+20-59	2632-2633	-	_	
+20-60	2633-2634	7	_	
+20-61	2635-2640	years	_	
+20-62	2641-2652	Proficiency	_	
+20-63	2653-2655	in	_	
+20-64	2656-2660	Java	Hard Skill	
+20-65	2661-2664	and	_	
+20-66	2665-2671	Kotlin	Hard Skill	
+20-67	2672-2679	Ability	_	
+20-68	2680-2682	to	_	
+20-69	2683-2686	use	_	
+20-70	2687-2690	the	_	
+20-71	2691-2698	Android	Hard Skill	
+20-72	2699-2705	Studio	_	
+20-73	2705-2706	,	_	
+20-74	2707-2716	including	_	
+20-75	2717-2720	the	_	
+20-76	2721-2728	Android	Hard Skill	
+20-77	2729-2732	SDK	_	
+20-78	2732-2733	,	_	
+20-79	2734-2738	with	_	
+20-80	2739-2743	ease	_	
+20-81	2744-2749	Prior	_	
+20-82	2750-2760	experience	_	
+20-83	2761-2763	as	_	
+20-84	2764-2766	an	_	
+20-85	2767-2774	android	Hard Skill	
+20-86	2775-2784	developer	_	
+20-87	2785-2787	is	_	
+20-88	2788-2796	required	_	
+20-89	2797-2806	Excellent	_	
+20-90	2807-2813	coding	Hard Skill	
+20-91	2814-2817	and	_	
+20-92	2818-2830	proofreading	_	
+20-93	2831-2837	skills	_	
+20-94	2838-2847	Top-notch	_	
+20-95	2848-2856	teamwork	Soft Skill	
+20-96	2857-2860	and	_	
+20-97	2861-2874	communication	Soft Skill	
+20-98	2875-2881	skills	_	
+20-99	2882-2889	Ability	_	
+20-100	2890-2892	to	_	
+20-101	2893-2899	manage	_	
+20-102	2900-2904	your	_	
+20-103	2905-2913	workload	_	
+20-104	2914-2918	with	_	
+20-105	2919-2926	minimal	_	
+20-106	2927-2938	supervision	_	
+20-107	2939-2951	Availability	_	
+20-108	2952-2954	to	_	
+20-109	2955-2961	travel	_	
+20-110	2962-2964	to	_	
+20-111	2965-2974	corporate	_	
+20-112	2975-2978	and	_	
+20-113	2979-2987	customer	_	
+20-114	2988-2993	sites	_	
+20-115	2994-2995	(	_	
+20-116	2995-2996	<	_	
+20-117	2996-2999	10%	_	
+20-118	2999-3000	)	_	
+20-119	3001-3011	Unwavering	_	
+20-120	3012-3021	curiosity	_	
+20-121	3022-3026	Must	_	
+20-122	3027-3029	be	_	
+20-123	3030-3034	able	_	
+20-124	3035-3037	to	_	
+20-125	3038-3042	work	_	
+20-126	3043-3046	EST	_	
+20-127	3046-3047	,	_	
+20-128	3048-3051	CST	_	
+20-129	3052-3056	Time	_	
+20-130	3056-3057	-	_	
+20-131	3058-3063	Zones	_	
+20-132	3064-3066	To	_	
+20-133	3067-3071	this	_	
+20-134	3072-3075	end	_	
+20-135	3075-3076	,	_	
+20-136	3077-3080	the	_	
+20-137	3081-3088	android	Hard Skill	
+20-138	3089-3100	developer's	_	
+20-139	3101-3117	responsibilities	_	
+20-140	3118-3125	include	_	
+20-141	3126-3133	writing	_	
+20-142	3134-3137	and	_	
+20-143	3138-3150	proofreading	_	
+20-144	3151-3155	code	_	
+20-145	3155-3156	,	_	
+20-146	3157-3165	liaising	_	
+20-147	3166-3170	with	_	
+20-148	3171-3180	coworkers	_	
+20-149	3181-3187	within	_	
+20-150	3188-3191	and	_	
+20-151	3192-3199	outside	_	
+20-152	3200-3202	of	_	
+20-153	3203-3208	their	_	
+20-154	3209-3219	department	_	
+20-155	3219-3220	,	_	
+20-156	3221-3224	and	_	
+20-157	3225-3235	monitoring	_	
+20-158	3236-3245	customers	_	
+20-159	3245-3246	'	_	
+20-160	3247-3255	feedback	_	
+20-161	3256-3271	Conceptualizing	_	
+20-162	3272-3275	and	_	
+20-163	3276-3287	formulating	_	
+20-164	3288-3295	mission	_	
+20-165	3296-3304	critical	_	
+20-166	3305-3315	enterprise	_	
+20-167	3316-3324	software	_	
+20-168	3325-3329	that	_	
+20-169	3330-3332	is	_	
+20-170	3333-3341	suitable	_	
+20-171	3342-3345	for	_	
+20-172	3346-3349	use	_	
+20-173	3350-3352	on	_	
+20-174	3353-3356	all	_	
+20-175	3357-3362	types	_	
+20-176	3363-3365	of	_	
+20-177	3366-3373	Android	Hard Skill	
+20-178	3374-3381	devices	_	
+20-179	3382-3394	Implementing	_	
+20-180	3395-3403	measures	_	
+20-181	3404-3406	to	_	
+20-182	3407-3416	safeguard	_	
+20-183	3417-3422	users	_	
+20-184	3422-3423	'	_	
+20-185	3424-3428	data	_	
+20-186	3429-3437	Ensuring	_	
+20-187	3438-3442	that	_	
+20-188	3443-3446	the	_	
+20-189	3447-3459	construction	_	
+20-190	3460-3463	and	_	
+20-191	3464-3476	presentation	_	
+20-192	3477-3480	are	_	
+20-193	3481-3490	congruent	_	
+20-194	3491-3495	with	_	
+20-195	3496-3499	the	_	
+20-196	3500-3509	company's	_	
+20-197	3510-3519	standards	_	
+20-198	3520-3533	Collaborating	Soft Skill	
+20-199	3534-3538	with	_	
+20-200	3539-3541	UI	_	
+20-201	3542-3545	and	_	
+20-202	3546-3548	UX	_	
+20-203	3549-3558	Designers	_	
+20-204	3558-3559	,	_	
+20-205	3560-3562	as	_	
+20-206	3563-3567	well	_	
+20-207	3568-3570	as	_	
+20-208	3571-3579	Software	_	
+20-209	3580-3587	Testers	_	
+20-210	3587-3588	,	_	
+20-211	3589-3591	to	_	
+20-212	3592-3598	ensure	_	
+20-213	3599-3603	that	_	
+20-214	3604-3607	the	_	
+20-215	3608-3616	software	_	
+20-216	3617-3619	is	_	
+20-217	3620-3631	presentable	_	
+20-218	3632-3635	and	_	
+20-219	3636-3638	in	_	
+20-220	3639-3646	perfect	_	
+20-221	3647-3654	working	_	
+20-222	3655-3660	order	_	
+20-223	3661-3669	Liaising	_	
+20-224	3670-3674	with	_	
+20-225	3675-3678	the	_	
+20-226	3679-3688	marketing	_	
+20-227	3689-3699	department	_	
+20-228	3700-3702	to	_	
+20-229	3703-3709	ensure	_	
+20-230	3710-3721	consistency	_	
+20-231	3722-3724	in	_	
+20-232	3725-3728	our	_	
+20-233	3729-3738	company's	_	
+20-234	3739-3740	'	_	
+20-235	3740-3745	voice	_	
+20-236	3745-3746	'	_	
+20-237	3747-3753	across	_	
+20-238	3754-3757	the	_	
+20-239	3758-3763	board	_	
+20-240	3764-3772	Creating	_	
+20-241	3773-3780	updates	_	
+20-242	3780-3781	,	_	
+20-243	3782-3791	including	_	
+20-244	3792-3795	bug	_	
+20-245	3796-3801	fixes	_	
+20-246	3802-3805	and	_	
+20-247	3806-3816	additional	_	
+20-248	3817-3825	features	_	
+20-249	3825-3826	,	_	
+20-250	3827-3830	for	_	
+20-251	3831-3838	release	_	
+20-252	3839-3848	Providing	_	
+20-253	3849-3853	tier	_	
+20-254	3854-3855	2	_	
+20-255	3856-3863	support	_	
+20-256	3864-3867	for	_	
+20-257	3868-3875	problem	_	
+20-258	3876-3886	resolution	_	
+20-259	3887-3889	as	_	
+20-260	3890-3896	needed	_	

@@ -1,0 +1,214 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Design and build solutions for complex business workflows.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-24	Design	Hard Skill	
+1-4	25-28	and	_	
+1-5	29-34	build	_	
+1-6	35-44	solutions	_	
+1-7	45-48	for	_	
+1-8	49-56	complex	_	
+1-9	57-65	business	_	
+1-10	66-75	workflows	_	
+1-11	75-76	.	_	
+
+#Text=Understanding the user persona and deliver a slick experience.
+2-1	77-90	Understanding	_	
+2-2	91-94	the	_	
+2-3	95-99	user	_	
+2-4	100-107	persona	_	
+2-5	108-111	and	_	
+2-6	112-119	deliver	_	
+2-7	120-121	a	_	
+2-8	122-127	slick	_	
+2-9	128-138	experience	_	
+2-10	138-139	.	_	
+
+#Text=Take end to end ownership of components and be responsible for the subsystems that you work on from design, code, testing, integration, deployment, enhancements, etc.
+3-1	140-144	Take	_	
+3-2	145-148	end	_	
+3-3	149-151	to	_	
+3-4	152-155	end	_	
+3-5	156-165	ownership	_	
+3-6	166-168	of	_	
+3-7	169-179	components	_	
+3-8	180-183	and	_	
+3-9	184-186	be	_	
+3-10	187-198	responsible	_	
+3-11	199-202	for	_	
+3-12	203-206	the	_	
+3-13	207-217	subsystems	_	
+3-14	218-222	that	_	
+3-15	223-226	you	_	
+3-16	227-231	work	_	
+3-17	232-234	on	_	
+3-18	235-239	from	_	
+3-19	240-246	design	Hard Skill	
+3-20	246-247	,	_	
+3-21	248-252	code	_	
+3-22	252-253	,	_	
+3-23	254-261	testing	_	
+3-24	261-262	,	_	
+3-25	263-274	integration	_	
+3-26	274-275	,	_	
+3-27	276-286	deployment	_	
+3-28	286-287	,	_	
+3-29	288-300	enhancements	_	
+3-30	300-301	,	_	
+3-31	302-305	etc	_	
+3-32	305-306	.	_	
+
+#Text=Write high-quality code and take responsibility for their task.
+4-1	307-312	Write	_	
+4-2	313-325	high-quality	_	
+4-3	326-330	code	_	
+4-4	331-334	and	_	
+4-5	335-339	take	_	
+4-6	340-354	responsibility	_	
+4-7	355-358	for	_	
+4-8	359-364	their	_	
+4-9	365-369	task	_	
+4-10	369-370	.	_	
+
+#Text=Communicate and collaborate... with management, product, QA, UI/UX teams.
+5-1	371-382	Communicate	_	
+5-2	383-386	and	_	
+5-3	387-398	collaborate	Soft Skill	
+5-4	398-399	.	_	
+5-5	399-400	.	_	
+5-6	400-401	.	_	
+5-7	402-406	with	_	
+5-8	407-417	management	_	
+5-9	417-418	,	_	
+5-10	419-426	product	_	
+5-11	426-427	,	_	
+5-12	428-430	QA	_	
+5-13	430-431	,	_	
+5-14	432-434	UI	_	
+5-15	434-435	/	_	
+5-16	435-437	UX	_	
+5-17	438-443	teams	_	
+5-18	443-444	.	_	
+
+#Text=Deliver with quality, on-time in a fast-paced start-up environment.Key Skills: Python.
+6-1	445-452	Deliver	_	
+6-2	453-457	with	_	
+6-3	458-465	quality	_	
+6-4	465-466	,	_	
+6-5	467-474	on-time	_	
+6-6	475-477	in	_	
+6-7	478-479	a	_	
+6-8	480-490	fast-paced	_	
+6-9	491-499	start-up	_	
+6-10	500-515	environment.Key	_	
+6-11	516-522	Skills	_	
+6-12	522-523	:	_	
+6-13	524-530	Python	Hard Skill	
+6-14	530-531	.	_	
+
+#Text=Java.
+7-1	532-536	Java	Hard Skill	
+7-2	536-537	.	_	
+
+#Text=PHP.
+8-1	538-541	PHP	Hard Skill	
+8-2	541-542	.	_	
+
+#Text=SQL.
+9-1	543-546	SQL	Hard Skill	
+9-2	546-547	.	_	
+
+#Text=HTML.
+10-1	548-552	HTML	Hard Skill	
+10-2	552-553	.	_	
+
+#Text=CSS Java PHP Responsibilities: Design and build solutions for complex business workflows Understanding the user persona and deliver a slick experience Take end to end ownership of components and be responsible for the subsystems that you work on from design, code, testing, integration, deployment, enhancements, etc Write high-quality code and take responsibility for their task Communicate and collaborate with management, product, QA, UI/UX teams Deliver with quality, on-time in a fast-paced start-up environment
+11-1	554-557	CSS	Hard Skill	
+11-2	558-562	Java	Hard Skill	
+11-3	563-566	PHP	Hard Skill	
+11-4	567-583	Responsibilities	_	
+11-5	583-584	:	_	
+11-6	585-591	Design	Hard Skill	
+11-7	592-595	and	_	
+11-8	596-601	build	_	
+11-9	602-611	solutions	_	
+11-10	612-615	for	_	
+11-11	616-623	complex	_	
+11-12	624-632	business	_	
+11-13	633-642	workflows	_	
+11-14	643-656	Understanding	_	
+11-15	657-660	the	_	
+11-16	661-665	user	_	
+11-17	666-673	persona	_	
+11-18	674-677	and	_	
+11-19	678-685	deliver	_	
+11-20	686-687	a	_	
+11-21	688-693	slick	_	
+11-22	694-704	experience	_	
+11-23	705-709	Take	_	
+11-24	710-713	end	_	
+11-25	714-716	to	_	
+11-26	717-720	end	_	
+11-27	721-730	ownership	_	
+11-28	731-733	of	_	
+11-29	734-744	components	_	
+11-30	745-748	and	_	
+11-31	749-751	be	_	
+11-32	752-763	responsible	_	
+11-33	764-767	for	_	
+11-34	768-771	the	_	
+11-35	772-782	subsystems	_	
+11-36	783-787	that	_	
+11-37	788-791	you	_	
+11-38	792-796	work	_	
+11-39	797-799	on	_	
+11-40	800-804	from	_	
+11-41	805-811	design	Hard Skill	
+11-42	811-812	,	_	
+11-43	813-817	code	_	
+11-44	817-818	,	_	
+11-45	819-826	testing	_	
+11-46	826-827	,	_	
+11-47	828-839	integration	_	
+11-48	839-840	,	_	
+11-49	841-851	deployment	_	
+11-50	851-852	,	_	
+11-51	853-865	enhancements	_	
+11-52	865-866	,	_	
+11-53	867-870	etc	_	
+11-54	871-876	Write	_	
+11-55	877-889	high-quality	_	
+11-56	890-894	code	_	
+11-57	895-898	and	_	
+11-58	899-903	take	_	
+11-59	904-918	responsibility	_	
+11-60	919-922	for	_	
+11-61	923-928	their	_	
+11-62	929-933	task	_	
+11-63	934-945	Communicate	_	
+11-64	946-949	and	_	
+11-65	950-961	collaborate	Soft Skill	
+11-66	962-966	with	_	
+11-67	967-977	management	_	
+11-68	977-978	,	_	
+11-69	979-986	product	_	
+11-70	986-987	,	_	
+11-71	988-990	QA	_	
+11-72	990-991	,	_	
+11-73	992-994	UI	_	
+11-74	994-995	/	_	
+11-75	995-997	UX	_	
+11-76	998-1003	teams	_	
+11-77	1004-1011	Deliver	_	
+11-78	1012-1016	with	_	
+11-79	1017-1024	quality	_	
+11-80	1024-1025	,	_	
+11-81	1026-1033	on-time	_	
+11-82	1034-1036	in	_	
+11-83	1037-1038	a	_	
+11-84	1039-1049	fast-paced	_	
+11-85	1050-1058	start-up	_	
+11-86	1059-1070	environment	_	

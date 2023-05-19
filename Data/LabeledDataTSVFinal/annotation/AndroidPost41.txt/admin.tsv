@@ -1,0 +1,920 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=About Matrix Precise:Matrix Precise Inc. is a Technology Development, Consulting and R&D Company.
+1-1	0-5	About	_	
+1-2	6-12	Matrix	_	
+1-3	13-20	Precise	_	
+1-4	20-21	:	_	
+1-5	21-27	Matrix	_	
+1-6	28-35	Precise	_	
+1-7	36-39	Inc	_	
+1-8	39-40	.	_	
+1-9	41-43	is	_	
+1-10	44-45	a	_	
+1-11	46-56	Technology	_	
+1-12	57-68	Development	_	
+1-13	68-69	,	_	
+1-14	70-80	Consulting	_	
+1-15	81-84	and	_	
+1-16	85-86	R	Hard Skill	
+1-17	86-87	&	_	
+1-18	87-88	D	_	
+1-19	89-96	Company	_	
+1-20	96-97	.	_	
+
+#Text=We provide solutions in the areas of facial recognition, smart retail, handwriting recognition and smart robots.
+2-1	98-100	We	_	
+2-2	101-108	provide	_	
+2-3	109-118	solutions	_	
+2-4	119-121	in	_	
+2-5	122-125	the	_	
+2-6	126-131	areas	_	
+2-7	132-134	of	_	
+2-8	135-141	facial	_	
+2-9	142-153	recognition	_	
+2-10	153-154	,	_	
+2-11	155-160	smart	_	
+2-12	161-167	retail	_	
+2-13	167-168	,	_	
+2-14	169-180	handwriting	_	
+2-15	181-192	recognition	_	
+2-16	193-196	and	_	
+2-17	197-202	smart	_	
+2-18	203-209	robots	_	
+2-19	209-210	.	_	
+
+#Text=Our client services also entail a range of development and support solutions from web and mobile application development, infrastructure and production support and testing services.
+3-1	211-214	Our	_	
+3-2	215-221	client	_	
+3-3	222-230	services	_	
+3-4	231-235	also	_	
+3-5	236-242	entail	_	
+3-6	243-244	a	_	
+3-7	245-250	range	_	
+3-8	251-253	of	_	
+3-9	254-265	development	_	
+3-10	266-269	and	_	
+3-11	270-277	support	_	
+3-12	278-287	solutions	_	
+3-13	288-292	from	_	
+3-14	293-296	web	_	
+3-15	297-300	and	_	
+3-16	301-307	mobile	_	
+3-17	308-319	application	_	
+3-18	320-331	development	_	
+3-19	331-332	,	_	
+3-20	333-347	infrastructure	_	
+3-21	348-351	and	_	
+3-22	352-362	production	_	
+3-23	363-370	support	_	
+3-24	371-374	and	_	
+3-25	375-382	testing	_	
+3-26	383-391	services	_	
+3-27	391-392	.	_	
+
+#Text=We... offer very competitive compensation and benefits packages including health insurance and 401K.Position Description:We are looking for an Android Developer who possesses a passion for pushing mobile technologies to the limits.
+4-1	393-395	We	_	
+4-2	395-396	.	_	
+4-3	396-397	.	_	
+4-4	397-398	.	_	
+4-5	399-404	offer	_	
+4-6	405-409	very	_	
+4-7	410-421	competitive	_	
+4-8	422-434	compensation	_	
+4-9	435-438	and	_	
+4-10	439-447	benefits	_	
+4-11	448-456	packages	_	
+4-12	457-466	including	_	
+4-13	467-473	health	_	
+4-14	474-483	insurance	_	
+4-15	484-487	and	_	
+4-16	488-501	401K.Position	_	
+4-17	502-513	Description	_	
+4-18	513-514	:	_	
+4-19	514-516	We	_	
+4-20	517-520	are	_	
+4-21	521-528	looking	_	
+4-22	529-532	for	_	
+4-23	533-535	an	_	
+4-24	536-543	Android	Hard Skill	
+4-25	544-553	Developer	_	
+4-26	554-557	who	_	
+4-27	558-567	possesses	_	
+4-28	568-569	a	_	
+4-29	570-577	passion	Soft Skill	
+4-30	578-581	for	_	
+4-31	582-589	pushing	_	
+4-32	590-596	mobile	_	
+4-33	597-609	technologies	_	
+4-34	610-612	to	_	
+4-35	613-616	the	_	
+4-36	617-623	limits	_	
+4-37	623-624	.	_	
+
+#Text=This Android app developer will work with our team of talented engineers to design and build the next generation of our mobile applications.Responsibilities: Design and build advanced applications for the Android platform Collaborate with cross-functional teams to define, design, and ship new features Work with outside data sources and APIs Translate designs and wireframes into high quality code.
+5-1	625-629	This	_	
+5-2	630-637	Android	Hard Skill	
+5-3	638-641	app	_	
+5-4	642-651	developer	_	
+5-5	652-656	will	_	
+5-6	657-661	work	_	
+5-7	662-666	with	_	
+5-8	667-670	our	_	
+5-9	671-675	team	_	
+5-10	676-678	of	_	
+5-11	679-687	talented	_	
+5-12	688-697	engineers	_	
+5-13	698-700	to	_	
+5-14	701-707	design	Hard Skill	
+5-15	708-711	and	_	
+5-16	712-717	build	_	
+5-17	718-721	the	_	
+5-18	722-726	next	_	
+5-19	727-737	generation	_	
+5-20	738-740	of	_	
+5-21	741-744	our	_	
+5-22	745-751	mobile	_	
+5-23	752-781	applications.Responsibilities	_	
+5-24	781-782	:	_	
+5-25	783-789	Design	Hard Skill	
+5-26	790-793	and	_	
+5-27	794-799	build	_	
+5-28	800-808	advanced	_	
+5-29	809-821	applications	_	
+5-30	822-825	for	_	
+5-31	826-829	the	_	
+5-32	830-837	Android	Hard Skill	
+5-33	838-846	platform	_	
+5-34	847-858	Collaborate	_	
+5-35	859-863	with	_	
+5-36	864-880	cross-functional	_	
+5-37	881-886	teams	_	
+5-38	887-889	to	_	
+5-39	890-896	define	_	
+5-40	896-897	,	_	
+5-41	898-904	design	Hard Skill	
+5-42	904-905	,	_	
+5-43	906-909	and	_	
+5-44	910-914	ship	_	
+5-45	915-918	new	_	
+5-46	919-927	features	_	
+5-47	928-932	Work	_	
+5-48	933-937	with	_	
+5-49	938-945	outside	_	
+5-50	946-950	data	_	
+5-51	951-958	sources	_	
+5-52	959-962	and	_	
+5-53	963-967	APIs	_	
+5-54	968-977	Translate	_	
+5-55	978-985	designs	_	
+5-56	986-989	and	_	
+5-57	990-1000	wireframes	_	
+5-58	1001-1005	into	_	
+5-59	1006-1010	high	_	
+5-60	1011-1018	quality	_	
+5-61	1019-1023	code	_	
+5-62	1023-1024	.	_	
+
+#Text=Ensure the best possible quality, performance and responsiveness of the application.
+6-1	1025-1031	Ensure	_	
+6-2	1032-1035	the	_	
+6-3	1036-1040	best	_	
+6-4	1041-1049	possible	_	
+6-5	1050-1057	quality	_	
+6-6	1057-1058	,	_	
+6-7	1059-1070	performance	_	
+6-8	1071-1074	and	_	
+6-9	1075-1089	responsiveness	_	
+6-10	1090-1092	of	_	
+6-11	1093-1096	the	_	
+6-12	1097-1108	application	_	
+6-13	1108-1109	.	_	
+
+#Text=Identify and correct bottlenecks and Work on bug fixing and improving application performance.
+7-1	1110-1118	Identify	_	
+7-2	1119-1122	and	_	
+7-3	1123-1130	correct	_	
+7-4	1131-1142	bottlenecks	_	
+7-5	1143-1146	and	_	
+7-6	1147-1151	Work	_	
+7-7	1152-1154	on	_	
+7-8	1155-1158	bug	_	
+7-9	1159-1165	fixing	_	
+7-10	1166-1169	and	_	
+7-11	1170-1179	improving	_	
+7-12	1180-1191	application	_	
+7-13	1192-1203	performance	_	
+7-14	1203-1204	.	_	
+
+#Text=Help design, build and maintain high performance reusable and reliable Java and Android.
+8-1	1205-1209	Help	_	
+8-2	1210-1216	design	Hard Skill	
+8-3	1216-1217	,	_	
+8-4	1218-1223	build	_	
+8-5	1224-1227	and	_	
+8-6	1228-1236	maintain	_	
+8-7	1237-1241	high	_	
+8-8	1242-1253	performance	_	
+8-9	1254-1262	reusable	_	
+8-10	1263-1266	and	_	
+8-11	1267-1275	reliable	_	
+8-12	1276-1280	Java	Hard Skill	
+8-13	1281-1284	and	_	
+8-14	1285-1292	Android	Hard Skill	
+8-15	1292-1293	.	_	
+
+#Text=Unit-test code for robustness, including edge cases, usability, and general reliability Continuously discover, evaluate, and implement new technologies to maximize development efficiency Perform regular code review of peers via Crucible.
+9-1	1294-1303	Unit-test	_	
+9-2	1304-1308	code	_	
+9-3	1309-1312	for	_	
+9-4	1313-1323	robustness	_	
+9-5	1323-1324	,	_	
+9-6	1325-1334	including	_	
+9-7	1335-1339	edge	_	
+9-8	1340-1345	cases	_	
+9-9	1345-1346	,	_	
+9-10	1347-1356	usability	_	
+9-11	1356-1357	,	_	
+9-12	1358-1361	and	_	
+9-13	1362-1369	general	_	
+9-14	1370-1381	reliability	_	
+9-15	1382-1394	Continuously	_	
+9-16	1395-1403	discover	_	
+9-17	1403-1404	,	_	
+9-18	1405-1413	evaluate	_	
+9-19	1413-1414	,	_	
+9-20	1415-1418	and	_	
+9-21	1419-1428	implement	_	
+9-22	1429-1432	new	_	
+9-23	1433-1445	technologies	_	
+9-24	1446-1448	to	_	
+9-25	1449-1457	maximize	_	
+9-26	1458-1469	development	_	
+9-27	1470-1480	efficiency	_	
+9-28	1481-1488	Perform	_	
+9-29	1489-1496	regular	_	
+9-30	1497-1501	code	_	
+9-31	1502-1508	review	_	
+9-32	1509-1511	of	_	
+9-33	1512-1517	peers	_	
+9-34	1518-1521	via	_	
+9-35	1522-1530	Crucible	_	
+9-36	1530-1531	.	_	
+
+#Text=Lead the offshore development team and actively contribute to sprint grooming with Business Analysts & Product Owner.Requirements: Proven software development experience and Android native development using Java.
+10-1	1532-1536	Lead	_	
+10-2	1537-1540	the	_	
+10-3	1541-1549	offshore	_	
+10-4	1550-1561	development	_	
+10-5	1562-1566	team	_	
+10-6	1567-1570	and	_	
+10-7	1571-1579	actively	_	
+10-8	1580-1590	contribute	_	
+10-9	1591-1593	to	_	
+10-10	1594-1600	sprint	_	
+10-11	1601-1609	grooming	_	
+10-12	1610-1614	with	_	
+10-13	1615-1623	Business	_	
+10-14	1624-1632	Analysts	_	
+10-15	1633-1634	&	_	
+10-16	1635-1642	Product	_	
+10-17	1643-1661	Owner.Requirements	_	
+10-18	1661-1662	:	_	
+10-19	1663-1669	Proven	_	
+10-20	1670-1678	software	_	
+10-21	1679-1690	development	_	
+10-22	1691-1701	experience	_	
+10-23	1702-1705	and	_	
+10-24	1706-1713	Android	Hard Skill	
+10-25	1714-1720	native	_	
+10-26	1721-1732	development	_	
+10-27	1733-1738	using	_	
+10-28	1739-1743	Java	Hard Skill	
+10-29	1743-1744	.	_	
+
+#Text=Experience in creating Libraries and custom SDK.
+11-1	1745-1755	Experience	_	
+11-2	1756-1758	in	_	
+11-3	1759-1767	creating	_	
+11-4	1768-1777	Libraries	_	
+11-5	1778-1781	and	_	
+11-6	1782-1788	custom	_	
+11-7	1789-1792	SDK	_	
+11-8	1792-1793	.	_	
+
+#Text=Experience with networking libraries like retrofit, volley.
+12-1	1794-1804	Experience	_	
+12-2	1805-1809	with	_	
+12-3	1810-1820	networking	_	
+12-4	1821-1830	libraries	_	
+12-5	1831-1835	like	_	
+12-6	1836-1844	retrofit	_	
+12-7	1844-1845	,	_	
+12-8	1846-1852	volley	_	
+12-9	1852-1853	.	_	
+
+#Text=Experience with MVVM,MVP, JetPack architectural design pattern.
+13-1	1854-1864	Experience	_	
+13-2	1865-1869	with	_	
+13-3	1870-1874	MVVM	Hard Skill	
+13-4	1874-1875	,	_	
+13-5	1875-1878	MVP	_	
+13-6	1878-1879	,	_	
+13-7	1880-1887	JetPack	_	
+13-8	1888-1901	architectural	_	
+13-9	1902-1908	design	Hard Skill	
+13-10	1909-1916	pattern	_	
+13-11	1916-1917	.	_	
+
+#Text=Experience with LiveData, Observers and DataBinding.
+14-1	1918-1928	Experience	_	
+14-2	1929-1933	with	_	
+14-3	1934-1942	LiveData	_	
+14-4	1942-1943	,	_	
+14-5	1944-1953	Observers	_	
+14-6	1954-1957	and	_	
+14-7	1958-1969	DataBinding	_	
+14-8	1969-1970	.	_	
+
+#Text=Experience with Firebase Cloud Messaging, Firebase Ananlytics, App Dynamics.
+15-1	1971-1981	Experience	_	
+15-2	1982-1986	with	_	
+15-3	1987-1995	Firebase	Hard Skill	
+15-4	1996-2001	Cloud	_	
+15-5	2002-2011	Messaging	_	
+15-6	2011-2012	,	_	
+15-7	2013-2021	Firebase	Hard Skill	
+15-8	2022-2032	Ananlytics	_	
+15-9	2032-2033	,	_	
+15-10	2034-2037	App	_	
+15-11	2038-2046	Dynamics	_	
+15-12	2046-2047	.	_	
+
+#Text=Experience with Latest Android SDK.
+16-1	2048-2058	Experience	_	
+16-2	2059-2063	with	_	
+16-3	2064-2070	Latest	_	
+16-4	2071-2078	Android	Hard Skill	
+16-5	2079-2082	SDK	_	
+16-6	2082-2083	.	_	
+
+#Text=Good Understanding of Application Security concepts and experience with Proguard.
+17-1	2084-2088	Good	_	
+17-2	2089-2102	Understanding	_	
+17-3	2103-2105	of	_	
+17-4	2106-2117	Application	_	
+17-5	2118-2126	Security	_	
+17-6	2127-2135	concepts	_	
+17-7	2136-2139	and	_	
+17-8	2140-2150	experience	_	
+17-9	2151-2155	with	_	
+17-10	2156-2164	Proguard	_	
+17-11	2164-2165	.	_	
+
+#Text=Familiarity with Agile Management tools like Rallly/Jira.
+18-1	2166-2177	Familiarity	_	
+18-2	2178-2182	with	_	
+18-3	2183-2188	Agile	_	
+18-4	2189-2199	Management	_	
+18-5	2200-2205	tools	_	
+18-6	2206-2210	like	_	
+18-7	2211-2217	Rallly	_	
+18-8	2217-2218	/	_	
+18-9	2218-2222	Jira	Hard Skill	
+18-10	2222-2223	.	_	
+
+#Text=Strong knowledge of Android UI design principles, patterns, and best practices.
+19-1	2224-2230	Strong	_	
+19-2	2231-2240	knowledge	_	
+19-3	2241-2243	of	_	
+19-4	2244-2251	Android	Hard Skill	
+19-5	2252-2254	UI	_	
+19-6	2255-2261	design	Hard Skill	
+19-7	2262-2272	principles	_	
+19-8	2272-2273	,	_	
+19-9	2274-2282	patterns	_	
+19-10	2282-2283	,	_	
+19-11	2284-2287	and	_	
+19-12	2288-2292	best	_	
+19-13	2293-2302	practices	_	
+19-14	2302-2303	.	_	
+
+#Text=Strong UI development skills (complex view trees, animations, rendering and strong knowledge of the Android UI kit).
+20-1	2304-2310	Strong	_	
+20-2	2311-2313	UI	_	
+20-3	2314-2325	development	_	
+20-4	2326-2332	skills	_	
+20-5	2333-2334	(	_	
+20-6	2334-2341	complex	_	
+20-7	2342-2346	view	_	
+20-8	2347-2352	trees	_	
+20-9	2352-2353	,	_	
+20-10	2354-2364	animations	_	
+20-11	2364-2365	,	_	
+20-12	2366-2375	rendering	_	
+20-13	2376-2379	and	_	
+20-14	2380-2386	strong	_	
+20-15	2387-2396	knowledge	_	
+20-16	2397-2399	of	_	
+20-17	2400-2403	the	_	
+20-18	2404-2411	Android	Hard Skill	
+20-19	2412-2414	UI	_	
+20-20	2415-2418	kit	_	
+20-21	2418-2419	)	_	
+20-22	2419-2420	.	_	
+
+#Text=Experience with offline storage, threading and performance tuning.
+21-1	2421-2431	Experience	_	
+21-2	2432-2436	with	_	
+21-3	2437-2444	offline	_	
+21-4	2445-2452	storage	_	
+21-5	2452-2453	,	_	
+21-6	2454-2463	threading	_	
+21-7	2464-2467	and	_	
+21-8	2468-2479	performance	_	
+21-9	2480-2486	tuning	_	
+21-10	2486-2487	.	_	
+
+#Text=Familiarity with cloud message APIs (GCM/FCM) and push notifications.
+22-1	2488-2499	Familiarity	_	
+22-2	2500-2504	with	_	
+22-3	2505-2510	cloud	_	
+22-4	2511-2518	message	_	
+22-5	2519-2523	APIs	_	
+22-6	2524-2525	(	_	
+22-7	2525-2528	GCM	_	
+22-8	2528-2529	/	_	
+22-9	2529-2532	FCM	_	
+22-10	2532-2533	)	_	
+22-11	2534-2537	and	_	
+22-12	2538-2542	push	_	
+22-13	2543-2556	notifications	_	
+22-14	2556-2557	.	_	
+
+#Text=Understands Google's Android design principles and interface guidelines.
+23-1	2558-2569	Understands	_	
+23-2	2570-2578	Google's	_	
+23-3	2579-2586	Android	Hard Skill	
+23-4	2587-2593	design	Hard Skill	
+23-5	2594-2604	principles	_	
+23-6	2605-2608	and	_	
+23-7	2609-2618	interface	_	
+23-8	2619-2629	guidelines	_	
+23-9	2629-2630	.	_	
+
+#Text=Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies Familiarity with MVC, MVP and MVVM architecture.
+24-1	2631-2638	Working	_	
+24-2	2639-2648	knowledge	_	
+24-3	2649-2651	of	_	
+24-4	2652-2655	the	_	
+24-5	2656-2663	general	_	
+24-6	2664-2670	mobile	_	
+24-7	2671-2680	landscape	_	
+24-8	2680-2681	,	_	
+24-9	2682-2695	architectures	_	
+24-10	2695-2696	,	_	
+24-11	2697-2703	trends	_	
+24-12	2703-2704	,	_	
+24-13	2705-2708	and	_	
+24-14	2709-2717	emerging	_	
+24-15	2718-2730	technologies	_	
+24-16	2731-2742	Familiarity	_	
+24-17	2743-2747	with	_	
+24-18	2748-2751	MVC	_	
+24-19	2751-2752	,	_	
+24-20	2753-2756	MVP	_	
+24-21	2757-2760	and	_	
+24-22	2761-2765	MVVM	Hard Skill	
+24-23	2766-2778	architecture	_	
+24-24	2778-2779	.	_	
+
+#Text=Proficient understanding of code versioning tools, such as Git.
+25-1	2780-2790	Proficient	_	
+25-2	2791-2804	understanding	_	
+25-3	2805-2807	of	_	
+25-4	2808-2812	code	_	
+25-5	2813-2823	versioning	_	
+25-6	2824-2829	tools	_	
+25-7	2829-2830	,	_	
+25-8	2831-2835	such	_	
+25-9	2836-2838	as	_	
+25-10	2839-2842	Git	Hard Skill	
+25-11	2842-2843	.	_	
+
+#Text=Familiarity with continuous integration i.e.
+26-1	2844-2855	Familiarity	_	
+26-2	2856-2860	with	_	
+26-3	2861-2871	continuous	_	
+26-4	2872-2883	integration	_	
+26-5	2884-2887	i.e	_	
+26-6	2887-2888	.	_	
+
+#Text=Jenkins Good knowledge of unit testing framework (Robo Electric and Instrumentation) and rash lytic tools.Nice to have: Kotlin experience.
+27-1	2889-2896	Jenkins	_	
+27-2	2897-2901	Good	_	
+27-3	2902-2911	knowledge	_	
+27-4	2912-2914	of	_	
+27-5	2915-2919	unit	_	
+27-6	2920-2927	testing	_	
+27-7	2928-2937	framework	_	
+27-8	2938-2939	(	_	
+27-9	2939-2943	Robo	_	
+27-10	2944-2952	Electric	_	
+27-11	2953-2956	and	_	
+27-12	2957-2972	Instrumentation	_	
+27-13	2972-2973	)	_	
+27-14	2974-2977	and	_	
+27-15	2978-2982	rash	_	
+27-16	2983-2988	lytic	_	
+27-17	2989-2999	tools.Nice	_	
+27-18	3000-3002	to	_	
+27-19	3003-3007	have	_	
+27-20	3007-3008	:	_	
+27-21	3009-3015	Kotlin	Hard Skill	
+27-22	3016-3026	experience	_	
+27-23	3026-3027	.	_	
+
+#Text=Published at least one original Android app.
+28-1	3028-3037	Published	_	
+28-2	3038-3040	at	_	
+28-3	3041-3046	least	_	
+28-4	3047-3050	one	_	
+28-5	3051-3059	original	_	
+28-6	3060-3067	Android	Hard Skill	
+28-7	3068-3071	app	_	
+28-8	3071-3072	.	_	
+
+#Text=BS/MS degree in Computer Science, Engineering or a related subject Proven software development experience and Android native development using Java Experience in creating Libraries and custom SDK Experience with networking libraries like retrofit, volley Experience with MVVM,MVP, JetPack architectural design pattern Experience with LiveData, Observers and DataBinding Experience with Firebase Cloud Messaging, Firebase Ananlytics, App Dynamics Experience with Latest Android SDK Good Understanding of Application Security concepts and experience with Proguard Familiarity with Agile Management tools like Rallly/Jira Strong knowledge of Android UI design principles, patterns, and best practices Strong UI development skills (complex view trees, animations, rendering and strong knowledge of the Android UI kit) Experience with offline storage, threading and performance tuning Familiarity with cloud message APIs (GCM/FCM) and push notifications Understands Google's Android design principles and interface guidelines Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies Familiarity with MVC, MVP and MVVM architecture Proficient understanding of code versioning tools, such as Git Familiarity with continuous integration i.e Good knowledge of unit testing framework (Robo Electric and Instrumentation) and rash lytic tools Kotlin experience Published at least one original Android app BS/MS degree in Computer Science, Engineering or a related subject Design and build advanced applications for the Android platform Collaborate with cross-functional teams to define, design, and ship new features Work with outside data sources and APIs Translate designs and wireframes into high quality code Ensure the best possible quality, performance and responsiveness of the application Identify and correct bottlenecks and Work on bug fixing and improving application performance Help design, build and maintain high performance reusable and reliable Java and Android Unit-test code for robustness, including edge cases, usability, and general reliability Continuously discover, evaluate, and implement new technologies to maximize development efficiency Perform regular code review of peers via Crucible Lead the offshore development team and actively contribute to sprint grooming with Business Analysts & Product Owner We offer very competitive compensation and benefits packages including health insurance and 401K
+29-1	3073-3075	BS	_	
+29-2	3075-3076	/	_	
+29-3	3076-3078	MS	_	
+29-4	3079-3085	degree	_	
+29-5	3086-3088	in	_	
+29-6	3089-3097	Computer	_	
+29-7	3098-3105	Science	_	
+29-8	3105-3106	,	_	
+29-9	3107-3118	Engineering	_	
+29-10	3119-3121	or	_	
+29-11	3122-3123	a	_	
+29-12	3124-3131	related	_	
+29-13	3132-3139	subject	_	
+29-14	3140-3146	Proven	_	
+29-15	3147-3155	software	_	
+29-16	3156-3167	development	_	
+29-17	3168-3178	experience	_	
+29-18	3179-3182	and	_	
+29-19	3183-3190	Android	Hard Skill	
+29-20	3191-3197	native	_	
+29-21	3198-3209	development	_	
+29-22	3210-3215	using	_	
+29-23	3216-3220	Java	Hard Skill	
+29-24	3221-3231	Experience	_	
+29-25	3232-3234	in	_	
+29-26	3235-3243	creating	_	
+29-27	3244-3253	Libraries	_	
+29-28	3254-3257	and	_	
+29-29	3258-3264	custom	_	
+29-30	3265-3268	SDK	_	
+29-31	3269-3279	Experience	_	
+29-32	3280-3284	with	_	
+29-33	3285-3295	networking	_	
+29-34	3296-3305	libraries	_	
+29-35	3306-3310	like	_	
+29-36	3311-3319	retrofit	_	
+29-37	3319-3320	,	_	
+29-38	3321-3327	volley	_	
+29-39	3328-3338	Experience	_	
+29-40	3339-3343	with	_	
+29-41	3344-3348	MVVM	Hard Skill	
+29-42	3348-3349	,	_	
+29-43	3349-3352	MVP	_	
+29-44	3352-3353	,	_	
+29-45	3354-3361	JetPack	_	
+29-46	3362-3375	architectural	_	
+29-47	3376-3382	design	Hard Skill	
+29-48	3383-3390	pattern	_	
+29-49	3391-3401	Experience	_	
+29-50	3402-3406	with	_	
+29-51	3407-3415	LiveData	_	
+29-52	3415-3416	,	_	
+29-53	3417-3426	Observers	_	
+29-54	3427-3430	and	_	
+29-55	3431-3442	DataBinding	_	
+29-56	3443-3453	Experience	_	
+29-57	3454-3458	with	_	
+29-58	3459-3467	Firebase	Hard Skill	
+29-59	3468-3473	Cloud	_	
+29-60	3474-3483	Messaging	_	
+29-61	3483-3484	,	_	
+29-62	3485-3493	Firebase	Hard Skill	
+29-63	3494-3504	Ananlytics	_	
+29-64	3504-3505	,	_	
+29-65	3506-3509	App	_	
+29-66	3510-3518	Dynamics	_	
+29-67	3519-3529	Experience	_	
+29-68	3530-3534	with	_	
+29-69	3535-3541	Latest	_	
+29-70	3542-3549	Android	Hard Skill	
+29-71	3550-3553	SDK	_	
+29-72	3554-3558	Good	_	
+29-73	3559-3572	Understanding	_	
+29-74	3573-3575	of	_	
+29-75	3576-3587	Application	_	
+29-76	3588-3596	Security	_	
+29-77	3597-3605	concepts	_	
+29-78	3606-3609	and	_	
+29-79	3610-3620	experience	_	
+29-80	3621-3625	with	_	
+29-81	3626-3634	Proguard	_	
+29-82	3635-3646	Familiarity	_	
+29-83	3647-3651	with	_	
+29-84	3652-3657	Agile	_	
+29-85	3658-3668	Management	_	
+29-86	3669-3674	tools	_	
+29-87	3675-3679	like	_	
+29-88	3680-3686	Rallly	_	
+29-89	3686-3687	/	_	
+29-90	3687-3691	Jira	Hard Skill	
+29-91	3692-3698	Strong	_	
+29-92	3699-3708	knowledge	_	
+29-93	3709-3711	of	_	
+29-94	3712-3719	Android	Hard Skill	
+29-95	3720-3722	UI	_	
+29-96	3723-3729	design	Hard Skill	
+29-97	3730-3740	principles	_	
+29-98	3740-3741	,	_	
+29-99	3742-3750	patterns	_	
+29-100	3750-3751	,	_	
+29-101	3752-3755	and	_	
+29-102	3756-3760	best	_	
+29-103	3761-3770	practices	_	
+29-104	3771-3777	Strong	_	
+29-105	3778-3780	UI	_	
+29-106	3781-3792	development	_	
+29-107	3793-3799	skills	_	
+29-108	3800-3801	(	_	
+29-109	3801-3808	complex	_	
+29-110	3809-3813	view	_	
+29-111	3814-3819	trees	_	
+29-112	3819-3820	,	_	
+29-113	3821-3831	animations	_	
+29-114	3831-3832	,	_	
+29-115	3833-3842	rendering	_	
+29-116	3843-3846	and	_	
+29-117	3847-3853	strong	_	
+29-118	3854-3863	knowledge	_	
+29-119	3864-3866	of	_	
+29-120	3867-3870	the	_	
+29-121	3871-3878	Android	Hard Skill	
+29-122	3879-3881	UI	_	
+29-123	3882-3885	kit	_	
+29-124	3885-3886	)	_	
+29-125	3887-3897	Experience	_	
+29-126	3898-3902	with	_	
+29-127	3903-3910	offline	_	
+29-128	3911-3918	storage	_	
+29-129	3918-3919	,	_	
+29-130	3920-3929	threading	_	
+29-131	3930-3933	and	_	
+29-132	3934-3945	performance	_	
+29-133	3946-3952	tuning	_	
+29-134	3953-3964	Familiarity	_	
+29-135	3965-3969	with	_	
+29-136	3970-3975	cloud	_	
+29-137	3976-3983	message	_	
+29-138	3984-3988	APIs	_	
+29-139	3989-3990	(	_	
+29-140	3990-3993	GCM	_	
+29-141	3993-3994	/	_	
+29-142	3994-3997	FCM	_	
+29-143	3997-3998	)	_	
+29-144	3999-4002	and	_	
+29-145	4003-4007	push	_	
+29-146	4008-4021	notifications	_	
+29-147	4022-4033	Understands	_	
+29-148	4034-4042	Google's	_	
+29-149	4043-4050	Android	Hard Skill	
+29-150	4051-4057	design	Hard Skill	
+29-151	4058-4068	principles	_	
+29-152	4069-4072	and	_	
+29-153	4073-4082	interface	_	
+29-154	4083-4093	guidelines	_	
+29-155	4094-4101	Working	_	
+29-156	4102-4111	knowledge	_	
+29-157	4112-4114	of	_	
+29-158	4115-4118	the	_	
+29-159	4119-4126	general	_	
+29-160	4127-4133	mobile	_	
+29-161	4134-4143	landscape	_	
+29-162	4143-4144	,	_	
+29-163	4145-4158	architectures	_	
+29-164	4158-4159	,	_	
+29-165	4160-4166	trends	_	
+29-166	4166-4167	,	_	
+29-167	4168-4171	and	_	
+29-168	4172-4180	emerging	_	
+29-169	4181-4193	technologies	_	
+29-170	4194-4205	Familiarity	_	
+29-171	4206-4210	with	_	
+29-172	4211-4214	MVC	_	
+29-173	4214-4215	,	_	
+29-174	4216-4219	MVP	_	
+29-175	4220-4223	and	_	
+29-176	4224-4228	MVVM	Hard Skill	
+29-177	4229-4241	architecture	_	
+29-178	4242-4252	Proficient	_	
+29-179	4253-4266	understanding	_	
+29-180	4267-4269	of	_	
+29-181	4270-4274	code	_	
+29-182	4275-4285	versioning	_	
+29-183	4286-4291	tools	_	
+29-184	4291-4292	,	_	
+29-185	4293-4297	such	_	
+29-186	4298-4300	as	_	
+29-187	4301-4304	Git	Hard Skill	
+29-188	4305-4316	Familiarity	_	
+29-189	4317-4321	with	_	
+29-190	4322-4332	continuous	_	
+29-191	4333-4344	integration	_	
+29-192	4345-4348	i.e	_	
+29-193	4349-4353	Good	_	
+29-194	4354-4363	knowledge	_	
+29-195	4364-4366	of	_	
+29-196	4367-4371	unit	_	
+29-197	4372-4379	testing	_	
+29-198	4380-4389	framework	_	
+29-199	4390-4391	(	_	
+29-200	4391-4395	Robo	_	
+29-201	4396-4404	Electric	_	
+29-202	4405-4408	and	_	
+29-203	4409-4424	Instrumentation	_	
+29-204	4424-4425	)	_	
+29-205	4426-4429	and	_	
+29-206	4430-4434	rash	_	
+29-207	4435-4440	lytic	_	
+29-208	4441-4446	tools	_	
+29-209	4447-4453	Kotlin	Hard Skill	
+29-210	4454-4464	experience	_	
+29-211	4465-4474	Published	_	
+29-212	4475-4477	at	_	
+29-213	4478-4483	least	_	
+29-214	4484-4487	one	_	
+29-215	4488-4496	original	_	
+29-216	4497-4504	Android	Hard Skill	
+29-217	4505-4508	app	_	
+29-218	4509-4511	BS	_	
+29-219	4511-4512	/	_	
+29-220	4512-4514	MS	_	
+29-221	4515-4521	degree	_	
+29-222	4522-4524	in	_	
+29-223	4525-4533	Computer	_	
+29-224	4534-4541	Science	_	
+29-225	4541-4542	,	_	
+29-226	4543-4554	Engineering	_	
+29-227	4555-4557	or	_	
+29-228	4558-4559	a	_	
+29-229	4560-4567	related	_	
+29-230	4568-4575	subject	_	
+29-231	4576-4582	Design	Hard Skill	
+29-232	4583-4586	and	_	
+29-233	4587-4592	build	_	
+29-234	4593-4601	advanced	_	
+29-235	4602-4614	applications	_	
+29-236	4615-4618	for	_	
+29-237	4619-4622	the	_	
+29-238	4623-4630	Android	Hard Skill	
+29-239	4631-4639	platform	_	
+29-240	4640-4651	Collaborate	_	
+29-241	4652-4656	with	_	
+29-242	4657-4673	cross-functional	_	
+29-243	4674-4679	teams	_	
+29-244	4680-4682	to	_	
+29-245	4683-4689	define	_	
+29-246	4689-4690	,	_	
+29-247	4691-4697	design	Hard Skill	
+29-248	4697-4698	,	_	
+29-249	4699-4702	and	_	
+29-250	4703-4707	ship	_	
+29-251	4708-4711	new	_	
+29-252	4712-4720	features	_	
+29-253	4721-4725	Work	_	
+29-254	4726-4730	with	_	
+29-255	4731-4738	outside	_	
+29-256	4739-4743	data	_	
+29-257	4744-4751	sources	_	
+29-258	4752-4755	and	_	
+29-259	4756-4760	APIs	_	
+29-260	4761-4770	Translate	_	
+29-261	4771-4778	designs	_	
+29-262	4779-4782	and	_	
+29-263	4783-4793	wireframes	_	
+29-264	4794-4798	into	_	
+29-265	4799-4803	high	_	
+29-266	4804-4811	quality	_	
+29-267	4812-4816	code	_	
+29-268	4817-4823	Ensure	_	
+29-269	4824-4827	the	_	
+29-270	4828-4832	best	_	
+29-271	4833-4841	possible	_	
+29-272	4842-4849	quality	_	
+29-273	4849-4850	,	_	
+29-274	4851-4862	performance	_	
+29-275	4863-4866	and	_	
+29-276	4867-4881	responsiveness	_	
+29-277	4882-4884	of	_	
+29-278	4885-4888	the	_	
+29-279	4889-4900	application	_	
+29-280	4901-4909	Identify	_	
+29-281	4910-4913	and	_	
+29-282	4914-4921	correct	_	
+29-283	4922-4933	bottlenecks	_	
+29-284	4934-4937	and	_	
+29-285	4938-4942	Work	_	
+29-286	4943-4945	on	_	
+29-287	4946-4949	bug	_	
+29-288	4950-4956	fixing	_	
+29-289	4957-4960	and	_	
+29-290	4961-4970	improving	_	
+29-291	4971-4982	application	_	
+29-292	4983-4994	performance	_	
+29-293	4995-4999	Help	_	
+29-294	5000-5006	design	Hard Skill	
+29-295	5006-5007	,	_	
+29-296	5008-5013	build	_	
+29-297	5014-5017	and	_	
+29-298	5018-5026	maintain	_	
+29-299	5027-5031	high	_	
+29-300	5032-5043	performance	_	
+29-301	5044-5052	reusable	_	
+29-302	5053-5056	and	_	
+29-303	5057-5065	reliable	_	
+29-304	5066-5070	Java	Hard Skill	
+29-305	5071-5074	and	_	
+29-306	5075-5082	Android	Hard Skill	
+29-307	5083-5092	Unit-test	_	
+29-308	5093-5097	code	_	
+29-309	5098-5101	for	_	
+29-310	5102-5112	robustness	_	
+29-311	5112-5113	,	_	
+29-312	5114-5123	including	_	
+29-313	5124-5128	edge	_	
+29-314	5129-5134	cases	_	
+29-315	5134-5135	,	_	
+29-316	5136-5145	usability	_	
+29-317	5145-5146	,	_	
+29-318	5147-5150	and	_	
+29-319	5151-5158	general	_	
+29-320	5159-5170	reliability	_	
+29-321	5171-5183	Continuously	_	
+29-322	5184-5192	discover	_	
+29-323	5192-5193	,	_	
+29-324	5194-5202	evaluate	_	
+29-325	5202-5203	,	_	
+29-326	5204-5207	and	_	
+29-327	5208-5217	implement	_	
+29-328	5218-5221	new	_	
+29-329	5222-5234	technologies	_	
+29-330	5235-5237	to	_	
+29-331	5238-5246	maximize	_	
+29-332	5247-5258	development	_	
+29-333	5259-5269	efficiency	_	
+29-334	5270-5277	Perform	_	
+29-335	5278-5285	regular	_	
+29-336	5286-5290	code	_	
+29-337	5291-5297	review	_	
+29-338	5298-5300	of	_	
+29-339	5301-5306	peers	_	
+29-340	5307-5310	via	_	
+29-341	5311-5319	Crucible	_	
+29-342	5320-5324	Lead	_	
+29-343	5325-5328	the	_	
+29-344	5329-5337	offshore	_	
+29-345	5338-5349	development	_	
+29-346	5350-5354	team	_	
+29-347	5355-5358	and	_	
+29-348	5359-5367	actively	_	
+29-349	5368-5378	contribute	_	
+29-350	5379-5381	to	_	
+29-351	5382-5388	sprint	_	
+29-352	5389-5397	grooming	_	
+29-353	5398-5402	with	_	
+29-354	5403-5411	Business	_	
+29-355	5412-5420	Analysts	_	
+29-356	5421-5422	&	_	
+29-357	5423-5430	Product	_	
+29-358	5431-5436	Owner	_	
+29-359	5437-5439	We	_	
+29-360	5440-5445	offer	_	
+29-361	5446-5450	very	_	
+29-362	5451-5462	competitive	_	
+29-363	5463-5475	compensation	_	
+29-364	5476-5479	and	_	
+29-365	5480-5488	benefits	_	
+29-366	5489-5497	packages	_	
+29-367	5498-5507	including	_	
+29-368	5508-5514	health	_	
+29-369	5515-5524	insurance	_	
+29-370	5525-5528	and	_	
+29-371	5529-5533	401K	_	

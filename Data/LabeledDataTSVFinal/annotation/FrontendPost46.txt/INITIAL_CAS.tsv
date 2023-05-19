@@ -1,0 +1,167 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsiblities: Design mobile-based features.
+1-1	0-15	Responsiblities	
+1-2	15-16	:	
+1-3	17-23	Design	
+1-4	24-36	mobile-based	
+1-5	37-45	features	
+1-6	45-46	.	
+
+#Text=Collaborate with back-end developers and web designers to improve usability.
+2-1	47-58	Collaborate	
+2-2	59-63	with	
+2-3	64-72	back-end	
+2-4	73-83	developers	
+2-5	84-87	and	
+2-6	88-91	web	
+2-7	92-101	designers	
+2-8	102-104	to	
+2-9	105-112	improve	
+2-10	113-122	usability	
+2-11	122-123	.	
+
+#Text=Get feedback from, and build solutions for, users and customers.
+3-1	124-127	Get	
+3-2	128-136	feedback	
+3-3	137-141	from	
+3-4	141-142	,	
+3-5	143-146	and	
+3-6	147-152	build	
+3-7	153-162	solutions	
+3-8	163-166	for	
+3-9	166-167	,	
+3-10	168-173	users	
+3-11	174-177	and	
+3-12	178-187	customers	
+3-13	187-188	.	
+
+#Text=Write functional requirement documents and guides.
+4-1	189-194	Write	
+4-2	195-205	functional	
+4-3	206-217	requirement	
+4-4	218-227	documents	
+4-5	228-231	and	
+4-6	232-238	guides	
+4-7	238-239	.	
+
+#Text=Create quality mockups and prototypes.
+5-1	240-246	Create	
+5-2	247-254	quality	
+5-3	255-262	mockups	
+5-4	263-266	and	
+5-5	267-277	prototypes	
+5-6	277-278	.	
+
+#Text=Help back-end developers with coding and troubleshooting.
+6-1	279-283	Help	
+6-2	284-292	back-end	
+6-3	293-303	developers	
+6-4	304-308	with	
+6-5	309-315	coding	
+6-6	316-319	and	
+6-7	320-335	troubleshooting	
+6-8	335-336	.	
+
+#Text=Ensure high quality graphic standards and brand... consistency.Key Skills: JavaScript.
+7-1	337-343	Ensure	
+7-2	344-348	high	
+7-3	349-356	quality	
+7-4	357-364	graphic	
+7-5	365-374	standards	
+7-6	375-378	and	
+7-7	379-384	brand	
+7-8	384-385	.	
+7-9	385-386	.	
+7-10	386-387	.	
+7-11	388-403	consistency.Key	
+7-12	404-410	Skills	
+7-13	410-411	:	
+7-14	412-422	JavaScript	
+7-15	422-423	.	
+
+#Text=Frameworks and Libraries.
+8-1	424-434	Frameworks	
+8-2	435-438	and	
+8-3	439-448	Libraries	
+8-4	448-449	.	
+
+#Text=Version control.
+9-1	450-457	Version	
+9-2	458-465	control	
+9-3	465-466	.	
+
+#Text=Cross-browser and device testing.
+10-1	467-480	Cross-browser	
+10-2	481-484	and	
+10-3	485-491	device	
+10-4	492-499	testing	
+10-5	499-500	.	
+
+#Text=Web performance optimization.
+11-1	501-504	Web	
+11-2	505-516	performance	
+11-3	517-529	optimization	
+11-4	529-530	.	
+
+#Text=Search engine optimization Key Skills: JavaScript Cross-browser and device testing Collaborate with back-end developers and web designers to improve usability Get feedback from, and build solutions for, users and customers Write functional requirement documents and guides Create quality mockups and prototypes Help back-end developers with coding and troubleshooting Ensure high quality graphic standards and brand consistency
+12-1	531-537	Search	
+12-2	538-544	engine	
+12-3	545-557	optimization	
+12-4	558-561	Key	
+12-5	562-568	Skills	
+12-6	568-569	:	
+12-7	570-580	JavaScript	
+12-8	581-594	Cross-browser	
+12-9	595-598	and	
+12-10	599-605	device	
+12-11	606-613	testing	
+12-12	614-625	Collaborate	
+12-13	626-630	with	
+12-14	631-639	back-end	
+12-15	640-650	developers	
+12-16	651-654	and	
+12-17	655-658	web	
+12-18	659-668	designers	
+12-19	669-671	to	
+12-20	672-679	improve	
+12-21	680-689	usability	
+12-22	690-693	Get	
+12-23	694-702	feedback	
+12-24	703-707	from	
+12-25	707-708	,	
+12-26	709-712	and	
+12-27	713-718	build	
+12-28	719-728	solutions	
+12-29	729-732	for	
+12-30	732-733	,	
+12-31	734-739	users	
+12-32	740-743	and	
+12-33	744-753	customers	
+12-34	754-759	Write	
+12-35	760-770	functional	
+12-36	771-782	requirement	
+12-37	783-792	documents	
+12-38	793-796	and	
+12-39	797-803	guides	
+12-40	804-810	Create	
+12-41	811-818	quality	
+12-42	819-826	mockups	
+12-43	827-830	and	
+12-44	831-841	prototypes	
+12-45	842-846	Help	
+12-46	847-855	back-end	
+12-47	856-866	developers	
+12-48	867-871	with	
+12-49	872-878	coding	
+12-50	879-882	and	
+12-51	883-898	troubleshooting	
+12-52	899-905	Ensure	
+12-53	906-910	high	
+12-54	911-918	quality	
+12-55	919-926	graphic	
+12-56	927-936	standards	
+12-57	937-940	and	
+12-58	941-946	brand	
+12-59	947-958	consistency	

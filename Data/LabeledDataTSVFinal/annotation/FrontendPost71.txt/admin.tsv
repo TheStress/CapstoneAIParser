@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job Description:Job Description...Front end DeveloperLocation: RemoteRequired Skills: Cloud native Architecture React Node.js Html Responsive design and web development Loyalty Management Experience mandatoryReport this job Dice Id: 91098263 Position Id: 7857879 Are you interested in this job?
+1-1	0-3	Job	_	
+1-2	4-15	Description	_	
+1-3	15-16	:	_	
+1-4	16-19	Job	_	
+1-5	20-31	Description	_	
+1-6	31-32	.	_	
+1-7	32-33	.	_	
+1-8	33-34	.	_	
+1-9	34-39	Front	_	
+1-10	40-43	end	_	
+1-11	44-61	DeveloperLocation	_	
+1-12	61-62	:	_	
+1-13	63-77	RemoteRequired	_	
+1-14	78-84	Skills	_	
+1-15	84-85	:	_	
+1-16	86-91	Cloud	_	
+1-17	92-98	native	_	
+1-18	99-111	Architecture	_	
+1-19	112-117	React	Hard Skill	
+1-20	118-125	Node.js	Hard Skill	
+1-21	126-130	Html	_	
+1-22	131-141	Responsive	_	
+1-23	142-148	design	Hard Skill	
+1-24	149-152	and	_	
+1-25	153-156	web	_	
+1-26	157-168	development	_	
+1-27	169-176	Loyalty	_	
+1-28	177-187	Management	_	
+1-29	188-198	Experience	_	
+1-30	199-214	mandatoryReport	_	
+1-31	215-219	this	_	
+1-32	220-223	job	_	
+1-33	224-228	Dice	_	
+1-34	229-231	Id	_	
+1-35	231-232	:	_	
+1-36	233-241	91098263	_	
+1-37	242-250	Position	_	
+1-38	251-253	Id	_	
+1-39	253-254	:	_	
+1-40	255-262	7857879	_	
+1-41	263-266	Are	_	
+1-42	267-270	you	_	
+1-43	271-281	interested	_	
+1-44	282-284	in	_	
+1-45	285-289	this	_	
+1-46	290-293	job	_	
+1-47	293-294	?	_	
+
+#Text=Please apply from Salary.comJob ID: j202304190145505334136Recommended Job Skills: Architecture, Building CodesAverage Estimate Salary for a Front End Developer: $136,599 to $163,488This data is calculated using netizen feedback data.
+2-1	295-301	Please	_	
+2-2	302-307	apply	_	
+2-3	308-312	from	_	
+2-4	313-326	Salary.comJob	_	
+2-5	327-329	ID	_	
+2-6	329-330	:	_	
+2-7	331-364	j202304190145505334136Recommended	_	
+2-8	365-368	Job	_	
+2-9	369-375	Skills	_	
+2-10	375-376	:	_	
+2-11	377-389	Architecture	_	
+2-12	389-390	,	_	
+2-13	391-399	Building	_	
+2-14	400-412	CodesAverage	_	
+2-15	413-421	Estimate	_	
+2-16	422-428	Salary	_	
+2-17	429-432	for	_	
+2-18	433-434	a	_	
+2-19	435-440	Front	_	
+2-20	441-444	End	_	
+2-21	445-454	Developer	_	
+2-22	454-455	:	_	
+2-23	456-464	$136,599	_	
+2-24	465-467	to	_	
+2-25	468-480	$163,488This	_	
+2-26	481-485	data	_	
+2-27	486-488	is	_	
+2-28	489-499	calculated	_	
+2-29	500-505	using	_	
+2-30	506-513	netizen	_	
+2-31	514-522	feedback	_	
+2-32	523-527	data	_	
+2-33	527-528	.	_	
+
+#Text=To get the most accurate number for your company jobs in your locations, use our subscription products: https://www.salary.com/companalyst Cloud native Architecture React Node.js Html Responsive design and web development Loyalty Management Experience mandatory Average Estimate Salary for a Front End Developer: $136,599 to $163,488
+3-1	529-531	To	_	
+3-2	532-535	get	_	
+3-3	536-539	the	_	
+3-4	540-544	most	_	
+3-5	545-553	accurate	_	
+3-6	554-560	number	_	
+3-7	561-564	for	_	
+3-8	565-569	your	_	
+3-9	570-577	company	_	
+3-10	578-582	jobs	_	
+3-11	583-585	in	_	
+3-12	586-590	your	_	
+3-13	591-600	locations	_	
+3-14	600-601	,	_	
+3-15	602-605	use	_	
+3-16	606-609	our	_	
+3-17	610-622	subscription	_	
+3-18	623-631	products	_	
+3-19	631-632	:	_	
+3-20	633-638	https	_	
+3-21	638-639	:	_	
+3-22	639-640	/	_	
+3-23	640-641	/	_	
+3-24	641-655	www.salary.com	_	
+3-25	655-656	/	_	
+3-26	656-667	companalyst	_	
+3-27	668-673	Cloud	_	
+3-28	674-680	native	_	
+3-29	681-693	Architecture	_	
+3-30	694-699	React	Hard Skill	
+3-31	700-707	Node.js	Hard Skill	
+3-32	708-712	Html	_	
+3-33	713-723	Responsive	_	
+3-34	724-730	design	Hard Skill	
+3-35	731-734	and	_	
+3-36	735-738	web	_	
+3-37	739-750	development	_	
+3-38	751-758	Loyalty	_	
+3-39	759-769	Management	_	
+3-40	770-780	Experience	_	
+3-41	781-790	mandatory	_	
+3-42	791-798	Average	_	
+3-43	799-807	Estimate	_	
+3-44	808-814	Salary	_	
+3-45	815-818	for	_	
+3-46	819-820	a	_	
+3-47	821-826	Front	_	
+3-48	827-830	End	_	
+3-49	831-840	Developer	_	
+3-50	840-841	:	_	
+3-51	842-850	$136,599	_	
+3-52	851-853	to	_	
+3-53	854-862	$163,488	_	

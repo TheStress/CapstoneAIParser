@@ -1,0 +1,831 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Top 3 Skills: Customer service iOS Developer support experience...
+1-1	0-3	Top	_	
+1-2	4-5	3	_	
+1-3	6-12	Skills	_	
+1-4	12-13	:	_	
+1-5	14-22	Customer	_	
+1-6	23-30	service	_	
+1-7	31-34	iOS	_	
+1-8	35-44	Developer	_	
+1-9	45-52	support	_	
+1-10	53-63	experience	_	
+1-11	63-64	.	_	
+1-12	64-65	.	_	
+1-13	65-66	.	_	
+
+#Text=Communication skillsThe Mobile Developer will be responsible for design, development, and delivery of Ally native iOS mobile applications.
+2-1	67-80	Communication	Soft Skill	
+2-2	81-90	skillsThe	_	
+2-3	91-97	Mobile	_	
+2-4	98-107	Developer	_	
+2-5	108-112	will	_	
+2-6	113-115	be	_	
+2-7	116-127	responsible	_	
+2-8	128-131	for	_	
+2-9	132-138	design	Hard Skill	
+2-10	138-139	,	_	
+2-11	140-151	development	_	
+2-12	151-152	,	_	
+2-13	153-156	and	_	
+2-14	157-165	delivery	_	
+2-15	166-168	of	_	
+2-16	169-173	Ally	_	
+2-17	174-180	native	_	
+2-18	181-184	iOS	_	
+2-19	185-191	mobile	_	
+2-20	192-204	applications	_	
+2-21	204-205	.	_	
+
+#Text=The candidate must exhibit strong interpersonal and communication skills.
+3-1	206-209	The	_	
+3-2	210-219	candidate	_	
+3-3	220-224	must	_	
+3-4	225-232	exhibit	_	
+3-5	233-239	strong	_	
+3-6	240-253	interpersonal	Soft Skill	
+3-7	254-257	and	_	
+3-8	258-271	communication	Soft Skill	
+3-9	272-278	skills	_	
+3-10	278-279	.	_	
+
+#Text=The candidate must have experience interfacing with product owners as well as internal and external technical teams and resources.
+4-1	280-283	The	_	
+4-2	284-293	candidate	_	
+4-3	294-298	must	_	
+4-4	299-303	have	_	
+4-5	304-314	experience	_	
+4-6	315-326	interfacing	_	
+4-7	327-331	with	_	
+4-8	332-339	product	_	
+4-9	340-346	owners	_	
+4-10	347-349	as	_	
+4-11	350-354	well	_	
+4-12	355-357	as	_	
+4-13	358-366	internal	_	
+4-14	367-370	and	_	
+4-15	371-379	external	_	
+4-16	380-389	technical	_	
+4-17	390-395	teams	_	
+4-18	396-399	and	_	
+4-19	400-409	resources	_	
+4-20	409-410	.	_	
+
+#Text=Agile development experience is preferred.The role requires native mobile development experience with iOS universal applications and Apple watch.
+5-1	411-416	Agile	Hard Skill	
+5-2	417-428	development	_	
+5-3	429-439	experience	_	
+5-4	440-442	is	_	
+5-5	443-456	preferred.The	_	
+5-6	457-461	role	_	
+5-7	462-470	requires	_	
+5-8	471-477	native	_	
+5-9	478-484	mobile	_	
+5-10	485-496	development	_	
+5-11	497-507	experience	_	
+5-12	508-512	with	_	
+5-13	513-516	iOS	_	
+5-14	517-526	universal	_	
+5-15	527-539	applications	_	
+5-16	540-543	and	_	
+5-17	544-549	Apple	_	
+5-18	550-555	watch	_	
+5-19	555-556	.	_	
+
+#Text=Strong technical knowledge, coupled with indepth experience working with REST services, is required.The ideal candidate would have 3-5 years experience developing iOS native mobile applications.
+6-1	557-563	Strong	_	
+6-2	564-573	technical	_	
+6-3	574-583	knowledge	_	
+6-4	583-584	,	_	
+6-5	585-592	coupled	_	
+6-6	593-597	with	_	
+6-7	598-605	indepth	_	
+6-8	606-616	experience	_	
+6-9	617-624	working	_	
+6-10	625-629	with	_	
+6-11	630-634	REST	_	
+6-12	635-643	services	_	
+6-13	643-644	,	_	
+6-14	645-647	is	_	
+6-15	648-660	required.The	_	
+6-16	661-666	ideal	_	
+6-17	667-676	candidate	_	
+6-18	677-682	would	_	
+6-19	683-687	have	_	
+6-20	688-689	3	_	
+6-21	689-690	-	_	
+6-22	690-691	5	_	
+6-23	692-697	years	_	
+6-24	698-708	experience	_	
+6-25	709-719	developing	_	
+6-26	720-723	iOS	_	
+6-27	724-730	native	_	
+6-28	731-737	mobile	_	
+6-29	738-750	applications	_	
+6-30	750-751	.	_	
+
+#Text=Experience in a financial services environment is a plus.Primary responsibilities: Participate as a member of a mobile development scrum team.
+7-1	752-762	Experience	_	
+7-2	763-765	in	_	
+7-3	766-767	a	_	
+7-4	768-777	financial	_	
+7-5	778-786	services	_	
+7-6	787-798	environment	_	
+7-7	799-801	is	_	
+7-8	802-803	a	_	
+7-9	804-816	plus.Primary	_	
+7-10	817-833	responsibilities	_	
+7-11	833-834	:	_	
+7-12	835-846	Participate	_	
+7-13	847-849	as	_	
+7-14	850-851	a	_	
+7-15	852-858	member	_	
+7-16	859-861	of	_	
+7-17	862-863	a	_	
+7-18	864-870	mobile	_	
+7-19	871-882	development	_	
+7-20	883-888	scrum	_	
+7-21	889-893	team	_	
+7-22	893-894	.	_	
+
+#Text=Become a subject matter expert in the Ally mobile channel.
+8-1	895-901	Become	_	
+8-2	902-903	a	_	
+8-3	904-911	subject	_	
+8-4	912-918	matter	_	
+8-5	919-925	expert	_	
+8-6	926-928	in	_	
+8-7	929-932	the	_	
+8-8	933-937	Ally	_	
+8-9	938-944	mobile	_	
+8-10	945-952	channel	_	
+8-11	952-953	.	_	
+
+#Text=Partner with solution architects to leverage industry best practices to design and deliver high quality mobile applications.
+9-1	954-961	Partner	_	
+9-2	962-966	with	_	
+9-3	967-975	solution	_	
+9-4	976-986	architects	_	
+9-5	987-989	to	_	
+9-6	990-998	leverage	_	
+9-7	999-1007	industry	_	
+9-8	1008-1012	best	_	
+9-9	1013-1022	practices	_	
+9-10	1023-1025	to	_	
+9-11	1026-1032	design	Hard Skill	
+9-12	1033-1036	and	_	
+9-13	1037-1044	deliver	_	
+9-14	1045-1049	high	_	
+9-15	1050-1057	quality	_	
+9-16	1058-1064	mobile	_	
+9-17	1065-1077	applications	_	
+9-18	1077-1078	.	_	
+
+#Text=Escalate issues to senior management early, before they create significant impact to a project/release.
+10-1	1079-1087	Escalate	_	
+10-2	1088-1094	issues	_	
+10-3	1095-1097	to	_	
+10-4	1098-1104	senior	_	
+10-5	1105-1115	management	_	
+10-6	1116-1121	early	_	
+10-7	1121-1122	,	_	
+10-8	1123-1129	before	_	
+10-9	1130-1134	they	_	
+10-10	1135-1141	create	_	
+10-11	1142-1153	significant	_	
+10-12	1154-1160	impact	_	
+10-13	1161-1163	to	_	
+10-14	1164-1165	a	_	
+10-15	1166-1173	project	_	
+10-16	1173-1174	/	_	
+10-17	1174-1181	release	_	
+10-18	1181-1182	.	_	
+
+#Text=Review and approve all mid-level design documentation.
+11-1	1183-1189	Review	_	
+11-2	1190-1193	and	_	
+11-3	1194-1201	approve	_	
+11-4	1202-1205	all	_	
+11-5	1206-1215	mid-level	_	
+11-6	1216-1222	design	Hard Skill	
+11-7	1223-1236	documentation	Hard Skill	
+11-8	1236-1237	.	_	
+
+#Text=Ensure that detail design documentation is competed, reviewed, and approved, as required.
+12-1	1238-1244	Ensure	_	
+12-2	1245-1249	that	_	
+12-3	1250-1256	detail	_	
+12-4	1257-1263	design	Hard Skill	
+12-5	1264-1277	documentation	Hard Skill	
+12-6	1278-1280	is	_	
+12-7	1281-1289	competed	_	
+12-8	1289-1290	,	_	
+12-9	1291-1299	reviewed	_	
+12-10	1299-1300	,	_	
+12-11	1301-1304	and	_	
+12-12	1305-1313	approved	_	
+12-13	1313-1314	,	_	
+12-14	1315-1317	as	_	
+12-15	1318-1326	required	_	
+12-16	1326-1327	.	_	
+
+#Text=Conduct or participate in code review sessions to ensure quality and performance.
+13-1	1328-1335	Conduct	_	
+13-2	1336-1338	or	_	
+13-3	1339-1350	participate	_	
+13-4	1351-1353	in	_	
+13-5	1354-1358	code	_	
+13-6	1359-1365	review	_	
+13-7	1366-1374	sessions	_	
+13-8	1375-1377	to	_	
+13-9	1378-1384	ensure	_	
+13-10	1385-1392	quality	_	
+13-11	1393-1396	and	_	
+13-12	1397-1408	performance	_	
+13-13	1408-1409	.	_	
+
+#Text=Support the system integration and user acceptance testing resources.
+14-1	1410-1417	Support	_	
+14-2	1418-1421	the	_	
+14-3	1422-1428	system	_	
+14-4	1429-1440	integration	_	
+14-5	1441-1444	and	_	
+14-6	1445-1449	user	_	
+14-7	1450-1460	acceptance	_	
+14-8	1461-1468	testing	_	
+14-9	1469-1478	resources	_	
+14-10	1478-1479	.	_	
+
+#Text=Provide timely defect analysis, remediation, and reporting.
+15-1	1480-1487	Provide	_	
+15-2	1488-1494	timely	_	
+15-3	1495-1501	defect	_	
+15-4	1502-1510	analysis	Hard Skill	
+15-5	1510-1511	,	_	
+15-6	1512-1523	remediation	_	
+15-7	1523-1524	,	_	
+15-8	1525-1528	and	_	
+15-9	1529-1538	reporting	_	
+15-10	1538-1539	.	_	
+
+#Text=Review security testing reports/results and remediate potential vulnerabilities in a timely manner.
+16-1	1540-1546	Review	_	
+16-2	1547-1555	security	_	
+16-3	1556-1563	testing	_	
+16-4	1564-1571	reports	_	
+16-5	1571-1572	/	_	
+16-6	1572-1579	results	_	
+16-7	1580-1583	and	_	
+16-8	1584-1593	remediate	_	
+16-9	1594-1603	potential	_	
+16-10	1604-1619	vulnerabilities	_	
+16-11	1620-1622	in	_	
+16-12	1623-1624	a	_	
+16-13	1625-1631	timely	_	
+16-14	1632-1638	manner	_	
+16-15	1638-1639	.	_	
+
+#Text=Stay abreast of emerging technologies or trends that could impact the mobile channel.Mandatory Skills: Design, develop and implement cohesive, highly-usable features and improvements to our existing native iOS applications.
+17-1	1640-1644	Stay	_	
+17-2	1645-1652	abreast	_	
+17-3	1653-1655	of	_	
+17-4	1656-1664	emerging	_	
+17-5	1665-1677	technologies	_	
+17-6	1678-1680	or	_	
+17-7	1681-1687	trends	_	
+17-8	1688-1692	that	_	
+17-9	1693-1698	could	_	
+17-10	1699-1705	impact	_	
+17-11	1706-1709	the	_	
+17-12	1710-1716	mobile	_	
+17-13	1717-1734	channel.Mandatory	_	
+17-14	1735-1741	Skills	_	
+17-15	1741-1742	:	_	
+17-16	1743-1749	Design	Hard Skill	
+17-17	1749-1750	,	_	
+17-18	1751-1758	develop	_	
+17-19	1759-1762	and	_	
+17-20	1763-1772	implement	_	
+17-21	1773-1781	cohesive	_	
+17-22	1781-1782	,	_	
+17-23	1783-1796	highly-usable	_	
+17-24	1797-1805	features	_	
+17-25	1806-1809	and	_	
+17-26	1810-1822	improvements	_	
+17-27	1823-1825	to	_	
+17-28	1826-1829	our	_	
+17-29	1830-1838	existing	_	
+17-30	1839-1845	native	_	
+17-31	1846-1849	iOS	_	
+17-32	1850-1862	applications	_	
+17-33	1862-1863	.	_	
+
+#Text=Design and develop new native mobile applications, as required.
+18-1	1864-1870	Design	Hard Skill	
+18-2	1871-1874	and	_	
+18-3	1875-1882	develop	_	
+18-4	1883-1886	new	_	
+18-5	1887-1893	native	_	
+18-6	1894-1900	mobile	_	
+18-7	1901-1913	applications	_	
+18-8	1913-1914	,	_	
+18-9	1915-1917	as	_	
+18-10	1918-1926	required	_	
+18-11	1926-1927	.	_	
+
+#Text=Experience with performance and memory tuning tools.
+19-1	1928-1938	Experience	_	
+19-2	1939-1943	with	_	
+19-3	1944-1955	performance	_	
+19-4	1956-1959	and	_	
+19-5	1960-1966	memory	_	
+19-6	1967-1973	tuning	_	
+19-7	1974-1979	tools	_	
+19-8	1979-1980	.	_	
+
+#Text=Experience in implementing unit tests.
+20-1	1981-1991	Experience	_	
+20-2	1992-1994	in	_	
+20-3	1995-2007	implementing	_	
+20-4	2008-2012	unit	_	
+20-5	2013-2018	tests	_	
+20-6	2018-2019	.	_	
+
+#Text=Proficient understanding of code versioning tools such as GIT.
+21-1	2020-2030	Proficient	_	
+21-2	2031-2044	understanding	_	
+21-3	2045-2047	of	_	
+21-4	2048-2052	code	_	
+21-5	2053-2063	versioning	_	
+21-6	2064-2069	tools	_	
+21-7	2070-2074	such	_	
+21-8	2075-2077	as	_	
+21-9	2078-2081	GIT	Hard Skill	
+21-10	2081-2082	.	_	
+
+#Text=Strong knowledge of Objective-C, Swift, iOS SDK/Frameworks, REST APIs, JSON. 3+ years of experience designing and developing iOS native mobile applications.
+22-1	2083-2089	Strong	_	
+22-2	2090-2099	knowledge	_	
+22-3	2100-2102	of	_	
+22-4	2103-2114	Objective-C	Hard Skill	
+22-5	2114-2115	,	_	
+22-6	2116-2121	Swift	Hard Skill	
+22-7	2121-2122	,	_	
+22-8	2123-2126	iOS	_	
+22-9	2127-2130	SDK	_	
+22-10	2130-2131	/	_	
+22-11	2131-2141	Frameworks	_	
+22-12	2141-2142	,	_	
+22-13	2143-2147	REST	_	
+22-14	2148-2152	APIs	_	
+22-15	2152-2153	,	_	
+22-16	2154-2158	JSON	Hard Skill	
+22-17	2158-2159	.	_	
+22-18	2160-2161	3	_	
+22-19	2161-2162	+	_	
+22-20	2163-2168	years	_	
+22-21	2169-2171	of	_	
+22-22	2172-2182	experience	_	
+22-23	2183-2192	designing	_	
+22-24	2193-2196	and	_	
+22-25	2197-2207	developing	_	
+22-26	2208-2211	iOS	_	
+22-27	2212-2218	native	_	
+22-28	2219-2225	mobile	_	
+22-29	2226-2238	applications	_	
+22-30	2238-2239	.	_	
+
+#Text=Minimum one year experience working with SCRUM or Agile development environment is preferred.
+23-1	2240-2247	Minimum	_	
+23-2	2248-2251	one	_	
+23-3	2252-2256	year	_	
+23-4	2257-2267	experience	_	
+23-5	2268-2275	working	_	
+23-6	2276-2280	with	_	
+23-7	2281-2286	SCRUM	_	
+23-8	2287-2289	or	_	
+23-9	2290-2295	Agile	Hard Skill	
+23-10	2296-2307	development	_	
+23-11	2308-2319	environment	_	
+23-12	2320-2322	is	_	
+23-13	2323-2332	preferred	_	
+23-14	2332-2333	.	_	
+
+#Text=Experience translating product requirements into design specifications.
+24-1	2334-2344	Experience	_	
+24-2	2345-2356	translating	_	
+24-3	2357-2364	product	_	
+24-4	2365-2377	requirements	_	
+24-5	2378-2382	into	_	
+24-6	2383-2389	design	Hard Skill	
+24-7	2390-2404	specifications	_	
+24-8	2404-2405	.	_	
+
+#Text=Debugging and problem solving skills.
+25-1	2406-2415	Debugging	Hard Skill	
+25-2	2416-2419	and	_	
+25-3	2420-2427	problem	_	
+25-4	2428-2435	solving	_	
+25-5	2436-2442	skills	_	
+25-6	2442-2443	.	_	
+
+#Text=Understanding of MVC and MVVM development pattern.
+26-1	2444-2457	Understanding	_	
+26-2	2458-2460	of	_	
+26-3	2461-2464	MVC	_	
+26-4	2465-2468	and	_	
+26-5	2469-2473	MVVM	Hard Skill	
+26-6	2474-2485	development	_	
+26-7	2486-2493	pattern	_	
+26-8	2493-2494	.	_	
+
+#Text=Ensure quality software is delivered with minimal defects and no go live critical issues.
+27-1	2495-2501	Ensure	_	
+27-2	2502-2509	quality	_	
+27-3	2510-2518	software	_	
+27-4	2519-2521	is	_	
+27-5	2522-2531	delivered	_	
+27-6	2532-2536	with	_	
+27-7	2537-2544	minimal	_	
+27-8	2545-2552	defects	_	
+27-9	2553-2556	and	_	
+27-10	2557-2559	no	_	
+27-11	2560-2562	go	_	
+27-12	2563-2567	live	_	
+27-13	2568-2576	critical	_	
+27-14	2577-2583	issues	_	
+27-15	2583-2584	.	_	
+
+#Text=Knowledgeable of unit and automation testing tools Work directly with Architects and Product Managers to ensure quality solutions for all projects are being successfully delivered on time.
+28-1	2585-2598	Knowledgeable	_	
+28-2	2599-2601	of	_	
+28-3	2602-2606	unit	_	
+28-4	2607-2610	and	_	
+28-5	2611-2621	automation	_	
+28-6	2622-2629	testing	_	
+28-7	2630-2635	tools	_	
+28-8	2636-2640	Work	_	
+28-9	2641-2649	directly	_	
+28-10	2650-2654	with	_	
+28-11	2655-2665	Architects	_	
+28-12	2666-2669	and	_	
+28-13	2670-2677	Product	_	
+28-14	2678-2686	Managers	_	
+28-15	2687-2689	to	_	
+28-16	2690-2696	ensure	_	
+28-17	2697-2704	quality	_	
+28-18	2705-2714	solutions	_	
+28-19	2715-2718	for	_	
+28-20	2719-2722	all	_	
+28-21	2723-2731	projects	_	
+28-22	2732-2735	are	_	
+28-23	2736-2741	being	_	
+28-24	2742-2754	successfully	_	
+28-25	2755-2764	delivered	_	
+28-26	2765-2767	on	_	
+28-27	2768-2772	time	_	
+28-28	2772-2773	.	_	
+
+#Text=BS in computer science or related area iOS Developer support experience The candidate must exhibit strong interpersonal and communication skills The candidate must have experience interfacing with product owners as well as internal and external technical teams and resources The role requires native mobile development experience with iOS universal applications and Apple watch Strong technical knowledge, coupled with indepth experience working with REST services, is required The ideal candidate would have 3-5 years experience developing iOS native mobile applications Design, develop and implement cohesive, highly-usable features and improvements to our existing native iOS applications Design and develop new native mobile applications, as required Experience with performance and memory tuning tools Experience in implementing unit tests Proficient understanding of code versioning tools such as GIT Strong knowledge of Objective-C, Swift, iOS SDK/Frameworks, REST APIs, JSON 3+ years of experience designing and developing iOS native mobile applications Experience translating product requirements into design specifications Debugging and problem solving skills Understanding of MVC and MVVM development pattern Ensure quality software is delivered with minimal defects and no go live critical issues Knowledgeable of unit and automation testing tools BS in computer science or related area Participate as a member of a mobile development scrum team Become a subject matter expert in the Ally mobile channel Partner with solution architects to leverage industry best practices to design and deliver high quality mobile applications Escalate issues to senior management early, before they create significant impact to a project/release Review and approve all mid-level design documentation Ensure that detail design documentation is competed, reviewed, and approved, as required Conduct or participate in code review sessions to ensure quality and performance Support the system integration and user acceptance testing resources Provide timely defect analysis, remediation, and reporting Review security testing reports/results and remediate potential vulnerabilities in a timely manner Stay abreast of emerging technologies or trends that could impact the mobile channel
+29-1	2774-2776	BS	_	
+29-2	2777-2779	in	_	
+29-3	2780-2788	computer	_	
+29-4	2789-2796	science	_	
+29-5	2797-2799	or	_	
+29-6	2800-2807	related	_	
+29-7	2808-2812	area	_	
+29-8	2813-2816	iOS	_	
+29-9	2817-2826	Developer	_	
+29-10	2827-2834	support	_	
+29-11	2835-2845	experience	_	
+29-12	2846-2849	The	_	
+29-13	2850-2859	candidate	_	
+29-14	2860-2864	must	_	
+29-15	2865-2872	exhibit	_	
+29-16	2873-2879	strong	_	
+29-17	2880-2893	interpersonal	Soft Skill	
+29-18	2894-2897	and	_	
+29-19	2898-2911	communication	Soft Skill	
+29-20	2912-2918	skills	_	
+29-21	2919-2922	The	_	
+29-22	2923-2932	candidate	_	
+29-23	2933-2937	must	_	
+29-24	2938-2942	have	_	
+29-25	2943-2953	experience	_	
+29-26	2954-2965	interfacing	_	
+29-27	2966-2970	with	_	
+29-28	2971-2978	product	_	
+29-29	2979-2985	owners	_	
+29-30	2986-2988	as	_	
+29-31	2989-2993	well	_	
+29-32	2994-2996	as	_	
+29-33	2997-3005	internal	_	
+29-34	3006-3009	and	_	
+29-35	3010-3018	external	_	
+29-36	3019-3028	technical	_	
+29-37	3029-3034	teams	_	
+29-38	3035-3038	and	_	
+29-39	3039-3048	resources	_	
+29-40	3049-3052	The	_	
+29-41	3053-3057	role	_	
+29-42	3058-3066	requires	_	
+29-43	3067-3073	native	_	
+29-44	3074-3080	mobile	_	
+29-45	3081-3092	development	_	
+29-46	3093-3103	experience	_	
+29-47	3104-3108	with	_	
+29-48	3109-3112	iOS	_	
+29-49	3113-3122	universal	_	
+29-50	3123-3135	applications	_	
+29-51	3136-3139	and	_	
+29-52	3140-3145	Apple	_	
+29-53	3146-3151	watch	_	
+29-54	3152-3158	Strong	_	
+29-55	3159-3168	technical	_	
+29-56	3169-3178	knowledge	_	
+29-57	3178-3179	,	_	
+29-58	3180-3187	coupled	_	
+29-59	3188-3192	with	_	
+29-60	3193-3200	indepth	_	
+29-61	3201-3211	experience	_	
+29-62	3212-3219	working	_	
+29-63	3220-3224	with	_	
+29-64	3225-3229	REST	_	
+29-65	3230-3238	services	_	
+29-66	3238-3239	,	_	
+29-67	3240-3242	is	_	
+29-68	3243-3251	required	_	
+29-69	3252-3255	The	_	
+29-70	3256-3261	ideal	_	
+29-71	3262-3271	candidate	_	
+29-72	3272-3277	would	_	
+29-73	3278-3282	have	_	
+29-74	3283-3284	3	_	
+29-75	3284-3285	-	_	
+29-76	3285-3286	5	_	
+29-77	3287-3292	years	_	
+29-78	3293-3303	experience	_	
+29-79	3304-3314	developing	_	
+29-80	3315-3318	iOS	_	
+29-81	3319-3325	native	_	
+29-82	3326-3332	mobile	_	
+29-83	3333-3345	applications	_	
+29-84	3346-3352	Design	Hard Skill	
+29-85	3352-3353	,	_	
+29-86	3354-3361	develop	_	
+29-87	3362-3365	and	_	
+29-88	3366-3375	implement	_	
+29-89	3376-3384	cohesive	_	
+29-90	3384-3385	,	_	
+29-91	3386-3399	highly-usable	_	
+29-92	3400-3408	features	_	
+29-93	3409-3412	and	_	
+29-94	3413-3425	improvements	_	
+29-95	3426-3428	to	_	
+29-96	3429-3432	our	_	
+29-97	3433-3441	existing	_	
+29-98	3442-3448	native	_	
+29-99	3449-3452	iOS	_	
+29-100	3453-3465	applications	_	
+29-101	3466-3472	Design	Hard Skill	
+29-102	3473-3476	and	_	
+29-103	3477-3484	develop	_	
+29-104	3485-3488	new	_	
+29-105	3489-3495	native	_	
+29-106	3496-3502	mobile	_	
+29-107	3503-3515	applications	_	
+29-108	3515-3516	,	_	
+29-109	3517-3519	as	_	
+29-110	3520-3528	required	_	
+29-111	3529-3539	Experience	_	
+29-112	3540-3544	with	_	
+29-113	3545-3556	performance	_	
+29-114	3557-3560	and	_	
+29-115	3561-3567	memory	_	
+29-116	3568-3574	tuning	_	
+29-117	3575-3580	tools	_	
+29-118	3581-3591	Experience	_	
+29-119	3592-3594	in	_	
+29-120	3595-3607	implementing	_	
+29-121	3608-3612	unit	_	
+29-122	3613-3618	tests	_	
+29-123	3619-3629	Proficient	_	
+29-124	3630-3643	understanding	_	
+29-125	3644-3646	of	_	
+29-126	3647-3651	code	_	
+29-127	3652-3662	versioning	_	
+29-128	3663-3668	tools	_	
+29-129	3669-3673	such	_	
+29-130	3674-3676	as	_	
+29-131	3677-3680	GIT	Hard Skill	
+29-132	3681-3687	Strong	_	
+29-133	3688-3697	knowledge	_	
+29-134	3698-3700	of	_	
+29-135	3701-3712	Objective-C	Hard Skill	
+29-136	3712-3713	,	_	
+29-137	3714-3719	Swift	Hard Skill	
+29-138	3719-3720	,	_	
+29-139	3721-3724	iOS	_	
+29-140	3725-3728	SDK	_	
+29-141	3728-3729	/	_	
+29-142	3729-3739	Frameworks	_	
+29-143	3739-3740	,	_	
+29-144	3741-3745	REST	_	
+29-145	3746-3750	APIs	_	
+29-146	3750-3751	,	_	
+29-147	3752-3756	JSON	Hard Skill	
+29-148	3757-3758	3	_	
+29-149	3758-3759	+	_	
+29-150	3760-3765	years	_	
+29-151	3766-3768	of	_	
+29-152	3769-3779	experience	_	
+29-153	3780-3789	designing	_	
+29-154	3790-3793	and	_	
+29-155	3794-3804	developing	_	
+29-156	3805-3808	iOS	_	
+29-157	3809-3815	native	_	
+29-158	3816-3822	mobile	_	
+29-159	3823-3835	applications	_	
+29-160	3836-3846	Experience	_	
+29-161	3847-3858	translating	_	
+29-162	3859-3866	product	_	
+29-163	3867-3879	requirements	_	
+29-164	3880-3884	into	_	
+29-165	3885-3891	design	Hard Skill	
+29-166	3892-3906	specifications	_	
+29-167	3907-3916	Debugging	Hard Skill	
+29-168	3917-3920	and	_	
+29-169	3921-3928	problem	_	
+29-170	3929-3936	solving	_	
+29-171	3937-3943	skills	_	
+29-172	3944-3957	Understanding	_	
+29-173	3958-3960	of	_	
+29-174	3961-3964	MVC	_	
+29-175	3965-3968	and	_	
+29-176	3969-3973	MVVM	Hard Skill	
+29-177	3974-3985	development	_	
+29-178	3986-3993	pattern	_	
+29-179	3994-4000	Ensure	_	
+29-180	4001-4008	quality	_	
+29-181	4009-4017	software	_	
+29-182	4018-4020	is	_	
+29-183	4021-4030	delivered	_	
+29-184	4031-4035	with	_	
+29-185	4036-4043	minimal	_	
+29-186	4044-4051	defects	_	
+29-187	4052-4055	and	_	
+29-188	4056-4058	no	_	
+29-189	4059-4061	go	_	
+29-190	4062-4066	live	_	
+29-191	4067-4075	critical	_	
+29-192	4076-4082	issues	_	
+29-193	4083-4096	Knowledgeable	_	
+29-194	4097-4099	of	_	
+29-195	4100-4104	unit	_	
+29-196	4105-4108	and	_	
+29-197	4109-4119	automation	_	
+29-198	4120-4127	testing	_	
+29-199	4128-4133	tools	_	
+29-200	4134-4136	BS	_	
+29-201	4137-4139	in	_	
+29-202	4140-4148	computer	_	
+29-203	4149-4156	science	_	
+29-204	4157-4159	or	_	
+29-205	4160-4167	related	_	
+29-206	4168-4172	area	_	
+29-207	4173-4184	Participate	_	
+29-208	4185-4187	as	_	
+29-209	4188-4189	a	_	
+29-210	4190-4196	member	_	
+29-211	4197-4199	of	_	
+29-212	4200-4201	a	_	
+29-213	4202-4208	mobile	_	
+29-214	4209-4220	development	_	
+29-215	4221-4226	scrum	_	
+29-216	4227-4231	team	_	
+29-217	4232-4238	Become	_	
+29-218	4239-4240	a	_	
+29-219	4241-4248	subject	_	
+29-220	4249-4255	matter	_	
+29-221	4256-4262	expert	_	
+29-222	4263-4265	in	_	
+29-223	4266-4269	the	_	
+29-224	4270-4274	Ally	_	
+29-225	4275-4281	mobile	_	
+29-226	4282-4289	channel	_	
+29-227	4290-4297	Partner	_	
+29-228	4298-4302	with	_	
+29-229	4303-4311	solution	_	
+29-230	4312-4322	architects	_	
+29-231	4323-4325	to	_	
+29-232	4326-4334	leverage	_	
+29-233	4335-4343	industry	_	
+29-234	4344-4348	best	_	
+29-235	4349-4358	practices	_	
+29-236	4359-4361	to	_	
+29-237	4362-4368	design	Hard Skill	
+29-238	4369-4372	and	_	
+29-239	4373-4380	deliver	_	
+29-240	4381-4385	high	_	
+29-241	4386-4393	quality	_	
+29-242	4394-4400	mobile	_	
+29-243	4401-4413	applications	_	
+29-244	4414-4422	Escalate	_	
+29-245	4423-4429	issues	_	
+29-246	4430-4432	to	_	
+29-247	4433-4439	senior	_	
+29-248	4440-4450	management	_	
+29-249	4451-4456	early	_	
+29-250	4456-4457	,	_	
+29-251	4458-4464	before	_	
+29-252	4465-4469	they	_	
+29-253	4470-4476	create	_	
+29-254	4477-4488	significant	_	
+29-255	4489-4495	impact	_	
+29-256	4496-4498	to	_	
+29-257	4499-4500	a	_	
+29-258	4501-4508	project	_	
+29-259	4508-4509	/	_	
+29-260	4509-4516	release	_	
+29-261	4517-4523	Review	_	
+29-262	4524-4527	and	_	
+29-263	4528-4535	approve	_	
+29-264	4536-4539	all	_	
+29-265	4540-4549	mid-level	_	
+29-266	4550-4556	design	Hard Skill	
+29-267	4557-4570	documentation	Hard Skill	
+29-268	4571-4577	Ensure	_	
+29-269	4578-4582	that	_	
+29-270	4583-4589	detail	_	
+29-271	4590-4596	design	Hard Skill	
+29-272	4597-4610	documentation	Hard Skill	
+29-273	4611-4613	is	_	
+29-274	4614-4622	competed	_	
+29-275	4622-4623	,	_	
+29-276	4624-4632	reviewed	_	
+29-277	4632-4633	,	_	
+29-278	4634-4637	and	_	
+29-279	4638-4646	approved	_	
+29-280	4646-4647	,	_	
+29-281	4648-4650	as	_	
+29-282	4651-4659	required	_	
+29-283	4660-4667	Conduct	_	
+29-284	4668-4670	or	_	
+29-285	4671-4682	participate	_	
+29-286	4683-4685	in	_	
+29-287	4686-4690	code	_	
+29-288	4691-4697	review	_	
+29-289	4698-4706	sessions	_	
+29-290	4707-4709	to	_	
+29-291	4710-4716	ensure	_	
+29-292	4717-4724	quality	_	
+29-293	4725-4728	and	_	
+29-294	4729-4740	performance	_	
+29-295	4741-4748	Support	_	
+29-296	4749-4752	the	_	
+29-297	4753-4759	system	_	
+29-298	4760-4771	integration	_	
+29-299	4772-4775	and	_	
+29-300	4776-4780	user	_	
+29-301	4781-4791	acceptance	_	
+29-302	4792-4799	testing	_	
+29-303	4800-4809	resources	_	
+29-304	4810-4817	Provide	_	
+29-305	4818-4824	timely	_	
+29-306	4825-4831	defect	_	
+29-307	4832-4840	analysis	Hard Skill	
+29-308	4840-4841	,	_	
+29-309	4842-4853	remediation	_	
+29-310	4853-4854	,	_	
+29-311	4855-4858	and	_	
+29-312	4859-4868	reporting	_	
+29-313	4869-4875	Review	_	
+29-314	4876-4884	security	_	
+29-315	4885-4892	testing	_	
+29-316	4893-4900	reports	_	
+29-317	4900-4901	/	_	
+29-318	4901-4908	results	_	
+29-319	4909-4912	and	_	
+29-320	4913-4922	remediate	_	
+29-321	4923-4932	potential	_	
+29-322	4933-4948	vulnerabilities	_	
+29-323	4949-4951	in	_	
+29-324	4952-4953	a	_	
+29-325	4954-4960	timely	_	
+29-326	4961-4967	manner	_	
+29-327	4968-4972	Stay	_	
+29-328	4973-4980	abreast	_	
+29-329	4981-4983	of	_	
+29-330	4984-4992	emerging	_	
+29-331	4993-5005	technologies	_	
+29-332	5006-5008	or	_	
+29-333	5009-5015	trends	_	
+29-334	5016-5020	that	_	
+29-335	5021-5026	could	_	
+29-336	5027-5033	impact	_	
+29-337	5034-5037	the	_	
+29-338	5038-5044	mobile	_	
+29-339	5045-5052	channel	_	

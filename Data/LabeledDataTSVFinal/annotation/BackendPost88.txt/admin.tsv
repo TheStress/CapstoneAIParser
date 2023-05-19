@@ -1,0 +1,389 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Job Description: Delivering a complete front end application.
+1-1	0-3	Job	_	
+1-2	4-15	Description	_	
+1-3	15-16	:	_	
+1-4	17-27	Delivering	_	
+1-5	28-29	a	_	
+1-6	30-38	complete	_	
+1-7	39-44	front	_	
+1-8	45-48	end	_	
+1-9	49-60	application	_	
+1-10	60-61	.	_	
+
+#Text=Ensuring high performance on mobile and desktop...
+2-1	62-70	Ensuring	_	
+2-2	71-75	high	_	
+2-3	76-87	performance	_	
+2-4	88-90	on	_	
+2-5	91-97	mobile	_	
+2-6	98-101	and	_	
+2-7	102-109	desktop	_	
+2-8	109-110	.	_	
+2-9	110-111	.	_	
+2-10	111-112	.	_	
+
+#Text=Writing tested, idiomatic, and documented JavaScript, HTML and CSS.
+3-1	113-120	Writing	_	
+3-2	121-127	tested	_	
+3-3	127-128	,	_	
+3-4	129-138	idiomatic	_	
+3-5	138-139	,	_	
+3-6	140-143	and	_	
+3-7	144-154	documented	_	
+3-8	155-165	JavaScript	Hard Skill	
+3-9	165-166	,	_	
+3-10	167-171	HTML	Hard Skill	
+3-11	172-175	and	_	
+3-12	176-179	CSS	Hard Skill	
+3-13	179-180	.	_	
+
+#Text=Coordinating the workflow between the graphic designer, the HTML coder, and candidates self.
+4-1	181-193	Coordinating	_	
+4-2	194-197	the	_	
+4-3	198-206	workflow	_	
+4-4	207-214	between	_	
+4-5	215-218	the	_	
+4-6	219-226	graphic	_	
+4-7	227-235	designer	_	
+4-8	235-236	,	_	
+4-9	237-240	the	_	
+4-10	241-245	HTML	Hard Skill	
+4-11	246-251	coder	_	
+4-12	251-252	,	_	
+4-13	253-256	and	_	
+4-14	257-267	candidates	_	
+4-15	268-272	self	_	
+4-16	272-273	.	_	
+
+#Text=Cooperating with the back-end developer in the process of building the RESTful API.
+5-1	274-285	Cooperating	_	
+5-2	286-290	with	_	
+5-3	291-294	the	_	
+5-4	295-303	back-end	_	
+5-5	304-313	developer	_	
+5-6	314-316	in	_	
+5-7	317-320	the	_	
+5-8	321-328	process	_	
+5-9	329-331	of	_	
+5-10	332-340	building	_	
+5-11	341-344	the	_	
+5-12	345-352	RESTful	_	
+5-13	353-356	API	Hard Skill	
+5-14	356-357	.	_	
+
+#Text=Proficiency with Node Package Manager (npm), Angular CLI, Angular, TypeScript, JavaScript, HTML5,CSS, RxJS, Git and Empathy.
+6-1	358-369	Proficiency	_	
+6-2	370-374	with	_	
+6-3	375-379	Node	_	
+6-4	380-387	Package	_	
+6-5	388-395	Manager	_	
+6-6	396-397	(	_	
+6-7	397-400	npm	_	
+6-8	400-401	)	_	
+6-9	401-402	,	_	
+6-10	403-410	Angular	Hard Skill	
+6-11	411-414	CLI	_	
+6-12	414-415	,	_	
+6-13	416-423	Angular	Hard Skill	
+6-14	423-424	,	_	
+6-15	425-435	TypeScript	Hard Skill	
+6-16	435-436	,	_	
+6-17	437-447	JavaScript	Hard Skill	
+6-18	447-448	,	_	
+6-19	449-454	HTML5	Hard Skill	
+6-20	454-455	,	_	
+6-21	455-458	CSS	Hard Skill	
+6-22	458-459	,	_	
+6-23	460-464	RxJS	_	
+6-24	464-465	,	_	
+6-25	466-469	Git	Hard Skill	
+6-26	470-473	and	_	
+6-27	474-481	Empathy	_	
+6-28	481-482	.	_	
+
+#Text=Deep knowledge of AngularJS practices and commonly used modules based on extensive work experience.
+7-1	483-487	Deep	_	
+7-2	488-497	knowledge	_	
+7-3	498-500	of	_	
+7-4	501-510	AngularJS	Hard Skill	
+7-5	511-520	practices	_	
+7-6	521-524	and	_	
+7-7	525-533	commonly	_	
+7-8	534-538	used	_	
+7-9	539-546	modules	_	
+7-10	547-552	based	_	
+7-11	553-555	on	_	
+7-12	556-565	extensive	_	
+7-13	566-570	work	_	
+7-14	571-581	experience	_	
+7-15	581-582	.	_	
+
+#Text=Creating self-contained, reusable, and testable modules and components.
+8-1	583-591	Creating	_	
+8-2	592-606	self-contained	_	
+8-3	606-607	,	_	
+8-4	608-616	reusable	_	
+8-5	616-617	,	_	
+8-6	618-621	and	_	
+8-7	622-630	testable	_	
+8-8	631-638	modules	_	
+8-9	639-642	and	_	
+8-10	643-653	components	_	
+8-11	653-654	.	_	
+
+#Text=Ability to provide SEO solutions for single page apps.
+9-1	655-662	Ability	_	
+9-2	663-665	to	_	
+9-3	666-673	provide	_	
+9-4	674-677	SEO	_	
+9-5	678-687	solutions	_	
+9-6	688-691	for	_	
+9-7	692-698	single	_	
+9-8	699-703	page	_	
+9-9	704-708	apps	_	
+9-10	708-709	.	_	
+
+#Text=Validating user actions on the client side and providing responsive feedback.
+10-1	710-720	Validating	_	
+10-2	721-725	user	_	
+10-3	726-733	actions	_	
+10-4	734-736	on	_	
+10-5	737-740	the	_	
+10-6	741-747	client	_	
+10-7	748-752	side	_	
+10-8	753-756	and	_	
+10-9	757-766	providing	_	
+10-10	767-777	responsive	_	
+10-11	778-786	feedback	_	
+10-12	786-787	.	_	
+
+#Text=Creating custom, general use modules and components which extend the elements and modules of core AngularJS.
+11-1	788-796	Creating	_	
+11-2	797-803	custom	_	
+11-3	803-804	,	_	
+11-4	805-812	general	_	
+11-5	813-816	use	_	
+11-6	817-824	modules	_	
+11-7	825-828	and	_	
+11-8	829-839	components	_	
+11-9	840-845	which	_	
+11-10	846-852	extend	_	
+11-11	853-856	the	_	
+11-12	857-865	elements	_	
+11-13	866-869	and	_	
+11-14	870-877	modules	_	
+11-15	878-880	of	_	
+11-16	881-885	core	_	
+11-17	886-895	AngularJS	Hard Skill	
+11-18	895-896	.	_	
+
+#Text=Architecting and automating the build process for production, using task runners or scripts.
+12-1	897-909	Architecting	_	
+12-2	910-913	and	_	
+12-3	914-924	automating	_	
+12-4	925-928	the	_	
+12-5	929-934	build	_	
+12-6	935-942	process	_	
+12-7	943-946	for	_	
+12-8	947-957	production	_	
+12-9	957-958	,	_	
+12-10	959-964	using	_	
+12-11	965-969	task	_	
+12-12	970-977	runners	_	
+12-13	978-980	or	_	
+12-14	981-988	scripts	_	
+12-15	988-989	.	_	
+
+#Text=Writing extensive unit tests using automated TDD tasks.
+13-1	990-997	Writing	_	
+13-2	998-1007	extensive	_	
+13-3	1008-1012	unit	_	
+13-4	1013-1018	tests	_	
+13-5	1019-1024	using	_	
+13-6	1025-1034	automated	_	
+13-7	1035-1038	TDD	_	
+13-8	1039-1044	tasks	_	
+13-9	1044-1045	.	_	
+
+#Text=Creating e2e test suites for all components.
+14-1	1046-1054	Creating	_	
+14-2	1055-1058	e2e	_	
+14-3	1059-1063	test	_	
+14-4	1064-1070	suites	_	
+14-5	1071-1074	for	_	
+14-6	1075-1078	all	_	
+14-7	1079-1089	components	_	
+14-8	1089-1090	.	_	
+
+#Text=Creating configuration, build, and test scripts for Continuous Integration environments Deep knowledge of AngularJS practices and commonly used modules based on extensive work experience Delivering a complete front end application Ensuring high performance on mobile and desktop Writing tested, idiomatic, and documented JavaScript, HTML and CSS Coordinating the workflow between the graphic designer, the HTML coder, and candidates self Cooperating with the back-end developer in the process of building the RESTful API Creating self-contained, reusable, and testable modules and components Ability to provide SEO solutions for single page apps Validating user actions on the client side and providing responsive feedback Creating custom, general use modules and components which extend the elements and modules of core AngularJS Architecting and automating the build process for production, using task runners or scripts Writing extensive unit tests using automated TDD tasks Creating e2e test suites for all components Creating configuration, build, and test scripts for Continuous Integration environments
+15-1	1091-1099	Creating	_	
+15-2	1100-1113	configuration	_	
+15-3	1113-1114	,	_	
+15-4	1115-1120	build	_	
+15-5	1120-1121	,	_	
+15-6	1122-1125	and	_	
+15-7	1126-1130	test	_	
+15-8	1131-1138	scripts	_	
+15-9	1139-1142	for	_	
+15-10	1143-1153	Continuous	_	
+15-11	1154-1165	Integration	_	
+15-12	1166-1178	environments	_	
+15-13	1179-1183	Deep	_	
+15-14	1184-1193	knowledge	_	
+15-15	1194-1196	of	_	
+15-16	1197-1206	AngularJS	Hard Skill	
+15-17	1207-1216	practices	_	
+15-18	1217-1220	and	_	
+15-19	1221-1229	commonly	_	
+15-20	1230-1234	used	_	
+15-21	1235-1242	modules	_	
+15-22	1243-1248	based	_	
+15-23	1249-1251	on	_	
+15-24	1252-1261	extensive	_	
+15-25	1262-1266	work	_	
+15-26	1267-1277	experience	_	
+15-27	1278-1288	Delivering	_	
+15-28	1289-1290	a	_	
+15-29	1291-1299	complete	_	
+15-30	1300-1305	front	_	
+15-31	1306-1309	end	_	
+15-32	1310-1321	application	_	
+15-33	1322-1330	Ensuring	_	
+15-34	1331-1335	high	_	
+15-35	1336-1347	performance	_	
+15-36	1348-1350	on	_	
+15-37	1351-1357	mobile	_	
+15-38	1358-1361	and	_	
+15-39	1362-1369	desktop	_	
+15-40	1370-1377	Writing	_	
+15-41	1378-1384	tested	_	
+15-42	1384-1385	,	_	
+15-43	1386-1395	idiomatic	_	
+15-44	1395-1396	,	_	
+15-45	1397-1400	and	_	
+15-46	1401-1411	documented	_	
+15-47	1412-1422	JavaScript	Hard Skill	
+15-48	1422-1423	,	_	
+15-49	1424-1428	HTML	Hard Skill	
+15-50	1429-1432	and	_	
+15-51	1433-1436	CSS	Hard Skill	
+15-52	1437-1449	Coordinating	_	
+15-53	1450-1453	the	_	
+15-54	1454-1462	workflow	_	
+15-55	1463-1470	between	_	
+15-56	1471-1474	the	_	
+15-57	1475-1482	graphic	_	
+15-58	1483-1491	designer	_	
+15-59	1491-1492	,	_	
+15-60	1493-1496	the	_	
+15-61	1497-1501	HTML	Hard Skill	
+15-62	1502-1507	coder	_	
+15-63	1507-1508	,	_	
+15-64	1509-1512	and	_	
+15-65	1513-1523	candidates	_	
+15-66	1524-1528	self	_	
+15-67	1529-1540	Cooperating	_	
+15-68	1541-1545	with	_	
+15-69	1546-1549	the	_	
+15-70	1550-1558	back-end	_	
+15-71	1559-1568	developer	_	
+15-72	1569-1571	in	_	
+15-73	1572-1575	the	_	
+15-74	1576-1583	process	_	
+15-75	1584-1586	of	_	
+15-76	1587-1595	building	_	
+15-77	1596-1599	the	_	
+15-78	1600-1607	RESTful	_	
+15-79	1608-1611	API	Hard Skill	
+15-80	1612-1620	Creating	_	
+15-81	1621-1635	self-contained	_	
+15-82	1635-1636	,	_	
+15-83	1637-1645	reusable	_	
+15-84	1645-1646	,	_	
+15-85	1647-1650	and	_	
+15-86	1651-1659	testable	_	
+15-87	1660-1667	modules	_	
+15-88	1668-1671	and	_	
+15-89	1672-1682	components	_	
+15-90	1683-1690	Ability	_	
+15-91	1691-1693	to	_	
+15-92	1694-1701	provide	_	
+15-93	1702-1705	SEO	_	
+15-94	1706-1715	solutions	_	
+15-95	1716-1719	for	_	
+15-96	1720-1726	single	_	
+15-97	1727-1731	page	_	
+15-98	1732-1736	apps	_	
+15-99	1737-1747	Validating	_	
+15-100	1748-1752	user	_	
+15-101	1753-1760	actions	_	
+15-102	1761-1763	on	_	
+15-103	1764-1767	the	_	
+15-104	1768-1774	client	_	
+15-105	1775-1779	side	_	
+15-106	1780-1783	and	_	
+15-107	1784-1793	providing	_	
+15-108	1794-1804	responsive	_	
+15-109	1805-1813	feedback	_	
+15-110	1814-1822	Creating	_	
+15-111	1823-1829	custom	_	
+15-112	1829-1830	,	_	
+15-113	1831-1838	general	_	
+15-114	1839-1842	use	_	
+15-115	1843-1850	modules	_	
+15-116	1851-1854	and	_	
+15-117	1855-1865	components	_	
+15-118	1866-1871	which	_	
+15-119	1872-1878	extend	_	
+15-120	1879-1882	the	_	
+15-121	1883-1891	elements	_	
+15-122	1892-1895	and	_	
+15-123	1896-1903	modules	_	
+15-124	1904-1906	of	_	
+15-125	1907-1911	core	_	
+15-126	1912-1921	AngularJS	Hard Skill	
+15-127	1922-1934	Architecting	_	
+15-128	1935-1938	and	_	
+15-129	1939-1949	automating	_	
+15-130	1950-1953	the	_	
+15-131	1954-1959	build	_	
+15-132	1960-1967	process	_	
+15-133	1968-1971	for	_	
+15-134	1972-1982	production	_	
+15-135	1982-1983	,	_	
+15-136	1984-1989	using	_	
+15-137	1990-1994	task	_	
+15-138	1995-2002	runners	_	
+15-139	2003-2005	or	_	
+15-140	2006-2013	scripts	_	
+15-141	2014-2021	Writing	_	
+15-142	2022-2031	extensive	_	
+15-143	2032-2036	unit	_	
+15-144	2037-2042	tests	_	
+15-145	2043-2048	using	_	
+15-146	2049-2058	automated	_	
+15-147	2059-2062	TDD	_	
+15-148	2063-2068	tasks	_	
+15-149	2069-2077	Creating	_	
+15-150	2078-2081	e2e	_	
+15-151	2082-2086	test	_	
+15-152	2087-2093	suites	_	
+15-153	2094-2097	for	_	
+15-154	2098-2101	all	_	
+15-155	2102-2112	components	_	
+15-156	2113-2121	Creating	_	
+15-157	2122-2135	configuration	_	
+15-158	2135-2136	,	_	
+15-159	2137-2142	build	_	
+15-160	2142-2143	,	_	
+15-161	2144-2147	and	_	
+15-162	2148-2152	test	_	
+15-163	2153-2160	scripts	_	
+15-164	2161-2164	for	_	
+15-165	2165-2175	Continuous	_	
+15-166	2176-2187	Integration	_	
+15-167	2188-2200	environments	_	

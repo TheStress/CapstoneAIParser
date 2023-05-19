@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Experience as an Android Developer.Strong knowledge of Java and Kotlin programming languages...Experience with Android SDK, Android Studio, and third-party libraries and APIs.Familiarity with RESTful APIs to connect Android applications to back-end services.Understanding of Android design principles and interface guidelines Experience as an Android Developer Strong knowledge of Java and Kotlin programming languages Experience with Android SDK, Android Studio, and third-party libraries and APIs Familiarity with RESTful APIs to connect Android applications to back-end services Understanding of Android design principles and interface guidelines
+1-1	0-10	Experience	_	
+1-2	11-13	as	_	
+1-3	14-16	an	_	
+1-4	17-24	Android	Hard Skill	
+1-5	25-41	Developer.Strong	_	
+1-6	42-51	knowledge	_	
+1-7	52-54	of	_	
+1-8	55-59	Java	Hard Skill	
+1-9	60-63	and	_	
+1-10	64-70	Kotlin	Hard Skill	
+1-11	71-82	programming	Hard Skill	
+1-12	83-92	languages	_	
+1-13	92-93	.	_	
+1-14	93-94	.	_	
+1-15	94-95	.	_	
+1-16	95-105	Experience	_	
+1-17	106-110	with	_	
+1-18	111-118	Android	Hard Skill	
+1-19	119-122	SDK	_	
+1-20	122-123	,	_	
+1-21	124-131	Android	Hard Skill	
+1-22	132-138	Studio	_	
+1-23	138-139	,	_	
+1-24	140-143	and	_	
+1-25	144-155	third-party	_	
+1-26	156-165	libraries	_	
+1-27	166-169	and	_	
+1-28	170-186	APIs.Familiarity	_	
+1-29	187-191	with	_	
+1-30	192-199	RESTful	_	
+1-31	200-204	APIs	_	
+1-32	205-207	to	_	
+1-33	208-215	connect	_	
+1-34	216-223	Android	Hard Skill	
+1-35	224-236	applications	_	
+1-36	237-239	to	_	
+1-37	240-248	back-end	_	
+1-38	249-271	services.Understanding	_	
+1-39	272-274	of	_	
+1-40	275-282	Android	Hard Skill	
+1-41	283-289	design	Hard Skill	
+1-42	290-300	principles	_	
+1-43	301-304	and	_	
+1-44	305-314	interface	_	
+1-45	315-325	guidelines	_	
+1-46	326-336	Experience	_	
+1-47	337-339	as	_	
+1-48	340-342	an	_	
+1-49	343-350	Android	Hard Skill	
+1-50	351-360	Developer	_	
+1-51	361-367	Strong	_	
+1-52	368-377	knowledge	_	
+1-53	378-380	of	_	
+1-54	381-385	Java	Hard Skill	
+1-55	386-389	and	_	
+1-56	390-396	Kotlin	Hard Skill	
+1-57	397-408	programming	Hard Skill	
+1-58	409-418	languages	_	
+1-59	419-429	Experience	_	
+1-60	430-434	with	_	
+1-61	435-442	Android	Hard Skill	
+1-62	443-446	SDK	_	
+1-63	446-447	,	_	
+1-64	448-455	Android	Hard Skill	
+1-65	456-462	Studio	_	
+1-66	462-463	,	_	
+1-67	464-467	and	_	
+1-68	468-479	third-party	_	
+1-69	480-489	libraries	_	
+1-70	490-493	and	_	
+1-71	494-498	APIs	_	
+1-72	499-510	Familiarity	_	
+1-73	511-515	with	_	
+1-74	516-523	RESTful	_	
+1-75	524-528	APIs	_	
+1-76	529-531	to	_	
+1-77	532-539	connect	_	
+1-78	540-547	Android	Hard Skill	
+1-79	548-560	applications	_	
+1-80	561-563	to	_	
+1-81	564-572	back-end	_	
+1-82	573-581	services	_	
+1-83	582-595	Understanding	_	
+1-84	596-598	of	_	
+1-85	599-606	Android	Hard Skill	
+1-86	607-613	design	Hard Skill	
+1-87	614-624	principles	_	
+1-88	625-628	and	_	
+1-89	629-638	interface	_	
+1-90	639-649	guidelines	_	

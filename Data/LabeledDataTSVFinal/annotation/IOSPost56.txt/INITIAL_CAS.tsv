@@ -1,0 +1,241 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=We need an iOS app with the following features:1.
+1-1	0-2	We	
+1-2	3-7	need	
+1-3	8-10	an	
+1-4	11-14	iOS	
+1-5	15-18	app	
+1-6	19-23	with	
+1-7	24-27	the	
+1-8	28-37	following	
+1-9	38-46	features	
+1-10	46-47	:	
+1-11	47-48	1	
+1-12	48-49	.	
+
+#Text=Download, sign-up, login and basic account management...2.
+2-1	50-58	Download	
+2-2	58-59	,	
+2-3	60-67	sign-up	
+2-4	67-68	,	
+2-5	69-74	login	
+2-6	75-78	and	
+2-7	79-84	basic	
+2-8	85-92	account	
+2-9	93-103	management	
+2-10	103-104	.	
+2-11	104-105	.	
+2-12	105-107	.2	
+2-13	107-108	.	
+
+#Text=Pair/unpair to bluetooth devices.3.
+3-1	109-113	Pair	
+3-2	113-114	/	
+3-3	114-120	unpair	
+3-4	121-123	to	
+3-5	124-133	bluetooth	
+3-6	134-141	devices	
+3-7	141-143	.3	
+3-8	143-144	.	
+
+#Text=Location capture.4.
+4-1	145-153	Location	
+4-2	154-161	capture	
+4-3	161-163	.4	
+4-4	163-164	.	
+
+#Text=Date and time capture.5.
+5-1	165-169	Date	
+5-2	170-173	and	
+5-3	174-178	time	
+5-4	179-186	capture	
+5-5	186-188	.5	
+5-6	188-189	.	
+
+#Text=Run our pre-trained and quantized machine learning models.
+6-1	190-193	Run	
+6-2	194-197	our	
+6-3	198-209	pre-trained	
+6-4	210-213	and	
+6-5	214-223	quantized	
+6-6	224-231	machine	
+6-7	232-240	learning	
+6-8	241-247	models	
+6-9	247-248	.	
+
+#Text=We provide the models, already adapted to run predictions on iOS.
+7-1	249-251	We	
+7-2	252-259	provide	
+7-3	260-263	the	
+7-4	264-270	models	
+7-5	270-271	,	
+7-6	272-279	already	
+7-7	280-287	adapted	
+7-8	288-290	to	
+7-9	291-294	run	
+7-10	295-306	predictions	
+7-11	307-309	on	
+7-12	310-313	iOS	
+7-13	313-314	.	
+
+#Text=Their output is text-based.6.
+8-1	315-320	Their	
+8-2	321-327	output	
+8-3	328-330	is	
+8-4	331-341	text-based	
+8-5	341-343	.6	
+8-6	343-344	.	
+
+#Text=For each user, you capture the models' text output and send it to their account on AWS.7.
+9-1	345-348	For	
+9-2	349-353	each	
+9-3	354-358	user	
+9-4	358-359	,	
+9-5	360-363	you	
+9-6	364-371	capture	
+9-7	372-375	the	
+9-8	376-382	models	
+9-9	382-383	'	
+9-10	384-388	text	
+9-11	389-395	output	
+9-12	396-399	and	
+9-13	400-404	send	
+9-14	405-407	it	
+9-15	408-410	to	
+9-16	411-416	their	
+9-17	417-424	account	
+9-18	425-427	on	
+9-19	428-431	AWS	
+9-20	431-433	.7	
+9-21	433-434	.	
+
+#Text=A section in the app that fetches the text from AWS and allows the user to read it.
+10-1	435-436	A	
+10-2	437-444	section	
+10-3	445-447	in	
+10-4	448-451	the	
+10-5	452-455	app	
+10-6	456-460	that	
+10-7	461-468	fetches	
+10-8	469-472	the	
+10-9	473-477	text	
+10-10	478-482	from	
+10-11	483-486	AWS	
+10-12	487-490	and	
+10-13	491-497	allows	
+10-14	498-501	the	
+10-15	502-506	user	
+10-16	507-509	to	
+10-17	510-514	read	
+10-18	515-517	it	
+10-19	517-518	.	
+
+#Text=The user should also be able to search through it - we'll provide the search algorithm, you have to allow querying and display the result.When applying, please propose your budget, timeline and include a portfolio of your past applications.
+11-1	519-522	The	
+11-2	523-527	user	
+11-3	528-534	should	
+11-4	535-539	also	
+11-5	540-542	be	
+11-6	543-547	able	
+11-7	548-550	to	
+11-8	551-557	search	
+11-9	558-565	through	
+11-10	566-568	it	
+11-11	569-570	-	
+11-12	571-576	we'll	
+11-13	577-584	provide	
+11-14	585-588	the	
+11-15	589-595	search	
+11-16	596-605	algorithm	
+11-17	605-606	,	
+11-18	607-610	you	
+11-19	611-615	have	
+11-20	616-618	to	
+11-21	619-624	allow	
+11-22	625-633	querying	
+11-23	634-637	and	
+11-24	638-645	display	
+11-25	646-649	the	
+11-26	650-661	result.When	
+11-27	662-670	applying	
+11-28	670-671	,	
+11-29	672-678	please	
+11-30	679-686	propose	
+11-31	687-691	your	
+11-32	692-698	budget	
+11-33	698-699	,	
+11-34	700-708	timeline	
+11-35	709-712	and	
+11-36	713-720	include	
+11-37	721-722	a	
+11-38	723-732	portfolio	
+11-39	733-735	of	
+11-40	736-740	your	
+11-41	741-745	past	
+11-42	746-758	applications	
+11-43	758-759	.	
+
+#Text=Ideally they're similar or as close as possible to our requirements.
+12-1	760-767	Ideally	
+12-2	768-775	they're	
+12-3	776-783	similar	
+12-4	784-786	or	
+12-5	787-789	as	
+12-6	790-795	close	
+12-7	796-798	as	
+12-8	799-807	possible	
+12-9	808-810	to	
+12-10	811-814	our	
+12-11	815-827	requirements	
+12-12	827-828	.	
+
+#Text=Bonus points if your apps also hosted on-device ML models For each user, you capture the models' text output and send it to their account on AWS A section in the app that fetches the text from AWS and allows the user to read it
+13-1	829-834	Bonus	
+13-2	835-841	points	
+13-3	842-844	if	
+13-4	845-849	your	
+13-5	850-854	apps	
+13-6	855-859	also	
+13-7	860-866	hosted	
+13-8	867-876	on-device	
+13-9	877-879	ML	
+13-10	880-886	models	
+13-11	887-890	For	
+13-12	891-895	each	
+13-13	896-900	user	
+13-14	900-901	,	
+13-15	902-905	you	
+13-16	906-913	capture	
+13-17	914-917	the	
+13-18	918-924	models	
+13-19	924-925	'	
+13-20	926-930	text	
+13-21	931-937	output	
+13-22	938-941	and	
+13-23	942-946	send	
+13-24	947-949	it	
+13-25	950-952	to	
+13-26	953-958	their	
+13-27	959-966	account	
+13-28	967-969	on	
+13-29	970-973	AWS	
+13-30	974-975	A	
+13-31	976-983	section	
+13-32	984-986	in	
+13-33	987-990	the	
+13-34	991-994	app	
+13-35	995-999	that	
+13-36	1000-1007	fetches	
+13-37	1008-1011	the	
+13-38	1012-1016	text	
+13-39	1017-1021	from	
+13-40	1022-1025	AWS	
+13-41	1026-1029	and	
+13-42	1030-1036	allows	
+13-43	1037-1040	the	
+13-44	1041-1045	user	
+13-45	1046-1048	to	
+13-46	1049-1053	read	
+13-47	1054-1056	it	

@@ -1,0 +1,301 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Title: BackEnd Developer.Rate: $60...Visa: GC and USC CTH.Location: San Bruno, CA.
+1-1	0-5	Title	_	
+1-2	5-6	:	_	
+1-3	7-14	BackEnd	_	
+1-4	15-29	Developer.Rate	_	
+1-5	29-30	:	_	
+1-6	31-34	$60	_	
+1-7	34-35	.	_	
+1-8	35-36	.	_	
+1-9	36-37	.	_	
+1-10	37-41	Visa	_	
+1-11	41-42	:	_	
+1-12	43-45	GC	_	
+1-13	46-49	and	_	
+1-14	50-53	USC	_	
+1-15	54-66	CTH.Location	_	
+1-16	66-67	:	_	
+1-17	68-71	San	_	
+1-18	72-77	Bruno	_	
+1-19	77-78	,	_	
+1-20	79-81	CA	_	
+1-21	81-82	.	_	
+
+#Text=Fully remote.Duration: 12 months.Job DescriptionI have a remote contract-to-hire opportunity as a Backend Developer with a large e-commerce client of ours.Responsibilities Design, modify, develop, write, and implement software programming applications Support and/or install software applications/operating systems Participate in the testing process through test review and analysis, test witnessing and certification of softwareQualifications 7+ years of Java experience (Java 8+ and above) Strong object-oriented programming language Experience with SOA, Apache Camel, REST, Web Services, and J2EE technologies 3+ years of experience in building high performance and scalable solutions leveraging technologies like Cassandra, Kafka, Solr/Elastic Search, Hadoop/Hive, Spark 3+ years' experience in Agile Methodology Experience with various development and CI/CD tools, Git, Docker, Kubernetes 7+ years of Java experience (Java 8+ and above) Strong object-oriented programming language Experience with SOA, Apache Camel, REST, Web Services, and J2EE technologies 3+ years of experience in building high performance and scalable solutions leveraging technologies like Cassandra, Kafka, Solr/Elastic Search, Hadoop/Hive, Spark 3+ years' experience in Agile Methodology Experience with various development and CI/CD tools, Git, Docker, Kubernetes Design, modify, develop, write, and implement software programming applications Support and/or install software applications/operating systems Participate in the testing process through test review and analysis, test witnessing and certification of software Rate: $60
+2-1	83-88	Fully	_	
+2-2	89-104	remote.Duration	_	
+2-3	104-105	:	_	
+2-4	106-108	12	_	
+2-5	109-119	months.Job	_	
+2-6	120-132	DescriptionI	_	
+2-7	133-137	have	_	
+2-8	138-139	a	_	
+2-9	140-146	remote	_	
+2-10	147-163	contract-to-hire	_	
+2-11	164-175	opportunity	_	
+2-12	176-178	as	_	
+2-13	179-180	a	_	
+2-14	181-188	Backend	_	
+2-15	189-198	Developer	_	
+2-16	199-203	with	_	
+2-17	204-205	a	_	
+2-18	206-211	large	_	
+2-19	212-222	e-commerce	_	
+2-20	223-229	client	_	
+2-21	230-232	of	_	
+2-22	233-254	ours.Responsibilities	_	
+2-23	255-261	Design	Hard Skill	
+2-24	261-262	,	_	
+2-25	263-269	modify	_	
+2-26	269-270	,	_	
+2-27	271-278	develop	_	
+2-28	278-279	,	_	
+2-29	280-285	write	_	
+2-30	285-286	,	_	
+2-31	287-290	and	_	
+2-32	291-300	implement	_	
+2-33	301-309	software	_	
+2-34	310-321	programming	Hard Skill	
+2-35	322-334	applications	_	
+2-36	335-342	Support	_	
+2-37	343-346	and	_	
+2-38	346-347	/	_	
+2-39	347-349	or	_	
+2-40	350-357	install	_	
+2-41	358-366	software	_	
+2-42	367-379	applications	_	
+2-43	379-380	/	_	
+2-44	380-389	operating	_	
+2-45	390-397	systems	_	
+2-46	398-409	Participate	_	
+2-47	410-412	in	_	
+2-48	413-416	the	_	
+2-49	417-424	testing	_	
+2-50	425-432	process	_	
+2-51	433-440	through	_	
+2-52	441-445	test	_	
+2-53	446-452	review	_	
+2-54	453-456	and	_	
+2-55	457-465	analysis	Hard Skill	
+2-56	465-466	,	_	
+2-57	467-471	test	_	
+2-58	472-482	witnessing	_	
+2-59	483-486	and	_	
+2-60	487-500	certification	_	
+2-61	501-503	of	_	
+2-62	504-526	softwareQualifications	_	
+2-63	527-528	7	_	
+2-64	528-529	+	_	
+2-65	530-535	years	_	
+2-66	536-538	of	_	
+2-67	539-543	Java	Hard Skill	
+2-68	544-554	experience	_	
+2-69	555-556	(	_	
+2-70	556-560	Java	Hard Skill	
+2-71	561-562	8	_	
+2-72	562-563	+	_	
+2-73	564-567	and	_	
+2-74	568-573	above	_	
+2-75	573-574	)	_	
+2-76	575-581	Strong	_	
+2-77	582-597	object-oriented	_	
+2-78	598-609	programming	Hard Skill	
+2-79	610-618	language	_	
+2-80	619-629	Experience	_	
+2-81	630-634	with	_	
+2-82	635-638	SOA	_	
+2-83	638-639	,	_	
+2-84	640-646	Apache	_	
+2-85	647-652	Camel	_	
+2-86	652-653	,	_	
+2-87	654-658	REST	_	
+2-88	658-659	,	_	
+2-89	660-663	Web	_	
+2-90	664-672	Services	_	
+2-91	672-673	,	_	
+2-92	674-677	and	_	
+2-93	678-682	J2EE	Hard Skill	
+2-94	683-695	technologies	_	
+2-95	696-697	3	_	
+2-96	697-698	+	_	
+2-97	699-704	years	_	
+2-98	705-707	of	_	
+2-99	708-718	experience	_	
+2-100	719-721	in	_	
+2-101	722-730	building	_	
+2-102	731-735	high	_	
+2-103	736-747	performance	_	
+2-104	748-751	and	_	
+2-105	752-760	scalable	_	
+2-106	761-770	solutions	_	
+2-107	771-781	leveraging	_	
+2-108	782-794	technologies	_	
+2-109	795-799	like	_	
+2-110	800-809	Cassandra	Hard Skill	
+2-111	809-810	,	_	
+2-112	811-816	Kafka	_	
+2-113	816-817	,	_	
+2-114	818-822	Solr	_	
+2-115	822-823	/	_	
+2-116	823-830	Elastic	_	
+2-117	831-837	Search	_	
+2-118	837-838	,	_	
+2-119	839-845	Hadoop	_	
+2-120	845-846	/	_	
+2-121	846-850	Hive	_	
+2-122	850-851	,	_	
+2-123	852-857	Spark	_	
+2-124	858-859	3	_	
+2-125	859-860	+	_	
+2-126	861-866	years	_	
+2-127	866-867	'	_	
+2-128	868-878	experience	_	
+2-129	879-881	in	_	
+2-130	882-887	Agile	Hard Skill	
+2-131	888-899	Methodology	_	
+2-132	900-910	Experience	_	
+2-133	911-915	with	_	
+2-134	916-923	various	_	
+2-135	924-935	development	_	
+2-136	936-939	and	_	
+2-137	940-942	CI	_	
+2-138	942-943	/	_	
+2-139	943-945	CD	_	
+2-140	946-951	tools	_	
+2-141	951-952	,	_	
+2-142	953-956	Git	Hard Skill	
+2-143	956-957	,	_	
+2-144	958-964	Docker	Hard Skill	
+2-145	964-965	,	_	
+2-146	966-976	Kubernetes	Hard Skill	
+2-147	977-978	7	_	
+2-148	978-979	+	_	
+2-149	980-985	years	_	
+2-150	986-988	of	_	
+2-151	989-993	Java	Hard Skill	
+2-152	994-1004	experience	_	
+2-153	1005-1006	(	_	
+2-154	1006-1010	Java	Hard Skill	
+2-155	1011-1012	8	_	
+2-156	1012-1013	+	_	
+2-157	1014-1017	and	_	
+2-158	1018-1023	above	_	
+2-159	1023-1024	)	_	
+2-160	1025-1031	Strong	_	
+2-161	1032-1047	object-oriented	_	
+2-162	1048-1059	programming	Hard Skill	
+2-163	1060-1068	language	_	
+2-164	1069-1079	Experience	_	
+2-165	1080-1084	with	_	
+2-166	1085-1088	SOA	_	
+2-167	1088-1089	,	_	
+2-168	1090-1096	Apache	_	
+2-169	1097-1102	Camel	_	
+2-170	1102-1103	,	_	
+2-171	1104-1108	REST	_	
+2-172	1108-1109	,	_	
+2-173	1110-1113	Web	_	
+2-174	1114-1122	Services	_	
+2-175	1122-1123	,	_	
+2-176	1124-1127	and	_	
+2-177	1128-1132	J2EE	Hard Skill	
+2-178	1133-1145	technologies	_	
+2-179	1146-1147	3	_	
+2-180	1147-1148	+	_	
+2-181	1149-1154	years	_	
+2-182	1155-1157	of	_	
+2-183	1158-1168	experience	_	
+2-184	1169-1171	in	_	
+2-185	1172-1180	building	_	
+2-186	1181-1185	high	_	
+2-187	1186-1197	performance	_	
+2-188	1198-1201	and	_	
+2-189	1202-1210	scalable	_	
+2-190	1211-1220	solutions	_	
+2-191	1221-1231	leveraging	_	
+2-192	1232-1244	technologies	_	
+2-193	1245-1249	like	_	
+2-194	1250-1259	Cassandra	Hard Skill	
+2-195	1259-1260	,	_	
+2-196	1261-1266	Kafka	_	
+2-197	1266-1267	,	_	
+2-198	1268-1272	Solr	_	
+2-199	1272-1273	/	_	
+2-200	1273-1280	Elastic	_	
+2-201	1281-1287	Search	_	
+2-202	1287-1288	,	_	
+2-203	1289-1295	Hadoop	_	
+2-204	1295-1296	/	_	
+2-205	1296-1300	Hive	_	
+2-206	1300-1301	,	_	
+2-207	1302-1307	Spark	_	
+2-208	1308-1309	3	_	
+2-209	1309-1310	+	_	
+2-210	1311-1316	years	_	
+2-211	1316-1317	'	_	
+2-212	1318-1328	experience	_	
+2-213	1329-1331	in	_	
+2-214	1332-1337	Agile	Hard Skill	
+2-215	1338-1349	Methodology	_	
+2-216	1350-1360	Experience	_	
+2-217	1361-1365	with	_	
+2-218	1366-1373	various	_	
+2-219	1374-1385	development	_	
+2-220	1386-1389	and	_	
+2-221	1390-1392	CI	_	
+2-222	1392-1393	/	_	
+2-223	1393-1395	CD	_	
+2-224	1396-1401	tools	_	
+2-225	1401-1402	,	_	
+2-226	1403-1406	Git	Hard Skill	
+2-227	1406-1407	,	_	
+2-228	1408-1414	Docker	Hard Skill	
+2-229	1414-1415	,	_	
+2-230	1416-1426	Kubernetes	Hard Skill	
+2-231	1427-1433	Design	Hard Skill	
+2-232	1433-1434	,	_	
+2-233	1435-1441	modify	_	
+2-234	1441-1442	,	_	
+2-235	1443-1450	develop	_	
+2-236	1450-1451	,	_	
+2-237	1452-1457	write	_	
+2-238	1457-1458	,	_	
+2-239	1459-1462	and	_	
+2-240	1463-1472	implement	_	
+2-241	1473-1481	software	_	
+2-242	1482-1493	programming	Hard Skill	
+2-243	1494-1506	applications	_	
+2-244	1507-1514	Support	_	
+2-245	1515-1518	and	_	
+2-246	1518-1519	/	_	
+2-247	1519-1521	or	_	
+2-248	1522-1529	install	_	
+2-249	1530-1538	software	_	
+2-250	1539-1551	applications	_	
+2-251	1551-1552	/	_	
+2-252	1552-1561	operating	_	
+2-253	1562-1569	systems	_	
+2-254	1570-1581	Participate	_	
+2-255	1582-1584	in	_	
+2-256	1585-1588	the	_	
+2-257	1589-1596	testing	_	
+2-258	1597-1604	process	_	
+2-259	1605-1612	through	_	
+2-260	1613-1617	test	_	
+2-261	1618-1624	review	_	
+2-262	1625-1628	and	_	
+2-263	1629-1637	analysis	Hard Skill	
+2-264	1637-1638	,	_	
+2-265	1639-1643	test	_	
+2-266	1644-1654	witnessing	_	
+2-267	1655-1658	and	_	
+2-268	1659-1672	certification	_	
+2-269	1673-1675	of	_	
+2-270	1676-1684	software	_	
+2-271	1685-1689	Rate	_	
+2-272	1689-1690	:	_	
+2-273	1691-1694	$60	_	

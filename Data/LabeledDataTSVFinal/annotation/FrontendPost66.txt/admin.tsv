@@ -1,0 +1,255 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Collaborate with, clients, fast-growing go-to-market marketing teams and the design teams.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-29	Collaborate	_	
+1-4	30-34	with	_	
+1-5	34-35	,	_	
+1-6	36-43	clients	_	
+1-7	43-44	,	_	
+1-8	45-57	fast-growing	_	
+1-9	58-70	go-to-market	_	
+1-10	71-80	marketing	_	
+1-11	81-86	teams	_	
+1-12	87-90	and	_	
+1-13	91-94	the	_	
+1-14	95-101	design	Hard Skill	
+1-15	102-107	teams	_	
+1-16	107-108	.	_	
+
+#Text=Develop and own a brand and consistently maintain the project representation to the core.
+2-1	109-116	Develop	_	
+2-2	117-120	and	_	
+2-3	121-124	own	_	
+2-4	125-126	a	_	
+2-5	127-132	brand	_	
+2-6	133-136	and	_	
+2-7	137-149	consistently	_	
+2-8	150-158	maintain	_	
+2-9	159-162	the	_	
+2-10	163-170	project	_	
+2-11	171-185	representation	_	
+2-12	186-188	to	_	
+2-13	189-192	the	_	
+2-14	193-197	core	_	
+2-15	197-198	.	_	
+
+#Text=Ensure implementations follow web standards, Webflow standards, accessibility, and usability best practices.
+3-1	199-205	Ensure	_	
+3-2	206-221	implementations	_	
+3-3	222-228	follow	_	
+3-4	229-232	web	_	
+3-5	233-242	standards	_	
+3-6	242-243	,	_	
+3-7	244-251	Webflow	_	
+3-8	252-261	standards	_	
+3-9	261-262	,	_	
+3-10	263-276	accessibility	_	
+3-11	276-277	,	_	
+3-12	278-281	and	_	
+3-13	282-291	usability	_	
+3-14	292-296	best	_	
+3-15	297-306	practices	_	
+3-16	306-307	.	_	
+
+#Text=Own the buildout of new pages in our Reusable component framework as well as the... maintenance of our Workshore design system.
+4-1	308-311	Own	_	
+4-2	312-315	the	_	
+4-3	316-324	buildout	_	
+4-4	325-327	of	_	
+4-5	328-331	new	_	
+4-6	332-337	pages	_	
+4-7	338-340	in	_	
+4-8	341-344	our	_	
+4-9	345-353	Reusable	_	
+4-10	354-363	component	_	
+4-11	364-373	framework	_	
+4-12	374-376	as	_	
+4-13	377-381	well	_	
+4-14	382-384	as	_	
+4-15	385-388	the	_	
+4-16	388-389	.	_	
+4-17	389-390	.	_	
+4-18	390-391	.	_	
+4-19	392-403	maintenance	_	
+4-20	404-406	of	_	
+4-21	407-410	our	_	
+4-22	411-420	Workshore	_	
+4-23	421-427	design	Hard Skill	
+4-24	428-434	system	_	
+4-25	434-435	.	_	
+
+#Text=Evolve the visual identity by designing and building consistent experiences across our projects.
+5-1	436-442	Evolve	_	
+5-2	443-446	the	_	
+5-3	447-453	visual	_	
+5-4	454-462	identity	_	
+5-5	463-465	by	_	
+5-6	466-475	designing	_	
+5-7	476-479	and	_	
+5-8	480-488	building	_	
+5-9	489-499	consistent	_	
+5-10	500-511	experiences	_	
+5-11	512-518	across	_	
+5-12	519-522	our	_	
+5-13	523-531	projects	_	
+5-14	531-532	.	_	
+
+#Text=Work cross-functionally with marketing and other stakeholders to arrive at the best possible design solutions, continually raising our bar for quality.Key Skills: Frameworks.
+6-1	533-537	Work	_	
+6-2	538-556	cross-functionally	_	
+6-3	557-561	with	_	
+6-4	562-571	marketing	_	
+6-5	572-575	and	_	
+6-6	576-581	other	_	
+6-7	582-594	stakeholders	_	
+6-8	595-597	to	_	
+6-9	598-604	arrive	_	
+6-10	605-607	at	_	
+6-11	608-611	the	_	
+6-12	612-616	best	_	
+6-13	617-625	possible	_	
+6-14	626-632	design	Hard Skill	
+6-15	633-642	solutions	_	
+6-16	642-643	,	_	
+6-17	644-655	continually	_	
+6-18	656-663	raising	_	
+6-19	664-667	our	_	
+6-20	668-671	bar	_	
+6-21	672-675	for	_	
+6-22	676-687	quality.Key	_	
+6-23	688-694	Skills	_	
+6-24	694-695	:	_	
+6-25	696-706	Frameworks	_	
+6-26	706-707	.	_	
+
+#Text=Responsive Design.
+7-1	708-718	Responsive	_	
+7-2	719-725	Design	Hard Skill	
+7-3	725-726	.	_	
+
+#Text=Version Control/Git.
+8-1	727-734	Version	_	
+8-2	735-742	Control	_	
+8-3	742-743	/	_	
+8-4	743-746	Git	Hard Skill	
+8-5	746-747	.	_	
+
+#Text=Testing/Debugging.
+9-1	748-755	Testing	_	
+9-2	755-756	/	_	
+9-3	756-765	Debugging	_	
+9-4	765-766	.	_	
+
+#Text=Browser Developer Tools.
+10-1	767-774	Browser	_	
+10-2	775-784	Developer	_	
+10-3	785-790	Tools	_	
+10-4	790-791	.	_	
+
+#Text=Web Performance Responsibilities: Collaborate with, clients, fast-growing go-to-market marketing teams and the design teams Develop and own a brand and consistently maintain the project representation to the core Ensure implementations follow web standards, Webflow standards, accessibility, and usability best practices Own the buildout of new pages in our Reusable component framework as well as the maintenance of our Workshore design system Evolve the visual identity by designing and building consistent experiences across our projects Work cross-functionally with marketing and other stakeholders to arrive at the best possible design solutions, continually raising our bar for quality
+11-1	792-795	Web	_	
+11-2	796-807	Performance	_	
+11-3	808-824	Responsibilities	_	
+11-4	824-825	:	_	
+11-5	826-837	Collaborate	_	
+11-6	838-842	with	_	
+11-7	842-843	,	_	
+11-8	844-851	clients	_	
+11-9	851-852	,	_	
+11-10	853-865	fast-growing	_	
+11-11	866-878	go-to-market	_	
+11-12	879-888	marketing	_	
+11-13	889-894	teams	_	
+11-14	895-898	and	_	
+11-15	899-902	the	_	
+11-16	903-909	design	Hard Skill	
+11-17	910-915	teams	_	
+11-18	916-923	Develop	_	
+11-19	924-927	and	_	
+11-20	928-931	own	_	
+11-21	932-933	a	_	
+11-22	934-939	brand	_	
+11-23	940-943	and	_	
+11-24	944-956	consistently	_	
+11-25	957-965	maintain	_	
+11-26	966-969	the	_	
+11-27	970-977	project	_	
+11-28	978-992	representation	_	
+11-29	993-995	to	_	
+11-30	996-999	the	_	
+11-31	1000-1004	core	_	
+11-32	1005-1011	Ensure	_	
+11-33	1012-1027	implementations	_	
+11-34	1028-1034	follow	_	
+11-35	1035-1038	web	_	
+11-36	1039-1048	standards	_	
+11-37	1048-1049	,	_	
+11-38	1050-1057	Webflow	_	
+11-39	1058-1067	standards	_	
+11-40	1067-1068	,	_	
+11-41	1069-1082	accessibility	_	
+11-42	1082-1083	,	_	
+11-43	1084-1087	and	_	
+11-44	1088-1097	usability	_	
+11-45	1098-1102	best	_	
+11-46	1103-1112	practices	_	
+11-47	1113-1116	Own	_	
+11-48	1117-1120	the	_	
+11-49	1121-1129	buildout	_	
+11-50	1130-1132	of	_	
+11-51	1133-1136	new	_	
+11-52	1137-1142	pages	_	
+11-53	1143-1145	in	_	
+11-54	1146-1149	our	_	
+11-55	1150-1158	Reusable	_	
+11-56	1159-1168	component	_	
+11-57	1169-1178	framework	_	
+11-58	1179-1181	as	_	
+11-59	1182-1186	well	_	
+11-60	1187-1189	as	_	
+11-61	1190-1193	the	_	
+11-62	1194-1205	maintenance	_	
+11-63	1206-1208	of	_	
+11-64	1209-1212	our	_	
+11-65	1213-1222	Workshore	_	
+11-66	1223-1229	design	Hard Skill	
+11-67	1230-1236	system	_	
+11-68	1237-1243	Evolve	_	
+11-69	1244-1247	the	_	
+11-70	1248-1254	visual	_	
+11-71	1255-1263	identity	_	
+11-72	1264-1266	by	_	
+11-73	1267-1276	designing	_	
+11-74	1277-1280	and	_	
+11-75	1281-1289	building	_	
+11-76	1290-1300	consistent	_	
+11-77	1301-1312	experiences	_	
+11-78	1313-1319	across	_	
+11-79	1320-1323	our	_	
+11-80	1324-1332	projects	_	
+11-81	1333-1337	Work	_	
+11-82	1338-1356	cross-functionally	_	
+11-83	1357-1361	with	_	
+11-84	1362-1371	marketing	_	
+11-85	1372-1375	and	_	
+11-86	1376-1381	other	_	
+11-87	1382-1394	stakeholders	_	
+11-88	1395-1397	to	_	
+11-89	1398-1404	arrive	_	
+11-90	1405-1407	at	_	
+11-91	1408-1411	the	_	
+11-92	1412-1416	best	_	
+11-93	1417-1425	possible	_	
+11-94	1426-1432	design	Hard Skill	
+11-95	1433-1442	solutions	_	
+11-96	1442-1443	,	_	
+11-97	1444-1455	continually	_	
+11-98	1456-1463	raising	_	
+11-99	1464-1467	our	_	
+11-100	1468-1471	bar	_	
+11-101	1472-1475	for	_	
+11-102	1476-1483	quality	_	

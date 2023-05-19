@@ -1,0 +1,627 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=OB TITLE - Principal LEAD Mobile Engineer  AndroidLOCATION - Denver CO  On-site from DAY 1...MAJOR DUTIES AND RESPONSIBILITIESThe Principal Android Engineer will own the design, development, documentation, and troubleshooting of our Connection Manager application in addition to new technology projects involving Android.
+1-1	0-2	OB	_	
+1-2	3-8	TITLE	_	
+1-3	9-10	-	_	
+1-4	11-20	Principal	_	
+1-5	21-25	LEAD	_	
+1-6	26-32	Mobile	_	
+1-7	33-41	Engineer	_	
+1-8	43-58	AndroidLOCATION	_	
+1-9	59-60	-	_	
+1-10	61-67	Denver	_	
+1-11	68-70	CO	_	
+1-12	72-79	On-site	_	
+1-13	80-84	from	_	
+1-14	85-88	DAY	_	
+1-15	89-90	1	_	
+1-16	90-91	.	_	
+1-17	91-92	.	_	
+1-18	92-93	.	_	
+1-19	93-98	MAJOR	_	
+1-20	99-105	DUTIES	_	
+1-21	106-109	AND	_	
+1-22	110-129	RESPONSIBILITIESThe	_	
+1-23	130-139	Principal	_	
+1-24	140-147	Android	Hard Skill	
+1-25	148-156	Engineer	_	
+1-26	157-161	will	_	
+1-27	162-165	own	_	
+1-28	166-169	the	_	
+1-29	170-176	design	Hard Skill	
+1-30	176-177	,	_	
+1-31	178-189	development	_	
+1-32	189-190	,	_	
+1-33	191-204	documentation	Hard Skill	
+1-34	204-205	,	_	
+1-35	206-209	and	_	
+1-36	210-225	troubleshooting	Hard Skill	
+1-37	226-228	of	_	
+1-38	229-232	our	_	
+1-39	233-243	Connection	_	
+1-40	244-251	Manager	_	
+1-41	252-263	application	_	
+1-42	264-266	in	_	
+1-43	267-275	addition	_	
+1-44	276-278	to	_	
+1-45	279-282	new	_	
+1-46	283-293	technology	_	
+1-47	294-302	projects	_	
+1-48	303-312	involving	_	
+1-49	313-320	Android	Hard Skill	
+1-50	320-321	.	_	
+
+#Text=You should have a real passion for the latest technology trends and be willing to share new technology opportunities with the broader team.
+2-1	322-325	You	_	
+2-2	326-332	should	_	
+2-3	333-337	have	_	
+2-4	338-339	a	_	
+2-5	340-344	real	_	
+2-6	345-352	passion	Soft Skill	
+2-7	353-356	for	_	
+2-8	357-360	the	_	
+2-9	361-367	latest	_	
+2-10	368-378	technology	_	
+2-11	379-385	trends	_	
+2-12	386-389	and	_	
+2-13	390-392	be	_	
+2-14	393-400	willing	_	
+2-15	401-403	to	_	
+2-16	404-409	share	_	
+2-17	410-413	new	_	
+2-18	414-424	technology	_	
+2-19	425-438	opportunities	_	
+2-20	439-443	with	_	
+2-21	444-447	the	_	
+2-22	448-455	broader	_	
+2-23	456-460	team	_	
+2-24	460-461	.	_	
+
+#Text=More specifically, you will: Write clean, concise code that is stable, extensible, and unit-tested appropriately.
+3-1	462-466	More	_	
+3-2	467-479	specifically	_	
+3-3	479-480	,	_	
+3-4	481-484	you	_	
+3-5	485-489	will	_	
+3-6	489-490	:	_	
+3-7	491-496	Write	_	
+3-8	497-502	clean	_	
+3-9	502-503	,	_	
+3-10	504-511	concise	_	
+3-11	512-516	code	_	
+3-12	517-521	that	_	
+3-13	522-524	is	_	
+3-14	525-531	stable	_	
+3-15	531-532	,	_	
+3-16	533-543	extensible	_	
+3-17	543-544	,	_	
+3-18	545-548	and	_	
+3-19	549-560	unit-tested	_	
+3-20	561-574	appropriately	_	
+3-21	574-575	.	_	
+
+#Text=Communicate frequently and effectively with other developers and quality engineers on the team in addition to our product owners, scrum masters and project managers.
+4-1	576-587	Communicate	_	
+4-2	588-598	frequently	_	
+4-3	599-602	and	_	
+4-4	603-614	effectively	_	
+4-5	615-619	with	_	
+4-6	620-625	other	_	
+4-7	626-636	developers	_	
+4-8	637-640	and	_	
+4-9	641-648	quality	_	
+4-10	649-658	engineers	_	
+4-11	659-661	on	_	
+4-12	662-665	the	_	
+4-13	666-670	team	_	
+4-14	671-673	in	_	
+4-15	674-682	addition	_	
+4-16	683-685	to	_	
+4-17	686-689	our	_	
+4-18	690-697	product	_	
+4-19	698-704	owners	_	
+4-20	704-705	,	_	
+4-21	706-711	scrum	_	
+4-22	712-719	masters	_	
+4-23	720-723	and	_	
+4-24	724-731	project	_	
+4-25	732-740	managers	_	
+4-26	740-741	.	_	
+
+#Text=Diagnose complex issues, evaluate, recommend, and execute the best resolution.
+5-1	742-750	Diagnose	_	
+5-2	751-758	complex	_	
+5-3	759-765	issues	_	
+5-4	765-766	,	_	
+5-5	767-775	evaluate	_	
+5-6	775-776	,	_	
+5-7	777-786	recommend	_	
+5-8	786-787	,	_	
+5-9	788-791	and	_	
+5-10	792-799	execute	_	
+5-11	800-803	the	_	
+5-12	804-808	best	_	
+5-13	809-819	resolution	_	
+5-14	819-820	.	_	
+
+#Text=Implement new features within our Agile delivery methodology while following our established architectural principles and practices.
+6-1	821-830	Implement	_	
+6-2	831-834	new	_	
+6-3	835-843	features	_	
+6-4	844-850	within	_	
+6-5	851-854	our	_	
+6-6	855-860	Agile	Hard Skill	
+6-7	861-869	delivery	_	
+6-8	870-881	methodology	_	
+6-9	882-887	while	_	
+6-10	888-897	following	_	
+6-11	898-901	our	_	
+6-12	902-913	established	_	
+6-13	914-927	architectural	_	
+6-14	928-938	principles	_	
+6-15	939-942	and	_	
+6-16	943-952	practices	_	
+6-17	952-953	.	_	
+
+#Text=Write code that meets the production requirements and design specifications and anticipate potential errors/issues.REQUIRED QUALIFICATIONS Extensive production experience with native Android application development Experience in making critical, architectural decisions for a development team, providing sound technical direction and communicating effectively.
+7-1	954-959	Write	_	
+7-2	960-964	code	_	
+7-3	965-969	that	_	
+7-4	970-975	meets	_	
+7-5	976-979	the	_	
+7-6	980-990	production	_	
+7-7	991-1003	requirements	_	
+7-8	1004-1007	and	_	
+7-9	1008-1014	design	Hard Skill	
+7-10	1015-1029	specifications	_	
+7-11	1030-1033	and	_	
+7-12	1034-1044	anticipate	_	
+7-13	1045-1054	potential	_	
+7-14	1055-1061	errors	_	
+7-15	1061-1062	/	_	
+7-16	1062-1077	issues.REQUIRED	_	
+7-17	1078-1092	QUALIFICATIONS	_	
+7-18	1093-1102	Extensive	_	
+7-19	1103-1113	production	_	
+7-20	1114-1124	experience	_	
+7-21	1125-1129	with	_	
+7-22	1130-1136	native	_	
+7-23	1137-1144	Android	Hard Skill	
+7-24	1145-1156	application	_	
+7-25	1157-1168	development	_	
+7-26	1169-1179	Experience	_	
+7-27	1180-1182	in	_	
+7-28	1183-1189	making	_	
+7-29	1190-1198	critical	_	
+7-30	1198-1199	,	_	
+7-31	1200-1213	architectural	_	
+7-32	1214-1223	decisions	_	
+7-33	1224-1227	for	_	
+7-34	1228-1229	a	_	
+7-35	1230-1241	development	_	
+7-36	1242-1246	team	_	
+7-37	1246-1247	,	_	
+7-38	1248-1257	providing	_	
+7-39	1258-1263	sound	_	
+7-40	1264-1273	technical	_	
+7-41	1274-1283	direction	_	
+7-42	1284-1287	and	_	
+7-43	1288-1301	communicating	_	
+7-44	1302-1313	effectively	_	
+7-45	1313-1314	.	_	
+
+#Text=Strong knowledge of Java, Kotlin, Gradle and the Android SDK Knowledge of using RESTful APIs Proficiency building large scale, complex, Android applications optimized for both UX and performance.
+8-1	1315-1321	Strong	_	
+8-2	1322-1331	knowledge	_	
+8-3	1332-1334	of	_	
+8-4	1335-1339	Java	Hard Skill	
+8-5	1339-1340	,	_	
+8-6	1341-1347	Kotlin	Hard Skill	
+8-7	1347-1348	,	_	
+8-8	1349-1355	Gradle	_	
+8-9	1356-1359	and	_	
+8-10	1360-1363	the	_	
+8-11	1364-1371	Android	Hard Skill	
+8-12	1372-1375	SDK	_	
+8-13	1376-1385	Knowledge	_	
+8-14	1386-1388	of	_	
+8-15	1389-1394	using	_	
+8-16	1395-1402	RESTful	_	
+8-17	1403-1407	APIs	_	
+8-18	1408-1419	Proficiency	_	
+8-19	1420-1428	building	_	
+8-20	1429-1434	large	_	
+8-21	1435-1440	scale	_	
+8-22	1440-1441	,	_	
+8-23	1442-1449	complex	_	
+8-24	1449-1450	,	_	
+8-25	1451-1458	Android	Hard Skill	
+8-26	1459-1471	applications	_	
+8-27	1472-1481	optimized	_	
+8-28	1482-1485	for	_	
+8-29	1486-1490	both	_	
+8-30	1491-1493	UX	_	
+8-31	1494-1497	and	_	
+8-32	1498-1509	performance	_	
+8-33	1509-1510	.	_	
+
+#Text=Experience working on large scale mobile projects leveraging rigid and complex architectural patterns.
+9-1	1511-1521	Experience	_	
+9-2	1522-1529	working	_	
+9-3	1530-1532	on	_	
+9-4	1533-1538	large	_	
+9-5	1539-1544	scale	_	
+9-6	1545-1551	mobile	_	
+9-7	1552-1560	projects	_	
+9-8	1561-1571	leveraging	_	
+9-9	1572-1577	rigid	_	
+9-10	1578-1581	and	_	
+9-11	1582-1589	complex	_	
+9-12	1590-1603	architectural	_	
+9-13	1604-1612	patterns	_	
+9-14	1612-1613	.	_	
+
+#Text=Working experience in Agile software development and leveraging continuous integration and deployment practices Familiarity using test-driven development frameworks or automated testing tools for mobile development.
+10-1	1614-1621	Working	_	
+10-2	1622-1632	experience	_	
+10-3	1633-1635	in	_	
+10-4	1636-1641	Agile	Hard Skill	
+10-5	1642-1650	software	_	
+10-6	1651-1662	development	_	
+10-7	1663-1666	and	_	
+10-8	1667-1677	leveraging	_	
+10-9	1678-1688	continuous	_	
+10-10	1689-1700	integration	_	
+10-11	1701-1704	and	_	
+10-12	1705-1715	deployment	_	
+10-13	1716-1725	practices	_	
+10-14	1726-1737	Familiarity	_	
+10-15	1738-1743	using	_	
+10-16	1744-1755	test-driven	_	
+10-17	1756-1767	development	_	
+10-18	1768-1778	frameworks	_	
+10-19	1779-1781	or	_	
+10-20	1782-1791	automated	_	
+10-21	1792-1799	testing	_	
+10-22	1800-1805	tools	_	
+10-23	1806-1809	for	_	
+10-24	1810-1816	mobile	_	
+10-25	1817-1828	development	_	
+10-26	1828-1829	.	_	
+
+#Text=Team player mindset and a great sense of humor Willingness to mentor and advise other engineering team members.
+11-1	1830-1834	Team	_	
+11-2	1835-1841	player	_	
+11-3	1842-1849	mindset	_	
+11-4	1850-1853	and	_	
+11-5	1854-1855	a	_	
+11-6	1856-1861	great	_	
+11-7	1862-1867	sense	_	
+11-8	1868-1870	of	_	
+11-9	1871-1876	humor	_	
+11-10	1877-1888	Willingness	_	
+11-11	1889-1891	to	_	
+11-12	1892-1898	mentor	_	
+11-13	1899-1902	and	_	
+11-14	1903-1909	advise	_	
+11-15	1910-1915	other	_	
+11-16	1916-1927	engineering	_	
+11-17	1928-1932	team	_	
+11-18	1933-1940	members	_	
+11-19	1940-1941	.	_	
+
+#Text=Excellent written and verbal communication skills.
+12-1	1942-1951	Excellent	_	
+12-2	1952-1959	written	_	
+12-3	1960-1963	and	_	
+12-4	1964-1970	verbal	_	
+12-5	1971-1984	communication	Soft Skill	
+12-6	1985-1991	skills	_	
+12-7	1991-1992	.	_	
+
+#Text=Solid analytical and troubleshooting abilities.RELATED WORK EXPERIENCE 7+ years Android application development experience 10+ years overall application development experience 3+ years web services development experience using REST, JSON, XML Extensive production experience with native Android application development Experience in making critical, architectural decisions for a development team, providing sound technical direction and communicating effectively Strong knowledge of Java, Kotlin, Gradle and the Android SDK Knowledge of using RESTful APIs Proficiency building large scale, complex, Android applications optimized for both UX and performance Experience working on large scale mobile projects leveraging rigid and complex architectural patterns Working experience in Agile software development and leveraging continuous integration and deployment practices Familiarity using test-driven development frameworks or automated testing tools for mobile development Team player mindset and a great sense of humor Willingness to mentor and advise other engineering team members Excellent written and verbal communication skills Solid analytical and troubleshooting abilities RELATED WORK EXPERIENCE 7+ years Android application development experience 10+ years overall application development experience 3+ years web services development experience using REST, JSON, XML The Principal Android Engineer will own the design, development, documentation, and troubleshooting of our Connection Manager application in addition to new technology projects involving Android Write clean, concise code that is stable, extensible, and unit-tested appropriately Communicate frequently and effectively with other developers and quality engineers on the team in addition to our product owners, scrum masters and project managers Diagnose complex issues, evaluate, recommend, and execute the best resolution Implement new features within our Agile delivery methodology while following our established architectural principles and practices Write code that meets the production requirements and design specifications and anticipate potential errors/issues
+13-1	1993-1998	Solid	_	
+13-2	1999-2009	analytical	_	
+13-3	2010-2013	and	_	
+13-4	2014-2029	troubleshooting	Hard Skill	
+13-5	2030-2047	abilities.RELATED	_	
+13-6	2048-2052	WORK	_	
+13-7	2053-2063	EXPERIENCE	_	
+13-8	2064-2065	7	_	
+13-9	2065-2066	+	_	
+13-10	2067-2072	years	_	
+13-11	2073-2080	Android	Hard Skill	
+13-12	2081-2092	application	_	
+13-13	2093-2104	development	_	
+13-14	2105-2115	experience	_	
+13-15	2116-2118	10	_	
+13-16	2118-2119	+	_	
+13-17	2120-2125	years	_	
+13-18	2126-2133	overall	_	
+13-19	2134-2145	application	_	
+13-20	2146-2157	development	_	
+13-21	2158-2168	experience	_	
+13-22	2169-2170	3	_	
+13-23	2170-2171	+	_	
+13-24	2172-2177	years	_	
+13-25	2178-2181	web	_	
+13-26	2182-2190	services	_	
+13-27	2191-2202	development	_	
+13-28	2203-2213	experience	_	
+13-29	2214-2219	using	_	
+13-30	2220-2224	REST	_	
+13-31	2224-2225	,	_	
+13-32	2226-2230	JSON	Hard Skill	
+13-33	2230-2231	,	_	
+13-34	2232-2235	XML	_	
+13-35	2236-2245	Extensive	_	
+13-36	2246-2256	production	_	
+13-37	2257-2267	experience	_	
+13-38	2268-2272	with	_	
+13-39	2273-2279	native	_	
+13-40	2280-2287	Android	Hard Skill	
+13-41	2288-2299	application	_	
+13-42	2300-2311	development	_	
+13-43	2312-2322	Experience	_	
+13-44	2323-2325	in	_	
+13-45	2326-2332	making	_	
+13-46	2333-2341	critical	_	
+13-47	2341-2342	,	_	
+13-48	2343-2356	architectural	_	
+13-49	2357-2366	decisions	_	
+13-50	2367-2370	for	_	
+13-51	2371-2372	a	_	
+13-52	2373-2384	development	_	
+13-53	2385-2389	team	_	
+13-54	2389-2390	,	_	
+13-55	2391-2400	providing	_	
+13-56	2401-2406	sound	_	
+13-57	2407-2416	technical	_	
+13-58	2417-2426	direction	_	
+13-59	2427-2430	and	_	
+13-60	2431-2444	communicating	_	
+13-61	2445-2456	effectively	_	
+13-62	2457-2463	Strong	_	
+13-63	2464-2473	knowledge	_	
+13-64	2474-2476	of	_	
+13-65	2477-2481	Java	Hard Skill	
+13-66	2481-2482	,	_	
+13-67	2483-2489	Kotlin	Hard Skill	
+13-68	2489-2490	,	_	
+13-69	2491-2497	Gradle	_	
+13-70	2498-2501	and	_	
+13-71	2502-2505	the	_	
+13-72	2506-2513	Android	Hard Skill	
+13-73	2514-2517	SDK	_	
+13-74	2518-2527	Knowledge	_	
+13-75	2528-2530	of	_	
+13-76	2531-2536	using	_	
+13-77	2537-2544	RESTful	_	
+13-78	2545-2549	APIs	_	
+13-79	2550-2561	Proficiency	_	
+13-80	2562-2570	building	_	
+13-81	2571-2576	large	_	
+13-82	2577-2582	scale	_	
+13-83	2582-2583	,	_	
+13-84	2584-2591	complex	_	
+13-85	2591-2592	,	_	
+13-86	2593-2600	Android	Hard Skill	
+13-87	2601-2613	applications	_	
+13-88	2614-2623	optimized	_	
+13-89	2624-2627	for	_	
+13-90	2628-2632	both	_	
+13-91	2633-2635	UX	_	
+13-92	2636-2639	and	_	
+13-93	2640-2651	performance	_	
+13-94	2652-2662	Experience	_	
+13-95	2663-2670	working	_	
+13-96	2671-2673	on	_	
+13-97	2674-2679	large	_	
+13-98	2680-2685	scale	_	
+13-99	2686-2692	mobile	_	
+13-100	2693-2701	projects	_	
+13-101	2702-2712	leveraging	_	
+13-102	2713-2718	rigid	_	
+13-103	2719-2722	and	_	
+13-104	2723-2730	complex	_	
+13-105	2731-2744	architectural	_	
+13-106	2745-2753	patterns	_	
+13-107	2754-2761	Working	_	
+13-108	2762-2772	experience	_	
+13-109	2773-2775	in	_	
+13-110	2776-2781	Agile	Hard Skill	
+13-111	2782-2790	software	_	
+13-112	2791-2802	development	_	
+13-113	2803-2806	and	_	
+13-114	2807-2817	leveraging	_	
+13-115	2818-2828	continuous	_	
+13-116	2829-2840	integration	_	
+13-117	2841-2844	and	_	
+13-118	2845-2855	deployment	_	
+13-119	2856-2865	practices	_	
+13-120	2866-2877	Familiarity	_	
+13-121	2878-2883	using	_	
+13-122	2884-2895	test-driven	_	
+13-123	2896-2907	development	_	
+13-124	2908-2918	frameworks	_	
+13-125	2919-2921	or	_	
+13-126	2922-2931	automated	_	
+13-127	2932-2939	testing	_	
+13-128	2940-2945	tools	_	
+13-129	2946-2949	for	_	
+13-130	2950-2956	mobile	_	
+13-131	2957-2968	development	_	
+13-132	2969-2973	Team	_	
+13-133	2974-2980	player	_	
+13-134	2981-2988	mindset	_	
+13-135	2989-2992	and	_	
+13-136	2993-2994	a	_	
+13-137	2995-3000	great	_	
+13-138	3001-3006	sense	_	
+13-139	3007-3009	of	_	
+13-140	3010-3015	humor	_	
+13-141	3016-3027	Willingness	_	
+13-142	3028-3030	to	_	
+13-143	3031-3037	mentor	_	
+13-144	3038-3041	and	_	
+13-145	3042-3048	advise	_	
+13-146	3049-3054	other	_	
+13-147	3055-3066	engineering	_	
+13-148	3067-3071	team	_	
+13-149	3072-3079	members	_	
+13-150	3080-3089	Excellent	_	
+13-151	3090-3097	written	_	
+13-152	3098-3101	and	_	
+13-153	3102-3108	verbal	_	
+13-154	3109-3122	communication	Soft Skill	
+13-155	3123-3129	skills	_	
+13-156	3130-3135	Solid	_	
+13-157	3136-3146	analytical	_	
+13-158	3147-3150	and	_	
+13-159	3151-3166	troubleshooting	Hard Skill	
+13-160	3167-3176	abilities	_	
+13-161	3177-3184	RELATED	_	
+13-162	3185-3189	WORK	_	
+13-163	3190-3200	EXPERIENCE	_	
+13-164	3201-3202	7	_	
+13-165	3202-3203	+	_	
+13-166	3204-3209	years	_	
+13-167	3210-3217	Android	Hard Skill	
+13-168	3218-3229	application	_	
+13-169	3230-3241	development	_	
+13-170	3242-3252	experience	_	
+13-171	3253-3255	10	_	
+13-172	3255-3256	+	_	
+13-173	3257-3262	years	_	
+13-174	3263-3270	overall	_	
+13-175	3271-3282	application	_	
+13-176	3283-3294	development	_	
+13-177	3295-3305	experience	_	
+13-178	3306-3307	3	_	
+13-179	3307-3308	+	_	
+13-180	3309-3314	years	_	
+13-181	3315-3318	web	_	
+13-182	3319-3327	services	_	
+13-183	3328-3339	development	_	
+13-184	3340-3350	experience	_	
+13-185	3351-3356	using	_	
+13-186	3357-3361	REST	_	
+13-187	3361-3362	,	_	
+13-188	3363-3367	JSON	Hard Skill	
+13-189	3367-3368	,	_	
+13-190	3369-3372	XML	_	
+13-191	3373-3376	The	_	
+13-192	3377-3386	Principal	_	
+13-193	3387-3394	Android	Hard Skill	
+13-194	3395-3403	Engineer	_	
+13-195	3404-3408	will	_	
+13-196	3409-3412	own	_	
+13-197	3413-3416	the	_	
+13-198	3417-3423	design	Hard Skill	
+13-199	3423-3424	,	_	
+13-200	3425-3436	development	_	
+13-201	3436-3437	,	_	
+13-202	3438-3451	documentation	Hard Skill	
+13-203	3451-3452	,	_	
+13-204	3453-3456	and	_	
+13-205	3457-3472	troubleshooting	Hard Skill	
+13-206	3473-3475	of	_	
+13-207	3476-3479	our	_	
+13-208	3480-3490	Connection	_	
+13-209	3491-3498	Manager	_	
+13-210	3499-3510	application	_	
+13-211	3511-3513	in	_	
+13-212	3514-3522	addition	_	
+13-213	3523-3525	to	_	
+13-214	3526-3529	new	_	
+13-215	3530-3540	technology	_	
+13-216	3541-3549	projects	_	
+13-217	3550-3559	involving	_	
+13-218	3560-3567	Android	Hard Skill	
+13-219	3568-3573	Write	_	
+13-220	3574-3579	clean	_	
+13-221	3579-3580	,	_	
+13-222	3581-3588	concise	_	
+13-223	3589-3593	code	_	
+13-224	3594-3598	that	_	
+13-225	3599-3601	is	_	
+13-226	3602-3608	stable	_	
+13-227	3608-3609	,	_	
+13-228	3610-3620	extensible	_	
+13-229	3620-3621	,	_	
+13-230	3622-3625	and	_	
+13-231	3626-3637	unit-tested	_	
+13-232	3638-3651	appropriately	_	
+13-233	3652-3663	Communicate	_	
+13-234	3664-3674	frequently	_	
+13-235	3675-3678	and	_	
+13-236	3679-3690	effectively	_	
+13-237	3691-3695	with	_	
+13-238	3696-3701	other	_	
+13-239	3702-3712	developers	_	
+13-240	3713-3716	and	_	
+13-241	3717-3724	quality	_	
+13-242	3725-3734	engineers	_	
+13-243	3735-3737	on	_	
+13-244	3738-3741	the	_	
+13-245	3742-3746	team	_	
+13-246	3747-3749	in	_	
+13-247	3750-3758	addition	_	
+13-248	3759-3761	to	_	
+13-249	3762-3765	our	_	
+13-250	3766-3773	product	_	
+13-251	3774-3780	owners	_	
+13-252	3780-3781	,	_	
+13-253	3782-3787	scrum	_	
+13-254	3788-3795	masters	_	
+13-255	3796-3799	and	_	
+13-256	3800-3807	project	_	
+13-257	3808-3816	managers	_	
+13-258	3817-3825	Diagnose	_	
+13-259	3826-3833	complex	_	
+13-260	3834-3840	issues	_	
+13-261	3840-3841	,	_	
+13-262	3842-3850	evaluate	_	
+13-263	3850-3851	,	_	
+13-264	3852-3861	recommend	_	
+13-265	3861-3862	,	_	
+13-266	3863-3866	and	_	
+13-267	3867-3874	execute	_	
+13-268	3875-3878	the	_	
+13-269	3879-3883	best	_	
+13-270	3884-3894	resolution	_	
+13-271	3895-3904	Implement	_	
+13-272	3905-3908	new	_	
+13-273	3909-3917	features	_	
+13-274	3918-3924	within	_	
+13-275	3925-3928	our	_	
+13-276	3929-3934	Agile	Hard Skill	
+13-277	3935-3943	delivery	_	
+13-278	3944-3955	methodology	_	
+13-279	3956-3961	while	_	
+13-280	3962-3971	following	_	
+13-281	3972-3975	our	_	
+13-282	3976-3987	established	_	
+13-283	3988-4001	architectural	_	
+13-284	4002-4012	principles	_	
+13-285	4013-4016	and	_	
+13-286	4017-4026	practices	_	
+13-287	4027-4032	Write	_	
+13-288	4033-4037	code	_	
+13-289	4038-4042	that	_	
+13-290	4043-4048	meets	_	
+13-291	4049-4052	the	_	
+13-292	4053-4063	production	_	
+13-293	4064-4076	requirements	_	
+13-294	4077-4080	and	_	
+13-295	4081-4087	design	Hard Skill	
+13-296	4088-4102	specifications	_	
+13-297	4103-4106	and	_	
+13-298	4107-4117	anticipate	_	
+13-299	4118-4127	potential	_	
+13-300	4128-4134	errors	_	
+13-301	4134-4135	/	_	
+13-302	4135-4141	issues	_	

@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Seeking a front end developer to create the necessary code and integration of an already designed web interface.
+1-1	0-7	Seeking	
+1-2	8-9	a	
+1-3	10-15	front	
+1-4	16-19	end	
+1-5	20-29	developer	
+1-6	30-32	to	
+1-7	33-39	create	
+1-8	40-43	the	
+1-9	44-53	necessary	
+1-10	54-58	code	
+1-11	59-62	and	
+1-12	63-74	integration	
+1-13	75-77	of	
+1-14	78-80	an	
+1-15	81-88	already	
+1-16	89-97	designed	
+1-17	98-101	web	
+1-18	102-111	interface	
+1-19	111-112	.	
+
+#Text=This developer will work with our other developers who focus on the backend and other functionality to produce a deliverable web experience.
+2-1	113-117	This	
+2-2	118-127	developer	
+2-3	128-132	will	
+2-4	133-137	work	
+2-5	138-142	with	
+2-6	143-146	our	
+2-7	147-152	other	
+2-8	153-163	developers	
+2-9	164-167	who	
+2-10	168-173	focus	
+2-11	174-176	on	
+2-12	177-180	the	
+2-13	181-188	backend	
+2-14	189-192	and	
+2-15	193-198	other	
+2-16	199-212	functionality	
+2-17	213-215	to	
+2-18	216-223	produce	
+2-19	224-225	a	
+2-20	226-237	deliverable	
+2-21	238-241	web	
+2-22	242-252	experience	
+2-23	252-253	.	
+
+#Text=This developer will work with our other developers who focus on the backend and other functionality to produce a deliverable web experience
+3-1	254-258	This	
+3-2	259-268	developer	
+3-3	269-273	will	
+3-4	274-278	work	
+3-5	279-283	with	
+3-6	284-287	our	
+3-7	288-293	other	
+3-8	294-304	developers	
+3-9	305-308	who	
+3-10	309-314	focus	
+3-11	315-317	on	
+3-12	318-321	the	
+3-13	322-329	backend	
+3-14	330-333	and	
+3-15	334-339	other	
+3-16	340-353	functionality	
+3-17	354-356	to	
+3-18	357-364	produce	
+3-19	365-366	a	
+3-20	367-378	deliverable	
+3-21	379-382	web	
+3-22	383-393	experience	

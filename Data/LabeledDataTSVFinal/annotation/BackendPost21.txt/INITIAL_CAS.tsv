@@ -1,0 +1,186 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Requirment: At least 3 years of PHP experience.
+1-1	0-10	Requirment	
+1-2	10-11	:	
+1-3	12-14	At	
+1-4	15-20	least	
+1-5	21-22	3	
+1-6	23-28	years	
+1-7	29-31	of	
+1-8	32-35	PHP	
+1-9	36-46	experience	
+1-10	46-47	.	
+
+#Text=At least 2 years of experience in the Laravel framework.
+2-1	48-50	At	
+2-2	51-56	least	
+2-3	57-58	2	
+2-4	59-64	years	
+2-5	65-67	of	
+2-6	68-78	experience	
+2-7	79-81	in	
+2-8	82-85	the	
+2-9	86-93	Laravel	
+2-10	94-103	framework	
+2-11	103-104	.	
+
+#Text=Experience developing REST APIs, and the standards of practice surrounding authentication, requests, and responses.
+3-1	105-115	Experience	
+3-2	116-126	developing	
+3-3	127-131	REST	
+3-4	132-136	APIs	
+3-5	136-137	,	
+3-6	138-141	and	
+3-7	142-145	the	
+3-8	146-155	standards	
+3-9	156-158	of	
+3-10	159-167	practice	
+3-11	168-179	surrounding	
+3-12	180-194	authentication	
+3-13	194-195	,	
+3-14	196-204	requests	
+3-15	204-205	,	
+3-16	206-209	and	
+3-17	210-219	responses	
+3-18	219-220	.	
+
+#Text=Experience my large MySQL relational database.
+4-1	221-231	Experience	
+4-2	232-234	my	
+4-3	235-240	large	
+4-4	241-246	MySQL	
+4-5	247-257	relational	
+4-6	258-266	database	
+4-7	266-267	.	
+
+#Text=Familiarity with the ElasticSearch/OpenSearch framework.
+5-1	268-279	Familiarity	
+5-2	280-284	with	
+5-3	285-288	the	
+5-4	289-302	ElasticSearch	
+5-5	302-303	/	
+5-6	303-313	OpenSearch	
+5-7	314-323	framework	
+5-8	323-324	.	
+
+#Text=Strong understanding of modern machine learning methods and technologies...
+6-1	325-331	Strong	
+6-2	332-345	understanding	
+6-3	346-348	of	
+6-4	349-355	modern	
+6-5	356-363	machine	
+6-6	364-372	learning	
+6-7	373-380	methods	
+6-8	381-384	and	
+6-9	385-397	technologies	
+6-10	397-398	.	
+6-11	398-399	.	
+6-12	399-400	.	
+
+#Text=Strong oral and written communication skills and the ability to communicate effectively with non-technical staff would be preferred.Key Skills: Python.
+7-1	401-407	Strong	
+7-2	408-412	oral	
+7-3	413-416	and	
+7-4	417-424	written	
+7-5	425-438	communication	
+7-6	439-445	skills	
+7-7	446-449	and	
+7-8	450-453	the	
+7-9	454-461	ability	
+7-10	462-464	to	
+7-11	465-476	communicate	
+7-12	477-488	effectively	
+7-13	489-493	with	
+7-14	494-507	non-technical	
+7-15	508-513	staff	
+7-16	514-519	would	
+7-17	520-522	be	
+7-18	523-536	preferred.Key	
+7-19	537-543	Skills	
+7-20	543-544	:	
+7-21	545-551	Python	
+7-22	551-552	.	
+
+#Text=Java.
+8-1	553-557	Java	
+8-2	557-558	.	
+
+#Text=PHP.
+9-1	559-562	PHP	
+9-2	562-563	.	
+
+#Text=SQL.
+10-1	564-567	SQL	
+10-2	567-568	.	
+
+#Text=HTML.
+11-1	569-573	HTML	
+11-2	573-574	.	
+
+#Text=CSS.
+12-1	575-578	CSS	
+12-2	578-579	.	
+
+#Text=JavaScript Requirment: At least 3 years of PHP experience At least 2 years of experience in the Laravel framework Experience developing REST APIs, and the standards of practice surrounding authentication, requests, and responses Experience my large MySQL relational database Familiarity with the ElasticSearch/OpenSearch framework Strong understanding of modern machine learning methods and technologies Java
+13-1	580-590	JavaScript	
+13-2	591-601	Requirment	
+13-3	601-602	:	
+13-4	603-605	At	
+13-5	606-611	least	
+13-6	612-613	3	
+13-7	614-619	years	
+13-8	620-622	of	
+13-9	623-626	PHP	
+13-10	627-637	experience	
+13-11	638-640	At	
+13-12	641-646	least	
+13-13	647-648	2	
+13-14	649-654	years	
+13-15	655-657	of	
+13-16	658-668	experience	
+13-17	669-671	in	
+13-18	672-675	the	
+13-19	676-683	Laravel	
+13-20	684-693	framework	
+13-21	694-704	Experience	
+13-22	705-715	developing	
+13-23	716-720	REST	
+13-24	721-725	APIs	
+13-25	725-726	,	
+13-26	727-730	and	
+13-27	731-734	the	
+13-28	735-744	standards	
+13-29	745-747	of	
+13-30	748-756	practice	
+13-31	757-768	surrounding	
+13-32	769-783	authentication	
+13-33	783-784	,	
+13-34	785-793	requests	
+13-35	793-794	,	
+13-36	795-798	and	
+13-37	799-808	responses	
+13-38	809-819	Experience	
+13-39	820-822	my	
+13-40	823-828	large	
+13-41	829-834	MySQL	
+13-42	835-845	relational	
+13-43	846-854	database	
+13-44	855-866	Familiarity	
+13-45	867-871	with	
+13-46	872-875	the	
+13-47	876-889	ElasticSearch	
+13-48	889-890	/	
+13-49	890-900	OpenSearch	
+13-50	901-910	framework	
+13-51	911-917	Strong	
+13-52	918-931	understanding	
+13-53	932-934	of	
+13-54	935-941	modern	
+13-55	942-949	machine	
+13-56	950-958	learning	
+13-57	959-966	methods	
+13-58	967-970	and	
+13-59	971-983	technologies	
+13-60	984-988	Java	

@@ -1,0 +1,186 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Designing, developing, and testing UI for mobile and web applications.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-27	Designing	_	
+1-4	27-28	,	_	
+1-5	29-39	developing	_	
+1-6	39-40	,	_	
+1-7	41-44	and	_	
+1-8	45-52	testing	_	
+1-9	53-55	UI	_	
+1-10	56-59	for	_	
+1-11	60-66	mobile	_	
+1-12	67-70	and	_	
+1-13	71-74	web	_	
+1-14	75-87	applications	_	
+1-15	87-88	.	_	
+
+#Text=Build reusable code and libraries for future use.
+2-1	89-94	Build	_	
+2-2	95-103	reusable	_	
+2-3	104-108	code	_	
+2-4	109-112	and	_	
+2-5	113-122	libraries	_	
+2-6	123-126	for	_	
+2-7	127-133	future	_	
+2-8	134-137	use	_	
+2-9	137-138	.	_	
+
+#Text=Accurately translate user and business needs into functional front-end code.Requirements: Bachelor's degree or equivalent in Computer Science, Information Technology or MCA.
+3-1	139-149	Accurately	_	
+3-2	150-159	translate	_	
+3-3	160-164	user	_	
+3-4	165-168	and	_	
+3-5	169-177	business	_	
+3-6	178-183	needs	_	
+3-7	184-188	into	_	
+3-8	189-199	functional	_	
+3-9	200-209	front-end	_	
+3-10	210-227	code.Requirements	_	
+3-11	227-228	:	_	
+3-12	229-239	Bachelor's	_	
+3-13	240-246	degree	_	
+3-14	247-249	or	_	
+3-15	250-260	equivalent	_	
+3-16	261-263	in	_	
+3-17	264-272	Computer	_	
+3-18	273-280	Science	_	
+3-19	280-281	,	_	
+3-20	282-293	Information	_	
+3-21	294-304	Technology	_	
+3-22	305-307	or	_	
+3-23	308-311	MCA	_	
+3-24	311-312	.	_	
+
+#Text=Good in fundamentals of Computer Science and Programming Languages.
+4-1	313-317	Good	_	
+4-2	318-320	in	_	
+4-3	321-333	fundamentals	_	
+4-4	334-336	of	_	
+4-5	337-345	Computer	_	
+4-6	346-353	Science	_	
+4-7	354-357	and	_	
+4-8	358-369	Programming	_	
+4-9	370-379	Languages	_	
+4-10	379-380	.	_	
+
+#Text=Understanding of...
+5-1	381-394	Understanding	_	
+5-2	395-397	of	_	
+5-3	397-398	.	_	
+5-4	398-399	.	_	
+5-5	399-400	.	_	
+
+#Text=HTML, CSS or JavaScript will be an added advantage.Key Skills: JavaScript/jQuery.
+6-1	401-405	HTML	Hard Skill	
+6-2	405-406	,	_	
+6-3	407-410	CSS	Hard Skill	
+6-4	411-413	or	_	
+6-5	414-424	JavaScript	Hard Skill	
+6-6	425-429	will	_	
+6-7	430-432	be	_	
+6-8	433-435	an	_	
+6-9	436-441	added	_	
+6-10	442-455	advantage.Key	_	
+6-11	456-462	Skills	_	
+6-12	462-463	:	_	
+6-13	464-474	JavaScript	Hard Skill	
+6-14	474-475	/	_	
+6-15	475-481	jQuery	Hard Skill	
+6-16	481-482	.	_	
+
+#Text=Frameworks.
+7-1	483-493	Frameworks	_	
+7-2	493-494	.	_	
+
+#Text=Responsive Design.
+8-1	495-505	Responsive	_	
+8-2	506-512	Design	Hard Skill	
+8-3	512-513	.	_	
+
+#Text=Testing/Debugging.
+9-1	514-521	Testing	_	
+9-2	521-522	/	_	
+9-3	522-531	Debugging	_	
+9-4	531-532	.	_	
+
+#Text=Browser Developer Tools.
+10-1	533-540	Browser	_	
+10-2	541-550	Developer	_	
+10-3	551-556	Tools	_	
+10-4	556-557	.	_	
+
+#Text=Web Performance Requirements: Bachelor's degree or equivalent in Computer Science, Information Technology or MCA Good in fundamentals of Computer Science and Programming Languages Understanding of HTML, CSS or JavaScript will be an added advantage Responsibilities: Designing, developing, and testing UI for mobile and web applications Build reusable code and libraries for future use Accurately translate user and business needs into functional front-end code
+11-1	558-561	Web	_	
+11-2	562-573	Performance	_	
+11-3	574-586	Requirements	_	
+11-4	586-587	:	_	
+11-5	588-598	Bachelor's	_	
+11-6	599-605	degree	_	
+11-7	606-608	or	_	
+11-8	609-619	equivalent	_	
+11-9	620-622	in	_	
+11-10	623-631	Computer	_	
+11-11	632-639	Science	_	
+11-12	639-640	,	_	
+11-13	641-652	Information	_	
+11-14	653-663	Technology	_	
+11-15	664-666	or	_	
+11-16	667-670	MCA	_	
+11-17	671-675	Good	_	
+11-18	676-678	in	_	
+11-19	679-691	fundamentals	_	
+11-20	692-694	of	_	
+11-21	695-703	Computer	_	
+11-22	704-711	Science	_	
+11-23	712-715	and	_	
+11-24	716-727	Programming	_	
+11-25	728-737	Languages	_	
+11-26	738-751	Understanding	_	
+11-27	752-754	of	_	
+11-28	755-759	HTML	Hard Skill	
+11-29	759-760	,	_	
+11-30	761-764	CSS	Hard Skill	
+11-31	765-767	or	_	
+11-32	768-778	JavaScript	Hard Skill	
+11-33	779-783	will	_	
+11-34	784-786	be	_	
+11-35	787-789	an	_	
+11-36	790-795	added	_	
+11-37	796-805	advantage	_	
+11-38	806-822	Responsibilities	_	
+11-39	822-823	:	_	
+11-40	824-833	Designing	_	
+11-41	833-834	,	_	
+11-42	835-845	developing	_	
+11-43	845-846	,	_	
+11-44	847-850	and	_	
+11-45	851-858	testing	_	
+11-46	859-861	UI	_	
+11-47	862-865	for	_	
+11-48	866-872	mobile	_	
+11-49	873-876	and	_	
+11-50	877-880	web	_	
+11-51	881-893	applications	_	
+11-52	894-899	Build	_	
+11-53	900-908	reusable	_	
+11-54	909-913	code	_	
+11-55	914-917	and	_	
+11-56	918-927	libraries	_	
+11-57	928-931	for	_	
+11-58	932-938	future	_	
+11-59	939-942	use	_	
+11-60	943-953	Accurately	_	
+11-61	954-963	translate	_	
+11-62	964-968	user	_	
+11-63	969-972	and	_	
+11-64	973-981	business	_	
+11-65	982-987	needs	_	
+11-66	988-992	into	_	
+11-67	993-1003	functional	_	
+11-68	1004-1013	front-end	_	
+11-69	1014-1018	code	_	

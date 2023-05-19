@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Front-End developer working with angular and vue, to join ongoing project.
+1-1	0-9	Front-End	_	
+1-2	10-19	developer	_	
+1-3	20-27	working	_	
+1-4	28-32	with	_	
+1-5	33-40	angular	Hard Skill	
+1-6	41-44	and	_	
+1-7	45-48	vue	Hard Skill	
+1-8	48-49	,	_	
+1-9	50-52	to	_	
+1-10	53-57	join	_	
+1-11	58-65	ongoing	_	
+1-12	66-73	project	_	
+1-13	73-74	.	_	
+
+#Text=Required to build the CI/CD and interfacing with the back-end.
+2-1	75-83	Required	_	
+2-2	84-86	to	_	
+2-3	87-92	build	_	
+2-4	93-96	the	_	
+2-5	97-99	CI	_	
+2-6	99-100	/	_	
+2-7	100-102	CD	_	
+2-8	103-106	and	_	
+2-9	107-118	interfacing	_	
+2-10	119-123	with	_	
+2-11	124-127	the	_	
+2-12	128-136	back-end	_	
+2-13	136-137	.	_	
+
+#Text=Front-End developer working with angular and vue, to join ongoing project Required to build the CI/CD and interfacing with the back-end
+3-1	138-147	Front-End	_	
+3-2	148-157	developer	_	
+3-3	158-165	working	_	
+3-4	166-170	with	_	
+3-5	171-178	angular	Hard Skill	
+3-6	179-182	and	_	
+3-7	183-186	vue	Hard Skill	
+3-8	186-187	,	_	
+3-9	188-190	to	_	
+3-10	191-195	join	_	
+3-11	196-203	ongoing	_	
+3-12	204-211	project	_	
+3-13	212-220	Required	_	
+3-14	221-223	to	_	
+3-15	224-229	build	_	
+3-16	230-233	the	_	
+3-17	234-236	CI	_	
+3-18	236-237	/	_	
+3-19	237-239	CD	_	
+3-20	240-243	and	_	
+3-21	244-255	interfacing	_	
+3-22	256-260	with	_	
+3-23	261-264	the	_	
+3-24	265-273	back-end	_	

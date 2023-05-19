@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=OverviewSr.
+1-1	0-10	OverviewSr	_	
+1-2	10-11	.	_	
+
+#Text=Frontend Developer...Frontend resource: ReactJS - 5+ year experience NodeJS NextJS HTML/CSS ReactJS - 5+ year experience NodeJS
+2-1	12-20	Frontend	_	
+2-2	21-30	Developer	_	
+2-3	30-31	.	_	
+2-4	31-32	.	_	
+2-5	32-33	.	_	
+2-6	33-41	Frontend	_	
+2-7	42-50	resource	_	
+2-8	50-51	:	_	
+2-9	52-59	ReactJS	_	
+2-10	60-61	-	_	
+2-11	62-63	5	_	
+2-12	63-64	+	_	
+2-13	65-69	year	_	
+2-14	70-80	experience	_	
+2-15	81-87	NodeJS	_	
+2-16	88-94	NextJS	_	
+2-17	95-99	HTML	Hard Skill	
+2-18	99-100	/	_	
+2-19	100-103	CSS	Hard Skill	
+2-20	104-111	ReactJS	_	
+2-21	112-113	-	_	
+2-22	114-115	5	_	
+2-23	115-116	+	_	
+2-24	117-121	year	_	
+2-25	122-132	experience	_	
+2-26	133-139	NodeJS	_	

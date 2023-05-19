@@ -1,0 +1,366 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Apply now and our proprietary system will quickly have you in front of a live recruiter.The OpportunityDescription...
+1-1	0-5	Apply	_	
+1-2	6-9	now	_	
+1-3	10-13	and	_	
+1-4	14-17	our	_	
+1-5	18-29	proprietary	_	
+1-6	30-36	system	_	
+1-7	37-41	will	_	
+1-8	42-49	quickly	_	
+1-9	50-54	have	_	
+1-10	55-58	you	_	
+1-11	59-61	in	_	
+1-12	62-67	front	_	
+1-13	68-70	of	_	
+1-14	71-72	a	_	
+1-15	73-77	live	_	
+1-16	78-91	recruiter.The	_	
+1-17	92-114	OpportunityDescription	_	
+1-18	114-115	.	_	
+1-19	115-116	.	_	
+1-20	116-117	.	_	
+
+#Text=Providing monthly enhancement release.
+2-1	118-127	Providing	_	
+2-2	128-135	monthly	_	
+2-3	136-147	enhancement	_	
+2-4	148-155	release	_	
+2-5	155-156	.	_	
+
+#Text=Creating a responsive web application (web browser as well as mobile devices).
+3-1	157-165	Creating	_	
+3-2	166-167	a	_	
+3-3	168-178	responsive	_	
+3-4	179-182	web	_	
+3-5	183-194	application	_	
+3-6	195-196	(	_	
+3-7	196-199	web	_	
+3-8	200-207	browser	_	
+3-9	208-210	as	_	
+3-10	211-215	well	_	
+3-11	216-218	as	_	
+3-12	219-225	mobile	_	
+3-13	226-233	devices	_	
+3-14	233-234	)	_	
+3-15	234-235	.	_	
+
+#Text=Developing using front end development technologies, such as: ReactJS, Angular 7, HTML, CSS, Node, REST API.Our ClientOur client provides agile consulting and staffing.
+4-1	236-246	Developing	_	
+4-2	247-252	using	_	
+4-3	253-258	front	_	
+4-4	259-262	end	_	
+4-5	263-274	development	_	
+4-6	275-287	technologies	_	
+4-7	287-288	,	_	
+4-8	289-293	such	_	
+4-9	294-296	as	_	
+4-10	296-297	:	_	
+4-11	298-305	ReactJS	_	
+4-12	305-306	,	_	
+4-13	307-314	Angular	_	
+4-14	315-316	7	_	
+4-15	316-317	,	_	
+4-16	318-322	HTML	Hard Skill	
+4-17	322-323	,	_	
+4-18	324-327	CSS	Hard Skill	
+4-19	327-328	,	_	
+4-20	329-333	Node	_	
+4-21	333-334	,	_	
+4-22	335-339	REST	_	
+4-23	340-347	API.Our	_	
+4-24	348-357	ClientOur	_	
+4-25	358-364	client	_	
+4-26	365-373	provides	_	
+4-27	374-379	agile	Hard Skill	
+4-28	380-390	consulting	_	
+4-29	391-394	and	_	
+4-30	395-403	staffing	_	
+4-31	403-404	.	_	
+
+#Text=Helping organizations fulfill their most important initiatives and opportunities.
+5-1	405-412	Helping	_	
+5-2	413-426	organizations	_	
+5-3	427-434	fulfill	_	
+5-4	435-440	their	_	
+5-5	441-445	most	_	
+5-6	446-455	important	_	
+5-7	456-467	initiatives	_	
+5-8	468-471	and	_	
+5-9	472-485	opportunities	_	
+5-10	485-486	.	_	
+
+#Text=For 30 years.
+6-1	487-490	For	_	
+6-2	491-493	30	_	
+6-3	494-499	years	_	
+6-4	499-500	.	_	
+
+#Text=From coast-to-coast.Developing long-term relationships.
+7-1	501-505	From	_	
+7-2	506-531	coast-to-coast.Developing	_	
+7-3	532-541	long-term	_	
+7-4	542-555	relationships	_	
+7-5	555-556	.	_	
+
+#Text=Successfully retaining clients and placing consultants through multiple engagements.Providing you with the support, care, and attention you deserve.
+8-1	557-569	Successfully	_	
+8-2	570-579	retaining	_	
+8-3	580-587	clients	_	
+8-4	588-591	and	_	
+8-5	592-599	placing	_	
+8-6	600-611	consultants	_	
+8-7	612-619	through	_	
+8-8	620-628	multiple	_	
+8-9	629-650	engagements.Providing	_	
+8-10	651-654	you	_	
+8-11	655-659	with	_	
+8-12	660-663	the	_	
+8-13	664-671	support	_	
+8-14	671-672	,	_	
+8-15	673-677	care	_	
+8-16	677-678	,	_	
+8-17	679-682	and	_	
+8-18	683-692	attention	_	
+8-19	693-696	you	_	
+8-20	697-704	deserve	_	
+8-21	704-705	.	_	
+
+#Text=With advocates available 24x7 to help you with questions and concerns.
+9-1	706-710	With	_	
+9-2	711-720	advocates	_	
+9-3	721-730	available	_	
+9-4	731-735	24x7	_	
+9-5	736-738	to	_	
+9-6	739-743	help	_	
+9-7	744-747	you	_	
+9-8	748-752	with	_	
+9-9	753-762	questions	_	
+9-10	763-766	and	_	
+9-11	767-775	concerns	_	
+9-12	775-776	.	_	
+
+#Text=This personal care together with great work has resulted in a 4.4 Glassdoor rating.Join the most talented professionals in the industry working on strategic and world-class programs.Experience Required for Your Success Bachelor's Degree in Computer Science or any equivalent 5+ years of experience in Front End Development Experience in ReactJS, Angular 7+, TypeScript, Nodejs, Npm, HTML, CSS MongoDB and SQL Server is a plus but not requiredWhat Do You Think?
+10-1	777-781	This	_	
+10-2	782-790	personal	_	
+10-3	791-795	care	_	
+10-4	796-804	together	_	
+10-5	805-809	with	_	
+10-6	810-815	great	_	
+10-7	816-820	work	_	
+10-8	821-824	has	_	
+10-9	825-833	resulted	_	
+10-10	834-836	in	_	
+10-11	837-838	a	_	
+10-12	839-842	4.4	_	
+10-13	843-852	Glassdoor	_	
+10-14	853-864	rating.Join	_	
+10-15	865-868	the	_	
+10-16	869-873	most	_	
+10-17	874-882	talented	_	
+10-18	883-896	professionals	_	
+10-19	897-899	in	_	
+10-20	900-903	the	_	
+10-21	904-912	industry	_	
+10-22	913-920	working	_	
+10-23	921-923	on	_	
+10-24	924-933	strategic	_	
+10-25	934-937	and	_	
+10-26	938-949	world-class	_	
+10-27	950-969	programs.Experience	_	
+10-28	970-978	Required	_	
+10-29	979-982	for	_	
+10-30	983-987	Your	_	
+10-31	988-995	Success	_	
+10-32	996-1006	Bachelor's	_	
+10-33	1007-1013	Degree	_	
+10-34	1014-1016	in	_	
+10-35	1017-1025	Computer	_	
+10-36	1026-1033	Science	_	
+10-37	1034-1036	or	_	
+10-38	1037-1040	any	_	
+10-39	1041-1051	equivalent	_	
+10-40	1052-1053	5	_	
+10-41	1053-1054	+	_	
+10-42	1055-1060	years	_	
+10-43	1061-1063	of	_	
+10-44	1064-1074	experience	_	
+10-45	1075-1077	in	_	
+10-46	1078-1083	Front	_	
+10-47	1084-1087	End	_	
+10-48	1088-1099	Development	_	
+10-49	1100-1110	Experience	_	
+10-50	1111-1113	in	_	
+10-51	1114-1121	ReactJS	_	
+10-52	1121-1122	,	_	
+10-53	1123-1130	Angular	_	
+10-54	1131-1132	7	_	
+10-55	1132-1133	+	_	
+10-56	1133-1134	,	_	
+10-57	1135-1145	TypeScript	Hard Skill	
+10-58	1145-1146	,	_	
+10-59	1147-1153	Nodejs	_	
+10-60	1153-1154	,	_	
+10-61	1155-1158	Npm	_	
+10-62	1158-1159	,	_	
+10-63	1160-1164	HTML	Hard Skill	
+10-64	1164-1165	,	_	
+10-65	1166-1169	CSS	Hard Skill	
+10-66	1170-1177	MongoDB	Hard Skill	
+10-67	1178-1181	and	_	
+10-68	1182-1185	SQL	Hard Skill	
+10-69	1186-1192	Server	_	
+10-70	1193-1195	is	_	
+10-71	1196-1197	a	_	
+10-72	1198-1202	plus	_	
+10-73	1203-1206	but	_	
+10-74	1207-1210	not	_	
+10-75	1211-1223	requiredWhat	_	
+10-76	1224-1226	Do	_	
+10-77	1227-1230	You	_	
+10-78	1231-1236	Think	_	
+10-79	1236-1237	?	_	
+
+#Text=Does your experience reflect what it takes to be successful in this role?
+11-1	1237-1241	Does	_	
+11-2	1242-1246	your	_	
+11-3	1247-1257	experience	_	
+11-4	1258-1265	reflect	_	
+11-5	1266-1270	what	_	
+11-6	1271-1273	it	_	
+11-7	1274-1279	takes	_	
+11-8	1280-1282	to	_	
+11-9	1283-1285	be	_	
+11-10	1286-1296	successful	_	
+11-11	1297-1299	in	_	
+11-12	1300-1304	this	_	
+11-13	1305-1309	role	_	
+11-14	1309-1310	?	_	
+
+#Text=Do the work and challenges get you excited about what's possible?
+12-1	1311-1313	Do	_	
+12-2	1314-1317	the	_	
+12-3	1318-1322	work	_	
+12-4	1323-1326	and	_	
+12-5	1327-1337	challenges	_	
+12-6	1338-1341	get	_	
+12-7	1342-1345	you	_	
+12-8	1346-1353	excited	_	
+12-9	1354-1359	about	_	
+12-10	1360-1366	what's	_	
+12-11	1367-1375	possible	_	
+12-12	1375-1376	?	_	
+
+#Text=by Jobble Developing using front end development technologies, such as: ReactJS, Angular 7, HTML, CSS, Node, REST API Bachelor's Degree in Computer Science or any equivalent 5+ years of experience in Front End Development Experience in ReactJS, Angular 7+, TypeScript, Nodejs, Npm, HTML, CSS Providing monthly enhancement release Creating a responsive web application (web browser as well as mobile devices) Successfully retaining clients and placing consultants through multiple engagements Providing you with the support, care, and attention you deserve With advocates available 24x7 to help you with questions and concerns
+13-1	1376-1378	by	_	
+13-2	1379-1385	Jobble	_	
+13-3	1386-1396	Developing	_	
+13-4	1397-1402	using	_	
+13-5	1403-1408	front	_	
+13-6	1409-1412	end	_	
+13-7	1413-1424	development	_	
+13-8	1425-1437	technologies	_	
+13-9	1437-1438	,	_	
+13-10	1439-1443	such	_	
+13-11	1444-1446	as	_	
+13-12	1446-1447	:	_	
+13-13	1448-1455	ReactJS	_	
+13-14	1455-1456	,	_	
+13-15	1457-1464	Angular	_	
+13-16	1465-1466	7	_	
+13-17	1466-1467	,	_	
+13-18	1468-1472	HTML	Hard Skill	
+13-19	1472-1473	,	_	
+13-20	1474-1477	CSS	Hard Skill	
+13-21	1477-1478	,	_	
+13-22	1479-1483	Node	_	
+13-23	1483-1484	,	_	
+13-24	1485-1489	REST	_	
+13-25	1490-1493	API	Hard Skill	
+13-26	1494-1504	Bachelor's	_	
+13-27	1505-1511	Degree	_	
+13-28	1512-1514	in	_	
+13-29	1515-1523	Computer	_	
+13-30	1524-1531	Science	_	
+13-31	1532-1534	or	_	
+13-32	1535-1538	any	_	
+13-33	1539-1549	equivalent	_	
+13-34	1550-1551	5	_	
+13-35	1551-1552	+	_	
+13-36	1553-1558	years	_	
+13-37	1559-1561	of	_	
+13-38	1562-1572	experience	_	
+13-39	1573-1575	in	_	
+13-40	1576-1581	Front	_	
+13-41	1582-1585	End	_	
+13-42	1586-1597	Development	_	
+13-43	1598-1608	Experience	_	
+13-44	1609-1611	in	_	
+13-45	1612-1619	ReactJS	_	
+13-46	1619-1620	,	_	
+13-47	1621-1628	Angular	_	
+13-48	1629-1630	7	_	
+13-49	1630-1631	+	_	
+13-50	1631-1632	,	_	
+13-51	1633-1643	TypeScript	Hard Skill	
+13-52	1643-1644	,	_	
+13-53	1645-1651	Nodejs	_	
+13-54	1651-1652	,	_	
+13-55	1653-1656	Npm	_	
+13-56	1656-1657	,	_	
+13-57	1658-1662	HTML	Hard Skill	
+13-58	1662-1663	,	_	
+13-59	1664-1667	CSS	Hard Skill	
+13-60	1668-1677	Providing	_	
+13-61	1678-1685	monthly	_	
+13-62	1686-1697	enhancement	_	
+13-63	1698-1705	release	_	
+13-64	1706-1714	Creating	_	
+13-65	1715-1716	a	_	
+13-66	1717-1727	responsive	_	
+13-67	1728-1731	web	_	
+13-68	1732-1743	application	_	
+13-69	1744-1745	(	_	
+13-70	1745-1748	web	_	
+13-71	1749-1756	browser	_	
+13-72	1757-1759	as	_	
+13-73	1760-1764	well	_	
+13-74	1765-1767	as	_	
+13-75	1768-1774	mobile	_	
+13-76	1775-1782	devices	_	
+13-77	1782-1783	)	_	
+13-78	1784-1796	Successfully	_	
+13-79	1797-1806	retaining	_	
+13-80	1807-1814	clients	_	
+13-81	1815-1818	and	_	
+13-82	1819-1826	placing	_	
+13-83	1827-1838	consultants	_	
+13-84	1839-1846	through	_	
+13-85	1847-1855	multiple	_	
+13-86	1856-1867	engagements	_	
+13-87	1868-1877	Providing	_	
+13-88	1878-1881	you	_	
+13-89	1882-1886	with	_	
+13-90	1887-1890	the	_	
+13-91	1891-1898	support	_	
+13-92	1898-1899	,	_	
+13-93	1900-1904	care	_	
+13-94	1904-1905	,	_	
+13-95	1906-1909	and	_	
+13-96	1910-1919	attention	_	
+13-97	1920-1923	you	_	
+13-98	1924-1931	deserve	_	
+13-99	1932-1936	With	_	
+13-100	1937-1946	advocates	_	
+13-101	1947-1956	available	_	
+13-102	1957-1961	24x7	_	
+13-103	1962-1964	to	_	
+13-104	1965-1969	help	_	
+13-105	1970-1973	you	_	
+13-106	1974-1978	with	_	
+13-107	1979-1988	questions	_	
+13-108	1989-1992	and	_	
+13-109	1993-2001	concerns	_	

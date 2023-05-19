@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Responsibilities: Must have development experience on both tablets and phones and have a solid understanding of those platforms.
+1-1	0-16	Responsibilities	_	
+1-2	16-17	:	_	
+1-3	18-22	Must	_	
+1-4	23-27	have	_	
+1-5	28-39	development	_	
+1-6	40-50	experience	_	
+1-7	51-53	on	_	
+1-8	54-58	both	_	
+1-9	59-66	tablets	_	
+1-10	67-70	and	_	
+1-11	71-77	phones	_	
+1-12	78-81	and	_	
+1-13	82-86	have	_	
+1-14	87-88	a	_	
+1-15	89-94	solid	_	
+1-16	95-108	understanding	_	
+1-17	109-111	of	_	
+1-18	112-117	those	_	
+1-19	118-127	platforms	_	
+1-20	127-128	.	_	
+
+#Text=Must have published examples of mobile applications on iTunes and/or the Google App Store Strong object oriented design and UI programming skills highly desired Expert knowledge of database modeling and data structure principles, techniques and best practices Hands on... experience working with remote data via REST, JSON, XML Exercise exemplary development practices including design specification, coding standards, unit testing, and code reviews.Key Skills: Basic syntax.
+2-1	129-133	Must	_	
+2-2	134-138	have	_	
+2-3	139-148	published	_	
+2-4	149-157	examples	_	
+2-5	158-160	of	_	
+2-6	161-167	mobile	_	
+2-7	168-180	applications	_	
+2-8	181-183	on	_	
+2-9	184-190	iTunes	_	
+2-10	191-194	and	_	
+2-11	194-195	/	_	
+2-12	195-197	or	_	
+2-13	198-201	the	_	
+2-14	202-208	Google	_	
+2-15	209-212	App	_	
+2-16	213-218	Store	_	
+2-17	219-225	Strong	_	
+2-18	226-232	object	_	
+2-19	233-241	oriented	_	
+2-20	242-248	design	Hard Skill	
+2-21	249-252	and	_	
+2-22	253-255	UI	_	
+2-23	256-267	programming	Hard Skill	
+2-24	268-274	skills	_	
+2-25	275-281	highly	_	
+2-26	282-289	desired	_	
+2-27	290-296	Expert	_	
+2-28	297-306	knowledge	_	
+2-29	307-309	of	_	
+2-30	310-318	database	_	
+2-31	319-327	modeling	_	
+2-32	328-331	and	_	
+2-33	332-336	data	_	
+2-34	337-346	structure	_	
+2-35	347-357	principles	_	
+2-36	357-358	,	_	
+2-37	359-369	techniques	_	
+2-38	370-373	and	_	
+2-39	374-378	best	_	
+2-40	379-388	practices	_	
+2-41	389-394	Hands	_	
+2-42	395-397	on	_	
+2-43	397-398	.	_	
+2-44	398-399	.	_	
+2-45	399-400	.	_	
+2-46	401-411	experience	_	
+2-47	412-419	working	_	
+2-48	420-424	with	_	
+2-49	425-431	remote	_	
+2-50	432-436	data	_	
+2-51	437-440	via	_	
+2-52	441-445	REST	_	
+2-53	445-446	,	_	
+2-54	447-451	JSON	Hard Skill	
+2-55	451-452	,	_	
+2-56	453-456	XML	_	
+2-57	457-465	Exercise	_	
+2-58	466-475	exemplary	_	
+2-59	476-487	development	_	
+2-60	488-497	practices	_	
+2-61	498-507	including	_	
+2-62	508-514	design	Hard Skill	
+2-63	515-528	specification	_	
+2-64	528-529	,	_	
+2-65	530-536	coding	Hard Skill	
+2-66	537-546	standards	_	
+2-67	546-547	,	_	
+2-68	548-552	unit	_	
+2-69	553-560	testing	_	
+2-70	560-561	,	_	
+2-71	562-565	and	_	
+2-72	566-570	code	_	
+2-73	571-582	reviews.Key	_	
+2-74	583-589	Skills	_	
+2-75	589-590	:	_	
+2-76	591-596	Basic	_	
+2-77	597-603	syntax	_	
+2-78	603-604	.	_	
+
+#Text=Optionals.
+3-1	605-614	Optionals	_	
+3-2	614-615	.	_	
+
+#Text=Classes, inheritance & initialization.
+4-1	616-623	Classes	_	
+4-2	623-624	,	_	
+4-3	625-636	inheritance	_	
+4-4	637-638	&	_	
+4-5	639-653	initialization	_	
+4-6	653-654	.	_	
+
+#Text=Error handling.
+5-1	655-660	Error	_	
+5-2	661-669	handling	_	
+5-3	669-670	.	_	
+
+#Text=Objective-C Interoperability Responsibilities: Must have development experience on both tablets and phones and have a solid understanding of those platforms Objective-C Interoperability Error handling
+6-1	671-682	Objective-C	_	
+6-2	683-699	Interoperability	_	
+6-3	700-716	Responsibilities	_	
+6-4	716-717	:	_	
+6-5	718-722	Must	_	
+6-6	723-727	have	_	
+6-7	728-739	development	_	
+6-8	740-750	experience	_	
+6-9	751-753	on	_	
+6-10	754-758	both	_	
+6-11	759-766	tablets	_	
+6-12	767-770	and	_	
+6-13	771-777	phones	_	
+6-14	778-781	and	_	
+6-15	782-786	have	_	
+6-16	787-788	a	_	
+6-17	789-794	solid	_	
+6-18	795-808	understanding	_	
+6-19	809-811	of	_	
+6-20	812-817	those	_	
+6-21	818-827	platforms	_	
+6-22	828-839	Objective-C	_	
+6-23	840-856	Interoperability	_	
+6-24	857-862	Error	_	
+6-25	863-871	handling	_	

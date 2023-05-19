@@ -1,0 +1,1234 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=EQ3 was born in opposition to trends, vowing instead to focus on timeless designs.
+1-1	0-3	EQ3	_	
+1-2	4-7	was	_	
+1-3	8-12	born	_	
+1-4	13-15	in	_	
+1-5	16-26	opposition	_	
+1-6	27-29	to	_	
+1-7	30-36	trends	_	
+1-8	36-37	,	_	
+1-9	38-44	vowing	_	
+1-10	45-52	instead	_	
+1-11	53-55	to	_	
+1-12	56-61	focus	_	
+1-13	62-64	on	_	
+1-14	65-73	timeless	_	
+1-15	74-81	designs	_	
+1-16	81-82	.	_	
+
+#Text=We make furniture not fast, but to last.
+2-1	83-85	We	_	
+2-2	86-90	make	_	
+2-3	91-100	furniture	_	
+2-4	101-104	not	_	
+2-5	105-109	fast	_	
+2-6	109-110	,	_	
+2-7	111-114	but	_	
+2-8	115-117	to	_	
+2-9	118-122	last	_	
+2-10	122-123	.	_	
+
+#Text=Born in opposition to the growing trend of disposable design, our greatest hope is to have our pieces passed down like heirlooms.
+3-1	124-128	Born	_	
+3-2	129-131	in	_	
+3-3	132-142	opposition	_	
+3-4	143-145	to	_	
+3-5	146-149	the	_	
+3-6	150-157	growing	_	
+3-7	158-163	trend	_	
+3-8	164-166	of	_	
+3-9	167-177	disposable	_	
+3-10	178-184	design	Hard Skill	
+3-11	184-185	,	_	
+3-12	186-189	our	_	
+3-13	190-198	greatest	_	
+3-14	199-203	hope	_	
+3-15	204-206	is	_	
+3-16	207-209	to	_	
+3-17	210-214	have	_	
+3-18	215-218	our	_	
+3-19	219-225	pieces	_	
+3-20	226-232	passed	_	
+3-21	233-237	down	_	
+3-22	238-242	like	_	
+3-23	243-252	heirlooms	_	
+3-24	252-253	.	_	
+
+#Text=We pride ourselves on being innovators in our industry, and we believe that the more voices and choices we incorporate into our perspective, the... better were able to find creative solutions for modern life.Everything we do is made in consideration of people, of the planet and of our space.We are looking for an enthusiastic, collaborative individual to join our IT Team as our Sr.
+4-1	254-256	We	_	
+4-2	257-262	pride	_	
+4-3	263-272	ourselves	_	
+4-4	273-275	on	_	
+4-5	276-281	being	_	
+4-6	282-292	innovators	_	
+4-7	293-295	in	_	
+4-8	296-299	our	_	
+4-9	300-308	industry	_	
+4-10	308-309	,	_	
+4-11	310-313	and	_	
+4-12	314-316	we	_	
+4-13	317-324	believe	_	
+4-14	325-329	that	_	
+4-15	330-333	the	_	
+4-16	334-338	more	_	
+4-17	339-345	voices	_	
+4-18	346-349	and	_	
+4-19	350-357	choices	_	
+4-20	358-360	we	_	
+4-21	361-372	incorporate	_	
+4-22	373-377	into	_	
+4-23	378-381	our	_	
+4-24	382-393	perspective	_	
+4-25	393-394	,	_	
+4-26	395-398	the	_	
+4-27	398-399	.	_	
+4-28	399-400	.	_	
+4-29	400-401	.	_	
+4-30	402-408	better	_	
+4-31	409-413	were	_	
+4-32	414-418	able	_	
+4-33	419-421	to	_	
+4-34	422-426	find	_	
+4-35	427-435	creative	_	
+4-36	436-445	solutions	_	
+4-37	446-449	for	_	
+4-38	450-456	modern	_	
+4-39	457-472	life.Everything	_	
+4-40	473-475	we	_	
+4-41	476-478	do	_	
+4-42	479-481	is	_	
+4-43	482-486	made	_	
+4-44	487-489	in	_	
+4-45	490-503	consideration	_	
+4-46	504-506	of	_	
+4-47	507-513	people	_	
+4-48	513-514	,	_	
+4-49	515-517	of	_	
+4-50	518-521	the	_	
+4-51	522-528	planet	_	
+4-52	529-532	and	_	
+4-53	533-535	of	_	
+4-54	536-539	our	_	
+4-55	540-548	space.We	_	
+4-56	549-552	are	_	
+4-57	553-560	looking	_	
+4-58	561-564	for	_	
+4-59	565-567	an	_	
+4-60	568-580	enthusiastic	_	
+4-61	580-581	,	_	
+4-62	582-595	collaborative	Soft Skill	
+4-63	596-606	individual	_	
+4-64	607-609	to	_	
+4-65	610-614	join	_	
+4-66	615-618	our	_	
+4-67	619-621	IT	_	
+4-68	622-626	Team	_	
+4-69	627-629	as	_	
+4-70	630-633	our	_	
+4-71	634-636	Sr	_	
+4-72	636-637	.	_	
+
+#Text=Backend Developer.
+5-1	638-645	Backend	_	
+5-2	646-655	Developer	_	
+5-3	655-656	.	_	
+
+#Text=You will be successful in this position if you are passionate about and skilled in backend development, have a strong foundation in Java or Kotlin and MySQL and are passionate about building scalable and reliable software systems.THE DETAILS:Youll be joining our EQ3 Head Office team at 70 Lexington Park, Winnipeg, MB, in a full-time capacity As a Senior Backend Developer, you will be responsible for designing, developing, and maintaining the backend systems of our software applications using Java or Kotlin, with a strong emphasis on Spring or Spring Boot frameworks.
+6-1	657-660	You	_	
+6-2	661-665	will	_	
+6-3	666-668	be	_	
+6-4	669-679	successful	_	
+6-5	680-682	in	_	
+6-6	683-687	this	_	
+6-7	688-696	position	_	
+6-8	697-699	if	_	
+6-9	700-703	you	_	
+6-10	704-707	are	_	
+6-11	708-718	passionate	_	
+6-12	719-724	about	_	
+6-13	725-728	and	_	
+6-14	729-736	skilled	_	
+6-15	737-739	in	_	
+6-16	740-747	backend	_	
+6-17	748-759	development	_	
+6-18	759-760	,	_	
+6-19	761-765	have	_	
+6-20	766-767	a	_	
+6-21	768-774	strong	_	
+6-22	775-785	foundation	_	
+6-23	786-788	in	_	
+6-24	789-793	Java	Hard Skill	
+6-25	794-796	or	_	
+6-26	797-803	Kotlin	Hard Skill	
+6-27	804-807	and	_	
+6-28	808-813	MySQL	Hard Skill	
+6-29	814-817	and	_	
+6-30	818-821	are	_	
+6-31	822-832	passionate	_	
+6-32	833-838	about	_	
+6-33	839-847	building	_	
+6-34	848-856	scalable	_	
+6-35	857-860	and	_	
+6-36	861-869	reliable	_	
+6-37	870-878	software	_	
+6-38	879-890	systems.THE	_	
+6-39	891-898	DETAILS	_	
+6-40	898-899	:	_	
+6-41	899-904	Youll	_	
+6-42	905-907	be	_	
+6-43	908-915	joining	_	
+6-44	916-919	our	_	
+6-45	920-923	EQ3	_	
+6-46	924-928	Head	_	
+6-47	929-935	Office	_	
+6-48	936-940	team	_	
+6-49	941-943	at	_	
+6-50	944-946	70	_	
+6-51	947-956	Lexington	_	
+6-52	957-961	Park	_	
+6-53	961-962	,	_	
+6-54	963-971	Winnipeg	_	
+6-55	971-972	,	_	
+6-56	973-975	MB	_	
+6-57	975-976	,	_	
+6-58	977-979	in	_	
+6-59	980-981	a	_	
+6-60	982-991	full-time	_	
+6-61	992-1000	capacity	_	
+6-62	1001-1003	As	_	
+6-63	1004-1005	a	_	
+6-64	1006-1012	Senior	_	
+6-65	1013-1020	Backend	_	
+6-66	1021-1030	Developer	_	
+6-67	1030-1031	,	_	
+6-68	1032-1035	you	_	
+6-69	1036-1040	will	_	
+6-70	1041-1043	be	_	
+6-71	1044-1055	responsible	_	
+6-72	1056-1059	for	_	
+6-73	1060-1069	designing	_	
+6-74	1069-1070	,	_	
+6-75	1071-1081	developing	_	
+6-76	1081-1082	,	_	
+6-77	1083-1086	and	_	
+6-78	1087-1098	maintaining	_	
+6-79	1099-1102	the	_	
+6-80	1103-1110	backend	_	
+6-81	1111-1118	systems	_	
+6-82	1119-1121	of	_	
+6-83	1122-1125	our	_	
+6-84	1126-1134	software	_	
+6-85	1135-1147	applications	_	
+6-86	1148-1153	using	_	
+6-87	1154-1158	Java	Hard Skill	
+6-88	1159-1161	or	_	
+6-89	1162-1168	Kotlin	Hard Skill	
+6-90	1168-1169	,	_	
+6-91	1170-1174	with	_	
+6-92	1175-1176	a	_	
+6-93	1177-1183	strong	_	
+6-94	1184-1192	emphasis	_	
+6-95	1193-1195	on	_	
+6-96	1196-1202	Spring	_	
+6-97	1203-1205	or	_	
+6-98	1206-1212	Spring	_	
+6-99	1213-1217	Boot	_	
+6-100	1218-1228	frameworks	_	
+6-101	1228-1229	.	_	
+
+#Text=Youll write clean, efficient, and maintainable code, and conduct thorough code reviews to ensure code quality and adherence to coding standards.
+7-1	1230-1235	Youll	_	
+7-2	1236-1241	write	_	
+7-3	1242-1247	clean	_	
+7-4	1247-1248	,	_	
+7-5	1249-1258	efficient	_	
+7-6	1258-1259	,	_	
+7-7	1260-1263	and	_	
+7-8	1264-1276	maintainable	_	
+7-9	1277-1281	code	_	
+7-10	1281-1282	,	_	
+7-11	1283-1286	and	_	
+7-12	1287-1294	conduct	_	
+7-13	1295-1303	thorough	_	
+7-14	1304-1308	code	_	
+7-15	1309-1316	reviews	_	
+7-16	1317-1319	to	_	
+7-17	1320-1326	ensure	_	
+7-18	1327-1331	code	_	
+7-19	1332-1339	quality	_	
+7-20	1340-1343	and	_	
+7-21	1344-1353	adherence	_	
+7-22	1354-1356	to	_	
+7-23	1357-1363	coding	Hard Skill	
+7-24	1364-1373	standards	_	
+7-25	1373-1374	.	_	
+
+#Text=Youll containerize applications using Docker for deployment and scalability.
+8-1	1375-1380	Youll	_	
+8-2	1381-1393	containerize	_	
+8-3	1394-1406	applications	_	
+8-4	1407-1412	using	_	
+8-5	1413-1419	Docker	Hard Skill	
+8-6	1420-1423	for	_	
+8-7	1424-1434	deployment	_	
+8-8	1435-1438	and	_	
+8-9	1439-1450	scalability	_	
+8-10	1450-1451	.	_	
+
+#Text=Youll develop and optimize database queries and data models using MySQL and JOOQ.
+9-1	1452-1457	Youll	_	
+9-2	1458-1465	develop	_	
+9-3	1466-1469	and	_	
+9-4	1470-1478	optimize	Hard Skill	
+9-5	1479-1487	database	_	
+9-6	1488-1495	queries	_	
+9-7	1496-1499	and	_	
+9-8	1500-1504	data	_	
+9-9	1505-1511	models	_	
+9-10	1512-1517	using	_	
+9-11	1518-1523	MySQL	Hard Skill	
+9-12	1524-1527	and	_	
+9-13	1528-1532	JOOQ	_	
+9-14	1532-1533	.	_	
+
+#Text=Youll implement and maintain REST APIs to enable seamless communication between front-end and back-end systems.
+10-1	1534-1539	Youll	_	
+10-2	1540-1549	implement	_	
+10-3	1550-1553	and	_	
+10-4	1554-1562	maintain	_	
+10-5	1563-1567	REST	_	
+10-6	1568-1572	APIs	_	
+10-7	1573-1575	to	_	
+10-8	1576-1582	enable	_	
+10-9	1583-1591	seamless	_	
+10-10	1592-1605	communication	Soft Skill	
+10-11	1606-1613	between	_	
+10-12	1614-1623	front-end	_	
+10-13	1624-1627	and	_	
+10-14	1628-1636	back-end	_	
+10-15	1637-1644	systems	_	
+10-16	1644-1645	.	_	
+
+#Text=Youll be responsible for debugging and resolving software defects and performance issues in a timely manner.
+11-1	1646-1651	Youll	_	
+11-2	1652-1654	be	_	
+11-3	1655-1666	responsible	_	
+11-4	1667-1670	for	_	
+11-5	1671-1680	debugging	Hard Skill	
+11-6	1681-1684	and	_	
+11-7	1685-1694	resolving	_	
+11-8	1695-1703	software	_	
+11-9	1704-1711	defects	_	
+11-10	1712-1715	and	_	
+11-11	1716-1727	performance	_	
+11-12	1728-1734	issues	_	
+11-13	1735-1737	in	_	
+11-14	1738-1739	a	_	
+11-15	1740-1746	timely	_	
+11-16	1747-1753	manner	_	
+11-17	1753-1754	.	_	
+
+#Text=Youll mentor junior developers and provide technical guidance and expertise when needed.
+12-1	1755-1760	Youll	_	
+12-2	1761-1767	mentor	_	
+12-3	1768-1774	junior	_	
+12-4	1775-1785	developers	_	
+12-5	1786-1789	and	_	
+12-6	1790-1797	provide	_	
+12-7	1798-1807	technical	_	
+12-8	1808-1816	guidance	_	
+12-9	1817-1820	and	_	
+12-10	1821-1830	expertise	_	
+12-11	1831-1835	when	_	
+12-12	1836-1842	needed	_	
+12-13	1842-1843	.	_	
+
+#Text=Youll collaborate with cross-functional teams, including front-end developers, product managers, and QA engineers, to define requirements and deliver high-quality software solutions.
+13-1	1844-1849	Youll	_	
+13-2	1850-1861	collaborate	Soft Skill	
+13-3	1862-1866	with	_	
+13-4	1867-1883	cross-functional	_	
+13-5	1884-1889	teams	_	
+13-6	1889-1890	,	_	
+13-7	1891-1900	including	_	
+13-8	1901-1910	front-end	_	
+13-9	1911-1921	developers	_	
+13-10	1921-1922	,	_	
+13-11	1923-1930	product	_	
+13-12	1931-1939	managers	_	
+13-13	1939-1940	,	_	
+13-14	1941-1944	and	_	
+13-15	1945-1947	QA	_	
+13-16	1948-1957	engineers	_	
+13-17	1957-1958	,	_	
+13-18	1959-1961	to	_	
+13-19	1962-1968	define	_	
+13-20	1969-1981	requirements	_	
+13-21	1982-1985	and	_	
+13-22	1986-1993	deliver	_	
+13-23	1994-2006	high-quality	_	
+13-24	2007-2015	software	_	
+13-25	2016-2025	solutions	_	
+13-26	2025-2026	.	_	
+
+#Text=Youll collaborate with DevOps teams to ensure smooth deployment and operation of backend systems in production environments.
+14-1	2027-2032	Youll	_	
+14-2	2033-2044	collaborate	Soft Skill	
+14-3	2045-2049	with	_	
+14-4	2050-2056	DevOps	_	
+14-5	2057-2062	teams	_	
+14-6	2063-2065	to	_	
+14-7	2066-2072	ensure	_	
+14-8	2073-2079	smooth	_	
+14-9	2080-2090	deployment	_	
+14-10	2091-2094	and	_	
+14-11	2095-2104	operation	_	
+14-12	2105-2107	of	_	
+14-13	2108-2115	backend	_	
+14-14	2116-2123	systems	_	
+14-15	2124-2126	in	_	
+14-16	2127-2137	production	_	
+14-17	2138-2150	environments	_	
+14-18	2150-2151	.	_	
+
+#Text=Youll Stay up to date with the latest industry trends and best practices in backend development, specifically with Java, Kotlin, Spring, and Spring Boot, and share knowledge with the team.WHAT YOU BRING TO THE TABLE: Bachelors degree in Computer Science, Software Engineering, or a related field.
+15-1	2152-2157	Youll	_	
+15-2	2158-2162	Stay	_	
+15-3	2163-2165	up	_	
+15-4	2166-2168	to	_	
+15-5	2169-2173	date	_	
+15-6	2174-2178	with	_	
+15-7	2179-2182	the	_	
+15-8	2183-2189	latest	_	
+15-9	2190-2198	industry	_	
+15-10	2199-2205	trends	_	
+15-11	2206-2209	and	_	
+15-12	2210-2214	best	_	
+15-13	2215-2224	practices	_	
+15-14	2225-2227	in	_	
+15-15	2228-2235	backend	_	
+15-16	2236-2247	development	_	
+15-17	2247-2248	,	_	
+15-18	2249-2261	specifically	_	
+15-19	2262-2266	with	_	
+15-20	2267-2271	Java	Hard Skill	
+15-21	2271-2272	,	_	
+15-22	2273-2279	Kotlin	Hard Skill	
+15-23	2279-2280	,	_	
+15-24	2281-2287	Spring	_	
+15-25	2287-2288	,	_	
+15-26	2289-2292	and	_	
+15-27	2293-2299	Spring	_	
+15-28	2300-2304	Boot	_	
+15-29	2304-2305	,	_	
+15-30	2306-2309	and	_	
+15-31	2310-2315	share	_	
+15-32	2316-2325	knowledge	_	
+15-33	2326-2330	with	_	
+15-34	2331-2334	the	_	
+15-35	2335-2344	team.WHAT	_	
+15-36	2345-2348	YOU	_	
+15-37	2349-2354	BRING	_	
+15-38	2355-2357	TO	_	
+15-39	2358-2361	THE	_	
+15-40	2362-2367	TABLE	_	
+15-41	2367-2368	:	_	
+15-42	2369-2378	Bachelors	_	
+15-43	2379-2385	degree	_	
+15-44	2386-2388	in	_	
+15-45	2389-2397	Computer	_	
+15-46	2398-2405	Science	_	
+15-47	2405-2406	,	_	
+15-48	2407-2415	Software	_	
+15-49	2416-2427	Engineering	_	
+15-50	2427-2428	,	_	
+15-51	2429-2431	or	_	
+15-52	2432-2433	a	_	
+15-53	2434-2441	related	_	
+15-54	2442-2447	field	_	
+15-55	2447-2448	.	_	
+
+#Text=Certification in Java, Kotlin, Spring, or Spring Boot is an asset.
+16-1	2449-2462	Certification	_	
+16-2	2463-2465	in	_	
+16-3	2466-2470	Java	Hard Skill	
+16-4	2470-2471	,	_	
+16-5	2472-2478	Kotlin	Hard Skill	
+16-6	2478-2479	,	_	
+16-7	2480-2486	Spring	_	
+16-8	2486-2487	,	_	
+16-9	2488-2490	or	_	
+16-10	2491-2497	Spring	_	
+16-11	2498-2502	Boot	_	
+16-12	2503-2505	is	_	
+16-13	2506-2508	an	_	
+16-14	2509-2514	asset	_	
+16-15	2514-2515	.	_	
+
+#Text=Minimum of 5 (five) years of experience in backend development using Java or Kotlin.
+17-1	2516-2523	Minimum	_	
+17-2	2524-2526	of	_	
+17-3	2527-2528	5	_	
+17-4	2529-2530	(	_	
+17-5	2530-2534	five	_	
+17-6	2534-2535	)	_	
+17-7	2536-2541	years	_	
+17-8	2542-2544	of	_	
+17-9	2545-2555	experience	_	
+17-10	2556-2558	in	_	
+17-11	2559-2566	backend	_	
+17-12	2567-2578	development	_	
+17-13	2579-2584	using	_	
+17-14	2585-2589	Java	Hard Skill	
+17-15	2590-2592	or	_	
+17-16	2593-2599	Kotlin	Hard Skill	
+17-17	2599-2600	.	_	
+
+#Text=Strong experience with Spring or Spring Boot frameworks for backend development.
+18-1	2601-2607	Strong	_	
+18-2	2608-2618	experience	_	
+18-3	2619-2623	with	_	
+18-4	2624-2630	Spring	_	
+18-5	2631-2633	or	_	
+18-6	2634-2640	Spring	_	
+18-7	2641-2645	Boot	_	
+18-8	2646-2656	frameworks	_	
+18-9	2657-2660	for	_	
+18-10	2661-2668	backend	_	
+18-11	2669-2680	development	_	
+18-12	2680-2681	.	_	
+
+#Text=Experience with MySQL and ORM frameworks for database management.
+19-1	2682-2692	Experience	_	
+19-2	2693-2697	with	_	
+19-3	2698-2703	MySQL	Hard Skill	
+19-4	2704-2707	and	_	
+19-5	2708-2711	ORM	Hard Skill	
+19-6	2712-2722	frameworks	_	
+19-7	2723-2726	for	_	
+19-8	2727-2735	database	_	
+19-9	2736-2746	management	_	
+19-10	2746-2747	.	_	
+
+#Text=Proficiency in Docker for containerization and deployment.
+20-1	2748-2759	Proficiency	_	
+20-2	2760-2762	in	_	
+20-3	2763-2769	Docker	Hard Skill	
+20-4	2770-2773	for	_	
+20-5	2774-2790	containerization	_	
+20-6	2791-2794	and	_	
+20-7	2795-2805	deployment	_	
+20-8	2805-2806	.	_	
+
+#Text=Strong understanding of software engineering principles, best practices, and design patterns including but not limited to MVC, Singleton, Factory, and Observer.
+21-1	2807-2813	Strong	_	
+21-2	2814-2827	understanding	_	
+21-3	2828-2830	of	_	
+21-4	2831-2839	software	_	
+21-5	2840-2851	engineering	_	
+21-6	2852-2862	principles	_	
+21-7	2862-2863	,	_	
+21-8	2864-2868	best	_	
+21-9	2869-2878	practices	_	
+21-10	2878-2879	,	_	
+21-11	2880-2883	and	_	
+21-12	2884-2890	design	Hard Skill	
+21-13	2891-2899	patterns	_	
+21-14	2900-2909	including	_	
+21-15	2910-2913	but	_	
+21-16	2914-2917	not	_	
+21-17	2918-2925	limited	_	
+21-18	2926-2928	to	_	
+21-19	2929-2932	MVC	_	
+21-20	2932-2933	,	_	
+21-21	2934-2943	Singleton	_	
+21-22	2943-2944	,	_	
+21-23	2945-2952	Factory	_	
+21-24	2952-2953	,	_	
+21-25	2954-2957	and	_	
+21-26	2958-2966	Observer	_	
+21-27	2966-2967	.	_	
+
+#Text=Experience with cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP).
+22-1	2968-2978	Experience	_	
+22-2	2979-2983	with	_	
+22-3	2984-2989	cloud	_	
+22-4	2990-2999	platforms	_	
+22-5	3000-3004	such	_	
+22-6	3005-3007	as	_	
+22-7	3008-3011	AWS	Hard Skill	
+22-8	3011-3012	,	_	
+22-9	3013-3018	Azure	Hard Skill	
+22-10	3018-3019	,	_	
+22-11	3020-3022	or	_	
+22-12	3023-3029	Google	_	
+22-13	3030-3035	Cloud	_	
+22-14	3036-3044	Platform	_	
+22-15	3045-3046	(	_	
+22-16	3046-3049	GCP	_	
+22-17	3049-3050	)	_	
+22-18	3050-3051	.	_	
+
+#Text=Proven experience in building robust REST APIs.
+23-1	3052-3058	Proven	_	
+23-2	3059-3069	experience	_	
+23-3	3070-3072	in	_	
+23-4	3073-3081	building	_	
+23-5	3082-3088	robust	_	
+23-6	3089-3093	REST	_	
+23-7	3094-3098	APIs	_	
+23-8	3098-3099	.	_	
+
+#Text=Experience with version control systems such as Git.
+24-1	3100-3110	Experience	_	
+24-2	3111-3115	with	_	
+24-3	3116-3123	version	_	
+24-4	3124-3131	control	_	
+24-5	3132-3139	systems	_	
+24-6	3140-3144	such	_	
+24-7	3145-3147	as	_	
+24-8	3148-3151	Git	Hard Skill	
+24-9	3151-3152	.	_	
+
+#Text=Strong analytical and problem-solving skills.
+25-1	3153-3159	Strong	_	
+25-2	3160-3170	analytical	_	
+25-3	3171-3174	and	_	
+25-4	3175-3190	problem-solving	_	
+25-5	3191-3197	skills	_	
+25-6	3197-3198	.	_	
+
+#Text=Excellent communication and interpersonal skills, with the ability to effectively communicate technical concepts to both technical and non-technical stakeholders.
+26-1	3199-3208	Excellent	_	
+26-2	3209-3222	communication	Soft Skill	
+26-3	3223-3226	and	_	
+26-4	3227-3240	interpersonal	Soft Skill	
+26-5	3241-3247	skills	_	
+26-6	3247-3248	,	_	
+26-7	3249-3253	with	_	
+26-8	3254-3257	the	_	
+26-9	3258-3265	ability	_	
+26-10	3266-3268	to	_	
+26-11	3269-3280	effectively	_	
+26-12	3281-3292	communicate	_	
+26-13	3293-3302	technical	_	
+26-14	3303-3311	concepts	_	
+26-15	3312-3314	to	_	
+26-16	3315-3319	both	_	
+26-17	3320-3329	technical	_	
+26-18	3330-3333	and	_	
+26-19	3334-3347	non-technical	_	
+26-20	3348-3360	stakeholders	_	
+26-21	3360-3361	.	_	
+
+#Text=Ability to work independently and collaboratively in a fast-paced, agile environment.WORK LIFE AT EQ3: A company that supports work-life balance with paid time off and flexibility Competitive compensation and benefit packages Employee discount program for products, wellness plans, group banking and more EQ3 Spirit Committee that promotes community engagement, rewards, and recognition for all employees Surround yourself with a community that supports professional growth and collaborationCLOSING DATE: May 8, 2023HOW TO APPLY: Submit your complete application by clicking on Apply to Position now!
+27-1	3362-3369	Ability	_	
+27-2	3370-3372	to	_	
+27-3	3373-3377	work	_	
+27-4	3378-3391	independently	_	
+27-5	3392-3395	and	_	
+27-6	3396-3411	collaboratively	_	
+27-7	3412-3414	in	_	
+27-8	3415-3416	a	_	
+27-9	3417-3427	fast-paced	_	
+27-10	3427-3428	,	_	
+27-11	3429-3434	agile	Hard Skill	
+27-12	3435-3451	environment.WORK	_	
+27-13	3452-3456	LIFE	_	
+27-14	3457-3459	AT	_	
+27-15	3460-3463	EQ3	_	
+27-16	3463-3464	:	_	
+27-17	3465-3466	A	_	
+27-18	3467-3474	company	_	
+27-19	3475-3479	that	_	
+27-20	3480-3488	supports	_	
+27-21	3489-3498	work-life	_	
+27-22	3499-3506	balance	_	
+27-23	3507-3511	with	_	
+27-24	3512-3516	paid	_	
+27-25	3517-3521	time	_	
+27-26	3522-3525	off	_	
+27-27	3526-3529	and	_	
+27-28	3530-3541	flexibility	_	
+27-29	3542-3553	Competitive	_	
+27-30	3554-3566	compensation	_	
+27-31	3567-3570	and	_	
+27-32	3571-3578	benefit	_	
+27-33	3579-3587	packages	_	
+27-34	3588-3596	Employee	_	
+27-35	3597-3605	discount	_	
+27-36	3606-3613	program	_	
+27-37	3614-3617	for	_	
+27-38	3618-3626	products	_	
+27-39	3626-3627	,	_	
+27-40	3628-3636	wellness	_	
+27-41	3637-3642	plans	_	
+27-42	3642-3643	,	_	
+27-43	3644-3649	group	_	
+27-44	3650-3657	banking	_	
+27-45	3658-3661	and	_	
+27-46	3662-3666	more	_	
+27-47	3667-3670	EQ3	_	
+27-48	3671-3677	Spirit	_	
+27-49	3678-3687	Committee	_	
+27-50	3688-3692	that	_	
+27-51	3693-3701	promotes	_	
+27-52	3702-3711	community	_	
+27-53	3712-3722	engagement	_	
+27-54	3722-3723	,	_	
+27-55	3724-3731	rewards	_	
+27-56	3731-3732	,	_	
+27-57	3733-3736	and	_	
+27-58	3737-3748	recognition	_	
+27-59	3749-3752	for	_	
+27-60	3753-3756	all	_	
+27-61	3757-3766	employees	_	
+27-62	3767-3775	Surround	_	
+27-63	3776-3784	yourself	_	
+27-64	3785-3789	with	_	
+27-65	3790-3791	a	_	
+27-66	3792-3801	community	_	
+27-67	3802-3806	that	_	
+27-68	3807-3815	supports	_	
+27-69	3816-3828	professional	_	
+27-70	3829-3835	growth	_	
+27-71	3836-3839	and	_	
+27-72	3840-3860	collaborationCLOSING	_	
+27-73	3861-3865	DATE	_	
+27-74	3865-3866	:	_	
+27-75	3867-3870	May	_	
+27-76	3871-3872	8	_	
+27-77	3872-3873	,	_	
+27-78	3874-3881	2023HOW	_	
+27-79	3882-3884	TO	_	
+27-80	3885-3890	APPLY	_	
+27-81	3890-3891	:	_	
+27-82	3892-3898	Submit	_	
+27-83	3899-3903	your	_	
+27-84	3904-3912	complete	_	
+27-85	3913-3924	application	_	
+27-86	3925-3927	by	_	
+27-87	3928-3936	clicking	_	
+27-88	3937-3939	on	_	
+27-89	3940-3945	Apply	_	
+27-90	3946-3948	to	_	
+27-91	3949-3957	Position	_	
+27-92	3958-3961	now	_	
+27-93	3961-3962	!	_	
+
+#Text=We thank all interested individuals, however only those selected for an interview will be contacted.EQ3 is committed to abiding by the Accessibility for Manitobans Act.
+28-1	3962-3964	We	_	
+28-2	3965-3970	thank	_	
+28-3	3971-3974	all	_	
+28-4	3975-3985	interested	_	
+28-5	3986-3997	individuals	_	
+28-6	3997-3998	,	_	
+28-7	3999-4006	however	_	
+28-8	4007-4011	only	_	
+28-9	4012-4017	those	_	
+28-10	4018-4026	selected	_	
+28-11	4027-4030	for	_	
+28-12	4031-4033	an	_	
+28-13	4034-4043	interview	_	
+28-14	4044-4048	will	_	
+28-15	4049-4051	be	_	
+28-16	4052-4065	contacted.EQ3	_	
+28-17	4066-4068	is	_	
+28-18	4069-4078	committed	_	
+28-19	4079-4081	to	_	
+28-20	4082-4089	abiding	_	
+28-21	4090-4092	by	_	
+28-22	4093-4096	the	_	
+28-23	4097-4110	Accessibility	_	
+28-24	4111-4114	for	_	
+28-25	4115-4125	Manitobans	_	
+28-26	4126-4129	Act	_	
+28-27	4129-4130	.	_	
+
+#Text=We will work diligently to ensure everyone has the proper tools and means to do their work effectively and efficiently.
+29-1	4131-4133	We	_	
+29-2	4134-4138	will	_	
+29-3	4139-4143	work	_	
+29-4	4144-4154	diligently	_	
+29-5	4155-4157	to	_	
+29-6	4158-4164	ensure	_	
+29-7	4165-4173	everyone	_	
+29-8	4174-4177	has	_	
+29-9	4178-4181	the	_	
+29-10	4182-4188	proper	_	
+29-11	4189-4194	tools	_	
+29-12	4195-4198	and	_	
+29-13	4199-4204	means	_	
+29-14	4205-4207	to	_	
+29-15	4208-4210	do	_	
+29-16	4211-4216	their	_	
+29-17	4217-4221	work	_	
+29-18	4222-4233	effectively	_	
+29-19	4234-4237	and	_	
+29-20	4238-4249	efficiently	_	
+29-21	4249-4250	.	_	
+
+#Text=Reasonable accommodations are available upon request You will be successful in this position if you are passionate about and skilled in backend development, have a strong foundation in Java or Kotlin and MySQL and are passionate about building scalable and reliable software systems Bachelors degree in Computer Science, Software Engineering, or a related field Certification in Java, Kotlin, Spring, or Spring Boot is an asset Minimum of 5 (five) years of experience in backend development using Java or Kotlin Strong experience with Spring or Spring Boot frameworks for backend development Experience with MySQL and ORM frameworks for database management Proficiency in Docker for containerization and deployment Strong understanding of software engineering principles, best practices, and design patterns including but not limited to MVC, Singleton, Factory, and Observer Experience with cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP) Proven experience in building robust REST APIs Experience with version control systems such as Git Strong analytical and problem-solving skills Excellent communication and interpersonal skills, with the ability to effectively communicate technical concepts to both technical and non-technical stakeholders Ability to work independently and collaboratively in a fast-paced, agile environment As a Senior Backend Developer, you will be responsible for designing, developing, and maintaining the backend systems of our software applications using Java or Kotlin, with a strong emphasis on Spring or Spring Boot frameworks Youll write clean, efficient, and maintainable code, and conduct thorough code reviews to ensure code quality and adherence to coding standards Youll containerize applications using Docker for deployment and scalability Youll develop and optimize database queries and data models using MySQL and JOOQ Youll implement and maintain REST APIs to enable seamless communication between front-end and back-end systems Youll be responsible for debugging and resolving software defects and performance issues in a timely manner Youll mentor junior developers and provide technical guidance and expertise when needed Youll collaborate with cross-functional teams, including front-end developers, product managers, and QA engineers, to define requirements and deliver high-quality software solutions Youll collaborate with DevOps teams to ensure smooth deployment and operation of backend systems in production environments Youll Stay up to date with the latest industry trends and best practices in backend development, specifically with Java, Kotlin, Spring, and Spring Boot, and share knowledge with the team A company that supports work-life balance with paid time off and flexibility Competitive compensation and benefit packages Employee discount program for products, wellness plans, group banking and more EQ3 Spirit Committee that promotes community engagement, rewards, and recognition for all employees
+30-1	4251-4261	Reasonable	_	
+30-2	4262-4276	accommodations	_	
+30-3	4277-4280	are	_	
+30-4	4281-4290	available	_	
+30-5	4291-4295	upon	_	
+30-6	4296-4303	request	_	
+30-7	4304-4307	You	_	
+30-8	4308-4312	will	_	
+30-9	4313-4315	be	_	
+30-10	4316-4326	successful	_	
+30-11	4327-4329	in	_	
+30-12	4330-4334	this	_	
+30-13	4335-4343	position	_	
+30-14	4344-4346	if	_	
+30-15	4347-4350	you	_	
+30-16	4351-4354	are	_	
+30-17	4355-4365	passionate	_	
+30-18	4366-4371	about	_	
+30-19	4372-4375	and	_	
+30-20	4376-4383	skilled	_	
+30-21	4384-4386	in	_	
+30-22	4387-4394	backend	_	
+30-23	4395-4406	development	_	
+30-24	4406-4407	,	_	
+30-25	4408-4412	have	_	
+30-26	4413-4414	a	_	
+30-27	4415-4421	strong	_	
+30-28	4422-4432	foundation	_	
+30-29	4433-4435	in	_	
+30-30	4436-4440	Java	Hard Skill	
+30-31	4441-4443	or	_	
+30-32	4444-4450	Kotlin	Hard Skill	
+30-33	4451-4454	and	_	
+30-34	4455-4460	MySQL	Hard Skill	
+30-35	4461-4464	and	_	
+30-36	4465-4468	are	_	
+30-37	4469-4479	passionate	_	
+30-38	4480-4485	about	_	
+30-39	4486-4494	building	_	
+30-40	4495-4503	scalable	_	
+30-41	4504-4507	and	_	
+30-42	4508-4516	reliable	_	
+30-43	4517-4525	software	_	
+30-44	4526-4533	systems	_	
+30-45	4534-4543	Bachelors	_	
+30-46	4544-4550	degree	_	
+30-47	4551-4553	in	_	
+30-48	4554-4562	Computer	_	
+30-49	4563-4570	Science	_	
+30-50	4570-4571	,	_	
+30-51	4572-4580	Software	_	
+30-52	4581-4592	Engineering	_	
+30-53	4592-4593	,	_	
+30-54	4594-4596	or	_	
+30-55	4597-4598	a	_	
+30-56	4599-4606	related	_	
+30-57	4607-4612	field	_	
+30-58	4613-4626	Certification	_	
+30-59	4627-4629	in	_	
+30-60	4630-4634	Java	Hard Skill	
+30-61	4634-4635	,	_	
+30-62	4636-4642	Kotlin	Hard Skill	
+30-63	4642-4643	,	_	
+30-64	4644-4650	Spring	_	
+30-65	4650-4651	,	_	
+30-66	4652-4654	or	_	
+30-67	4655-4661	Spring	_	
+30-68	4662-4666	Boot	_	
+30-69	4667-4669	is	_	
+30-70	4670-4672	an	_	
+30-71	4673-4678	asset	_	
+30-72	4679-4686	Minimum	_	
+30-73	4687-4689	of	_	
+30-74	4690-4691	5	_	
+30-75	4692-4693	(	_	
+30-76	4693-4697	five	_	
+30-77	4697-4698	)	_	
+30-78	4699-4704	years	_	
+30-79	4705-4707	of	_	
+30-80	4708-4718	experience	_	
+30-81	4719-4721	in	_	
+30-82	4722-4729	backend	_	
+30-83	4730-4741	development	_	
+30-84	4742-4747	using	_	
+30-85	4748-4752	Java	Hard Skill	
+30-86	4753-4755	or	_	
+30-87	4756-4762	Kotlin	Hard Skill	
+30-88	4763-4769	Strong	_	
+30-89	4770-4780	experience	_	
+30-90	4781-4785	with	_	
+30-91	4786-4792	Spring	_	
+30-92	4793-4795	or	_	
+30-93	4796-4802	Spring	_	
+30-94	4803-4807	Boot	_	
+30-95	4808-4818	frameworks	_	
+30-96	4819-4822	for	_	
+30-97	4823-4830	backend	_	
+30-98	4831-4842	development	_	
+30-99	4843-4853	Experience	_	
+30-100	4854-4858	with	_	
+30-101	4859-4864	MySQL	Hard Skill	
+30-102	4865-4868	and	_	
+30-103	4869-4872	ORM	Hard Skill	
+30-104	4873-4883	frameworks	_	
+30-105	4884-4887	for	_	
+30-106	4888-4896	database	_	
+30-107	4897-4907	management	_	
+30-108	4908-4919	Proficiency	_	
+30-109	4920-4922	in	_	
+30-110	4923-4929	Docker	Hard Skill	
+30-111	4930-4933	for	_	
+30-112	4934-4950	containerization	_	
+30-113	4951-4954	and	_	
+30-114	4955-4965	deployment	_	
+30-115	4966-4972	Strong	_	
+30-116	4973-4986	understanding	_	
+30-117	4987-4989	of	_	
+30-118	4990-4998	software	_	
+30-119	4999-5010	engineering	_	
+30-120	5011-5021	principles	_	
+30-121	5021-5022	,	_	
+30-122	5023-5027	best	_	
+30-123	5028-5037	practices	_	
+30-124	5037-5038	,	_	
+30-125	5039-5042	and	_	
+30-126	5043-5049	design	Hard Skill	
+30-127	5050-5058	patterns	_	
+30-128	5059-5068	including	_	
+30-129	5069-5072	but	_	
+30-130	5073-5076	not	_	
+30-131	5077-5084	limited	_	
+30-132	5085-5087	to	_	
+30-133	5088-5091	MVC	_	
+30-134	5091-5092	,	_	
+30-135	5093-5102	Singleton	_	
+30-136	5102-5103	,	_	
+30-137	5104-5111	Factory	_	
+30-138	5111-5112	,	_	
+30-139	5113-5116	and	_	
+30-140	5117-5125	Observer	_	
+30-141	5126-5136	Experience	_	
+30-142	5137-5141	with	_	
+30-143	5142-5147	cloud	_	
+30-144	5148-5157	platforms	_	
+30-145	5158-5162	such	_	
+30-146	5163-5165	as	_	
+30-147	5166-5169	AWS	Hard Skill	
+30-148	5169-5170	,	_	
+30-149	5171-5176	Azure	Hard Skill	
+30-150	5176-5177	,	_	
+30-151	5178-5180	or	_	
+30-152	5181-5187	Google	_	
+30-153	5188-5193	Cloud	_	
+30-154	5194-5202	Platform	_	
+30-155	5203-5204	(	_	
+30-156	5204-5207	GCP	_	
+30-157	5207-5208	)	_	
+30-158	5209-5215	Proven	_	
+30-159	5216-5226	experience	_	
+30-160	5227-5229	in	_	
+30-161	5230-5238	building	_	
+30-162	5239-5245	robust	_	
+30-163	5246-5250	REST	_	
+30-164	5251-5255	APIs	_	
+30-165	5256-5266	Experience	_	
+30-166	5267-5271	with	_	
+30-167	5272-5279	version	_	
+30-168	5280-5287	control	_	
+30-169	5288-5295	systems	_	
+30-170	5296-5300	such	_	
+30-171	5301-5303	as	_	
+30-172	5304-5307	Git	Hard Skill	
+30-173	5308-5314	Strong	_	
+30-174	5315-5325	analytical	_	
+30-175	5326-5329	and	_	
+30-176	5330-5345	problem-solving	_	
+30-177	5346-5352	skills	_	
+30-178	5353-5362	Excellent	_	
+30-179	5363-5376	communication	Soft Skill	
+30-180	5377-5380	and	_	
+30-181	5381-5394	interpersonal	Soft Skill	
+30-182	5395-5401	skills	_	
+30-183	5401-5402	,	_	
+30-184	5403-5407	with	_	
+30-185	5408-5411	the	_	
+30-186	5412-5419	ability	_	
+30-187	5420-5422	to	_	
+30-188	5423-5434	effectively	_	
+30-189	5435-5446	communicate	_	
+30-190	5447-5456	technical	_	
+30-191	5457-5465	concepts	_	
+30-192	5466-5468	to	_	
+30-193	5469-5473	both	_	
+30-194	5474-5483	technical	_	
+30-195	5484-5487	and	_	
+30-196	5488-5501	non-technical	_	
+30-197	5502-5514	stakeholders	_	
+30-198	5515-5522	Ability	_	
+30-199	5523-5525	to	_	
+30-200	5526-5530	work	_	
+30-201	5531-5544	independently	_	
+30-202	5545-5548	and	_	
+30-203	5549-5564	collaboratively	_	
+30-204	5565-5567	in	_	
+30-205	5568-5569	a	_	
+30-206	5570-5580	fast-paced	_	
+30-207	5580-5581	,	_	
+30-208	5582-5587	agile	Hard Skill	
+30-209	5588-5599	environment	_	
+30-210	5600-5602	As	_	
+30-211	5603-5604	a	_	
+30-212	5605-5611	Senior	_	
+30-213	5612-5619	Backend	_	
+30-214	5620-5629	Developer	_	
+30-215	5629-5630	,	_	
+30-216	5631-5634	you	_	
+30-217	5635-5639	will	_	
+30-218	5640-5642	be	_	
+30-219	5643-5654	responsible	_	
+30-220	5655-5658	for	_	
+30-221	5659-5668	designing	_	
+30-222	5668-5669	,	_	
+30-223	5670-5680	developing	_	
+30-224	5680-5681	,	_	
+30-225	5682-5685	and	_	
+30-226	5686-5697	maintaining	_	
+30-227	5698-5701	the	_	
+30-228	5702-5709	backend	_	
+30-229	5710-5717	systems	_	
+30-230	5718-5720	of	_	
+30-231	5721-5724	our	_	
+30-232	5725-5733	software	_	
+30-233	5734-5746	applications	_	
+30-234	5747-5752	using	_	
+30-235	5753-5757	Java	Hard Skill	
+30-236	5758-5760	or	_	
+30-237	5761-5767	Kotlin	Hard Skill	
+30-238	5767-5768	,	_	
+30-239	5769-5773	with	_	
+30-240	5774-5775	a	_	
+30-241	5776-5782	strong	_	
+30-242	5783-5791	emphasis	_	
+30-243	5792-5794	on	_	
+30-244	5795-5801	Spring	_	
+30-245	5802-5804	or	_	
+30-246	5805-5811	Spring	_	
+30-247	5812-5816	Boot	_	
+30-248	5817-5827	frameworks	_	
+30-249	5828-5833	Youll	_	
+30-250	5834-5839	write	_	
+30-251	5840-5845	clean	_	
+30-252	5845-5846	,	_	
+30-253	5847-5856	efficient	_	
+30-254	5856-5857	,	_	
+30-255	5858-5861	and	_	
+30-256	5862-5874	maintainable	_	
+30-257	5875-5879	code	_	
+30-258	5879-5880	,	_	
+30-259	5881-5884	and	_	
+30-260	5885-5892	conduct	_	
+30-261	5893-5901	thorough	_	
+30-262	5902-5906	code	_	
+30-263	5907-5914	reviews	_	
+30-264	5915-5917	to	_	
+30-265	5918-5924	ensure	_	
+30-266	5925-5929	code	_	
+30-267	5930-5937	quality	_	
+30-268	5938-5941	and	_	
+30-269	5942-5951	adherence	_	
+30-270	5952-5954	to	_	
+30-271	5955-5961	coding	Hard Skill	
+30-272	5962-5971	standards	_	
+30-273	5972-5977	Youll	_	
+30-274	5978-5990	containerize	_	
+30-275	5991-6003	applications	_	
+30-276	6004-6009	using	_	
+30-277	6010-6016	Docker	Hard Skill	
+30-278	6017-6020	for	_	
+30-279	6021-6031	deployment	_	
+30-280	6032-6035	and	_	
+30-281	6036-6047	scalability	_	
+30-282	6048-6053	Youll	_	
+30-283	6054-6061	develop	_	
+30-284	6062-6065	and	_	
+30-285	6066-6074	optimize	Hard Skill	
+30-286	6075-6083	database	_	
+30-287	6084-6091	queries	_	
+30-288	6092-6095	and	_	
+30-289	6096-6100	data	_	
+30-290	6101-6107	models	_	
+30-291	6108-6113	using	_	
+30-292	6114-6119	MySQL	Hard Skill	
+30-293	6120-6123	and	_	
+30-294	6124-6128	JOOQ	_	
+30-295	6129-6134	Youll	_	
+30-296	6135-6144	implement	_	
+30-297	6145-6148	and	_	
+30-298	6149-6157	maintain	_	
+30-299	6158-6162	REST	_	
+30-300	6163-6167	APIs	_	
+30-301	6168-6170	to	_	
+30-302	6171-6177	enable	_	
+30-303	6178-6186	seamless	_	
+30-304	6187-6200	communication	Soft Skill	
+30-305	6201-6208	between	_	
+30-306	6209-6218	front-end	_	
+30-307	6219-6222	and	_	
+30-308	6223-6231	back-end	_	
+30-309	6232-6239	systems	_	
+30-310	6240-6245	Youll	_	
+30-311	6246-6248	be	_	
+30-312	6249-6260	responsible	_	
+30-313	6261-6264	for	_	
+30-314	6265-6274	debugging	Hard Skill	
+30-315	6275-6278	and	_	
+30-316	6279-6288	resolving	_	
+30-317	6289-6297	software	_	
+30-318	6298-6305	defects	_	
+30-319	6306-6309	and	_	
+30-320	6310-6321	performance	_	
+30-321	6322-6328	issues	_	
+30-322	6329-6331	in	_	
+30-323	6332-6333	a	_	
+30-324	6334-6340	timely	_	
+30-325	6341-6347	manner	_	
+30-326	6348-6353	Youll	_	
+30-327	6354-6360	mentor	_	
+30-328	6361-6367	junior	_	
+30-329	6368-6378	developers	_	
+30-330	6379-6382	and	_	
+30-331	6383-6390	provide	_	
+30-332	6391-6400	technical	_	
+30-333	6401-6409	guidance	_	
+30-334	6410-6413	and	_	
+30-335	6414-6423	expertise	_	
+30-336	6424-6428	when	_	
+30-337	6429-6435	needed	_	
+30-338	6436-6441	Youll	_	
+30-339	6442-6453	collaborate	Soft Skill	
+30-340	6454-6458	with	_	
+30-341	6459-6475	cross-functional	_	
+30-342	6476-6481	teams	_	
+30-343	6481-6482	,	_	
+30-344	6483-6492	including	_	
+30-345	6493-6502	front-end	_	
+30-346	6503-6513	developers	_	
+30-347	6513-6514	,	_	
+30-348	6515-6522	product	_	
+30-349	6523-6531	managers	_	
+30-350	6531-6532	,	_	
+30-351	6533-6536	and	_	
+30-352	6537-6539	QA	_	
+30-353	6540-6549	engineers	_	
+30-354	6549-6550	,	_	
+30-355	6551-6553	to	_	
+30-356	6554-6560	define	_	
+30-357	6561-6573	requirements	_	
+30-358	6574-6577	and	_	
+30-359	6578-6585	deliver	_	
+30-360	6586-6598	high-quality	_	
+30-361	6599-6607	software	_	
+30-362	6608-6617	solutions	_	
+30-363	6618-6623	Youll	_	
+30-364	6624-6635	collaborate	Soft Skill	
+30-365	6636-6640	with	_	
+30-366	6641-6647	DevOps	_	
+30-367	6648-6653	teams	_	
+30-368	6654-6656	to	_	
+30-369	6657-6663	ensure	_	
+30-370	6664-6670	smooth	_	
+30-371	6671-6681	deployment	_	
+30-372	6682-6685	and	_	
+30-373	6686-6695	operation	_	
+30-374	6696-6698	of	_	
+30-375	6699-6706	backend	_	
+30-376	6707-6714	systems	_	
+30-377	6715-6717	in	_	
+30-378	6718-6728	production	_	
+30-379	6729-6741	environments	_	
+30-380	6742-6747	Youll	_	
+30-381	6748-6752	Stay	_	
+30-382	6753-6755	up	_	
+30-383	6756-6758	to	_	
+30-384	6759-6763	date	_	
+30-385	6764-6768	with	_	
+30-386	6769-6772	the	_	
+30-387	6773-6779	latest	_	
+30-388	6780-6788	industry	_	
+30-389	6789-6795	trends	_	
+30-390	6796-6799	and	_	
+30-391	6800-6804	best	_	
+30-392	6805-6814	practices	_	
+30-393	6815-6817	in	_	
+30-394	6818-6825	backend	_	
+30-395	6826-6837	development	_	
+30-396	6837-6838	,	_	
+30-397	6839-6851	specifically	_	
+30-398	6852-6856	with	_	
+30-399	6857-6861	Java	Hard Skill	
+30-400	6861-6862	,	_	
+30-401	6863-6869	Kotlin	Hard Skill	
+30-402	6869-6870	,	_	
+30-403	6871-6877	Spring	_	
+30-404	6877-6878	,	_	
+30-405	6879-6882	and	_	
+30-406	6883-6889	Spring	_	
+30-407	6890-6894	Boot	_	
+30-408	6894-6895	,	_	
+30-409	6896-6899	and	_	
+30-410	6900-6905	share	_	
+30-411	6906-6915	knowledge	_	
+30-412	6916-6920	with	_	
+30-413	6921-6924	the	_	
+30-414	6925-6929	team	_	
+30-415	6930-6931	A	_	
+30-416	6932-6939	company	_	
+30-417	6940-6944	that	_	
+30-418	6945-6953	supports	_	
+30-419	6954-6963	work-life	_	
+30-420	6964-6971	balance	_	
+30-421	6972-6976	with	_	
+30-422	6977-6981	paid	_	
+30-423	6982-6986	time	_	
+30-424	6987-6990	off	_	
+30-425	6991-6994	and	_	
+30-426	6995-7006	flexibility	_	
+30-427	7007-7018	Competitive	_	
+30-428	7019-7031	compensation	_	
+30-429	7032-7035	and	_	
+30-430	7036-7043	benefit	_	
+30-431	7044-7052	packages	_	
+30-432	7053-7061	Employee	_	
+30-433	7062-7070	discount	_	
+30-434	7071-7078	program	_	
+30-435	7079-7082	for	_	
+30-436	7083-7091	products	_	
+30-437	7091-7092	,	_	
+30-438	7093-7101	wellness	_	
+30-439	7102-7107	plans	_	
+30-440	7107-7108	,	_	
+30-441	7109-7114	group	_	
+30-442	7115-7122	banking	_	
+30-443	7123-7126	and	_	
+30-444	7127-7131	more	_	
+30-445	7132-7135	EQ3	_	
+30-446	7136-7142	Spirit	_	
+30-447	7143-7152	Committee	_	
+30-448	7153-7157	that	_	
+30-449	7158-7166	promotes	_	
+30-450	7167-7176	community	_	
+30-451	7177-7187	engagement	_	
+30-452	7187-7188	,	_	
+30-453	7189-7196	rewards	_	
+30-454	7196-7197	,	_	
+30-455	7198-7201	and	_	
+30-456	7202-7213	recognition	_	
+30-457	7214-7217	for	_	
+30-458	7218-7221	all	_	
+30-459	7222-7231	employees	_	

@@ -1,0 +1,276 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Company DescriptionHello...Greetings from Jobsbridge!
+1-1	0-7	Company	_	
+1-2	8-24	DescriptionHello	_	
+1-3	24-25	.	_	
+1-4	25-26	.	_	
+1-5	26-27	.	_	
+1-6	27-36	Greetings	_	
+1-7	37-41	from	_	
+1-8	42-52	Jobsbridge	_	
+1-9	52-53	!	_	
+
+#Text=Jobsbridge, Inc. is a fast growing Silicon Valley based I.T staffing and professional services company specializing in Web, Cloud & Mobility staffing solutions.Be it core Java, full-stack Java, Web/UI designers, Big Data or Cloud or Mobility developers/architects, we have them all.Job DescriptionExperience developing, releasing, and maintaining native Java applications (wed like to see what youve built).Own the Android Development end to end, including the code base.Deep understanding of the Android SDK.Demonstrated ability to develop quality software.Experience with web technologies (JavaScript, CSS, HTML5).Experience developing testing suites for mobile applications.Requisite engineering or computer science degrees.Strong experience with Java.Strong familiarity with Android SDK frameworks, especially KitKat and Lollipop.Experience with good design practices, both SW architecture, and visual/UI design.QualificationsAndroid SDK,JavaScript, CSS, HTML5Additional InformationOnly GC/Citizen Own the Android Development end to end, including the code base Deep understanding of the Android SDK Demonstrated ability to develop quality software Experience with web technologies (JavaScript, CSS, HTML5) Experience developing testing suites for mobile applications Requisite engineering or computer science degrees Strong experience with Java Strong familiarity with Android SDK frameworks, especially KitKat and Lollipop Experience with good design practices, both SW architecture, and visual/UI design Android SDK,JavaScript, CSS, HTML5 Experience developing, releasing, and maintaining native Java applications (wed like to see what youve built)
+2-1	53-63	Jobsbridge	_	
+2-2	63-64	,	_	
+2-3	65-68	Inc	_	
+2-4	68-69	.	_	
+2-5	70-72	is	_	
+2-6	73-74	a	_	
+2-7	75-79	fast	_	
+2-8	80-87	growing	_	
+2-9	88-95	Silicon	_	
+2-10	96-102	Valley	_	
+2-11	103-108	based	_	
+2-12	109-112	I.T	_	
+2-13	113-121	staffing	_	
+2-14	122-125	and	_	
+2-15	126-138	professional	_	
+2-16	139-147	services	_	
+2-17	148-155	company	_	
+2-18	156-168	specializing	_	
+2-19	169-171	in	_	
+2-20	172-175	Web	_	
+2-21	175-176	,	_	
+2-22	177-182	Cloud	_	
+2-23	183-184	&	_	
+2-24	185-193	Mobility	_	
+2-25	194-202	staffing	_	
+2-26	203-215	solutions.Be	_	
+2-27	216-218	it	_	
+2-28	219-223	core	_	
+2-29	224-228	Java	Hard Skill	
+2-30	228-229	,	_	
+2-31	230-240	full-stack	_	
+2-32	241-245	Java	Hard Skill	
+2-33	245-246	,	_	
+2-34	247-250	Web	_	
+2-35	250-251	/	_	
+2-36	251-253	UI	_	
+2-37	254-263	designers	_	
+2-38	263-264	,	_	
+2-39	265-268	Big	_	
+2-40	269-273	Data	_	
+2-41	274-276	or	_	
+2-42	277-282	Cloud	_	
+2-43	283-285	or	_	
+2-44	286-294	Mobility	_	
+2-45	295-305	developers	_	
+2-46	305-306	/	_	
+2-47	306-316	architects	_	
+2-48	316-317	,	_	
+2-49	318-320	we	_	
+2-50	321-325	have	_	
+2-51	326-330	them	_	
+2-52	331-338	all.Job	_	
+2-53	339-360	DescriptionExperience	_	
+2-54	361-371	developing	_	
+2-55	371-372	,	_	
+2-56	373-382	releasing	_	
+2-57	382-383	,	_	
+2-58	384-387	and	_	
+2-59	388-399	maintaining	_	
+2-60	400-406	native	_	
+2-61	407-411	Java	Hard Skill	
+2-62	412-424	applications	_	
+2-63	425-426	(	_	
+2-64	426-429	wed	_	
+2-65	430-434	like	_	
+2-66	435-437	to	_	
+2-67	438-441	see	_	
+2-68	442-446	what	_	
+2-69	447-452	youve	_	
+2-70	453-458	built	_	
+2-71	458-459	)	_	
+2-72	459-460	.	_	
+2-73	460-463	Own	_	
+2-74	464-467	the	_	
+2-75	468-475	Android	Hard Skill	
+2-76	476-487	Development	_	
+2-77	488-491	end	_	
+2-78	492-494	to	_	
+2-79	495-498	end	_	
+2-80	498-499	,	_	
+2-81	500-509	including	_	
+2-82	510-513	the	_	
+2-83	514-518	code	_	
+2-84	519-528	base.Deep	_	
+2-85	529-542	understanding	_	
+2-86	543-545	of	_	
+2-87	546-549	the	_	
+2-88	550-557	Android	Hard Skill	
+2-89	558-574	SDK.Demonstrated	_	
+2-90	575-582	ability	_	
+2-91	583-585	to	_	
+2-92	586-593	develop	_	
+2-93	594-601	quality	_	
+2-94	602-621	software.Experience	_	
+2-95	622-626	with	_	
+2-96	627-630	web	_	
+2-97	631-643	technologies	_	
+2-98	644-645	(	_	
+2-99	645-655	JavaScript	Hard Skill	
+2-100	655-656	,	_	
+2-101	657-660	CSS	Hard Skill	
+2-102	660-661	,	_	
+2-103	662-667	HTML5	Hard Skill	
+2-104	667-668	)	_	
+2-105	668-669	.	_	
+2-106	669-679	Experience	_	
+2-107	680-690	developing	_	
+2-108	691-698	testing	_	
+2-109	699-705	suites	_	
+2-110	706-709	for	_	
+2-111	710-716	mobile	_	
+2-112	717-739	applications.Requisite	_	
+2-113	740-751	engineering	_	
+2-114	752-754	or	_	
+2-115	755-763	computer	_	
+2-116	764-771	science	_	
+2-117	772-786	degrees.Strong	_	
+2-118	787-797	experience	_	
+2-119	798-802	with	_	
+2-120	803-814	Java.Strong	_	
+2-121	815-826	familiarity	_	
+2-122	827-831	with	_	
+2-123	832-839	Android	Hard Skill	
+2-124	840-843	SDK	_	
+2-125	844-854	frameworks	_	
+2-126	854-855	,	_	
+2-127	856-866	especially	_	
+2-128	867-873	KitKat	_	
+2-129	874-877	and	_	
+2-130	878-897	Lollipop.Experience	_	
+2-131	898-902	with	_	
+2-132	903-907	good	_	
+2-133	908-914	design	Hard Skill	
+2-134	915-924	practices	_	
+2-135	924-925	,	_	
+2-136	926-930	both	_	
+2-137	931-933	SW	_	
+2-138	934-946	architecture	_	
+2-139	946-947	,	_	
+2-140	948-951	and	_	
+2-141	952-958	visual	_	
+2-142	958-959	/	_	
+2-143	959-961	UI	_	
+2-144	962-990	design.QualificationsAndroid	_	
+2-145	991-994	SDK	_	
+2-146	994-995	,	_	
+2-147	995-1005	JavaScript	Hard Skill	
+2-148	1005-1006	,	_	
+2-149	1007-1010	CSS	Hard Skill	
+2-150	1010-1011	,	_	
+2-151	1012-1027	HTML5Additional	_	
+2-152	1028-1043	InformationOnly	_	
+2-153	1044-1046	GC	_	
+2-154	1046-1047	/	_	
+2-155	1047-1054	Citizen	_	
+2-156	1055-1058	Own	_	
+2-157	1059-1062	the	_	
+2-158	1063-1070	Android	Hard Skill	
+2-159	1071-1082	Development	_	
+2-160	1083-1086	end	_	
+2-161	1087-1089	to	_	
+2-162	1090-1093	end	_	
+2-163	1093-1094	,	_	
+2-164	1095-1104	including	_	
+2-165	1105-1108	the	_	
+2-166	1109-1113	code	_	
+2-167	1114-1118	base	_	
+2-168	1119-1123	Deep	_	
+2-169	1124-1137	understanding	_	
+2-170	1138-1140	of	_	
+2-171	1141-1144	the	_	
+2-172	1145-1152	Android	Hard Skill	
+2-173	1153-1156	SDK	_	
+2-174	1157-1169	Demonstrated	_	
+2-175	1170-1177	ability	_	
+2-176	1178-1180	to	_	
+2-177	1181-1188	develop	_	
+2-178	1189-1196	quality	_	
+2-179	1197-1205	software	_	
+2-180	1206-1216	Experience	_	
+2-181	1217-1221	with	_	
+2-182	1222-1225	web	_	
+2-183	1226-1238	technologies	_	
+2-184	1239-1240	(	_	
+2-185	1240-1250	JavaScript	Hard Skill	
+2-186	1250-1251	,	_	
+2-187	1252-1255	CSS	Hard Skill	
+2-188	1255-1256	,	_	
+2-189	1257-1262	HTML5	Hard Skill	
+2-190	1262-1263	)	_	
+2-191	1264-1274	Experience	_	
+2-192	1275-1285	developing	_	
+2-193	1286-1293	testing	_	
+2-194	1294-1300	suites	_	
+2-195	1301-1304	for	_	
+2-196	1305-1311	mobile	_	
+2-197	1312-1324	applications	_	
+2-198	1325-1334	Requisite	_	
+2-199	1335-1346	engineering	_	
+2-200	1347-1349	or	_	
+2-201	1350-1358	computer	_	
+2-202	1359-1366	science	_	
+2-203	1367-1374	degrees	_	
+2-204	1375-1381	Strong	_	
+2-205	1382-1392	experience	_	
+2-206	1393-1397	with	_	
+2-207	1398-1402	Java	Hard Skill	
+2-208	1403-1409	Strong	_	
+2-209	1410-1421	familiarity	_	
+2-210	1422-1426	with	_	
+2-211	1427-1434	Android	Hard Skill	
+2-212	1435-1438	SDK	_	
+2-213	1439-1449	frameworks	_	
+2-214	1449-1450	,	_	
+2-215	1451-1461	especially	_	
+2-216	1462-1468	KitKat	_	
+2-217	1469-1472	and	_	
+2-218	1473-1481	Lollipop	_	
+2-219	1482-1492	Experience	_	
+2-220	1493-1497	with	_	
+2-221	1498-1502	good	_	
+2-222	1503-1509	design	Hard Skill	
+2-223	1510-1519	practices	_	
+2-224	1519-1520	,	_	
+2-225	1521-1525	both	_	
+2-226	1526-1528	SW	_	
+2-227	1529-1541	architecture	_	
+2-228	1541-1542	,	_	
+2-229	1543-1546	and	_	
+2-230	1547-1553	visual	_	
+2-231	1553-1554	/	_	
+2-232	1554-1556	UI	_	
+2-233	1557-1563	design	Hard Skill	
+2-234	1564-1571	Android	Hard Skill	
+2-235	1572-1575	SDK	_	
+2-236	1575-1576	,	_	
+2-237	1576-1586	JavaScript	Hard Skill	
+2-238	1586-1587	,	_	
+2-239	1588-1591	CSS	Hard Skill	
+2-240	1591-1592	,	_	
+2-241	1593-1598	HTML5	Hard Skill	
+2-242	1599-1609	Experience	_	
+2-243	1610-1620	developing	_	
+2-244	1620-1621	,	_	
+2-245	1622-1631	releasing	_	
+2-246	1631-1632	,	_	
+2-247	1633-1636	and	_	
+2-248	1637-1648	maintaining	_	
+2-249	1649-1655	native	_	
+2-250	1656-1660	Java	Hard Skill	
+2-251	1661-1673	applications	_	
+2-252	1674-1675	(	_	
+2-253	1675-1678	wed	_	
+2-254	1679-1683	like	_	
+2-255	1684-1686	to	_	
+2-256	1687-1690	see	_	
+2-257	1691-1695	what	_	
+2-258	1696-1701	youve	_	
+2-259	1702-1707	built	_	
+2-260	1707-1708	)	_	

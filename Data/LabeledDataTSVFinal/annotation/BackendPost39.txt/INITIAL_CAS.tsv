@@ -1,0 +1,213 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsibilities: Design and build solutions for complex business workflows.
+1-1	0-16	Responsibilities	
+1-2	16-17	:	
+1-3	18-24	Design	
+1-4	25-28	and	
+1-5	29-34	build	
+1-6	35-44	solutions	
+1-7	45-48	for	
+1-8	49-56	complex	
+1-9	57-65	business	
+1-10	66-75	workflows	
+1-11	75-76	.	
+
+#Text=Understanding the user persona and deliver a slick experience.
+2-1	77-90	Understanding	
+2-2	91-94	the	
+2-3	95-99	user	
+2-4	100-107	persona	
+2-5	108-111	and	
+2-6	112-119	deliver	
+2-7	120-121	a	
+2-8	122-127	slick	
+2-9	128-138	experience	
+2-10	138-139	.	
+
+#Text=Take end to end ownership of components and be responsible for the subsystems that you work on from design, code, testing, integration, deployment, enhancements, etc.
+3-1	140-144	Take	
+3-2	145-148	end	
+3-3	149-151	to	
+3-4	152-155	end	
+3-5	156-165	ownership	
+3-6	166-168	of	
+3-7	169-179	components	
+3-8	180-183	and	
+3-9	184-186	be	
+3-10	187-198	responsible	
+3-11	199-202	for	
+3-12	203-206	the	
+3-13	207-217	subsystems	
+3-14	218-222	that	
+3-15	223-226	you	
+3-16	227-231	work	
+3-17	232-234	on	
+3-18	235-239	from	
+3-19	240-246	design	
+3-20	246-247	,	
+3-21	248-252	code	
+3-22	252-253	,	
+3-23	254-261	testing	
+3-24	261-262	,	
+3-25	263-274	integration	
+3-26	274-275	,	
+3-27	276-286	deployment	
+3-28	286-287	,	
+3-29	288-300	enhancements	
+3-30	300-301	,	
+3-31	302-305	etc	
+3-32	305-306	.	
+
+#Text=Write high-quality code and take responsibility for their task.
+4-1	307-312	Write	
+4-2	313-325	high-quality	
+4-3	326-330	code	
+4-4	331-334	and	
+4-5	335-339	take	
+4-6	340-354	responsibility	
+4-7	355-358	for	
+4-8	359-364	their	
+4-9	365-369	task	
+4-10	369-370	.	
+
+#Text=Communicate and collaborate... with management, product, QA, UI/UX teams.
+5-1	371-382	Communicate	
+5-2	383-386	and	
+5-3	387-398	collaborate	
+5-4	398-399	.	
+5-5	399-400	.	
+5-6	400-401	.	
+5-7	402-406	with	
+5-8	407-417	management	
+5-9	417-418	,	
+5-10	419-426	product	
+5-11	426-427	,	
+5-12	428-430	QA	
+5-13	430-431	,	
+5-14	432-434	UI	
+5-15	434-435	/	
+5-16	435-437	UX	
+5-17	438-443	teams	
+5-18	443-444	.	
+
+#Text=Deliver with quality, on-time in a fast-paced start-up environment.Key Skills: Python.
+6-1	445-452	Deliver	
+6-2	453-457	with	
+6-3	458-465	quality	
+6-4	465-466	,	
+6-5	467-474	on-time	
+6-6	475-477	in	
+6-7	478-479	a	
+6-8	480-490	fast-paced	
+6-9	491-499	start-up	
+6-10	500-515	environment.Key	
+6-11	516-522	Skills	
+6-12	522-523	:	
+6-13	524-530	Python	
+6-14	530-531	.	
+
+#Text=Java.
+7-1	532-536	Java	
+7-2	536-537	.	
+
+#Text=PHP.
+8-1	538-541	PHP	
+8-2	541-542	.	
+
+#Text=SQL.
+9-1	543-546	SQL	
+9-2	546-547	.	
+
+#Text=HTML.
+10-1	548-552	HTML	
+10-2	552-553	.	
+
+#Text=CSS Java PHP Responsibilities: Design and build solutions for complex business workflows Understanding the user persona and deliver a slick experience Take end to end ownership of components and be responsible for the subsystems that you work on from design, code, testing, integration, deployment, enhancements, etc Write high-quality code and take responsibility for their task Communicate and collaborate with management, product, QA, UI/UX teams Deliver with quality, on-time in a fast-paced start-up environment
+11-1	554-557	CSS	
+11-2	558-562	Java	
+11-3	563-566	PHP	
+11-4	567-583	Responsibilities	
+11-5	583-584	:	
+11-6	585-591	Design	
+11-7	592-595	and	
+11-8	596-601	build	
+11-9	602-611	solutions	
+11-10	612-615	for	
+11-11	616-623	complex	
+11-12	624-632	business	
+11-13	633-642	workflows	
+11-14	643-656	Understanding	
+11-15	657-660	the	
+11-16	661-665	user	
+11-17	666-673	persona	
+11-18	674-677	and	
+11-19	678-685	deliver	
+11-20	686-687	a	
+11-21	688-693	slick	
+11-22	694-704	experience	
+11-23	705-709	Take	
+11-24	710-713	end	
+11-25	714-716	to	
+11-26	717-720	end	
+11-27	721-730	ownership	
+11-28	731-733	of	
+11-29	734-744	components	
+11-30	745-748	and	
+11-31	749-751	be	
+11-32	752-763	responsible	
+11-33	764-767	for	
+11-34	768-771	the	
+11-35	772-782	subsystems	
+11-36	783-787	that	
+11-37	788-791	you	
+11-38	792-796	work	
+11-39	797-799	on	
+11-40	800-804	from	
+11-41	805-811	design	
+11-42	811-812	,	
+11-43	813-817	code	
+11-44	817-818	,	
+11-45	819-826	testing	
+11-46	826-827	,	
+11-47	828-839	integration	
+11-48	839-840	,	
+11-49	841-851	deployment	
+11-50	851-852	,	
+11-51	853-865	enhancements	
+11-52	865-866	,	
+11-53	867-870	etc	
+11-54	871-876	Write	
+11-55	877-889	high-quality	
+11-56	890-894	code	
+11-57	895-898	and	
+11-58	899-903	take	
+11-59	904-918	responsibility	
+11-60	919-922	for	
+11-61	923-928	their	
+11-62	929-933	task	
+11-63	934-945	Communicate	
+11-64	946-949	and	
+11-65	950-961	collaborate	
+11-66	962-966	with	
+11-67	967-977	management	
+11-68	977-978	,	
+11-69	979-986	product	
+11-70	986-987	,	
+11-71	988-990	QA	
+11-72	990-991	,	
+11-73	992-994	UI	
+11-74	994-995	/	
+11-75	995-997	UX	
+11-76	998-1003	teams	
+11-77	1004-1011	Deliver	
+11-78	1012-1016	with	
+11-79	1017-1024	quality	
+11-80	1024-1025	,	
+11-81	1026-1033	on-time	
+11-82	1034-1036	in	
+11-83	1037-1038	a	
+11-84	1039-1049	fast-paced	
+11-85	1050-1058	start-up	
+11-86	1059-1070	environment	

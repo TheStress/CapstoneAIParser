@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Responsibilities:  Apply mobile application expertise on the iOS platform to improve cust ...
+1-1	0-16	Responsibilities	
+1-2	16-17	:	
+1-3	19-24	Apply	
+1-4	25-31	mobile	
+1-5	32-43	application	
+1-6	44-53	expertise	
+1-7	54-56	on	
+1-8	57-60	the	
+1-9	61-64	iOS	
+1-10	65-73	platform	
+1-11	74-76	to	
+1-12	77-84	improve	
+1-13	85-89	cust	
+1-14	90-91	.	
+1-15	91-92	.	
+1-16	92-93	.	
+
+#Text=Apply mobile application expertise on the iOS platform to improve cust ..
+2-1	94-99	Apply	
+2-2	100-106	mobile	
+2-3	107-118	application	
+2-4	119-128	expertise	
+2-5	129-131	on	
+2-6	132-135	the	
+2-7	136-139	iOS	
+2-8	140-148	platform	
+2-9	149-151	to	
+2-10	152-159	improve	
+2-11	160-164	cust	
+2-12	165-166	.	
+2-13	166-167	.	

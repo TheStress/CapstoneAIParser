@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Sr.Java Developer - Back EndLOCATION: Phoenix, AZ...Looking for Back End Java Developers (80% coding in this role)Java, Java 8Spring frameworkSpring boot,Mongo DB,Micro Services,Security and Authentication (OAuth 2.0 authentication)Design patterns,KafkaGCP/Azure Public cloud,Kubernetes and docker - Container OrchestrationE2E Solutioning and architecture,CI/CD orchestration tools: Jenkins, Maven, Gradle, GitHub Actions, uDeploy, unit, TestNG, Test Driven Development (TDD)Behavioral Driven Development (BDD): Cucumber/GherkinFully hands-onJob ID: JOB-225453Publish Date: 28 Apr 2023by Jobble CI/CD orchestration tools: Jenkins, Maven, Gradle, GitHub Actions, uDeploy, unit, TestNG, Test Driven Development (TDD) Behavioral Driven Development (BDD): Cucumber/Gherkin
+1-1	0-7	Sr.Java	_	
+1-2	8-17	Developer	_	
+1-3	18-19	-	_	
+1-4	20-24	Back	_	
+1-5	25-36	EndLOCATION	_	
+1-6	36-37	:	_	
+1-7	38-45	Phoenix	_	
+1-8	45-46	,	_	
+1-9	47-49	AZ	_	
+1-10	49-50	.	_	
+1-11	50-51	.	_	
+1-12	51-52	.	_	
+1-13	52-59	Looking	_	
+1-14	60-63	for	_	
+1-15	64-68	Back	_	
+1-16	69-72	End	_	
+1-17	73-77	Java	Hard Skill	
+1-18	78-88	Developers	_	
+1-19	89-90	(	_	
+1-20	90-93	80%	_	
+1-21	94-100	coding	Hard Skill	
+1-22	101-103	in	_	
+1-23	104-108	this	_	
+1-24	109-113	role	_	
+1-25	113-114	)	_	
+1-26	114-118	Java	Hard Skill	
+1-27	118-119	,	_	
+1-28	120-124	Java	Hard Skill	
+1-29	125-132	8Spring	_	
+1-30	133-148	frameworkSpring	_	
+1-31	149-153	boot	_	
+1-32	153-154	,	_	
+1-33	154-159	Mongo	_	
+1-34	160-162	DB	_	
+1-35	162-163	,	_	
+1-36	163-168	Micro	_	
+1-37	169-177	Services	_	
+1-38	177-178	,	_	
+1-39	178-186	Security	_	
+1-40	187-190	and	_	
+1-41	191-205	Authentication	_	
+1-42	206-207	(	_	
+1-43	207-212	OAuth	_	
+1-44	213-216	2.0	_	
+1-45	217-231	authentication	_	
+1-46	231-232	)	_	
+1-47	232-238	Design	Hard Skill	
+1-48	239-247	patterns	_	
+1-49	247-248	,	_	
+1-50	248-256	KafkaGCP	_	
+1-51	256-257	/	_	
+1-52	257-262	Azure	Hard Skill	
+1-53	263-269	Public	_	
+1-54	270-275	cloud	_	
+1-55	275-276	,	_	
+1-56	276-286	Kubernetes	Hard Skill	
+1-57	287-290	and	_	
+1-58	291-297	docker	_	
+1-59	298-299	-	_	
+1-60	300-309	Container	_	
+1-61	310-326	OrchestrationE2E	_	
+1-62	327-338	Solutioning	_	
+1-63	339-342	and	_	
+1-64	343-355	architecture	_	
+1-65	355-356	,	_	
+1-66	356-358	CI	_	
+1-67	358-359	/	_	
+1-68	359-361	CD	_	
+1-69	362-375	orchestration	_	
+1-70	376-381	tools	_	
+1-71	381-382	:	_	
+1-72	383-390	Jenkins	Hard Skill	
+1-73	390-391	,	_	
+1-74	392-397	Maven	_	
+1-75	397-398	,	_	
+1-76	399-405	Gradle	_	
+1-77	405-406	,	_	
+1-78	407-413	GitHub	Hard Skill	
+1-79	414-421	Actions	_	
+1-80	421-422	,	_	
+1-81	423-430	uDeploy	_	
+1-82	430-431	,	_	
+1-83	432-436	unit	_	
+1-84	436-437	,	_	
+1-85	438-444	TestNG	Hard Skill	
+1-86	444-445	,	_	
+1-87	446-450	Test	_	
+1-88	451-457	Driven	_	
+1-89	458-469	Development	_	
+1-90	470-471	(	_	
+1-91	471-474	TDD	_	
+1-92	474-475	)	_	
+1-93	475-485	Behavioral	_	
+1-94	486-492	Driven	_	
+1-95	493-504	Development	_	
+1-96	505-506	(	_	
+1-97	506-509	BDD	_	
+1-98	509-510	)	_	
+1-99	510-511	:	_	
+1-100	512-520	Cucumber	_	
+1-101	520-521	/	_	
+1-102	521-533	GherkinFully	_	
+1-103	534-545	hands-onJob	_	
+1-104	546-548	ID	_	
+1-105	548-549	:	_	
+1-106	550-553	JOB	_	
+1-107	553-554	-	_	
+1-108	554-567	225453Publish	_	
+1-109	568-572	Date	_	
+1-110	572-573	:	_	
+1-111	574-576	28	_	
+1-112	577-580	Apr	_	
+1-113	581-587	2023by	_	
+1-114	588-594	Jobble	_	
+1-115	595-597	CI	_	
+1-116	597-598	/	_	
+1-117	598-600	CD	_	
+1-118	601-614	orchestration	_	
+1-119	615-620	tools	_	
+1-120	620-621	:	_	
+1-121	622-629	Jenkins	Hard Skill	
+1-122	629-630	,	_	
+1-123	631-636	Maven	_	
+1-124	636-637	,	_	
+1-125	638-644	Gradle	_	
+1-126	644-645	,	_	
+1-127	646-652	GitHub	Hard Skill	
+1-128	653-660	Actions	_	
+1-129	660-661	,	_	
+1-130	662-669	uDeploy	_	
+1-131	669-670	,	_	
+1-132	671-675	unit	_	
+1-133	675-676	,	_	
+1-134	677-683	TestNG	Hard Skill	
+1-135	683-684	,	_	
+1-136	685-689	Test	_	
+1-137	690-696	Driven	_	
+1-138	697-708	Development	_	
+1-139	709-710	(	_	
+1-140	710-713	TDD	_	
+1-141	713-714	)	_	
+1-142	715-725	Behavioral	_	
+1-143	726-732	Driven	_	
+1-144	733-744	Development	_	
+1-145	745-746	(	_	
+1-146	746-749	BDD	_	
+1-147	749-750	)	_	
+1-148	750-751	:	_	
+1-149	752-760	Cucumber	_	
+1-150	760-761	/	_	
+1-151	761-768	Gherkin	_	

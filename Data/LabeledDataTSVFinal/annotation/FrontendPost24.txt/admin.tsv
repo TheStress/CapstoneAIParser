@@ -1,0 +1,341 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+
+
+#Text=Description of our Front End Developer Opportunity:We are looking for a Front End Developer experienced with JavaScript and comfortable working with React, who is motivated to combine the art of design with the art of programming.
+1-1	0-11	Description	_	
+1-2	12-14	of	_	
+1-3	15-18	our	_	
+1-4	19-24	Front	_	
+1-5	25-28	End	_	
+1-6	29-38	Developer	_	
+1-7	39-50	Opportunity	_	
+1-8	50-51	:	_	
+1-9	51-53	We	_	
+1-10	54-57	are	_	
+1-11	58-65	looking	_	
+1-12	66-69	for	_	
+1-13	70-71	a	_	
+1-14	72-77	Front	_	
+1-15	78-81	End	_	
+1-16	82-91	Developer	_	
+1-17	92-103	experienced	_	
+1-18	104-108	with	_	
+1-19	109-119	JavaScript	Hard Skill	
+1-20	120-123	and	_	
+1-21	124-135	comfortable	_	
+1-22	136-143	working	_	
+1-23	144-148	with	_	
+1-24	149-154	React	Hard Skill	
+1-25	154-155	,	_	
+1-26	156-159	who	_	
+1-27	160-162	is	_	
+1-28	163-172	motivated	_	
+1-29	173-175	to	_	
+1-30	176-183	combine	_	
+1-31	184-187	the	_	
+1-32	188-191	art	_	
+1-33	192-194	of	_	
+1-34	195-201	design	Hard Skill	
+1-35	202-206	with	_	
+1-36	207-210	the	_	
+1-37	211-214	art	_	
+1-38	215-217	of	_	
+1-39	218-229	programming	Hard Skill	
+1-40	229-230	.	_	
+
+#Text=You will work with both front-end and back-end web developers to build all client-side logic.
+2-1	231-234	You	_	
+2-2	235-239	will	_	
+2-3	240-244	work	_	
+2-4	245-249	with	_	
+2-5	250-254	both	_	
+2-6	255-264	front-end	_	
+2-7	265-268	and	_	
+2-8	269-277	back-end	_	
+2-9	278-281	web	_	
+2-10	282-292	developers	_	
+2-11	293-295	to	_	
+2-12	296-301	build	_	
+2-13	302-305	all	_	
+2-14	306-317	client-side	_	
+2-15	318-323	logic	_	
+2-16	323-324	.	_	
+
+#Text=As a Front End Developer, you will take an active role in creation of... visual elements to define how the application looks and functions using Preact, Redux, and React Native within our SaaS applications.
+3-1	325-327	As	_	
+3-2	328-329	a	_	
+3-3	330-335	Front	_	
+3-4	336-339	End	_	
+3-5	340-349	Developer	_	
+3-6	349-350	,	_	
+3-7	351-354	you	_	
+3-8	355-359	will	_	
+3-9	360-364	take	_	
+3-10	365-367	an	_	
+3-11	368-374	active	_	
+3-12	375-379	role	_	
+3-13	380-382	in	_	
+3-14	383-391	creation	_	
+3-15	392-394	of	_	
+3-16	394-395	.	_	
+3-17	395-396	.	_	
+3-18	396-397	.	_	
+3-19	398-404	visual	_	
+3-20	405-413	elements	_	
+3-21	414-416	to	_	
+3-22	417-423	define	_	
+3-23	424-427	how	_	
+3-24	428-431	the	_	
+3-25	432-443	application	_	
+3-26	444-449	looks	_	
+3-27	450-453	and	_	
+3-28	454-463	functions	_	
+3-29	464-469	using	_	
+3-30	470-476	Preact	_	
+3-31	476-477	,	_	
+3-32	478-483	Redux	_	
+3-33	483-484	,	_	
+3-34	485-488	and	_	
+3-35	489-494	React	Hard Skill	
+3-36	495-501	Native	_	
+3-37	502-508	within	_	
+3-38	509-512	our	_	
+3-39	513-517	SaaS	_	
+3-40	518-530	applications	_	
+3-41	530-531	.	_	
+
+#Text=The qualified candidate will have at least 4 years experience developing JavaScript applications and some professional experience with React or equivalent.Compensation is commensurate with experience and market value, with paid benefits and annual merit bonus.Perks for our Front End Developer: Great Flexibility!
+4-1	532-535	The	_	
+4-2	536-545	qualified	_	
+4-3	546-555	candidate	_	
+4-4	556-560	will	_	
+4-5	561-565	have	_	
+4-6	566-568	at	_	
+4-7	569-574	least	_	
+4-8	575-576	4	_	
+4-9	577-582	years	_	
+4-10	583-593	experience	_	
+4-11	594-604	developing	_	
+4-12	605-615	JavaScript	Hard Skill	
+4-13	616-628	applications	_	
+4-14	629-632	and	_	
+4-15	633-637	some	_	
+4-16	638-650	professional	_	
+4-17	651-661	experience	_	
+4-18	662-666	with	_	
+4-19	667-672	React	Hard Skill	
+4-20	673-675	or	_	
+4-21	676-699	equivalent.Compensation	_	
+4-22	700-702	is	_	
+4-23	703-715	commensurate	_	
+4-24	716-720	with	_	
+4-25	721-731	experience	_	
+4-26	732-735	and	_	
+4-27	736-742	market	_	
+4-28	743-748	value	_	
+4-29	748-749	,	_	
+4-30	750-754	with	_	
+4-31	755-759	paid	_	
+4-32	760-768	benefits	_	
+4-33	769-772	and	_	
+4-34	773-779	annual	_	
+4-35	780-785	merit	_	
+4-36	786-797	bonus.Perks	_	
+4-37	798-801	for	_	
+4-38	802-805	our	_	
+4-39	806-811	Front	_	
+4-40	812-815	End	_	
+4-41	816-825	Developer	_	
+4-42	825-826	:	_	
+4-43	827-832	Great	_	
+4-44	833-844	Flexibility	_	
+4-45	844-845	!	_	
+
+#Text=Great Money!
+5-1	846-851	Great	_	
+5-2	852-857	Money	_	
+5-3	857-858	!	_	
+
+#Text=Great Benefits!
+6-1	859-864	Great	_	
+6-2	865-873	Benefits	_	
+6-3	873-874	!	_	
+
+#Text=Great Company Culture!
+7-1	875-880	Great	_	
+7-2	881-888	Company	_	
+7-3	889-896	Culture	_	
+7-4	896-897	!	_	
+
+#Text=Fun, People-Centric Team in Your Corner!
+8-1	898-901	Fun	_	
+8-2	901-902	,	_	
+8-3	903-917	People-Centric	_	
+8-4	918-922	Team	_	
+8-5	923-925	in	_	
+8-6	926-930	Your	_	
+8-7	931-937	Corner	_	
+8-8	937-938	!	_	
+
+#Text=Responsibilities of our Front End Developer: Develop user-facing features Build reusable components, code, and libraries Ensure the technical feasibility of UI/UX designs Optimize applications for maximum speed and scalability Assure that all user input is validated before submitting to back-end The qualified candidate will have at least 4 years experience developing JavaScript applications and some professional experience with React or equivalent You will work with both front-end and back-end web developers to build all client-side logic As a Front End Developer, you will take an active role in creation of visual elements to define how the application looks and functions using Preact, Redux, and React Native within our SaaS applications Compensation is commensurate with experience and market value, with paid benefits and annual merit bonus Perks for our Front End Developer: Great Flexibility!
+9-1	938-954	Responsibilities	_	
+9-2	955-957	of	_	
+9-3	958-961	our	_	
+9-4	962-967	Front	_	
+9-5	968-971	End	_	
+9-6	972-981	Developer	_	
+9-7	981-982	:	_	
+9-8	983-990	Develop	_	
+9-9	991-1002	user-facing	_	
+9-10	1003-1011	features	_	
+9-11	1012-1017	Build	_	
+9-12	1018-1026	reusable	_	
+9-13	1027-1037	components	_	
+9-14	1037-1038	,	_	
+9-15	1039-1043	code	_	
+9-16	1043-1044	,	_	
+9-17	1045-1048	and	_	
+9-18	1049-1058	libraries	_	
+9-19	1059-1065	Ensure	_	
+9-20	1066-1069	the	_	
+9-21	1070-1079	technical	_	
+9-22	1080-1091	feasibility	_	
+9-23	1092-1094	of	_	
+9-24	1095-1097	UI	_	
+9-25	1097-1098	/	_	
+9-26	1098-1100	UX	_	
+9-27	1101-1108	designs	_	
+9-28	1109-1117	Optimize	_	
+9-29	1118-1130	applications	_	
+9-30	1131-1134	for	_	
+9-31	1135-1142	maximum	_	
+9-32	1143-1148	speed	_	
+9-33	1149-1152	and	_	
+9-34	1153-1164	scalability	_	
+9-35	1165-1171	Assure	_	
+9-36	1172-1176	that	_	
+9-37	1177-1180	all	_	
+9-38	1181-1185	user	_	
+9-39	1186-1191	input	_	
+9-40	1192-1194	is	_	
+9-41	1195-1204	validated	_	
+9-42	1205-1211	before	_	
+9-43	1212-1222	submitting	_	
+9-44	1223-1225	to	_	
+9-45	1226-1234	back-end	_	
+9-46	1235-1238	The	_	
+9-47	1239-1248	qualified	_	
+9-48	1249-1258	candidate	_	
+9-49	1259-1263	will	_	
+9-50	1264-1268	have	_	
+9-51	1269-1271	at	_	
+9-52	1272-1277	least	_	
+9-53	1278-1279	4	_	
+9-54	1280-1285	years	_	
+9-55	1286-1296	experience	_	
+9-56	1297-1307	developing	_	
+9-57	1308-1318	JavaScript	Hard Skill	
+9-58	1319-1331	applications	_	
+9-59	1332-1335	and	_	
+9-60	1336-1340	some	_	
+9-61	1341-1353	professional	_	
+9-62	1354-1364	experience	_	
+9-63	1365-1369	with	_	
+9-64	1370-1375	React	Hard Skill	
+9-65	1376-1378	or	_	
+9-66	1379-1389	equivalent	_	
+9-67	1390-1393	You	_	
+9-68	1394-1398	will	_	
+9-69	1399-1403	work	_	
+9-70	1404-1408	with	_	
+9-71	1409-1413	both	_	
+9-72	1414-1423	front-end	_	
+9-73	1424-1427	and	_	
+9-74	1428-1436	back-end	_	
+9-75	1437-1440	web	_	
+9-76	1441-1451	developers	_	
+9-77	1452-1454	to	_	
+9-78	1455-1460	build	_	
+9-79	1461-1464	all	_	
+9-80	1465-1476	client-side	_	
+9-81	1477-1482	logic	_	
+9-82	1483-1485	As	_	
+9-83	1486-1487	a	_	
+9-84	1488-1493	Front	_	
+9-85	1494-1497	End	_	
+9-86	1498-1507	Developer	_	
+9-87	1507-1508	,	_	
+9-88	1509-1512	you	_	
+9-89	1513-1517	will	_	
+9-90	1518-1522	take	_	
+9-91	1523-1525	an	_	
+9-92	1526-1532	active	_	
+9-93	1533-1537	role	_	
+9-94	1538-1540	in	_	
+9-95	1541-1549	creation	_	
+9-96	1550-1552	of	_	
+9-97	1553-1559	visual	_	
+9-98	1560-1568	elements	_	
+9-99	1569-1571	to	_	
+9-100	1572-1578	define	_	
+9-101	1579-1582	how	_	
+9-102	1583-1586	the	_	
+9-103	1587-1598	application	_	
+9-104	1599-1604	looks	_	
+9-105	1605-1608	and	_	
+9-106	1609-1618	functions	_	
+9-107	1619-1624	using	_	
+9-108	1625-1631	Preact	_	
+9-109	1631-1632	,	_	
+9-110	1633-1638	Redux	_	
+9-111	1638-1639	,	_	
+9-112	1640-1643	and	_	
+9-113	1644-1649	React	Hard Skill	
+9-114	1650-1656	Native	_	
+9-115	1657-1663	within	_	
+9-116	1664-1667	our	_	
+9-117	1668-1672	SaaS	_	
+9-118	1673-1685	applications	_	
+9-119	1686-1698	Compensation	_	
+9-120	1699-1701	is	_	
+9-121	1702-1714	commensurate	_	
+9-122	1715-1719	with	_	
+9-123	1720-1730	experience	_	
+9-124	1731-1734	and	_	
+9-125	1735-1741	market	_	
+9-126	1742-1747	value	_	
+9-127	1747-1748	,	_	
+9-128	1749-1753	with	_	
+9-129	1754-1758	paid	_	
+9-130	1759-1767	benefits	_	
+9-131	1768-1771	and	_	
+9-132	1772-1778	annual	_	
+9-133	1779-1784	merit	_	
+9-134	1785-1790	bonus	_	
+9-135	1791-1796	Perks	_	
+9-136	1797-1800	for	_	
+9-137	1801-1804	our	_	
+9-138	1805-1810	Front	_	
+9-139	1811-1814	End	_	
+9-140	1815-1824	Developer	_	
+9-141	1824-1825	:	_	
+9-142	1826-1831	Great	_	
+9-143	1832-1843	Flexibility	_	
+9-144	1843-1844	!	_	
+
+#Text=Great Money!
+10-1	1845-1850	Great	_	
+10-2	1851-1856	Money	_	
+10-3	1856-1857	!	_	
+
+#Text=Great Benefits!
+11-1	1858-1863	Great	_	
+11-2	1864-1872	Benefits	_	
+11-3	1872-1873	!	_	
+
+#Text=Great Company Culture!
+12-1	1874-1879	Great	_	
+12-2	1880-1887	Company	_	
+12-3	1888-1895	Culture	_	
+12-4	1895-1896	!	_	
