@@ -1,6 +1,6 @@
 # CapstoneAIParser
 ## About
-This is the work from start to finish involved with training a Named Entity Classifier to extract the relavent keywords from job postings that an ATS system may use to filter out applicant resuems.
+This is the work from start to finish involved with training a Named Entity Classifier to extract the relavent keywords from job postings that an ATS system may use to filter out applicant resumes.
 
 ## Process and Technology
 1. serpAPI to gather job postings from Google Jobs
